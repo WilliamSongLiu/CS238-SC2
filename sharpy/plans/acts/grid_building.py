@@ -173,6 +173,7 @@ class GridBuilding(ActBuilding):
                         await self.build_terran(worker, count, position)
                     else:
                         await self.build_zerg(worker, count, position)
+                    self.print(f"Building {self.unit_type.name} at {position}")
                 return False
 
             if self.priority and wait_time < time:

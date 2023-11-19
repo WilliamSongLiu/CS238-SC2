@@ -211,6 +211,14 @@ class UnitCacheManager(ManagerBase, IUnitCache):
 
         self._enemy_workers = self.enemy([UnitTypeId.SCV, UnitTypeId.PROBE, UnitTypeId.DRONE])
 
+        own_tally = {}
+        for unit in self.all_own:
+            if unit.name not in own_tally:
+                own_tally[unit.name] = 0
+            own_tally[unit.name] += 1
+        print(f"unit_cache_manager {own_tally}")
+
+
     async def post_update(self):
         if self.debug:
             for mf in self._mineral_wall:

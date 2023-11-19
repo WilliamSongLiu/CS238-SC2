@@ -1,0 +1,4 @@
+{
+    "python.autoComplete.extraPaths": ["sharpy-sc2", "sharpy-sc2/python-sc2"],
+    "python.analysis.extraPaths": ["sharpy-sc2", "sharpy-sc2/python-sc2"]
+}
