@@ -116,6 +116,13 @@ class EnemyUnitsManager(ManagerBase, IEnemyUnitsManager):
 
         self.re_adjust_morphs(types_check)
 
+        enemy_tally = {}
+        for unit in self.ai.all_enemy_units:
+            if unit.name not in enemy_tally:
+                enemy_tally[unit.name] = 0
+            enemy_tally[unit.name] += 1
+        print(f"enemy_units_manager {enemy_tally}")
+
     @property
     def enemy_cloak_trigger(self):
         return self._enemy_cloak_trigger
