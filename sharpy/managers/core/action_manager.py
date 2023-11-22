@@ -157,6 +157,8 @@ class ActionManager(ManagerBase):
         target = action.target
         if self.allow_action(unit, action.ability, target):
             self.action_made(action)
+            print("ACTION MADE")
+            print(f"Action: {action}")
             return True
         return False
 

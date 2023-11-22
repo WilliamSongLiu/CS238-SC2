@@ -216,7 +216,7 @@ class UnitCacheManager(ManagerBase, IUnitCache):
             if unit.name not in own_tally:
                 own_tally[unit.name] = 0
             own_tally[unit.name] += 1
-        print(f"unit_cache_manager {own_tally}")
+        print(f"unit_cache_manager {sorted(own_tally.items())}")
 
 
     async def post_update(self):
