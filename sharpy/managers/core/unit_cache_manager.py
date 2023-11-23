@@ -16,6 +16,9 @@ from sc2.ids.unit_typeid import UnitTypeId
 from sc2.unit import Unit
 from typing import TYPE_CHECKING
 
+import csv
+import os
+
 if TYPE_CHECKING:
     from sharpy.knowledges import Knowledge
 
@@ -217,6 +220,24 @@ class UnitCacheManager(ManagerBase, IUnitCache):
                 own_tally[unit.name] = 0
             own_tally[unit.name] += 1
         print(f"unit_cache_manager {own_tally}")
+        self.update_csv(own_tally)
+
+    def update_csv(self, own_tally):
+        file_name = 'datatest2.csv'
+
+        # Check if file exists
+        file_exists = os.path.isfile(file_name)
+
+        # Open the file in append mode
+        with open(file_name, 'a' if file_exists else 'w', newline='') as file:
+            writer = csv.DictWriter(file, fieldnames=own_tally.keys())
+
+            # Write the header only if the file is new/empty
+            if not file_exists:
+                writer.writeheader()
+
+            # Write the row
+            writer.writerow(own_tally)
 
 
     async def post_update(self):
