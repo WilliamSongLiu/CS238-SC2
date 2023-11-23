@@ -235,7 +235,7 @@ class UnitCacheManager(ManagerBase, IUnitCache):
             # Write the header only if the file is new/empty
             if not file_exists:
                 writer.writeheader()
-
+                
             # Write the row
             writer.writerow(own_tally)
 
