@@ -91,22 +91,25 @@ class ActUnit(ActBase):
         unit_data = self.ai._game_data.units[self.unit_type.value]
         cost = self.ai._game_data.calculate_ability_cost(unit_data.creation_ability)
 
-        if self.builders.ready.exists and self.knowledge.can_afford(unit_data.creation_ability):
-            for builder in self.builders.ready:
-                if self.has_order_ready(builder) and not builder.is_flying:
-                    if builder.tag in self.ai.unit_tags_received_action:
-                        # Skip to next builder
-                        continue
+        if self.builders.ready.exists:
+            print(f"ACTION WANTED: TRAIN {self.unit_type.name}")
+            if self.knowledge.can_afford(unit_data.creation_ability):
+                for builder in self.builders.ready:
+                    if self.has_order_ready(builder) and not builder.is_flying:
+                        if builder.tag in self.ai.unit_tags_received_action:
+                            # Skip to next builder
+                            continue
 
-                    if self.knowledge.cooldown_manager.is_ready(builder.tag, unit_data.creation_ability.id):
-                        if builder.train(self.unit_type):
-                            pos_formatted = f"({builder.position.x:.1f}, {builder.position.y:.1f})"
-                            self.print(f"{self.unit_type.name} from {self.from_building.name} at {pos_formatted}")
-                            return False  # Only one at a time
+                        if self.knowledge.cooldown_manager.is_ready(builder.tag, unit_data.creation_ability.id):
+                            if builder.train(self.unit_type):
+                                pos_formatted = f"({builder.position.x:.1f}, {builder.position.y:.1f})"
+                                self.print(f"{self.unit_type.name} from {self.from_building.name} at {pos_formatted}")
+                                print(f"ACTION MADE: TRAIN {self.unit_type.name}")
+                                return False  # Only one at a time
 
-            if self.priority:
-                # No available builders, reserve cost to avoid starving priority task.
-                self.knowledge.reserve(cost.minerals, cost.vespene)
+                if self.priority:
+                    # No available builders, reserve cost to avoid starving priority task.
+                    self.knowledge.reserve(cost.minerals, cost.vespene)
 
         elif self.priority:
             unit_data = self.ai._game_data.units[self.unit_type.value]

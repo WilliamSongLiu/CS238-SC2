@@ -219,7 +219,7 @@ class UnitCacheManager(ManagerBase, IUnitCache):
             if unit.name not in own_tally:
                 own_tally[unit.name] = 0
             own_tally[unit.name] += 1
-        print(f"unit_cache_manager {own_tally}")
+        print(f"MY UNITS: {own_tally}")
         self.update_csv(own_tally)
 
     def update_csv(self, own_tally):

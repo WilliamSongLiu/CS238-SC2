@@ -101,22 +101,25 @@ class BuildGas(ActBase):
             self.builder_tag = None
 
     async def build_gas(self, worker: Unit):
-        if self.best_gas is not None and self.knowledge.can_afford(self.unit_type):
-            target = self.best_gas
+        if self.best_gas is not None:
+            print(f"ACTION WANTED: BUILD {self.unit_type.name}")
+            if self.knowledge.can_afford(self.unit_type):
+                target = self.best_gas
 
-            if not self.set_worker(worker):
-                return False
+                if not self.set_worker(worker):
+                    return False
 
-            self.builder_tag = worker.tag
+                self.builder_tag = worker.tag
 
-            worker.build_gas(target, queue=self.has_build_order(worker))
+                worker.build_gas(target, queue=self.has_build_order(worker))
 
-            if self.ai.race == Race.Protoss:
-                # Protoss only do something else after starting gas
-                mf = self.ai.mineral_field.closest_to(worker)
-                worker.gather(mf, queue=True)
+                if self.ai.race == Race.Protoss:
+                    # Protoss only do something else after starting gas
+                    mf = self.ai.mineral_field.closest_to(worker)
+                    worker.gather(mf, queue=True)
 
-            self.print(f"Building {self.unit_type.name} to {target.position}")
+                self.print(f"Building {self.unit_type.name} to {target.position}")
+                print(f"ACTION MADE: BUILD {self.unit_type.name}")
         return False
 
     def set_worker(self, worker: Optional[Unit]) -> bool:

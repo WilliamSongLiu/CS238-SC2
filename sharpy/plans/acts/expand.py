@@ -120,6 +120,7 @@ class Expand(ActBase):
                 return True
 
         if expand_now:
+            print(f"ACTION WANTED: BUILD {self.townhall_type.name}")
             if self.ai.can_afford(self.townhall_type):
                 if await self.build_expansion(expand_here):
                     return False
@@ -185,6 +186,7 @@ class Expand(ActBase):
 
         if worker is not None:
             self.print(f"Expanding to {expand_here.center_location}")
+            print(f"ACTION MADE: BUILD {self.townhall_type.name}")
             worker.build(self.townhall_type, expand_here.center_location)
             return True
         return False

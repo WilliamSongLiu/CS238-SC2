@@ -29,7 +29,8 @@ class ManagerBase(ABC, Component):
         pass
 
     def print(self, msg: string, stats: bool = True, log_level=logging.INFO):
-        self.knowledge.print(msg, type(self).__name__, stats, log_level)
+        # self.knowledge.print(msg, type(self).__name__, stats, log_level)
+        pass
 
     async def on_end(self, game_result: Result):
         pass

@@ -130,7 +130,8 @@ class GridBuilding(ActBuilding):
                 self.make_pylon.to_count = len(self.cache.own(UnitTypeId.PYLON).ready) + 1
                 await self.make_pylon.execute()
             else:
-                self.print(f"Can't find free position to build {self.unit_type.name} in!")
+                # self.print(f"Can't find free position to build {self.unit_type.name} in!")
+                pass
             return False  # Stuck and cannot proceed
 
         worker = self.get_worker_builder(position, self.builder_tag, self.only_roles)  # type: Unit
@@ -140,7 +141,7 @@ class GridBuilding(ActBuilding):
             return False  # Cannot proceed
 
         if self.worker_stuck.need_new_worker(worker, self.ai.time, position, self.knowledge.iteration):
-            self.print(f"Worker {worker.tag} was found stuck!")
+            # self.print(f"Worker {worker.tag} was found stuck!")
             self.roles.set_task(UnitTask.Reserved, worker)  # Set temp reserved for the stuck worker.
             worker = self.get_worker_builder(position, None, self.only_roles)
 
@@ -162,6 +163,7 @@ class GridBuilding(ActBuilding):
 
         adjusted_income = self.income_calculator.mineral_income * 0.93  # 14 / 15 = 0.933333
 
+        print(f"ACTION WANTED: BUILD {self.unit_type.name}")
         if self.knowledge.can_afford(self.unit_type, check_supply_cost=False):
             if wait_time <= 0:
                 self.set_worker(worker)
@@ -174,6 +176,7 @@ class GridBuilding(ActBuilding):
                     else:
                         await self.build_zerg(worker, count, position)
                     self.print(f"Building {self.unit_type.name} at {position}")
+                    print(f"ACTION MADE: BUILD {self.unit_type.name}")
                 return False
 
             if self.priority and wait_time < time:

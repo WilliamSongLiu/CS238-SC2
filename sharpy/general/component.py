@@ -70,7 +70,8 @@ class Component:
         self.cd_manager = knowledge.cooldown_manager
 
     def print(self, msg: str, stats: bool = True):
-        self.knowledge.print(msg, type(self).__name__, stats)
+        # self.knowledge.print(msg, type(self).__name__, stats)
+        pass
 
     async def start_component(self, component: "Component", knowledge: "Knowledge"):
         component.parent_key = self.key
