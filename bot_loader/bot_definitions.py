@@ -245,6 +245,7 @@ class BotDefinitions:
         self, bot_dict: Dict[str, Tuple[Optional[Callable[[List[str]], AbstractPlayer]], Optional[LadderZip]]]
     ):
         bots: List[DummyBuilder] = [
+            DummyBuilder("explore", "CS238Explore", Race.Protoss, "cs238_explore.py", CS238Explore),
             # Protoss
             DummyBuilder("4gate", "SharpRush", Race.Protoss, "gate4.py", Stalkers4Gate),
             DummyBuilder("adept", "SharpShades", Race.Protoss, "adept_allin.py", AdeptRush),

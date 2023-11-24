@@ -10,7 +10,7 @@ from sharpy.plans.require import *
 from sharpy.plans.tactics import *
 
 
-class MacroStalkers(KnowledgeBot):
+class CS238Explore(KnowledgeBot):
     def __init__(self):
         super().__init__("CS 238 Explore")
 
@@ -60,7 +60,7 @@ class MacroStalkers(KnowledgeBot):
         )
 
 
-class LadderBot(MacroStalkers):
+class LadderBot(CS238Explore):
     @property
     def my_race(self):
         return Race.Protoss
