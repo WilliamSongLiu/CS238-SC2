@@ -32,5 +32,6 @@ class ActManager(ManagerBase, IPostStart):
         await self._act.execute()
 
     async def post_update(self):
+        print("") # break after every state update
         if self.knowledge.debug:
             await self._act.debug_draw()

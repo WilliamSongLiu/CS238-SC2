@@ -7,6 +7,7 @@ from sc2.main import logger
 from sharpy.interfaces import ILogManager
 from .manager_base import ManagerBase
 
+
 root_logger = logging.getLogger()
 
 
