@@ -121,7 +121,8 @@ class EnemyUnitsManager(ManagerBase, IEnemyUnitsManager):
             if unit.name not in enemy_tally:
                 enemy_tally[unit.name] = 0
             enemy_tally[unit.name] += 1
-        # print(f"ENEMY UNITS: {enemy_tally}")
+        enemy_tally = dict(sorted(enemy_tally.items()))
+        print(f"ENEMY UNITS: {enemy_tally}")
 
     @property
     def enemy_cloak_trigger(self):

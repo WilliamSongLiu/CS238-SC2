@@ -29,8 +29,8 @@ class IncomeCalculator(ManagerBase, IIncomeCalculator):
             self._mineral_income = self.mineral_rate_calc()
             self._gas_income = self.vespene_rate_calc()
         # Calculate enemy income and minerals harvested
-        print(f"Mineral IN STOCK: {self.ai.minerals}")
-        print(f"Gas IN STOCK: {self.ai.vespene}")
+        print(f"MINERALS: {self.ai.minerals}")
+        print(f"GAS: {self.ai.vespene}")
         
 
     def mineral_rate_calc(self) -> float:
