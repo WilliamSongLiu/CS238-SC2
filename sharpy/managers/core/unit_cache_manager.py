@@ -220,24 +220,24 @@ class UnitCacheManager(ManagerBase, IUnitCache):
                 own_tally[unit.name] = 0
             own_tally[unit.name] += 1
         print(f"MY UNITS: {own_tally}")
-        self.update_csv(own_tally)
+    #     self.update_csv(own_tally)
 
-    def update_csv(self, own_tally):
-        file_name = 'datatest2.csv'
+    # def update_csv(self, own_tally):
+    #     file_name = 'datatest2.csv'
 
-        # Check if file exists
-        file_exists = os.path.isfile(file_name)
+    #     # Check if file exists
+    #     file_exists = os.path.isfile(file_name)
 
-        # Open the file in append mode
-        with open(file_name, 'a' if file_exists else 'w', newline='') as file:
-            writer = csv.DictWriter(file, fieldnames=own_tally.keys())
+    #     # Open the file in append mode
+    #     with open(file_name, 'a' if file_exists else 'w', newline='') as file:
+    #         writer = csv.DictWriter(file, fieldnames=own_tally.keys())
 
-            # Write the header only if the file is new/empty
-            if not file_exists:
-                writer.writeheader()
+    #         # Write the header only if the file is new/empty
+    #         if not file_exists:
+    #             writer.writeheader()
                 
-            # Write the row
-            writer.writerow(own_tally)
+    #         # Write the row
+    #         writer.writerow(own_tally)
 
 
     async def post_update(self):
