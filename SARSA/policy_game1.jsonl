@@ -1,0 +1,997 @@
+{"s": [1, 12, 0, 0], "a": ["BUILD_PYLON", "TRAIN_OBSERVER"]}
+{"s": [1, 12, 50, 0], "a": ["TRAIN_PROBE"]}
+{"s": [1, 12, 15, 0], "a": ["TRAIN_PROBE"]}
+{"s": [1, 12, 25, 0], "a": ["TRAIN_PROBE"]}
+{"s": [1, 12, 40, 0], "a": ["TRAIN_PROBE"]}
+{"s": [1, 12, 45, 0], "a": ["TRAIN_PROBE"]}
+{"s": [1, 12, 60, 0], "a": ["TRAIN_PROBE"]}
+{"s": [1, 12, 75, 0], "a": ["TRAIN_PROBE"]}
+{"s": [1, 12, 80, 0], "a": ["TRAIN_PROBE"]}
+{"s": [1, 12, 85, 0], "a": ["TRAIN_PROBE"]}
+{"s": [1, 12, 100, 0], "a": ["TRAIN_PROBE"]}
+{"s": [1, 12, 105, 0], "a": ["TRAIN_PROBE"]}
+{"s": [1, 13, 115, 0], "a": ["TRAIN_PROBE"]}
+{"s": [1, 13, 65, 0], "a": ["BUILD_NEXUS"]}
+{"s": [1, 13, 70, 0], "a": ["BUILD_PYLON"]}
+{"s": [1, 13, 80, 0], "a": ["BUILD_PYLON"]}
+{"s": [1, 13, 85, 0], "a": ["BUILD_PYLON"]}
+{"s": [1, 13, 90, 0], "a": ["BUILD_PYLON"]}
+{"s": [1, 13, 110, 0], "a": ["BUILD_PYLON"]}
+{"s": [1, 13, 20, 0], "a": ["BUILD_CYBERNETICSCORE"]}
+{"s": [1, 13, 25, 0], "a": ["TRAIN_PROBE"]}
+{"s": [1, 13, 30, 0], "a": ["TRAIN_PROBE"]}
+{"s": [1, 13, 35, 0], "a": ["TRAIN_PROBE"]}
+{"s": [1, 13, 45, 0], "a": ["TRAIN_PROBE"]}
+{"s": [1, 13, 50, 0], "a": ["TRAIN_PROBE"]}
+{"s": [1, 13, 55, 0], "a": ["TRAIN_PROBE"]}
+{"s": [1, 13, 60, 0], "a": ["TRAIN_PROBE"]}
+{"s": [1, 13, 75, 0], "a": ["TRAIN_PROBE"]}
+{"s": [1, 13, 1, 85, 0], "a": ["TRAIN_PROBE"]}
+{"s": [1, 13, 1, 95, 0], "a": ["TRAIN_PROBE"]}
+{"s": [1, 13, 1, 105, 0], "a": ["TRAIN_PROBE"]}
+{"s": [1, 13, 1, 110, 0], "a": ["TRAIN_PROBE"]}
+{"s": [1, 14, 1, 115, 0], "a": ["TRAIN_PROBE"]}
+{"s": [1, 14, 1, 65, 0], "a": ["TRAIN_PROBE", "TRAIN_OBSERVER"]}
+{"s": [1, 14, 1, 75, 0], "a": ["TRAIN_PROBE"]}
+{"s": [1, 14, 1, 85, 0], "a": ["TRAIN_PROBE"]}
+{"s": [1, 14, 1, 95, 0], "a": ["TRAIN_PROBE"]}
+{"s": [1, 14, 1, 100, 0], "a": ["TRAIN_PROBE"]}
+{"s": [1, 14, 1, 120, 0], "a": ["TRAIN_PROBE"]}
+{"s": [1, 14, 1, 135, 0], "a": ["TRAIN_PROBE"]}
+{"s": [1, 14, 1, 140, 0], "a": ["TRAIN_PROBE"]}
+{"s": [1, 14, 1, 145, 0], "a": ["TRAIN_PROBE"]}
+{"s": [1, 14, 1, 155, 0], "a": ["TRAIN_PROBE"]}
+{"s": [1, 14, 1, 165, 0], "a": ["TRAIN_PROBE"]}
+{"s": [1, 14, 1, 170, 0], "a": ["TRAIN_PROBE"]}
+{"s": [1, 14, 1, 185, 0], "a": ["TRAIN_PROBE"]}
+{"s": [1, 14, 1, 190, 0], "a": ["TRAIN_PROBE"]}
+{"s": [1, 14, 1, 195, 0], "a": ["TRAIN_PROBE"]}
+{"s": [1, 14, 1, 200, 0], "a": ["TRAIN_PROBE"]}
+{"s": [1, 14, 1, 205, 0], "a": ["TRAIN_PROBE"]}
+{"s": [1, 14, 1, 215, 0], "a": ["TRAIN_PROBE"]}
+{"s": [1, 15, 1, 215, 0], "a": ["BUILD_PYLON", "TRAIN_PROBE", "TRAIN_IMMORTAL", "BUILD_GATEWAY"]}
+{"s": [1, 15, 1, 230, 0], "a": ["TRAIN_PROBE"]}
+{"s": [1, 15, 1, 235, 0], "a": ["TRAIN_PROBE"]}
+{"s": [1, 15, 1, 240, 0], "a": ["TRAIN_PROBE"]}
+{"s": [1, 15, 1, 255, 0], "a": ["TRAIN_PROBE"]}
+{"s": [1, 15, 1, 210, 0], "a": ["TRAIN_PROBE", "TRAIN_IMMORTAL", "TRAIN_ZEALOT", "BUILD_GATEWAY"]}
+{"s": [1, 15, 1, 145, 0], "a": ["BUILD_ASSIMILATOR"]}
+{"s": [1, 15, 1, 150, 0], "a": ["BUILD_GATEWAY"]}
+{"s": [1, 15, 1, 0, 0], "a": ["TRAIN_PROBE", "TRAIN_ZEALOT", "BUILD_GATEWAY"]}
+{"s": [1, 1, 15, 1, 15, 0], "a": ["TRAIN_PROBE"]}
+{"s": [1, 1, 15, 1, 20, 0], "a": ["TRAIN_PROBE"]}
+{"s": [1, 1, 15, 1, 25, 0], "a": ["TRAIN_PROBE"]}
+{"s": [1, 1, 15, 1, 35, 0], "a": ["TRAIN_PROBE"]}
+{"s": [1, 1, 15, 1, 45, 0], "a": ["TRAIN_PROBE"]}
+{"s": [1, 1, 15, 1, 50, 0], "a": ["TRAIN_PROBE"]}
+{"s": [1, 1, 15, 1, 60, 0], "a": ["TRAIN_PROBE"]}
+{"s": [1, 1, 1, 15, 1, 60, 0], "a": ["TRAIN_PROBE", "TRAIN_IMMORTAL", "TRAIN_ZEALOT", "BUILD_GATEWAY"]}
+{"s": [1, 1, 1, 15, 1, 70, 0], "a": ["TRAIN_PROBE"]}
+{"s": [1, 1, 1, 15, 1, 75, 0], "a": ["TRAIN_PROBE"]}
+{"s": [1, 1, 1, 15, 1, 80, 0], "a": ["TRAIN_PROBE"]}
+{"s": [1, 1, 1, 16, 1, 85, 0], "a": ["TRAIN_PROBE"]}
+{"s": [1, 1, 1, 16, 1, 50, 0], "a": ["BUILD_PYLON", "TRAIN_IMMORTAL"]}
+{"s": [1, 1, 1, 16, 1, 60, 0], "a": ["TRAIN_PROBE"]}
+{"s": [1, 1, 1, 16, 1, 65, 0], "a": ["TRAIN_PROBE"]}
+{"s": [1, 1, 1, 16, 1, 70, 0], "a": ["TRAIN_PROBE"]}
+{"s": [1, 1, 1, 16, 1, 80, 0], "a": ["TRAIN_PROBE"]}
+{"s": [1, 1, 1, 16, 1, 90, 0], "a": ["TRAIN_PROBE"]}
+{"s": [1, 1, 1, 16, 1, 95, 0], "a": ["TRAIN_PROBE"]}
+{"s": [1, 1, 1, 16, 1, 100, 0], "a": ["TRAIN_PROBE"]}
+{"s": [1, 1, 1, 16, 1, 110, 0], "a": ["TRAIN_PROBE"]}
+{"s": [1, 1, 1, 16, 1, 115, 0], "a": ["TRAIN_PROBE"]}
+{"s": [1, 1, 1, 16, 1, 130, 0], "a": ["TRAIN_PROBE"]}
+{"s": [1, 1, 1, 16, 1, 135, 0], "a": ["TRAIN_PROBE"]}
+{"s": [1, 1, 1, 16, 1, 150, 0], "a": ["TRAIN_PROBE"]}
+{"s": [1, 1, 1, 16, 1, 160, 0], "a": ["TRAIN_PROBE"]}
+{"s": [1, 1, 1, 17, 1, 160, 0], "a": ["TRAIN_PROBE", "TRAIN_ZEALOT", "BUILD_GATEWAY"]}
+{"s": [1, 1, 1, 17, 1, 110, 0], "a": ["BUILD_PYLON", "TRAIN_STALKER", "TRAIN_PROBE", "TRAIN_ZEALOT", "BUILD_GATEWAY"]}
+{"s": [1, 1, 1, 17, 1, 115, 0], "a": ["TRAIN_PROBE"]}
+{"s": [1, 1, 1, 17, 1, 130, 0], "a": ["TRAIN_PROBE"]}
+{"s": [1, 1, 1, 17, 1, 135, 0], "a": ["TRAIN_PROBE"]}
+{"s": [1, 1, 1, 17, 1, 140, 0], "a": ["TRAIN_PROBE"]}
+{"s": [1, 1, 1, 17, 1, 150, 0], "a": ["TRAIN_PROBE"]}
+{"s": [1, 1, 1, 17, 1, 165, 0], "a": ["TRAIN_PROBE"]}
+{"s": [1, 1, 1, 17, 1, 170, 0], "a": ["TRAIN_PROBE"]}
+{"s": [1, 1, 1, 17, 1, 180, 0], "a": ["TRAIN_PROBE"]}
+{"s": [1, 1, 1, 17, 1, 185, 0], "a": ["TRAIN_PROBE"]}
+{"s": [1, 1, 1, 17, 1, 190, 0], "a": ["TRAIN_PROBE"]}
+{"s": [1, 1, 1, 17, 1, 195, 0], "a": ["TRAIN_PROBE", "BUILD_ROBOTICSFACILITY", "TRAIN_ZEALOT", "BUILD_GATEWAY"]}
+{"s": [1, 1, 1, 17, 1, 215, 0], "a": ["TRAIN_PROBE"]}
+{"s": [1, 1, 1, 16, 1, 215, 0], "a": ["BUILD_PYLON", "TRAIN_STALKER", "TRAIN_PROBE", "BUILD_ROBOTICSFACILITY", "TRAIN_ZEALOT", "BUILD_GATEWAY"]}
+{"s": [1, 1, 1, 16, 1, 225, 0], "a": ["TRAIN_PROBE"]}
+{"s": [1, 1, 1, 18, 1, 245, 0], "a": ["TRAIN_PROBE"]}
+{"s": [1, 1, 1, 17, 1, 200, 4], "a": ["TRAIN_PROBE"]}
+{"s": [1, 1, 1, 17, 1, 205, 4], "a": ["TRAIN_PROBE"]}
+{"s": [1, 1, 1, 17, 1, 220, 4], "a": ["TRAIN_PROBE"]}
+{"s": [1, 1, 1, 17, 1, 230, 4], "a": ["TRAIN_PROBE"]}
+{"s": [1, 1, 1, 18, 1, 230, 4], "a": ["BUILD_ASSIMILATOR", "TRAIN_OBSERVER"]}
+{"s": [1, 1, 1, 17, 1, 235, 8], "a": ["TRAIN_PROBE"]}
+{"s": [1, 1, 1, 17, 1, 240, 8], "a": ["TRAIN_PROBE"]}
+{"s": [1, 1, 1, 17, 1, 255, 8], "a": ["TRAIN_PROBE"]}
+{"s": [1, 1, 1, 17, 1, 255, 12], "a": ["TRAIN_PROBE"]}
+{"s": [1, 1, 1, 17, 1, 265, 12], "a": ["TRAIN_PROBE"]}
+{"s": [1, 1, 1, 17, 1, 270, 16], "a": ["TRAIN_PROBE"]}
+{"s": [1, 1, 1, 17, 1, 275, 16], "a": ["TRAIN_PROBE"]}
+{"s": [1, 1, 1, 17, 1, 295, 16], "a": ["TRAIN_PROBE"]}
+{"s": [1, 1, 1, 17, 1, 300, 20], "a": ["TRAIN_PROBE"]}
+{"s": [1, 1, 1, 17, 1, 305, 20], "a": ["TRAIN_PROBE"]}
+{"s": [1, 1, 1, 18, 1, 305, 20], "a": ["TRAIN_PROBE", "BUILD_ROBOTICSFACILITY", "TRAIN_ZEALOT", "BUILD_GATEWAY"]}
+{"s": [1, 1, 1, 18, 1, 265, 24], "a": ["TRAIN_PROBE", "TRAIN_IMMORTAL"]}
+{"s": [1, 1, 1, 18, 1, 280, 24], "a": ["BUILD_NEXUS"]}
+{"s": [1, 1, 1, 18, 1, 280, 28], "a": ["BUILD_NEXUS"]}
+{"s": [1, 1, 1, 18, 1, 285, 28], "a": ["BUILD_NEXUS"]}
+{"s": [1, 1, 1, 18, 1, 295, 28], "a": ["BUILD_NEXUS"]}
+{"s": [1, 1, 1, 18, 1, 300, 28], "a": ["BUILD_NEXUS"]}
+{"s": [1, 1, 1, 18, 1, 315, 32], "a": ["BUILD_NEXUS"]}
+{"s": [1, 1, 1, 18, 1, 320, 32], "a": ["BUILD_NEXUS"]}
+{"s": [1, 1, 1, 18, 1, 335, 36], "a": ["BUILD_NEXUS"]}
+{"s": [1, 1, 1, 18, 1, 355, 36], "a": ["BUILD_NEXUS"]}
+{"s": [1, 1, 1, 18, 1, 360, 40], "a": ["BUILD_NEXUS"]}
+{"s": [1, 1, 1, 18, 1, 365, 40], "a": ["BUILD_NEXUS"]}
+{"s": [1, 1, 1, 18, 1, 370, 44], "a": ["BUILD_NEXUS"]}
+{"s": [1, 1, 1, 19, 1, 395, 44], "a": ["BUILD_NEXUS"]}
+{"s": [1, 1, 1, 20, 1, 395, 48], "a": ["BUILD_NEXUS"]}
+{"s": [1, 1, 1, 19, 1, 400, 48], "a": ["BUILD_NEXUS"]}
+{"s": [1, 1, 1, 19, 1, 10, 48], "a": ["BUILD_GATEWAY"]}
+{"s": [1, 1, 1, 19, 1, 30, 52], "a": ["BUILD_CYBERNETICSCORE"]}
+{"s": [1, 1, 1, 19, 1, 35, 52], "a": ["BUILD_CYBERNETICSCORE"]}
+{"s": [1, 1, 1, 19, 1, 40, 52], "a": ["BUILD_CYBERNETICSCORE"]}
+{"s": [1, 1, 1, 19, 1, 45, 56], "a": ["BUILD_CYBERNETICSCORE"]}
+{"s": [1, 1, 1, 19, 1, 55, 56], "a": ["BUILD_CYBERNETICSCORE"]}
+{"s": [1, 1, 1, 19, 1, 65, 60], "a": ["BUILD_CYBERNETICSCORE"]}
+{"s": [1, 1, 1, 19, 1, 70, 60], "a": ["BUILD_CYBERNETICSCORE"]}
+{"s": [1, 1, 1, 19, 1, 75, 60], "a": ["BUILD_CYBERNETICSCORE"]}
+{"s": [1, 1, 1, 19, 1, 75, 64], "a": ["BUILD_CYBERNETICSCORE"]}
+{"s": [1, 1, 1, 19, 1, 100, 64], "a": ["BUILD_CYBERNETICSCORE"]}
+{"s": [1, 1, 1, 19, 1, 105, 64], "a": ["BUILD_CYBERNETICSCORE"]}
+{"s": [1, 1, 1, 19, 1, 115, 68], "a": ["BUILD_CYBERNETICSCORE"]}
+{"s": [1, 1, 2, 19, 1, 115, 68], "a": ["BUILD_NEXUS"]}
+{"s": [1, 1, 2, 19, 1, 120, 68], "a": ["BUILD_CYBERNETICSCORE"]}
+{"s": [1, 1, 2, 19, 1, 130, 72], "a": ["BUILD_CYBERNETICSCORE"]}
+{"s": [1, 1, 2, 19, 1, 135, 72], "a": ["BUILD_CYBERNETICSCORE"]}
+{"s": [1, 1, 2, 19, 1, 150, 72], "a": ["BUILD_CYBERNETICSCORE"]}
+{"s": [1, 1, 2, 19, 1, 0, 76], "a": ["BUILD_GATEWAY"]}
+{"s": [1, 1, 2, 19, 1, 5, 76], "a": ["TRAIN_PROBE"]}
+{"s": [1, 1, 2, 19, 1, 15, 76], "a": ["TRAIN_PROBE"]}
+{"s": [1, 1, 2, 19, 1, 25, 80], "a": ["TRAIN_PROBE"]}
+{"s": [1, 1, 2, 19, 1, 40, 80], "a": ["TRAIN_PROBE"]}
+{"s": [1, 1, 2, 19, 1, 45, 84], "a": ["TRAIN_PROBE"]}
+{"s": [1, 1, 2, 19, 1, 60, 84], "a": ["TRAIN_PROBE"]}
+{"s": [1, 1, 1, 2, 19, 1, 10, 84], "a": ["BUILD_PYLON", "TRAIN_OBSERVER"]}
+{"s": [1, 1, 1, 2, 20, 1, 10, 88], "a": ["BUILD_ASSIMILATOR"]}
+{"s": [1, 1, 1, 2, 19, 1, 15, 88], "a": ["BUILD_ASSIMILATOR"]}
+{"s": [1, 1, 1, 2, 19, 1, 30, 88], "a": ["BUILD_ASSIMILATOR"]}
+{"s": [1, 1, 1, 2, 19, 1, 40, 92], "a": ["BUILD_ASSIMILATOR"]}
+{"s": [1, 1, 1, 2, 19, 1, 45, 92], "a": ["BUILD_ASSIMILATOR"]}
+{"s": [1, 1, 1, 2, 19, 1, 50, 92], "a": ["BUILD_ASSIMILATOR"]}
+{"s": [1, 1, 1, 2, 19, 1, 60, 92], "a": ["BUILD_ASSIMILATOR"]}
+{"s": [1, 1, 1, 2, 19, 1, 65, 96], "a": ["BUILD_ASSIMILATOR"]}
+{"s": [1, 1, 1, 2, 19, 1, 75, 96], "a": ["BUILD_ASSIMILATOR"]}
+{"s": [1, 1, 1, 2, 19, 1, 0, 100], "a": ["TRAIN_OBSERVER"]}
+{"s": [1, 1, 1, 2, 19, 1, 10, 100], "a": ["TRAIN_PROBE"]}
+{"s": [2, 1, 1, 2, 19, 1, 15, 100], "a": ["TRAIN_PROBE"]}
+{"s": [2, 1, 1, 2, 19, 1, 25, 104], "a": ["TRAIN_PROBE"]}
+{"s": [2, 1, 1, 2, 19, 1, 35, 104], "a": ["TRAIN_PROBE"]}
+{"s": [2, 1, 1, 2, 19, 1, 40, 108], "a": ["TRAIN_PROBE"]}
+{"s": [2, 1, 1, 2, 19, 1, 45, 108], "a": ["TRAIN_PROBE"]}
+{"s": [2, 1, 1, 2, 19, 1, 50, 108], "a": ["TRAIN_PROBE"]}
+{"s": [2, 1, 1, 2, 19, 1, 60, 108], "a": ["TRAIN_PROBE"]}
+{"s": [2, 1, 1, 2, 19, 1, 70, 112], "a": ["TRAIN_PROBE"]}
+{"s": [2, 1, 1, 2, 19, 1, 75, 112], "a": ["TRAIN_PROBE"]}
+{"s": [2, 1, 1, 2, 19, 1, 85, 116], "a": ["TRAIN_PROBE"]}
+{"s": [2, 1, 1, 2, 19, 1, 90, 116], "a": ["TRAIN_PROBE"]}
+{"s": [2, 1, 1, 2, 19, 1, 105, 116], "a": ["TRAIN_PROBE"]}
+{"s": [2, 1, 1, 2, 20, 1, 105, 120], "a": ["TRAIN_PROBE"]}
+{"s": [2, 1, 1, 2, 20, 1, 60, 120], "a": ["BUILD_PYLON", "TRAIN_PROBE", "TRAIN_OBSERVER"]}
+{"s": [2, 1, 1, 2, 20, 1, 75, 120], "a": ["BUILD_PYLON", "TRAIN_STALKER", "TRAIN_PROBE", "TRAIN_ZEALOT", "BUILD_GATEWAY"]}
+{"s": [2, 1, 1, 2, 20, 1, 80, 124], "a": ["BUILD_PYLON", "TRAIN_STALKER", "TRAIN_PROBE", "TRAIN_ZEALOT", "BUILD_GATEWAY"]}
+{"s": [2, 1, 1, 2, 20, 1, 85, 124], "a": ["BUILD_PYLON", "TRAIN_STALKER", "TRAIN_PROBE", "TRAIN_ZEALOT", "BUILD_GATEWAY"]}
+{"s": [2, 1, 1, 2, 20, 1, 90, 124], "a": ["BUILD_PYLON", "TRAIN_STALKER", "TRAIN_PROBE", "TRAIN_ZEALOT", "BUILD_GATEWAY"]}
+{"s": [2, 1, 1, 2, 21, 1, 100, 128], "a": ["BUILD_PYLON", "TRAIN_STALKER", "TRAIN_PROBE", "TRAIN_ZEALOT", "BUILD_GATEWAY"]}
+{"s": [2, 1, 1, 2, 20, 1, 5, 128], "a": ["BUILD_ASSIMILATOR", "TRAIN_OBSERVER"]}
+{"s": [2, 1, 1, 2, 20, 1, 10, 128], "a": ["TRAIN_STALKER", "TRAIN_PROBE", "TRAIN_ZEALOT", "BUILD_GATEWAY"]}
+{"s": [2, 1, 1, 2, 20, 1, 25, 132], "a": ["TRAIN_STALKER", "TRAIN_PROBE", "TRAIN_ZEALOT", "BUILD_GATEWAY"]}
+{"s": [2, 1, 1, 2, 20, 1, 35, 132], "a": ["TRAIN_STALKER", "TRAIN_PROBE", "TRAIN_ZEALOT", "BUILD_GATEWAY"]}
+{"s": [2, 1, 1, 2, 20, 1, 40, 136], "a": ["TRAIN_STALKER", "TRAIN_PROBE", "TRAIN_ZEALOT", "BUILD_GATEWAY"]}
+{"s": [2, 1, 1, 2, 20, 1, 55, 136], "a": ["TRAIN_STALKER", "TRAIN_PROBE", "TRAIN_ZEALOT", "BUILD_GATEWAY"]}
+{"s": [2, 1, 1, 2, 20, 1, 60, 136], "a": ["TRAIN_STALKER", "TRAIN_PROBE", "TRAIN_ZEALOT", "BUILD_GATEWAY"]}
+{"s": [2, 1, 1, 2, 20, 1, 70, 140], "a": ["TRAIN_STALKER", "TRAIN_PROBE", "TRAIN_ZEALOT", "BUILD_GATEWAY"]}
+{"s": [2, 1, 1, 2, 20, 2, 70, 140], "a": ["TRAIN_PROBE", "TRAIN_IMMORTAL", "BUILD_GATEWAY"]}
+{"s": [2, 1, 1, 2, 20, 2, 80, 140], "a": ["TRAIN_STALKER", "TRAIN_PROBE", "TRAIN_ZEALOT", "BUILD_GATEWAY"]}
+{"s": [2, 1, 1, 2, 20, 2, 85, 144], "a": ["TRAIN_STALKER", "TRAIN_PROBE", "TRAIN_ZEALOT", "BUILD_GATEWAY"]}
+{"s": [2, 1, 1, 2, 20, 2, 110, 144], "a": ["TRAIN_STALKER", "TRAIN_PROBE", "TRAIN_ZEALOT", "BUILD_GATEWAY"]}
+{"s": [2, 1, 1, 2, 20, 2, 110, 148], "a": ["TRAIN_STALKER", "TRAIN_PROBE", "TRAIN_ZEALOT", "BUILD_GATEWAY"]}
+{"s": [2, 1, 1, 2, 20, 2, 115, 148], "a": ["TRAIN_STALKER", "TRAIN_PROBE", "TRAIN_ZEALOT", "BUILD_GATEWAY"]}
+{"s": [2, 1, 1, 2, 20, 2, 130, 148], "a": ["TRAIN_STALKER", "TRAIN_PROBE", "TRAIN_ZEALOT", "BUILD_GATEWAY"]}
+{"s": [2, 1, 1, 2, 20, 2, 145, 152], "a": ["TRAIN_STALKER", "TRAIN_PROBE", "TRAIN_ZEALOT", "BUILD_GATEWAY"]}
+{"s": [2, 1, 1, 2, 21, 2, 145, 152], "a": ["BUILD_GATEWAY"]}
+{"s": [2, 1, 1, 2, 21, 2, 155, 156], "a": ["TRAIN_STALKER", "TRAIN_PROBE", "TRAIN_ZEALOT", "BUILD_GATEWAY"]}
+{"s": [2, 1, 1, 2, 21, 2, 160, 156], "a": ["TRAIN_STALKER", "TRAIN_PROBE", "TRAIN_ZEALOT", "BUILD_GATEWAY"]}
+{"s": [2, 1, 1, 2, 21, 2, 170, 156], "a": ["TRAIN_STALKER", "TRAIN_PROBE", "TRAIN_ZEALOT", "BUILD_GATEWAY"]}
+{"s": [2, 1, 1, 2, 21, 2, 180, 160], "a": ["TRAIN_STALKER", "TRAIN_PROBE", "TRAIN_ZEALOT", "BUILD_GATEWAY"]}
+{"s": [2, 1, 1, 2, 21, 2, 140, 160], "a": ["TRAIN_IMMORTAL"]}
+{"s": [2, 1, 1, 2, 21, 2, 150, 160], "a": ["TRAIN_STALKER", "TRAIN_PROBE", "TRAIN_ZEALOT", "BUILD_GATEWAY"]}
+{"s": [2, 1, 1, 2, 21, 2, 155, 164], "a": ["TRAIN_STALKER", "TRAIN_PROBE", "TRAIN_ZEALOT", "BUILD_GATEWAY"]}
+{"s": [2, 1, 1, 2, 20, 2, 165, 164], "a": ["TRAIN_STALKER", "TRAIN_PROBE", "TRAIN_ZEALOT", "BUILD_GATEWAY"]}
+{"s": [2, 1, 1, 2, 20, 2, 170, 164], "a": ["TRAIN_STALKER", "TRAIN_PROBE", "TRAIN_ZEALOT", "BUILD_GATEWAY"]}
+{"s": [2, 1, 1, 2, 21, 2, 180, 168], "a": ["TRAIN_STALKER", "TRAIN_PROBE", "TRAIN_ZEALOT", "BUILD_GATEWAY"]}
+{"s": [2, 1, 1, 2, 20, 2, 180, 168], "a": ["BUILD_PYLON", "TRAIN_STALKER", "TRAIN_PROBE", "BUILD_ROBOTICSFACILITY", "TRAIN_ZEALOT", "BUILD_GATEWAY"]}
+{"s": [2, 1, 1, 2, 20, 2, 185, 168], "a": ["TRAIN_STALKER", "TRAIN_PROBE", "TRAIN_ZEALOT", "BUILD_GATEWAY"]}
+{"s": [2, 1, 1, 2, 20, 2, 200, 172], "a": ["TRAIN_STALKER", "TRAIN_PROBE", "TRAIN_ZEALOT", "BUILD_GATEWAY"]}
+{"s": [2, 1, 1, 2, 20, 2, 205, 176], "a": ["TRAIN_STALKER", "TRAIN_PROBE", "TRAIN_ZEALOT", "BUILD_GATEWAY"]}
+{"s": [2, 1, 1, 2, 20, 2, 210, 176], "a": ["TRAIN_STALKER", "TRAIN_PROBE", "TRAIN_ZEALOT", "BUILD_GATEWAY"]}
+{"s": [2, 1, 1, 2, 20, 2, 220, 176], "a": ["TRAIN_STALKER", "TRAIN_PROBE", "TRAIN_ZEALOT", "BUILD_GATEWAY"]}
+{"s": [2, 1, 1, 2, 20, 2, 225, 180], "a": ["TRAIN_STALKER", "TRAIN_PROBE", "TRAIN_ZEALOT", "BUILD_GATEWAY"]}
+{"s": [2, 1, 1, 2, 20, 2, 235, 184], "a": ["TRAIN_STALKER", "TRAIN_PROBE", "TRAIN_ZEALOT", "BUILD_GATEWAY"]}
+{"s": [2, 1, 1, 2, 20, 2, 245, 184], "a": ["TRAIN_STALKER", "TRAIN_PROBE", "TRAIN_ZEALOT", "BUILD_GATEWAY"]}
+{"s": [2, 1, 1, 2, 20, 2, 245, 188], "a": ["TRAIN_STALKER", "TRAIN_PROBE", "TRAIN_ZEALOT", "BUILD_GATEWAY"]}
+{"s": [2, 1, 1, 2, 20, 2, 255, 192], "a": ["TRAIN_STALKER", "TRAIN_PROBE", "TRAIN_ZEALOT", "BUILD_GATEWAY"]}
+{"s": [2, 1, 1, 2, 21, 2, 255, 196], "a": ["TRAIN_STALKER", "TRAIN_PROBE", "BUILD_TWILIGHTCOUNCIL", "TRAIN_ZEALOT", "BUILD_GATEWAY"]}
+{"s": [2, 1, 1, 2, 21, 2, 230, 150], "a": ["BUILD_PYLON", "TRAIN_OBSERVER"]}
+{"s": [2, 1, 1, 2, 21, 2, 230, 154], "a": ["TRAIN_STALKER", "TRAIN_PROBE", "BUILD_TWILIGHTCOUNCIL", "TRAIN_ZEALOT", "BUILD_GATEWAY"]}
+{"s": [2, 1, 1, 2, 22, 2, 240, 154], "a": ["TRAIN_STALKER", "TRAIN_PROBE", "BUILD_TWILIGHTCOUNCIL", "TRAIN_ZEALOT", "BUILD_GATEWAY"]}
+{"s": [2, 1, 1, 2, 21, 2, 245, 158], "a": ["TRAIN_STALKER", "TRAIN_PROBE", "BUILD_TWILIGHTCOUNCIL", "TRAIN_ZEALOT", "BUILD_GATEWAY"]}
+{"s": [2, 1, 1, 2, 21, 2, 90, 108], "a": ["TRAIN_STALKER", "TRAIN_PROBE", "BUILD_TWILIGHTCOUNCIL", "TRAIN_ZEALOT", "BUILD_GATEWAY"]}
+{"s": [2, 1, 1, 2, 21, 2, 95, 112], "a": ["TRAIN_STALKER", "TRAIN_PROBE", "BUILD_TWILIGHTCOUNCIL", "TRAIN_ZEALOT", "BUILD_GATEWAY"]}
+{"s": [2, 1, 1, 2, 21, 2, 100, 116], "a": ["TRAIN_STALKER", "TRAIN_PROBE", "BUILD_TWILIGHTCOUNCIL", "TRAIN_ZEALOT", "BUILD_GATEWAY"]}
+{"s": [2, 1, 1, 2, 21, 2, 110, 120], "a": ["TRAIN_STALKER", "TRAIN_PROBE", "BUILD_TWILIGHTCOUNCIL", "TRAIN_ZEALOT", "BUILD_GATEWAY"]}
+{"s": [2, 1, 1, 2, 21, 2, 115, 124], "a": ["TRAIN_STALKER", "TRAIN_PROBE", "BUILD_TWILIGHTCOUNCIL", "TRAIN_ZEALOT", "BUILD_GATEWAY"]}
+{"s": [2, 1, 1, 2, 21, 2, 125, 124], "a": ["TRAIN_STALKER", "TRAIN_PROBE", "BUILD_TWILIGHTCOUNCIL", "TRAIN_ZEALOT", "BUILD_GATEWAY"]}
+{"s": [2, 1, 1, 2, 21, 2, 125, 128], "a": ["TRAIN_STALKER", "TRAIN_PROBE", "BUILD_TWILIGHTCOUNCIL", "TRAIN_ZEALOT", "BUILD_GATEWAY"]}
+{"s": [2, 1, 1, 2, 21, 2, 130, 128], "a": ["TRAIN_STALKER", "TRAIN_PROBE", "BUILD_TWILIGHTCOUNCIL", "TRAIN_ZEALOT", "BUILD_GATEWAY"]}
+{"s": [2, 1, 1, 2, 21, 2, 140, 132], "a": ["TRAIN_STALKER", "TRAIN_PROBE", "BUILD_TWILIGHTCOUNCIL", "TRAIN_ZEALOT", "BUILD_GATEWAY"]}
+{"s": [2, 1, 1, 2, 21, 2, 150, 132], "a": ["TRAIN_STALKER", "TRAIN_PROBE", "BUILD_TWILIGHTCOUNCIL", "TRAIN_ZEALOT", "BUILD_GATEWAY"]}
+{"s": [2, 1, 1, 2, 21, 2, 160, 136], "a": ["TRAIN_STALKER", "TRAIN_PROBE", "BUILD_TWILIGHTCOUNCIL", "TRAIN_ZEALOT", "BUILD_GATEWAY"]}
+{"s": [2, 1, 1, 2, 21, 2, 165, 140], "a": ["TRAIN_STALKER", "TRAIN_PROBE", "BUILD_TWILIGHTCOUNCIL", "TRAIN_ZEALOT", "BUILD_GATEWAY"]}
+{"s": [2, 1, 1, 2, 21, 2, 180, 140], "a": ["TRAIN_STALKER", "TRAIN_PROBE", "BUILD_TWILIGHTCOUNCIL", "TRAIN_ZEALOT", "BUILD_GATEWAY"]}
+{"s": [2, 1, 1, 2, 22, 2, 180, 144], "a": ["TRAIN_STALKER", "TRAIN_PROBE", "BUILD_TWILIGHTCOUNCIL", "TRAIN_ZEALOT", "BUILD_GATEWAY"]}
+{"s": [2, 1, 1, 2, 21, 2, 185, 148], "a": ["TRAIN_STALKER", "TRAIN_PROBE", "BUILD_TWILIGHTCOUNCIL", "TRAIN_ZEALOT", "BUILD_GATEWAY"]}
+{"s": [2, 1, 1, 2, 21, 2, 195, 148], "a": ["TRAIN_STALKER", "TRAIN_PROBE", "BUILD_TWILIGHTCOUNCIL", "TRAIN_ZEALOT", "BUILD_GATEWAY"]}
+{"s": [2, 1, 1, 2, 21, 2, 205, 152], "a": ["TRAIN_STALKER", "TRAIN_PROBE", "BUILD_TWILIGHTCOUNCIL", "TRAIN_ZEALOT", "BUILD_GATEWAY"]}
+{"s": [2, 1, 1, 2, 22, 2, 210, 152], "a": ["TRAIN_STALKER", "TRAIN_PROBE", "BUILD_TWILIGHTCOUNCIL", "TRAIN_ZEALOT", "BUILD_GATEWAY"]}
+{"s": [2, 1, 1, 2, 22, 2, 165, 156], "a": ["TRAIN_PROBE", "TRAIN_IMMORTAL", "BUILD_GATEWAY"]}
+{"s": [2, 1, 1, 2, 22, 2, 170, 156], "a": ["TRAIN_STALKER", "TRAIN_PROBE", "BUILD_TWILIGHTCOUNCIL", "TRAIN_ZEALOT", "BUILD_GATEWAY"]}
+{"s": [2, 1, 1, 2, 22, 2, 175, 160], "a": ["TRAIN_STALKER", "TRAIN_PROBE", "BUILD_TWILIGHTCOUNCIL", "TRAIN_ZEALOT", "BUILD_GATEWAY"]}
+{"s": [2, 1, 1, 2, 22, 2, 185, 164], "a": ["TRAIN_STALKER", "TRAIN_PROBE", "BUILD_TWILIGHTCOUNCIL", "TRAIN_ZEALOT", "BUILD_GATEWAY"]}
+{"s": [2, 1, 1, 2, 22, 2, 195, 164], "a": ["TRAIN_STALKER", "TRAIN_PROBE", "BUILD_TWILIGHTCOUNCIL", "TRAIN_ZEALOT", "BUILD_GATEWAY"]}
+{"s": [2, 1, 1, 2, 22, 2, 205, 168], "a": ["TRAIN_STALKER", "TRAIN_PROBE", "BUILD_TWILIGHTCOUNCIL", "TRAIN_ZEALOT", "BUILD_GATEWAY"]}
+{"s": [2, 1, 1, 2, 22, 2, 210, 172], "a": ["TRAIN_STALKER", "TRAIN_PROBE", "BUILD_TWILIGHTCOUNCIL", "TRAIN_ZEALOT", "BUILD_GATEWAY"]}
+{"s": [2, 1, 1, 2, 22, 2, 215, 172], "a": ["TRAIN_STALKER", "TRAIN_PROBE", "BUILD_TWILIGHTCOUNCIL", "TRAIN_ZEALOT", "BUILD_GATEWAY"]}
+{"s": [2, 1, 1, 2, 22, 2, 230, 176], "a": ["TRAIN_STALKER", "TRAIN_PROBE", "BUILD_TWILIGHTCOUNCIL", "TRAIN_ZEALOT", "BUILD_GATEWAY"]}
+{"s": [2, 1, 1, 2, 22, 2, 240, 176], "a": ["TRAIN_STALKER", "TRAIN_PROBE", "BUILD_TWILIGHTCOUNCIL", "TRAIN_ZEALOT", "BUILD_GATEWAY"]}
+{"s": [2, 1, 1, 2, 22, 2, 240, 180], "a": ["TRAIN_STALKER", "TRAIN_PROBE", "BUILD_TWILIGHTCOUNCIL", "TRAIN_ZEALOT", "BUILD_GATEWAY"]}
+{"s": [2, 1, 1, 2, 22, 2, 245, 184], "a": ["TRAIN_STALKER", "TRAIN_PROBE", "BUILD_TWILIGHTCOUNCIL", "TRAIN_ZEALOT", "BUILD_GATEWAY"]}
+{"s": [2, 1, 1, 2, 22, 2, 250, 184], "a": ["TRAIN_STALKER", "TRAIN_PROBE", "BUILD_TWILIGHTCOUNCIL", "TRAIN_ZEALOT", "BUILD_GATEWAY"]}
+{"s": [2, 1, 1, 2, 22, 2, 270, 188], "a": ["TRAIN_STALKER", "TRAIN_PROBE", "BUILD_TWILIGHTCOUNCIL", "TRAIN_ZEALOT", "BUILD_GATEWAY"]}
+{"s": [2, 1, 1, 2, 22, 2, 275, 192], "a": ["TRAIN_STALKER", "TRAIN_PROBE", "BUILD_TWILIGHTCOUNCIL", "TRAIN_ZEALOT", "BUILD_GATEWAY"]}
+{"s": [2, 1, 1, 2, 22, 2, 135, 96], "a": ["BUILD_PYLON", "TRAIN_IMMORTAL", "BUILD_NEXUS"]}
+{"s": [2, 1, 1, 2, 22, 2, 140, 96], "a": ["TRAIN_STALKER", "TRAIN_PROBE", "BUILD_ROBOTICSFACILITY", "TRAIN_ZEALOT", "BUILD_GATEWAY"]}
+{"s": [2, 1, 1, 2, 22, 2, 155, 100], "a": ["TRAIN_STALKER", "TRAIN_PROBE", "BUILD_ROBOTICSFACILITY", "TRAIN_ZEALOT", "BUILD_GATEWAY"]}
+{"s": [2, 1, 1, 2, 22, 2, 155, 104], "a": ["TRAIN_STALKER", "TRAIN_PROBE", "BUILD_ROBOTICSFACILITY", "TRAIN_ZEALOT", "BUILD_GATEWAY"]}
+{"s": [2, 1, 1, 2, 22, 2, 165, 104], "a": ["TRAIN_STALKER", "TRAIN_PROBE", "BUILD_ROBOTICSFACILITY", "TRAIN_ZEALOT", "BUILD_GATEWAY"]}
+{"s": [2, 1, 1, 2, 22, 2, 170, 108], "a": ["TRAIN_STALKER", "TRAIN_PROBE", "BUILD_ROBOTICSFACILITY", "TRAIN_ZEALOT", "BUILD_GATEWAY"]}
+{"s": [2, 1, 1, 2, 22, 2, 185, 108], "a": ["TRAIN_STALKER", "TRAIN_PROBE", "BUILD_ROBOTICSFACILITY", "TRAIN_ZEALOT", "BUILD_GATEWAY"]}
+{"s": [2, 1, 1, 2, 22, 2, 185, 112], "a": ["TRAIN_STALKER", "TRAIN_PROBE", "BUILD_ROBOTICSFACILITY", "TRAIN_ZEALOT", "BUILD_GATEWAY"]}
+{"s": [2, 1, 1, 2, 23, 2, 190, 112], "a": ["TRAIN_STALKER", "TRAIN_PROBE", "BUILD_ROBOTICSFACILITY", "TRAIN_ZEALOT", "BUILD_GATEWAY"]}
+{"s": [2, 1, 1, 2, 23, 2, 140, 116], "a": ["TRAIN_PROBE", "TRAIN_ZEALOT"]}
+{"s": [2, 1, 1, 2, 23, 2, 1, 50, 120], "a": ["BUILD_PYLON", "TRAIN_PROBE", "TRAIN_IMMORTAL", "BUILD_GATEWAY"]}
+{"s": [2, 1, 1, 2, 23, 2, 1, 65, 120], "a": ["TRAIN_STALKER", "TRAIN_PROBE", "BUILD_ROBOTICSFACILITY", "TRAIN_ZEALOT", "BUILD_GATEWAY"]}
+{"s": [2, 1, 1, 2, 24, 2, 1, 70, 124], "a": ["TRAIN_STALKER", "TRAIN_PROBE", "BUILD_ROBOTICSFACILITY", "TRAIN_ZEALOT", "BUILD_GATEWAY"]}
+{"s": [2, 1, 1, 2, 23, 2, 1, 75, 128], "a": ["TRAIN_STALKER", "TRAIN_PROBE", "BUILD_ROBOTICSFACILITY", "TRAIN_ZEALOT", "BUILD_GATEWAY"]}
+{"s": [2, 1, 1, 2, 23, 2, 1, 80, 128], "a": ["TRAIN_STALKER", "TRAIN_PROBE", "BUILD_ROBOTICSFACILITY", "TRAIN_ZEALOT", "BUILD_GATEWAY"]}
+{"s": [2, 1, 1, 2, 23, 2, 1, 100, 132], "a": ["TRAIN_STALKER", "TRAIN_PROBE", "BUILD_ROBOTICSFACILITY", "TRAIN_ZEALOT", "BUILD_GATEWAY"]}
+{"s": [2, 1, 1, 2, 23, 2, 1, 105, 132], "a": ["TRAIN_STALKER", "TRAIN_PROBE", "BUILD_ROBOTICSFACILITY", "TRAIN_ZEALOT", "BUILD_GATEWAY"]}
+{"s": [2, 1, 1, 2, 23, 2, 1, 105, 136], "a": ["TRAIN_STALKER", "TRAIN_PROBE", "BUILD_ROBOTICSFACILITY", "TRAIN_ZEALOT", "BUILD_GATEWAY"]}
+{"s": [2, 1, 1, 2, 23, 3, 1, 105, 140], "a": ["TRAIN_STALKER", "TRAIN_PROBE", "BUILD_ROBOTICSFACILITY", "TRAIN_ZEALOT", "BUILD_GATEWAY"]}
+{"s": [2, 1, 1, 2, 23, 3, 1, 115, 144], "a": ["TRAIN_STALKER", "TRAIN_PROBE", "BUILD_ROBOTICSFACILITY", "TRAIN_ZEALOT", "BUILD_GATEWAY"]}
+{"s": [2, 1, 1, 2, 23, 3, 1, 120, 144], "a": ["TRAIN_STALKER", "TRAIN_PROBE", "BUILD_ROBOTICSFACILITY", "TRAIN_ZEALOT", "BUILD_GATEWAY"]}
+{"s": [2, 1, 1, 2, 23, 3, 1, 130, 148], "a": ["TRAIN_STALKER", "TRAIN_PROBE", "BUILD_ROBOTICSFACILITY", "TRAIN_ZEALOT", "BUILD_GATEWAY"]}
+{"s": [2, 1, 1, 2, 23, 3, 1, 135, 152], "a": ["TRAIN_STALKER", "TRAIN_PROBE", "BUILD_ROBOTICSFACILITY", "TRAIN_ZEALOT", "BUILD_GATEWAY"]}
+{"s": [2, 1, 1, 2, 23, 3, 1, 140, 152], "a": ["TRAIN_STALKER", "TRAIN_PROBE", "BUILD_ROBOTICSFACILITY", "TRAIN_ZEALOT", "BUILD_GATEWAY"]}
+{"s": [2, 1, 1, 2, 23, 3, 1, 150, 156], "a": ["TRAIN_STALKER", "TRAIN_PROBE", "BUILD_ROBOTICSFACILITY", "TRAIN_ZEALOT", "BUILD_GATEWAY"]}
+{"s": [2, 1, 1, 2, 23, 3, 1, 160, 156], "a": ["TRAIN_STALKER", "TRAIN_PROBE", "BUILD_ROBOTICSFACILITY", "TRAIN_ZEALOT", "BUILD_GATEWAY"]}
+{"s": [2, 1, 1, 2, 23, 3, 1, 170, 160], "a": ["TRAIN_STALKER", "TRAIN_PROBE", "BUILD_ROBOTICSFACILITY", "TRAIN_ZEALOT", "BUILD_GATEWAY"]}
+{"s": [2, 1, 1, 2, 23, 3, 1, 170, 164], "a": ["TRAIN_STALKER", "TRAIN_PROBE", "BUILD_ROBOTICSFACILITY", "TRAIN_ZEALOT", "BUILD_GATEWAY"]}
+{"s": [2, 1, 1, 2, 23, 3, 1, 180, 164], "a": ["TRAIN_STALKER", "TRAIN_PROBE", "BUILD_ROBOTICSFACILITY", "TRAIN_ZEALOT", "BUILD_GATEWAY"]}
+{"s": [2, 1, 1, 2, 23, 3, 1, 130, 168], "a": ["TRAIN_PROBE", "TRAIN_IMMORTAL", "BUILD_GATEWAY"]}
+{"s": [2, 1, 1, 2, 24, 3, 1, 1, 135, 172], "a": ["TRAIN_STALKER", "TRAIN_PROBE", "BUILD_ROBOTICSFACILITY", "TRAIN_ZEALOT", "BUILD_GATEWAY"]}
+{"s": [2, 1, 1, 2, 24, 3, 1, 1, 20, 126], "a": ["TRAIN_PROBE", "TRAIN_IMMORTAL", "BUILD_GATEWAY"]}
+{"s": [2, 1, 1, 2, 24, 3, 1, 1, 30, 126], "a": ["TRAIN_PROBE", "BUILD_ROBOTICSFACILITY", "TRAIN_ZEALOT", "BUILD_GATEWAY"]}
+{"s": [2, 1, 1, 2, 24, 3, 1, 1, 35, 130], "a": ["TRAIN_PROBE", "BUILD_ROBOTICSFACILITY", "TRAIN_ZEALOT", "BUILD_GATEWAY"]}
+{"s": [2, 1, 1, 2, 24, 3, 1, 1, 40, 130], "a": ["TRAIN_PROBE", "BUILD_ROBOTICSFACILITY", "TRAIN_ZEALOT", "BUILD_GATEWAY"]}
+{"s": [2, 1, 1, 2, 24, 3, 1, 1, 50, 134], "a": ["TRAIN_PROBE", "BUILD_ROBOTICSFACILITY", "TRAIN_ZEALOT", "BUILD_GATEWAY"]}
+{"s": [2, 1, 1, 2, 24, 3, 1, 1, 15, 138], "a": ["BUILD_PYLON", "TRAIN_STALKER", "TRAIN_PROBE", "BUILD_ROBOTICSFACILITY", "TRAIN_ZEALOT", "BUILD_GATEWAY"]}
+{"s": [2, 1, 1, 2, 24, 3, 1, 1, 15, 142], "a": ["TRAIN_PROBE", "BUILD_ROBOTICSFACILITY", "TRAIN_ZEALOT", "BUILD_GATEWAY"]}
+{"s": [2, 1, 1, 2, 24, 3, 1, 1, 20, 142], "a": ["TRAIN_PROBE", "BUILD_ROBOTICSFACILITY", "TRAIN_ZEALOT", "BUILD_GATEWAY"]}
+{"s": [2, 1, 1, 2, 24, 3, 1, 1, 30, 146], "a": ["TRAIN_PROBE", "BUILD_ROBOTICSFACILITY", "TRAIN_ZEALOT", "BUILD_GATEWAY"]}
+{"s": [2, 1, 1, 2, 25, 3, 1, 1, 50, 150], "a": ["TRAIN_PROBE", "BUILD_ROBOTICSFACILITY", "TRAIN_ZEALOT", "BUILD_GATEWAY"]}
+{"s": [2, 1, 1, 2, 24, 3, 1, 1, 60, 150], "a": ["TRAIN_PROBE", "BUILD_ROBOTICSFACILITY", "TRAIN_ZEALOT", "BUILD_GATEWAY"]}
+{"s": [2, 1, 1, 2, 25, 3, 1, 1, 60, 154], "a": ["TRAIN_PROBE", "BUILD_ROBOTICSFACILITY", "TRAIN_ZEALOT", "BUILD_GATEWAY"]}
+{"s": [2, 1, 1, 2, 24, 3, 1, 1, 60, 154], "a": ["TRAIN_PROBE", "TRAIN_ZEALOT", "BUILD_GATEWAY"]}
+{"s": [2, 1, 1, 2, 24, 3, 1, 1, 75, 158], "a": ["TRAIN_PROBE", "BUILD_ROBOTICSFACILITY", "TRAIN_ZEALOT", "BUILD_GATEWAY"]}
+{"s": [2, 1, 1, 2, 24, 3, 1, 1, 90, 162], "a": ["TRAIN_PROBE", "BUILD_ROBOTICSFACILITY", "TRAIN_ZEALOT", "BUILD_GATEWAY"]}
+{"s": [2, 1, 1, 2, 24, 3, 1, 1, 95, 162], "a": ["TRAIN_PROBE", "BUILD_ROBOTICSFACILITY", "TRAIN_ZEALOT", "BUILD_GATEWAY"]}
+{"s": [2, 1, 1, 2, 24, 3, 1, 1, 95, 166], "a": ["TRAIN_PROBE", "BUILD_ROBOTICSFACILITY", "TRAIN_ZEALOT", "BUILD_GATEWAY"]}
+{"s": [2, 1, 1, 2, 24, 3, 1, 1, 120, 170], "a": ["TRAIN_PROBE", "BUILD_ROBOTICSFACILITY", "TRAIN_ZEALOT", "BUILD_GATEWAY"]}
+{"s": [2, 1, 1, 2, 24, 3, 1, 1, 120, 174], "a": ["TRAIN_PROBE", "BUILD_ROBOTICSFACILITY", "TRAIN_ZEALOT", "BUILD_GATEWAY"]}
+{"s": [2, 1, 1, 2, 24, 3, 1, 1, 140, 174], "a": ["TRAIN_PROBE", "BUILD_ROBOTICSFACILITY", "TRAIN_ZEALOT", "BUILD_GATEWAY"]}
+{"s": [2, 1, 1, 2, 24, 3, 1, 1, 145, 178], "a": ["TRAIN_PROBE", "BUILD_ROBOTICSFACILITY", "TRAIN_ZEALOT", "BUILD_GATEWAY"]}
+{"s": [2, 1, 1, 2, 25, 3, 1, 1, 145, 182], "a": ["TRAIN_PROBE", "BUILD_ROBOTICSFACILITY", "TRAIN_ZEALOT", "BUILD_GATEWAY"]}
+{"s": [2, 1, 1, 2, 26, 3, 1, 1, 105, 182], "a": ["TRAIN_PROBE", "TRAIN_IMMORTAL", "BUILD_ROBOTICSFACILITY"]}
+{"s": [2, 1, 1, 2, 26, 3, 1, 1, 60, 186], "a": ["BUILD_CYBERNETICSCORE"]}
+{"s": [2, 1, 1, 2, 26, 3, 1, 1, 80, 186], "a": ["TRAIN_PROBE", "BUILD_ROBOTICSFACILITY", "TRAIN_ZEALOT", "BUILD_GATEWAY"]}
+{"s": [2, 1, 1, 2, 26, 3, 1, 1, 85, 190], "a": ["TRAIN_PROBE", "BUILD_ROBOTICSFACILITY", "TRAIN_ZEALOT", "BUILD_GATEWAY"]}
+{"s": [2, 1, 1, 2, 26, 3, 1, 1, 90, 194], "a": ["TRAIN_PROBE", "BUILD_ROBOTICSFACILITY", "TRAIN_ZEALOT", "BUILD_GATEWAY"]}
+{"s": [2, 1, 1, 2, 26, 3, 1, 1, 95, 194], "a": ["TRAIN_PROBE", "BUILD_ROBOTICSFACILITY", "TRAIN_ZEALOT", "BUILD_GATEWAY"]}
+{"s": [2, 1, 1, 2, 26, 3, 1, 1, 105, 198], "a": ["TRAIN_PROBE", "BUILD_ROBOTICSFACILITY", "TRAIN_ZEALOT", "BUILD_GATEWAY"]}
+{"s": [2, 1, 1, 2, 26, 3, 1, 1, 110, 198], "a": ["TRAIN_PROBE", "BUILD_ROBOTICSFACILITY", "TRAIN_ZEALOT", "BUILD_GATEWAY"]}
+{"s": [2, 1, 1, 2, 26, 3, 1, 1, 125, 202], "a": ["TRAIN_PROBE", "BUILD_ROBOTICSFACILITY", "TRAIN_ZEALOT", "BUILD_GATEWAY"]}
+{"s": [2, 1, 1, 2, 26, 3, 1, 1, 140, 206], "a": ["TRAIN_PROBE", "BUILD_ROBOTICSFACILITY", "TRAIN_ZEALOT", "BUILD_GATEWAY"]}
+{"s": [2, 1, 1, 2, 26, 3, 1, 1, 140, 210], "a": ["TRAIN_PROBE", "BUILD_ROBOTICSFACILITY", "TRAIN_ZEALOT", "BUILD_GATEWAY"]}
+{"s": [2, 1, 1, 2, 26, 3, 1, 1, 150, 210], "a": ["TRAIN_PROBE", "BUILD_ROBOTICSFACILITY", "TRAIN_ZEALOT", "BUILD_GATEWAY"]}
+{"s": [2, 1, 1, 2, 26, 3, 1, 1, 15, 114], "a": ["BUILD_NEXUS"]}
+{"s": [2, 1, 1, 2, 26, 3, 1, 1, 25, 118], "a": ["TRAIN_PROBE", "TRAIN_ZEALOT", "BUILD_GATEWAY"]}
+{"s": [2, 1, 1, 2, 26, 3, 1, 1, 30, 118], "a": ["TRAIN_PROBE", "TRAIN_ZEALOT", "BUILD_GATEWAY"]}
+{"s": [2, 1, 1, 2, 26, 3, 1, 1, 35, 122], "a": ["TRAIN_PROBE", "TRAIN_ZEALOT", "BUILD_GATEWAY"]}
+{"s": [2, 1, 1, 2, 26, 3, 1, 1, 45, 122], "a": ["TRAIN_PROBE", "TRAIN_ZEALOT", "BUILD_GATEWAY"]}
+{"s": [2, 1, 1, 2, 26, 3, 1, 1, 65, 126], "a": ["TRAIN_PROBE", "TRAIN_ZEALOT", "BUILD_GATEWAY"]}
+{"s": [2, 1, 1, 2, 27, 3, 1, 1, 75, 130], "a": ["TRAIN_PROBE", "TRAIN_ZEALOT", "BUILD_GATEWAY"]}
+{"s": [2, 1, 1, 2, 28, 3, 1, 1, 1, 25, 134], "a": ["BUILD_PYLON", "TRAIN_STALKER", "TRAIN_PROBE", "BUILD_ROBOTICSFACILITY", "TRAIN_ZEALOT", "BUILD_GATEWAY"]}
+{"s": [2, 1, 1, 2, 27, 3, 1, 1, 1, 30, 134], "a": ["TRAIN_PROBE", "TRAIN_ZEALOT", "BUILD_GATEWAY"]}
+{"s": [2, 1, 1, 2, 27, 3, 1, 1, 1, 55, 138], "a": ["TRAIN_PROBE", "TRAIN_ZEALOT", "BUILD_GATEWAY"]}
+{"s": [2, 1, 1, 2, 27, 3, 1, 1, 1, 65, 142], "a": ["TRAIN_PROBE", "TRAIN_ZEALOT", "BUILD_GATEWAY"]}
+{"s": [2, 1, 1, 2, 27, 3, 1, 1, 1, 65, 146], "a": ["TRAIN_PROBE", "TRAIN_ZEALOT", "BUILD_GATEWAY"]}
+{"s": [2, 1, 1, 2, 27, 3, 1, 1, 1, 80, 146], "a": ["TRAIN_PROBE", "TRAIN_ZEALOT", "BUILD_GATEWAY"]}
+{"s": [2, 1, 1, 2, 28, 3, 1, 1, 1, 95, 150], "a": ["TRAIN_PROBE", "TRAIN_ZEALOT", "BUILD_GATEWAY"]}
+{"s": [2, 1, 1, 2, 28, 3, 1, 1, 1, 55, 154], "a": ["TRAIN_PROBE", "TRAIN_IMMORTAL", "TRAIN_ZEALOT", "BUILD_GATEWAY"]}
+{"s": [2, 1, 1, 2, 28, 3, 1, 1, 1, 65, 154], "a": ["TRAIN_PROBE", "TRAIN_ZEALOT", "BUILD_GATEWAY"]}
+{"s": [2, 1, 1, 2, 28, 3, 1, 1, 1, 65, 158], "a": ["TRAIN_PROBE", "TRAIN_ZEALOT", "BUILD_GATEWAY"]}
+{"s": [2, 1, 1, 2, 28, 3, 1, 1, 1, 75, 162], "a": ["TRAIN_PROBE", "TRAIN_ZEALOT", "BUILD_GATEWAY"]}
+{"s": [2, 1, 1, 2, 28, 3, 1, 1, 1, 95, 166], "a": ["TRAIN_PROBE", "TRAIN_ZEALOT", "BUILD_GATEWAY"]}
+{"s": [2, 1, 1, 2, 28, 3, 1, 1, 1, 105, 166], "a": ["TRAIN_PROBE", "TRAIN_ZEALOT", "BUILD_GATEWAY"]}
+{"s": [2, 1, 1, 2, 28, 3, 1, 1, 1, 10, 70], "a": ["BUILD_PYLON", "TRAIN_STALKER", "TRAIN_PROBE", "BUILD_ROBOTICSFACILITY", "TRAIN_ZEALOT", "BUILD_GATEWAY"]}
+{"s": [2, 1, 1, 2, 28, 3, 1, 1, 1, 20, 74], "a": ["TRAIN_PROBE", "TRAIN_ZEALOT", "BUILD_GATEWAY"]}
+{"s": [2, 1, 1, 2, 28, 3, 1, 1, 1, 35, 78], "a": ["TRAIN_PROBE", "TRAIN_ZEALOT", "BUILD_GATEWAY"]}
+{"s": [2, 1, 1, 2, 28, 3, 1, 1, 1, 45, 78], "a": ["TRAIN_PROBE", "TRAIN_ZEALOT", "BUILD_GATEWAY"]}
+{"s": [2, 1, 1, 2, 29, 3, 1, 1, 1, 70, 82], "a": ["TRAIN_PROBE", "TRAIN_ZEALOT", "BUILD_GATEWAY"]}
+{"s": [2, 1, 1, 2, 29, 3, 1, 1, 1, 20, 86], "a": ["BUILD_ASSIMILATOR", "TRAIN_OBSERVER"]}
+{"s": [2, 1, 1, 2, 29, 3, 1, 2, 1, 20, 86], "a": ["BUILD_GATEWAY"]}
+{"s": [2, 1, 1, 2, 29, 3, 1, 2, 1, 25, 90], "a": ["TRAIN_PROBE", "TRAIN_ZEALOT", "BUILD_GATEWAY"]}
+{"s": [2, 1, 1, 2, 29, 3, 1, 2, 1, 40, 90], "a": ["TRAIN_PROBE", "TRAIN_ZEALOT", "BUILD_GATEWAY"]}
+{"s": [2, 1, 1, 2, 29, 3, 1, 2, 1, 55, 94], "a": ["TRAIN_PROBE", "TRAIN_ZEALOT", "BUILD_GATEWAY"]}
+{"s": [2, 1, 1, 2, 29, 3, 1, 2, 1, 60, 98], "a": ["TRAIN_PROBE", "TRAIN_ZEALOT", "BUILD_GATEWAY"]}
+{"s": [2, 1, 1, 2, 29, 3, 1, 2, 1, 75, 98], "a": ["TRAIN_PROBE", "TRAIN_ZEALOT", "BUILD_GATEWAY"]}
+{"s": [2, 1, 1, 2, 29, 3, 1, 2, 1, 80, 102], "a": ["TRAIN_PROBE", "TRAIN_ZEALOT", "BUILD_GATEWAY"]}
+{"s": [2, 1, 1, 2, 29, 3, 1, 2, 1, 100, 102], "a": ["TRAIN_PROBE", "TRAIN_ZEALOT", "BUILD_GATEWAY"]}
+{"s": [2, 1, 1, 2, 29, 3, 1, 2, 1, 10, 106], "a": ["BUILD_CYBERNETICSCORE"]}
+{"s": [2, 1, 1, 2, 30, 3, 1, 2, 1, 15, 110], "a": ["TRAIN_PROBE", "TRAIN_ZEALOT", "BUILD_GATEWAY"]}
+{"s": [2, 1, 1, 2, 29, 3, 1, 2, 1, 25, 110], "a": ["TRAIN_PROBE", "TRAIN_ZEALOT", "BUILD_GATEWAY"]}
+{"s": [2, 1, 1, 2, 30, 3, 1, 2, 1, 30, 114], "a": ["TRAIN_PROBE", "TRAIN_ZEALOT", "BUILD_GATEWAY"]}
+{"s": [2, 1, 1, 2, 29, 3, 1, 2, 1, 40, 114], "a": ["TRAIN_PROBE", "TRAIN_ZEALOT", "BUILD_GATEWAY"]}
+{"s": [2, 1, 1, 2, 30, 3, 1, 2, 1, 50, 118], "a": ["TRAIN_PROBE", "TRAIN_ZEALOT", "BUILD_GATEWAY"]}
+{"s": [2, 1, 1, 2, 30, 3, 1, 2, 1, 10, 122], "a": ["TRAIN_PROBE", "BUILD_ROBOTICSFACILITY", "TRAIN_ZEALOT", "BUILD_GATEWAY"]}
+{"s": [2, 1, 1, 2, 30, 3, 1, 2, 1, 15, 122], "a": ["TRAIN_PROBE", "TRAIN_ZEALOT", "BUILD_GATEWAY"]}
+{"s": [2, 1, 1, 2, 30, 3, 1, 2, 1, 30, 126], "a": ["TRAIN_PROBE", "TRAIN_ZEALOT", "BUILD_GATEWAY"]}
+{"s": [2, 1, 1, 2, 31, 3, 1, 2, 1, 50, 126], "a": ["TRAIN_PROBE", "TRAIN_ZEALOT", "BUILD_GATEWAY"]}
+{"s": [2, 1, 1, 2, 31, 3, 1, 2, 1, 5, 130], "a": ["TRAIN_IMMORTAL"]}
+{"s": [2, 1, 1, 2, 31, 3, 1, 2, 1, 20, 134], "a": ["TRAIN_PROBE", "TRAIN_ZEALOT", "BUILD_GATEWAY"]}
+{"s": [2, 1, 1, 2, 31, 3, 1, 2, 1, 25, 134], "a": ["TRAIN_PROBE", "TRAIN_ZEALOT", "BUILD_GATEWAY"]}
+{"s": [2, 1, 1, 2, 31, 3, 1, 2, 1, 35, 138], "a": ["TRAIN_PROBE", "TRAIN_ZEALOT", "BUILD_GATEWAY"]}
+{"s": [2, 1, 1, 2, 31, 3, 1, 2, 1, 45, 142], "a": ["TRAIN_PROBE", "TRAIN_ZEALOT", "BUILD_GATEWAY"]}
+{"s": [2, 1, 1, 2, 31, 3, 1, 2, 1, 50, 142], "a": ["TRAIN_PROBE", "TRAIN_ZEALOT", "BUILD_GATEWAY"]}
+{"s": [2, 1, 1, 2, 31, 3, 1, 2, 1, 65, 146], "a": ["TRAIN_PROBE", "TRAIN_ZEALOT", "BUILD_GATEWAY"]}
+{"s": [2, 1, 1, 2, 31, 3, 1, 2, 1, 75, 150], "a": ["TRAIN_PROBE", "TRAIN_ZEALOT", "BUILD_GATEWAY"]}
+{"s": [2, 1, 1, 2, 31, 3, 1, 2, 1, 85, 154], "a": ["TRAIN_PROBE", "TRAIN_ZEALOT", "BUILD_GATEWAY"]}
+{"s": [2, 1, 1, 2, 31, 3, 1, 2, 1, 95, 154], "a": ["TRAIN_PROBE", "TRAIN_ZEALOT", "BUILD_GATEWAY"]}
+{"s": [2, 1, 1, 2, 31, 3, 1, 2, 1, 115, 158], "a": ["TRAIN_PROBE", "TRAIN_ZEALOT", "BUILD_GATEWAY"]}
+{"s": [1, 2, 1, 1, 2, 31, 3, 1, 2, 1, 135, 158], "a": ["TRAIN_PROBE", "TRAIN_ZEALOT", "BUILD_GATEWAY"]}
+{"s": [1, 2, 1, 1, 2, 31, 3, 1, 2, 1, 150, 162], "a": ["TRAIN_PROBE", "TRAIN_ZEALOT", "BUILD_GATEWAY"]}
+{"s": [1, 2, 1, 1, 2, 31, 3, 1, 2, 1, 5, 166], "a": ["TRAIN_STALKER", "TRAIN_PROBE", "TRAIN_ZEALOT", "BUILD_GATEWAY"]}
+{"s": [1, 2, 1, 2, 2, 31, 3, 1, 2, 1, 10, 170], "a": ["TRAIN_PROBE", "TRAIN_ZEALOT"]}
+{"s": [1, 2, 1, 2, 2, 31, 3, 1, 2, 1, 40, 170], "a": ["TRAIN_PROBE", "TRAIN_ZEALOT", "BUILD_GATEWAY"]}
+{"s": [1, 2, 1, 2, 2, 31, 3, 1, 2, 1, 40, 174], "a": ["TRAIN_PROBE", "TRAIN_ZEALOT", "BUILD_GATEWAY"]}
+{"s": [1, 2, 1, 2, 2, 31, 3, 1, 2, 1, 50, 178], "a": ["TRAIN_PROBE", "TRAIN_ZEALOT", "BUILD_GATEWAY"]}
+{"s": [1, 2, 1, 2, 2, 32, 3, 1, 2, 1, 60, 178], "a": ["TRAIN_PROBE", "TRAIN_ZEALOT", "BUILD_GATEWAY"]}
+{"s": [1, 2, 1, 2, 2, 32, 3, 1, 2, 1, 20, 182], "a": ["TRAIN_PROBE"]}
+{"s": [1, 2, 1, 2, 2, 32, 3, 1, 2, 1, 30, 182], "a": ["TRAIN_PROBE", "TRAIN_ZEALOT", "BUILD_GATEWAY"]}
+{"s": [1, 2, 1, 2, 2, 33, 3, 1, 2, 1, 50, 186], "a": ["TRAIN_PROBE", "TRAIN_ZEALOT", "BUILD_GATEWAY"]}
+{"s": [1, 2, 1, 2, 2, 34, 3, 1, 2, 1, 10, 190], "a": ["TRAIN_STALKER", "TRAIN_PROBE", "TRAIN_ZEALOT", "BUILD_GATEWAY"]}
+{"s": [1, 2, 1, 2, 2, 33, 3, 1, 2, 1, 20, 190], "a": ["TRAIN_PROBE", "TRAIN_ZEALOT", "BUILD_GATEWAY"]}
+{"s": [1, 2, 1, 2, 2, 34, 3, 1, 2, 1, 35, 194], "a": ["TRAIN_PROBE", "TRAIN_ZEALOT", "BUILD_GATEWAY"]}
+{"s": [1, 2, 1, 2, 2, 33, 3, 1, 2, 1, 40, 194], "a": ["TRAIN_PROBE", "TRAIN_ZEALOT", "BUILD_GATEWAY"]}
+{"s": [1, 2, 1, 2, 2, 33, 3, 1, 2, 1, 50, 198], "a": ["TRAIN_PROBE", "TRAIN_ZEALOT", "BUILD_GATEWAY"]}
+{"s": [1, 2, 1, 2, 2, 33, 3, 1, 2, 1, 55, 202], "a": ["TRAIN_PROBE", "TRAIN_ZEALOT", "BUILD_GATEWAY"]}
+{"s": [1, 2, 1, 2, 2, 33, 3, 1, 2, 1, 60, 202], "a": ["TRAIN_PROBE", "TRAIN_ZEALOT", "BUILD_GATEWAY"]}
+{"s": [1, 2, 1, 2, 2, 33, 3, 1, 2, 1, 75, 206], "a": ["TRAIN_PROBE", "TRAIN_ZEALOT", "BUILD_GATEWAY"]}
+{"s": [1, 2, 1, 2, 2, 33, 3, 1, 2, 1, 90, 206], "a": ["TRAIN_PROBE", "TRAIN_ZEALOT", "BUILD_GATEWAY"]}
+{"s": [1, 2, 1, 2, 2, 33, 3, 1, 2, 1, 95, 210], "a": ["TRAIN_PROBE", "TRAIN_ZEALOT", "BUILD_GATEWAY"]}
+{"s": [1, 2, 1, 2, 2, 33, 3, 1, 2, 1, 105, 214], "a": ["TRAIN_PROBE", "TRAIN_ZEALOT", "BUILD_GATEWAY"]}
+{"s": [1, 2, 1, 2, 2, 33, 3, 1, 2, 1, 135, 214], "a": ["TRAIN_PROBE", "TRAIN_ZEALOT", "BUILD_GATEWAY"]}
+{"s": [1, 2, 1, 2, 2, 33, 3, 1, 2, 1, 140, 218], "a": ["TRAIN_PROBE", "TRAIN_ZEALOT", "BUILD_GATEWAY"]}
+{"s": [1, 2, 1, 2, 2, 33, 3, 1, 2, 1, 145, 222], "a": ["TRAIN_PROBE", "TRAIN_ZEALOT", "BUILD_GATEWAY"]}
+{"s": [1, 2, 1, 2, 2, 33, 3, 1, 2, 1, 155, 222], "a": ["TRAIN_PROBE", "TRAIN_ZEALOT", "BUILD_GATEWAY"]}
+{"s": [1, 2, 1, 2, 2, 33, 3, 1, 2, 1, 15, 226], "a": ["TRAIN_PROBE", "TRAIN_IMMORTAL"]}
+{"s": [1, 2, 1, 2, 2, 33, 3, 1, 2, 1, 40, 226], "a": ["TRAIN_PROBE", "TRAIN_ZEALOT"]}
+{"s": [1, 2, 1, 2, 2, 33, 3, 1, 2, 1, 45, 230], "a": ["TRAIN_PROBE", "TRAIN_ZEALOT"]}
+{"s": [1, 2, 1, 2, 2, 33, 3, 1, 2, 1, 55, 234], "a": ["TRAIN_PROBE", "TRAIN_ZEALOT"]}
+{"s": [1, 2, 1, 2, 2, 33, 3, 1, 2, 1, 60, 234], "a": ["TRAIN_PROBE", "TRAIN_ZEALOT"]}
+{"s": [1, 2, 1, 3, 2, 33, 3, 1, 2, 1, 75, 238], "a": ["TRAIN_PROBE", "TRAIN_ZEALOT"]}
+{"s": [2, 1, 3, 2, 33, 3, 1, 2, 1, 95, 238], "a": ["TRAIN_PROBE", "TRAIN_ZEALOT", "BUILD_GATEWAY"]}
+{"s": [2, 1, 3, 2, 33, 3, 1, 2, 1, 105, 242], "a": ["TRAIN_PROBE", "TRAIN_ZEALOT", "BUILD_GATEWAY"]}
+{"s": [2, 1, 3, 2, 33, 3, 1, 2, 1, 110, 246], "a": ["TRAIN_PROBE", "TRAIN_ZEALOT", "BUILD_GATEWAY"]}
+{"s": [2, 1, 3, 2, 34, 3, 1, 2, 1, 120, 246], "a": ["TRAIN_PROBE", "TRAIN_ZEALOT", "BUILD_GATEWAY"]}
+{"s": [2, 1, 3, 2, 34, 3, 1, 2, 1, 90, 250], "a": ["BUILD_PYLON", "TRAIN_IMMORTAL", "BUILD_NEXUS"]}
+{"s": [2, 1, 3, 2, 34, 3, 1, 2, 1, 1, 105, 250], "a": ["TRAIN_PROBE", "TRAIN_ZEALOT", "BUILD_GATEWAY"]}
+{"s": [2, 1, 3, 2, 35, 3, 1, 2, 1, 1, 115, 254], "a": ["TRAIN_PROBE", "TRAIN_ZEALOT", "BUILD_GATEWAY"]}
+{"s": [2, 1, 3, 2, 35, 3, 1, 2, 1, 1, 70, 258], "a": ["TRAIN_STALKER", "TRAIN_PROBE", "BUILD_TWILIGHTCOUNCIL", "TRAIN_ZEALOT", "BUILD_GATEWAY"]}
+{"s": [2, 1, 3, 2, 35, 3, 1, 2, 1, 1, 75, 258], "a": ["TRAIN_PROBE", "TRAIN_ZEALOT", "BUILD_GATEWAY"]}
+{"s": [2, 1, 3, 2, 35, 3, 1, 2, 1, 1, 95, 262], "a": ["TRAIN_PROBE", "TRAIN_ZEALOT", "BUILD_GATEWAY"]}
+{"s": [2, 1, 3, 2, 35, 3, 1, 2, 1, 1, 110, 262], "a": ["TRAIN_PROBE", "TRAIN_ZEALOT", "BUILD_GATEWAY"]}
+{"s": [2, 1, 3, 2, 35, 3, 1, 2, 1, 1, 130, 266], "a": ["TRAIN_PROBE", "TRAIN_ZEALOT", "BUILD_GATEWAY"]}
+{"s": [2, 1, 3, 2, 36, 3, 1, 2, 1, 1, 130, 270], "a": ["TRAIN_PROBE", "TRAIN_ZEALOT", "BUILD_GATEWAY"]}
+{"s": [2, 1, 3, 2, 35, 3, 1, 2, 1, 1, 140, 270], "a": ["TRAIN_PROBE", "TRAIN_ZEALOT", "BUILD_GATEWAY"]}
+{"s": [2, 1, 3, 2, 36, 3, 1, 2, 1, 1, 145, 274], "a": ["TRAIN_PROBE", "TRAIN_ZEALOT", "BUILD_GATEWAY"]}
+{"s": [2, 1, 3, 2, 35, 3, 1, 2, 1, 1, 165, 274], "a": ["TRAIN_PROBE", "TRAIN_ZEALOT", "BUILD_GATEWAY"]}
+{"s": [2, 1, 3, 2, 35, 3, 1, 2, 1, 1, 175, 278], "a": ["TRAIN_PROBE", "TRAIN_ZEALOT", "BUILD_GATEWAY"]}
+{"s": [2, 1, 3, 2, 35, 3, 1, 2, 1, 1, 195, 282], "a": ["TRAIN_PROBE", "TRAIN_ZEALOT", "BUILD_GATEWAY"]}
+{"s": [2, 1, 3, 2, 35, 3, 1, 2, 1, 1, 205, 282], "a": ["TRAIN_PROBE", "TRAIN_ZEALOT", "BUILD_GATEWAY"]}
+{"s": [2, 1, 3, 2, 35, 3, 1, 2, 1, 1, 205, 286], "a": ["TRAIN_PROBE", "TRAIN_IMMORTAL", "TRAIN_ZEALOT", "BUILD_GATEWAY"]}
+{"s": [2, 1, 3, 2, 35, 3, 1, 2, 1, 1, 115, 286], "a": ["BUILD_PYLON", "TRAIN_PROBE", "TRAIN_IMMORTAL", "BUILD_GATEWAY"]}
+{"s": [2, 1, 3, 2, 35, 3, 1, 2, 1, 1, 30, 290], "a": ["TRAIN_PROBE", "TRAIN_IMMORTAL", "TRAIN_ZEALOT", "BUILD_GATEWAY"]}
+{"s": [2, 1, 3, 2, 35, 3, 1, 2, 1, 1, 65, 294], "a": ["TRAIN_PROBE", "TRAIN_IMMORTAL", "BUILD_GATEWAY"]}
+{"s": [2, 1, 3, 2, 35, 3, 1, 2, 1, 1, 75, 294], "a": ["TRAIN_PROBE", "TRAIN_IMMORTAL", "BUILD_GATEWAY"]}
+{"s": [2, 1, 3, 2, 35, 3, 1, 2, 1, 1, 75, 298], "a": ["TRAIN_PROBE", "TRAIN_IMMORTAL", "BUILD_GATEWAY"]}
+{"s": [2, 1, 3, 2, 35, 3, 1, 2, 1, 1, 75, 302], "a": ["TRAIN_PROBE", "TRAIN_IMMORTAL", "BUILD_GATEWAY"]}
+{"s": [2, 1, 3, 2, 35, 4, 1, 2, 1, 1, 90, 302], "a": ["TRAIN_PROBE", "TRAIN_IMMORTAL"]}
+{"s": [2, 1, 3, 2, 35, 4, 1, 2, 1, 1, 120, 306], "a": ["TRAIN_PROBE", "TRAIN_IMMORTAL", "BUILD_GATEWAY"]}
+{"s": [2, 1, 3, 2, 35, 4, 1, 2, 1, 1, 135, 306], "a": ["TRAIN_PROBE", "TRAIN_IMMORTAL", "BUILD_GATEWAY"]}
+{"s": [2, 1, 3, 2, 35, 4, 1, 2, 1, 1, 140, 310], "a": ["TRAIN_PROBE", "TRAIN_IMMORTAL", "BUILD_GATEWAY"]}
+{"s": [2, 1, 3, 2, 35, 4, 1, 2, 1, 1, 150, 314], "a": ["TRAIN_PROBE", "TRAIN_IMMORTAL", "BUILD_GATEWAY"]}
+{"s": [2, 1, 3, 2, 36, 4, 1, 2, 1, 1, 0, 314], "a": ["BUILD_CYBERNETICSCORE"]}
+{"s": [2, 1, 3, 2, 36, 4, 1, 2, 1, 1, 30, 318], "a": ["TRAIN_PROBE", "TRAIN_IMMORTAL"]}
+{"s": [2, 1, 3, 2, 36, 4, 1, 2, 1, 1, 45, 318], "a": ["TRAIN_PROBE", "TRAIN_IMMORTAL"]}
+{"s": [2, 1, 3, 2, 37, 4, 1, 2, 1, 1, 50, 322], "a": ["TRAIN_PROBE", "TRAIN_IMMORTAL"]}
+{"s": [2, 1, 3, 2, 37, 4, 1, 2, 1, 1, 15, 326], "a": ["BUILD_ASSIMILATOR"]}
+{"s": [2, 1, 4, 2, 37, 4, 1, 2, 1, 1, 25, 326], "a": ["TRAIN_PROBE", "TRAIN_IMMORTAL", "BUILD_ROBOTICSFACILITY"]}
+{"s": [2, 1, 4, 2, 37, 4, 1, 2, 1, 1, 40, 330], "a": ["TRAIN_PROBE", "TRAIN_IMMORTAL", "BUILD_ROBOTICSFACILITY"]}
+{"s": [2, 1, 4, 2, 37, 4, 1, 2, 1, 1, 55, 330], "a": ["TRAIN_PROBE", "TRAIN_IMMORTAL", "BUILD_ROBOTICSFACILITY"]}
+{"s": [2, 1, 4, 2, 37, 4, 1, 2, 1, 1, 20, 334], "a": ["TRAIN_STALKER", "TRAIN_PROBE", "TRAIN_ZEALOT", "BUILD_GATEWAY"]}
+{"s": [2, 1, 4, 2, 37, 4, 1, 2, 1, 1, 25, 338], "a": ["TRAIN_PROBE", "TRAIN_IMMORTAL", "BUILD_ROBOTICSFACILITY"]}
+{"s": [2, 1, 4, 2, 37, 4, 1, 2, 1, 1, 40, 338], "a": ["TRAIN_PROBE", "TRAIN_IMMORTAL", "BUILD_ROBOTICSFACILITY"]}
+{"s": [2, 1, 4, 2, 37, 4, 1, 2, 1, 1, 50, 342], "a": ["TRAIN_PROBE", "TRAIN_IMMORTAL", "BUILD_ROBOTICSFACILITY"]}
+{"s": [2, 1, 4, 2, 37, 4, 1, 2, 1, 1, 65, 342], "a": ["TRAIN_PROBE", "TRAIN_IMMORTAL", "BUILD_ROBOTICSFACILITY"]}
+{"s": [2, 1, 4, 2, 37, 4, 1, 2, 1, 1, 80, 346], "a": ["TRAIN_PROBE", "TRAIN_IMMORTAL", "BUILD_ROBOTICSFACILITY"]}
+{"s": [2, 1, 4, 2, 38, 4, 1, 2, 1, 1, 90, 350], "a": ["TRAIN_PROBE", "TRAIN_IMMORTAL", "BUILD_ROBOTICSFACILITY"]}
+{"s": [2, 1, 4, 2, 37, 4, 1, 2, 1, 1, 95, 350], "a": ["TRAIN_PROBE", "TRAIN_IMMORTAL", "BUILD_ROBOTICSFACILITY"]}
+{"s": [2, 1, 4, 2, 38, 4, 1, 2, 1, 1, 110, 354], "a": ["TRAIN_PROBE", "TRAIN_IMMORTAL", "BUILD_ROBOTICSFACILITY"]}
+{"s": [2, 1, 4, 2, 37, 4, 1, 2, 1, 1, 125, 354], "a": ["TRAIN_PROBE", "TRAIN_IMMORTAL", "BUILD_ROBOTICSFACILITY"]}
+{"s": [2, 1, 4, 2, 37, 4, 1, 2, 1, 1, 145, 358], "a": ["TRAIN_PROBE", "TRAIN_IMMORTAL", "BUILD_ROBOTICSFACILITY"]}
+{"s": [2, 1, 4, 2, 37, 4, 1, 2, 1, 1, 155, 362], "a": ["TRAIN_PROBE", "TRAIN_IMMORTAL", "BUILD_ROBOTICSFACILITY"]}
+{"s": [2, 1, 4, 2, 37, 4, 1, 2, 1, 1, 15, 262], "a": ["TRAIN_IMMORTAL"]}
+{"s": [2, 1, 4, 2, 37, 4, 1, 2, 1, 1, 30, 266], "a": ["TRAIN_PROBE", "TRAIN_IMMORTAL"]}
+{"s": [2, 1, 4, 2, 37, 4, 1, 2, 1, 1, 40, 266], "a": ["TRAIN_PROBE", "TRAIN_IMMORTAL"]}
+{"s": [2, 1, 4, 2, 37, 4, 1, 2, 1, 1, 60, 270], "a": ["TRAIN_PROBE", "TRAIN_IMMORTAL"]}
+{"s": [2, 1, 4, 2, 37, 4, 1, 2, 1, 1, 80, 274], "a": ["TRAIN_PROBE", "TRAIN_IMMORTAL"]}
+{"s": [2, 1, 4, 2, 37, 4, 1, 2, 1, 1, 85, 274], "a": ["TRAIN_PROBE", "TRAIN_IMMORTAL"]}
+{"s": [2, 1, 4, 2, 37, 4, 1, 2, 1, 1, 90, 278], "a": ["TRAIN_PROBE", "TRAIN_IMMORTAL"]}
+{"s": [2, 1, 4, 2, 37, 4, 1, 2, 1, 1, 95, 282], "a": ["TRAIN_PROBE", "TRAIN_IMMORTAL"]}
+{"s": [2, 1, 4, 2, 37, 4, 2, 2, 1, 1, 130, 282], "a": ["TRAIN_PROBE", "TRAIN_IMMORTAL"]}
+{"s": [2, 1, 4, 2, 37, 4, 2, 2, 1, 1, 155, 286], "a": ["TRAIN_PROBE", "TRAIN_IMMORTAL"]}
+{"s": [2, 1, 4, 2, 38, 4, 2, 2, 1, 1, 155, 290], "a": ["TRAIN_PROBE", "TRAIN_IMMORTAL"]}
+{"s": [2, 1, 4, 2, 38, 4, 2, 2, 1, 1, 120, 294], "a": ["BUILD_PYLON"]}
+{"s": [2, 1, 4, 2, 38, 4, 2, 2, 1, 1, 140, 294], "a": ["TRAIN_PROBE", "TRAIN_IMMORTAL"]}
+{"s": [2, 1, 4, 2, 38, 4, 2, 2, 1, 1, 165, 298], "a": ["TRAIN_PROBE", "TRAIN_IMMORTAL"]}
+{"s": [2, 1, 4, 2, 39, 4, 2, 2, 1, 1, 170, 298], "a": ["TRAIN_PROBE", "TRAIN_IMMORTAL"]}
+{"s": [2, 1, 4, 2, 39, 4, 2, 2, 1, 1, 130, 302], "a": ["TRAIN_PROBE", "TRAIN_ZEALOT", "BUILD_GATEWAY"]}
+{"s": [2, 1, 4, 2, 39, 4, 2, 2, 1, 1, 140, 306], "a": ["TRAIN_PROBE", "TRAIN_IMMORTAL"]}
+{"s": [2, 1, 4, 2, 39, 4, 2, 2, 1, 1, 150, 306], "a": ["TRAIN_PROBE", "TRAIN_IMMORTAL"]}
+{"s": [2, 1, 4, 2, 39, 4, 2, 2, 1, 1, 180, 310], "a": ["TRAIN_PROBE", "TRAIN_IMMORTAL"]}
+{"s": [2, 1, 4, 2, 39, 4, 2, 2, 1, 1, 190, 310], "a": ["TRAIN_PROBE", "TRAIN_IMMORTAL"]}
+{"s": [2, 1, 4, 2, 39, 4, 2, 2, 1, 1, 205, 314], "a": ["TRAIN_PROBE", "TRAIN_IMMORTAL"]}
+{"s": [2, 1, 4, 2, 39, 4, 2, 2, 1, 1, 210, 318], "a": ["TRAIN_PROBE", "TRAIN_IMMORTAL"]}
+{"s": [2, 1, 4, 2, 39, 4, 2, 2, 1, 1, 220, 318], "a": ["TRAIN_PROBE", "TRAIN_IMMORTAL"]}
+{"s": [2, 1, 4, 2, 39, 4, 2, 2, 1, 1, 235, 322], "a": ["TRAIN_PROBE", "TRAIN_IMMORTAL"]}
+{"s": [2, 1, 4, 2, 39, 4, 2, 2, 1, 1, 255, 322], "a": ["TRAIN_PROBE", "TRAIN_IMMORTAL"]}
+{"s": [2, 1, 4, 2, 39, 4, 2, 2, 1, 1, 270, 326], "a": ["TRAIN_PROBE", "TRAIN_IMMORTAL"]}
+{"s": [2, 1, 4, 2, 40, 4, 2, 2, 1, 1, 280, 330], "a": ["TRAIN_PROBE", "TRAIN_IMMORTAL"]}
+{"s": [2, 1, 4, 2, 39, 4, 2, 2, 1, 1, 10, 230], "a": ["TRAIN_IMMORTAL", "BUILD_NEXUS"]}
+{"s": [2, 1, 4, 2, 40, 4, 2, 2, 1, 2, 25, 234], "a": ["BUILD_PYLON", "TRAIN_PROBE", "TRAIN_OBSERVER"]}
+{"s": [2, 1, 4, 2, 39, 4, 2, 2, 1, 2, 50, 234], "a": ["BUILD_PYLON", "TRAIN_PROBE", "TRAIN_OBSERVER"]}
+{"s": [2, 1, 4, 2, 39, 4, 2, 2, 1, 2, 60, 238], "a": ["BUILD_PYLON", "TRAIN_PROBE", "TRAIN_OBSERVER"]}
+{"s": [2, 1, 4, 2, 39, 4, 2, 2, 1, 2, 70, 242], "a": ["BUILD_PYLON", "TRAIN_PROBE", "TRAIN_OBSERVER"]}
+{"s": [2, 1, 4, 2, 39, 4, 2, 2, 1, 2, 80, 242], "a": ["BUILD_PYLON", "TRAIN_PROBE", "TRAIN_OBSERVER"]}
+{"s": [2, 1, 4, 2, 39, 4, 2, 2, 1, 2, 110, 246], "a": ["BUILD_PYLON", "TRAIN_PROBE", "TRAIN_OBSERVER"]}
+{"s": [2, 1, 4, 2, 39, 4, 2, 2, 1, 2, 10, 246], "a": ["BUILD_PYLON", "TRAIN_IMMORTAL"]}
+{"s": [2, 1, 4, 2, 39, 4, 2, 2, 1, 2, 35, 250], "a": ["TRAIN_PROBE", "TRAIN_OBSERVER"]}
+{"s": [2, 1, 4, 2, 39, 4, 2, 2, 1, 2, 45, 254], "a": ["TRAIN_PROBE", "TRAIN_OBSERVER"]}
+{"s": [2, 1, 4, 2, 39, 4, 2, 2, 1, 2, 65, 254], "a": ["TRAIN_PROBE", "TRAIN_OBSERVER"]}
+{"s": [2, 1, 4, 2, 40, 4, 2, 2, 1, 2, 75, 258], "a": ["TRAIN_PROBE", "TRAIN_OBSERVER"]}
+{"s": [2, 1, 4, 2, 40, 4, 2, 2, 1, 2, 40, 262], "a": ["TRAIN_STALKER", "TRAIN_PROBE", "BUILD_ROBOTICSFACILITY", "TRAIN_ZEALOT", "BUILD_GATEWAY"]}
+{"s": [2, 1, 3, 2, 40, 4, 2, 2, 1, 1, 2, 55, 262], "a": ["BUILD_ASSIMILATOR", "TRAIN_OBSERVER"]}
+{"s": [2, 1, 3, 2, 40, 4, 2, 2, 1, 1, 2, 55, 266], "a": ["BUILD_ASSIMILATOR", "TRAIN_OBSERVER"]}
+{"s": [2, 1, 3, 2, 41, 4, 2, 2, 1, 1, 2, 75, 266], "a": ["BUILD_ASSIMILATOR", "TRAIN_OBSERVER"]}
+{"s": [2, 1, 3, 2, 41, 4, 2, 2, 1, 1, 2, 10, 270], "a": ["BUILD_PYLON", "TRAIN_STALKER", "TRAIN_PROBE", "BUILD_ROBOTICSFACILITY", "TRAIN_ZEALOT", "BUILD_GATEWAY"]}
+{"s": [3, 1, 3, 2, 41, 5, 2, 2, 1, 1, 2, 30, 274], "a": ["TRAIN_OBSERVER"]}
+{"s": [3, 1, 2, 2, 41, 5, 2, 2, 1, 2, 2, 45, 274], "a": ["TRAIN_OBSERVER"]}
+{"s": [3, 1, 2, 2, 41, 5, 2, 2, 1, 2, 2, 55, 278], "a": ["TRAIN_OBSERVER"]}
+{"s": [3, 1, 2, 2, 41, 5, 2, 2, 1, 2, 2, 70, 278], "a": ["TRAIN_OBSERVER"]}
+{"s": [3, 1, 2, 2, 41, 5, 2, 2, 1, 2, 2, 80, 282], "a": ["TRAIN_OBSERVER"]}
+{"s": [3, 1, 2, 2, 41, 5, 2, 2, 1, 2, 2, 95, 286], "a": ["TRAIN_OBSERVER"]}
+{"s": [3, 1, 2, 2, 41, 5, 2, 2, 1, 2, 2, 120, 286], "a": ["TRAIN_OBSERVER"]}
+{"s": [3, 1, 2, 2, 41, 5, 2, 2, 1, 2, 2, 130, 290], "a": ["TRAIN_OBSERVER"]}
+{"s": [3, 1, 2, 2, 41, 5, 2, 2, 1, 2, 3, 35, 290], "a": ["BUILD_ASSIMILATOR"]}
+{"s": [3, 1, 2, 2, 41, 5, 2, 2, 1, 2, 3, 45, 294], "a": ["BUILD_PYLON", "TRAIN_OBSERVER"]}
+{"s": [3, 1, 2, 2, 41, 5, 2, 2, 1, 2, 3, 75, 298], "a": ["BUILD_PYLON", "TRAIN_OBSERVER"]}
+{"s": [3, 1, 2, 2, 41, 5, 2, 2, 1, 2, 3, 85, 298], "a": ["BUILD_PYLON", "TRAIN_OBSERVER"]}
+{"s": [3, 1, 2, 2, 41, 5, 2, 2, 1, 2, 3, 85, 302], "a": ["BUILD_PYLON", "TRAIN_OBSERVER"]}
+{"s": [3, 1, 2, 2, 41, 5, 2, 2, 1, 2, 3, 110, 302], "a": ["BUILD_PYLON", "TRAIN_OBSERVER"]}
+{"s": [3, 1, 2, 2, 41, 5, 2, 2, 1, 2, 3, 25, 306], "a": ["BUILD_GATEWAY"]}
+{"s": [3, 1, 2, 2, 42, 5, 2, 2, 1, 2, 3, 45, 310], "a": ["TRAIN_OBSERVER"]}
+{"s": [3, 1, 2, 2, 41, 5, 2, 2, 1, 2, 3, 55, 310], "a": ["TRAIN_OBSERVER"]}
+{"s": [3, 1, 2, 2, 42, 5, 2, 2, 1, 2, 3, 65, 314], "a": ["TRAIN_OBSERVER"]}
+{"s": [3, 1, 2, 2, 41, 5, 2, 2, 1, 2, 3, 90, 314], "a": ["TRAIN_OBSERVER"]}
+{"s": [3, 1, 2, 2, 41, 6, 2, 2, 1, 2, 3, 90, 318], "a": ["TRAIN_OBSERVER"]}
+{"s": [3, 1, 2, 2, 41, 6, 2, 2, 1, 2, 3, 115, 322], "a": ["TRAIN_OBSERVER"]}
+{"s": [3, 1, 2, 2, 41, 6, 2, 2, 1, 2, 3, 125, 322], "a": ["TRAIN_OBSERVER"]}
+{"s": [3, 1, 2, 2, 42, 6, 2, 2, 1, 2, 4, 40, 326], "a": ["BUILD_PYLON", "TRAIN_PROBE", "TRAIN_IMMORTAL", "BUILD_GATEWAY"]}
+{"s": [3, 1, 2, 2, 42, 6, 2, 2, 1, 2, 4, 50, 326], "a": ["TRAIN_OBSERVER"]}
+{"s": [3, 1, 1, 2, 42, 6, 2, 2, 1, 3, 4, 70, 330], "a": ["TRAIN_OBSERVER"]}
+{"s": [3, 1, 1, 2, 42, 6, 2, 2, 1, 3, 4, 90, 334], "a": ["TRAIN_OBSERVER"]}
+{"s": [3, 1, 1, 2, 42, 6, 2, 2, 1, 3, 4, 100, 334], "a": ["TRAIN_OBSERVER"]}
+{"s": [3, 1, 1, 2, 42, 6, 2, 2, 1, 3, 4, 110, 338], "a": ["TRAIN_OBSERVER"]}
+{"s": [3, 1, 1, 2, 42, 6, 2, 2, 1, 3, 4, 130, 342], "a": ["TRAIN_OBSERVER"]}
+{"s": [3, 1, 1, 2, 42, 6, 2, 2, 1, 3, 5, 45, 342], "a": ["TRAIN_STALKER", "TRAIN_PROBE", "BUILD_ROBOTICSFACILITY", "TRAIN_ZEALOT", "BUILD_GATEWAY"]}
+{"s": [3, 1, 1, 2, 42, 6, 2, 2, 1, 3, 5, 50, 346], "a": ["TRAIN_OBSERVER"]}
+{"s": [3, 1, 1, 2, 42, 6, 2, 2, 1, 3, 5, 75, 346], "a": ["TRAIN_OBSERVER"]}
+{"s": [3, 1, 1, 2, 42, 6, 2, 2, 1, 3, 5, 85, 350], "a": ["TRAIN_OBSERVER"]}
+{"s": [3, 1, 1, 2, 42, 6, 2, 2, 1, 3, 5, 95, 354], "a": ["TRAIN_OBSERVER"]}
+{"s": [3, 1, 1, 2, 42, 6, 2, 2, 1, 3, 5, 110, 354], "a": ["TRAIN_OBSERVER"]}
+{"s": [3, 1, 1, 2, 42, 6, 2, 2, 1, 3, 5, 135, 358], "a": ["TRAIN_OBSERVER"]}
+{"s": [3, 1, 1, 2, 42, 6, 2, 2, 1, 3, 5, 145, 358], "a": ["TRAIN_OBSERVER"]}
+{"s": [3, 1, 1, 2, 42, 6, 2, 2, 1, 3, 5, 155, 362], "a": ["TRAIN_OBSERVER"]}
+{"s": [3, 1, 1, 2, 42, 6, 2, 2, 1, 3, 5, 175, 366], "a": ["TRAIN_OBSERVER"]}
+{"s": [3, 1, 1, 2, 42, 6, 2, 2, 1, 3, 5, 195, 366], "a": ["TRAIN_OBSERVER"]}
+{"s": [3, 1, 1, 2, 42, 6, 2, 2, 1, 3, 5, 205, 370], "a": ["TRAIN_OBSERVER"]}
+{"s": [3, 1, 1, 2, 42, 6, 2, 2, 1, 3, 5, 220, 370], "a": ["TRAIN_OBSERVER"]}
+{"s": [3, 1, 1, 1, 2, 42, 6, 2, 2, 1, 3, 5, 245, 374], "a": ["TRAIN_OBSERVER"]}
+{"s": [3, 1, 1, 1, 2, 42, 6, 2, 2, 1, 3, 5, 230, 303], "a": ["TRAIN_IMMORTAL"]}
+{"s": [3, 1, 1, 1, 2, 42, 6, 2, 2, 1, 3, 5, 235, 303], "a": ["TRAIN_IMMORTAL"]}
+{"s": [3, 1, 1, 1, 2, 42, 6, 2, 2, 1, 3, 5, 245, 307], "a": ["TRAIN_IMMORTAL"]}
+{"s": [3, 1, 1, 1, 2, 42, 6, 2, 2, 1, 3, 5, 275, 307], "a": ["TRAIN_IMMORTAL"]}
+{"s": [3, 1, 1, 1, 2, 42, 6, 2, 2, 1, 3, 5, 290, 311], "a": ["TRAIN_IMMORTAL"]}
+{"s": [3, 1, 1, 1, 2, 43, 6, 2, 2, 1, 3, 5, 300, 315], "a": ["TRAIN_IMMORTAL"]}
+{"s": [3, 1, 1, 1, 2, 42, 6, 2, 2, 1, 3, 5, 310, 315], "a": ["TRAIN_IMMORTAL"]}
+{"s": [3, 1, 1, 1, 2, 43, 6, 2, 2, 1, 3, 5, 315, 319], "a": ["TRAIN_IMMORTAL"]}
+{"s": [3, 1, 1, 1, 2, 42, 6, 2, 2, 1, 3, 5, 335, 319], "a": ["TRAIN_IMMORTAL"]}
+{"s": [3, 1, 1, 1, 2, 42, 6, 2, 2, 1, 3, 5, 355, 323], "a": ["TRAIN_IMMORTAL"]}
+{"s": [3, 1, 1, 1, 2, 41, 6, 2, 2, 1, 3, 5, 375, 327], "a": ["TRAIN_IMMORTAL"]}
+{"s": [3, 1, 1, 1, 2, 41, 6, 2, 2, 1, 3, 6, 280, 327], "a": ["TRAIN_STALKER", "TRAIN_PROBE", "TRAIN_ZEALOT", "BUILD_GATEWAY"]}
+{"s": [3, 1, 1, 1, 2, 41, 6, 2, 2, 1, 3, 6, 190, 331], "a": ["TRAIN_PROBE", "TRAIN_IMMORTAL", "BUILD_GATEWAY"]}
+{"s": [3, 1, 1, 1, 2, 42, 6, 2, 2, 1, 3, 6, 200, 331], "a": ["TRAIN_IMMORTAL"]}
+{"s": [3, 1, 1, 1, 2, 42, 6, 2, 2, 1, 3, 6, 235, 335], "a": ["TRAIN_IMMORTAL"]}
+{"s": [3, 1, 1, 1, 2, 42, 6, 2, 2, 1, 3, 6, 245, 339], "a": ["TRAIN_IMMORTAL"]}
+{"s": [3, 1, 1, 1, 2, 42, 6, 2, 2, 1, 3, 6, 255, 339], "a": ["TRAIN_IMMORTAL"]}
+{"s": [3, 1, 1, 2, 42, 6, 2, 2, 1, 4, 6, 260, 343], "a": ["TRAIN_IMMORTAL"]}
+{"s": [3, 1, 1, 2, 42, 7, 2, 2, 1, 4, 7, 170, 351], "a": ["BUILD_GATEWAY"]}
+{"s": [3, 1, 1, 2, 42, 7, 2, 2, 1, 4, 7, 185, 351], "a": ["TRAIN_IMMORTAL"]}
+{"s": [3, 1, 1, 2, 42, 7, 2, 2, 1, 4, 7, 190, 355], "a": ["TRAIN_IMMORTAL"]}
+{"s": [3, 1, 1, 2, 41, 7, 2, 2, 1, 4, 7, 220, 355], "a": ["TRAIN_IMMORTAL"]}
+{"s": [3, 1, 1, 2, 41, 7, 2, 2, 1, 4, 7, 235, 359], "a": ["TRAIN_IMMORTAL"]}
+{"s": [3, 1, 1, 2, 41, 7, 2, 2, 1, 4, 7, 235, 363], "a": ["TRAIN_IMMORTAL"]}
+{"s": [3, 1, 1, 2, 41, 7, 2, 2, 1, 4, 7, 240, 363], "a": ["TRAIN_IMMORTAL"]}
+{"s": [3, 1, 1, 2, 41, 7, 2, 2, 1, 4, 8, 170, 367], "a": ["TRAIN_STALKER", "TRAIN_PROBE", "BUILD_ROBOTICSFACILITY", "TRAIN_ZEALOT", "BUILD_GATEWAY"]}
+{"s": [3, 1, 1, 2, 41, 7, 2, 2, 1, 4, 8, 190, 367], "a": ["TRAIN_IMMORTAL"]}
+{"s": [3, 1, 1, 2, 41, 7, 2, 2, 1, 4, 8, 210, 375], "a": ["TRAIN_IMMORTAL"]}
+{"s": [3, 1, 1, 2, 41, 7, 2, 2, 1, 4, 8, 215, 379], "a": ["TRAIN_IMMORTAL"]}
+{"s": [3, 1, 1, 2, 41, 7, 2, 2, 1, 4, 8, 220, 379], "a": ["TRAIN_IMMORTAL", "BUILD_NEXUS"]}
+{"s": [3, 1, 1, 2, 42, 7, 2, 2, 1, 4, 8, 235, 383], "a": ["TRAIN_IMMORTAL", "BUILD_NEXUS"]}
+{"s": [3, 1, 1, 2, 41, 7, 2, 2, 1, 4, 8, 240, 387], "a": ["TRAIN_IMMORTAL", "BUILD_NEXUS"]}
+{"s": [3, 1, 1, 2, 1, 41, 7, 2, 2, 1, 4, 8, 255, 391], "a": ["TRAIN_IMMORTAL", "BUILD_NEXUS"]}
+{"s": [3, 1, 1, 2, 1, 41, 7, 2, 2, 1, 4, 8, 280, 395], "a": ["TRAIN_IMMORTAL", "BUILD_NEXUS"]}
+{"s": [3, 1, 1, 2, 1, 41, 7, 2, 2, 1, 4, 8, 10, 299], "a": ["TRAIN_IMMORTAL", "BUILD_NEXUS"]}
+{"s": [3, 1, 1, 2, 1, 41, 7, 2, 2, 1, 4, 8, 25, 303], "a": ["BUILD_PYLON", "TRAIN_IMMORTAL", "BUILD_NEXUS"]}
+{"s": [3, 1, 1, 2, 1, 41, 7, 2, 2, 1, 4, 8, 45, 307], "a": ["BUILD_PYLON", "TRAIN_IMMORTAL", "BUILD_NEXUS"]}
+{"s": [3, 1, 1, 2, 1, 41, 7, 2, 2, 1, 4, 8, 60, 311], "a": ["BUILD_PYLON", "TRAIN_IMMORTAL", "BUILD_NEXUS"]}
+{"s": [3, 1, 1, 2, 1, 42, 7, 2, 2, 1, 4, 8, 70, 315], "a": ["BUILD_PYLON", "TRAIN_IMMORTAL", "BUILD_NEXUS"]}
+{"s": [3, 1, 1, 2, 1, 41, 7, 2, 2, 1, 4, 8, 90, 315], "a": ["BUILD_PYLON", "TRAIN_IMMORTAL", "BUILD_NEXUS"]}
+{"s": [3, 1, 1, 2, 1, 42, 7, 2, 2, 1, 4, 8, 105, 323], "a": ["BUILD_PYLON", "TRAIN_IMMORTAL", "BUILD_NEXUS"]}
+{"s": [3, 1, 1, 2, 1, 41, 7, 2, 2, 1, 4, 8, 20, 323], "a": ["TRAIN_OBSERVER"]}
+{"s": [3, 1, 1, 2, 1, 41, 7, 2, 2, 1, 4, 8, 30, 327], "a": ["TRAIN_IMMORTAL", "BUILD_NEXUS"]}
+{"s": [3, 1, 1, 2, 1, 41, 7, 2, 2, 1, 4, 8, 35, 335], "a": ["TRAIN_IMMORTAL", "BUILD_NEXUS"]}
+{"s": [3, 1, 1, 2, 1, 41, 8, 2, 2, 1, 4, 8, 45, 335], "a": ["TRAIN_IMMORTAL", "BUILD_NEXUS"]}
+{"s": [3, 1, 1, 2, 1, 41, 8, 2, 2, 1, 4, 8, 75, 339], "a": ["TRAIN_IMMORTAL", "BUILD_NEXUS"]}
+{"s": [3, 1, 1, 2, 1, 41, 8, 2, 2, 1, 4, 8, 80, 343], "a": ["TRAIN_IMMORTAL", "BUILD_NEXUS"]}
+{"s": [3, 1, 1, 2, 1, 41, 8, 2, 2, 1, 4, 8, 95, 347], "a": ["TRAIN_IMMORTAL", "BUILD_NEXUS"]}
+{"s": [3, 1, 1, 2, 1, 41, 8, 2, 2, 1, 4, 8, 105, 351], "a": ["TRAIN_IMMORTAL", "BUILD_NEXUS"]}
+{"s": [3, 1, 1, 2, 1, 41, 8, 2, 2, 1, 4, 8, 110, 351], "a": ["TRAIN_IMMORTAL", "BUILD_NEXUS"]}
+{"s": [3, 1, 1, 2, 1, 41, 8, 2, 2, 1, 4, 8, 125, 359], "a": ["TRAIN_IMMORTAL", "BUILD_NEXUS"]}
+{"s": [3, 1, 1, 2, 1, 41, 8, 2, 2, 1, 4, 8, 150, 363], "a": ["TRAIN_IMMORTAL", "BUILD_NEXUS"]}
+{"s": [3, 1, 1, 2, 1, 41, 8, 2, 2, 1, 4, 8, 170, 363], "a": ["TRAIN_IMMORTAL", "BUILD_NEXUS"]}
+{"s": [3, 1, 1, 2, 1, 41, 8, 2, 2, 1, 4, 8, 170, 371], "a": ["TRAIN_IMMORTAL", "BUILD_NEXUS"]}
+{"s": [3, 1, 1, 2, 1, 41, 8, 2, 2, 1, 4, 8, 180, 371], "a": ["TRAIN_IMMORTAL", "BUILD_NEXUS"]}
+{"s": [3, 1, 1, 2, 1, 41, 8, 2, 2, 1, 4, 8, 200, 375], "a": ["TRAIN_IMMORTAL", "BUILD_NEXUS"]}
+{"s": [3, 1, 1, 2, 1, 41, 8, 2, 2, 1, 4, 8, 210, 383], "a": ["TRAIN_IMMORTAL", "BUILD_NEXUS"]}
+{"s": [3, 1, 1, 2, 1, 41, 8, 2, 2, 1, 4, 8, 215, 383], "a": ["TRAIN_IMMORTAL", "BUILD_NEXUS"]}
+{"s": [3, 1, 1, 2, 1, 41, 8, 2, 2, 1, 4, 8, 240, 387], "a": ["TRAIN_IMMORTAL", "BUILD_NEXUS"]}
+{"s": [3, 1, 1, 2, 1, 41, 8, 2, 2, 1, 4, 8, 265, 387], "a": ["TRAIN_IMMORTAL", "BUILD_NEXUS"]}
+{"s": [3, 1, 1, 2, 1, 41, 8, 2, 2, 1, 4, 8, 265, 395], "a": ["TRAIN_IMMORTAL", "BUILD_NEXUS"]}
+{"s": [3, 1, 1, 2, 1, 41, 8, 2, 2, 1, 4, 8, 270, 399], "a": ["TRAIN_IMMORTAL", "BUILD_NEXUS"]}
+{"s": [3, 1, 1, 2, 1, 41, 8, 2, 2, 1, 4, 8, 295, 399], "a": ["TRAIN_IMMORTAL", "BUILD_NEXUS"]}
+{"s": [3, 1, 1, 2, 1, 42, 8, 2, 2, 1, 4, 8, 45, 307], "a": ["TRAIN_PROBE", "TRAIN_IMMORTAL", "BUILD_ROBOTICSFACILITY"]}
+{"s": [3, 1, 1, 2, 1, 41, 8, 2, 2, 1, 4, 8, 60, 307], "a": ["TRAIN_IMMORTAL", "BUILD_NEXUS"]}
+{"s": [3, 1, 1, 2, 1, 41, 8, 2, 2, 1, 4, 8, 65, 311], "a": ["TRAIN_IMMORTAL", "BUILD_NEXUS"]}
+{"s": [3, 1, 1, 2, 1, 41, 8, 2, 2, 1, 4, 8, 80, 319], "a": ["TRAIN_IMMORTAL", "BUILD_NEXUS"]}
+{"s": [3, 1, 1, 2, 1, 41, 8, 2, 2, 1, 4, 8, 95, 319], "a": ["TRAIN_IMMORTAL", "BUILD_NEXUS"]}
+{"s": [3, 1, 1, 2, 1, 41, 8, 2, 2, 1, 4, 8, 100, 323], "a": ["TRAIN_IMMORTAL", "BUILD_NEXUS"]}
+{"s": [3, 1, 1, 2, 1, 41, 8, 2, 2, 1, 4, 8, 120, 323], "a": ["TRAIN_IMMORTAL", "BUILD_NEXUS"]}
+{"s": [3, 1, 1, 2, 1, 41, 8, 2, 2, 1, 4, 8, 145, 331], "a": ["TRAIN_IMMORTAL", "BUILD_NEXUS"]}
+{"s": [3, 1, 1, 2, 1, 42, 8, 2, 2, 1, 4, 8, 145, 335], "a": ["TRAIN_IMMORTAL", "BUILD_NEXUS"]}
+{"s": [3, 1, 1, 2, 1, 41, 8, 2, 2, 1, 4, 8, 165, 335], "a": ["TRAIN_IMMORTAL", "BUILD_NEXUS"]}
+{"s": [3, 1, 1, 2, 1, 42, 8, 2, 2, 1, 4, 8, 185, 343], "a": ["TRAIN_IMMORTAL", "BUILD_NEXUS"]}
+{"s": [3, 1, 1, 2, 1, 41, 8, 2, 2, 1, 4, 8, 190, 343], "a": ["TRAIN_IMMORTAL", "BUILD_NEXUS"]}
+{"s": [3, 1, 1, 2, 1, 41, 8, 2, 2, 1, 4, 8, 210, 347], "a": ["TRAIN_IMMORTAL", "BUILD_NEXUS"]}
+{"s": [3, 1, 1, 2, 1, 41, 8, 2, 2, 1, 4, 8, 230, 355], "a": ["TRAIN_IMMORTAL", "BUILD_NEXUS"]}
+{"s": [3, 1, 1, 2, 1, 41, 8, 2, 2, 1, 4, 8, 245, 355], "a": ["TRAIN_IMMORTAL", "BUILD_NEXUS"]}
+{"s": [3, 1, 1, 2, 1, 41, 8, 2, 2, 1, 4, 8, 255, 359], "a": ["TRAIN_IMMORTAL", "BUILD_NEXUS"]}
+{"s": [3, 1, 1, 2, 1, 41, 8, 2, 2, 1, 4, 8, 255, 363], "a": ["TRAIN_IMMORTAL", "BUILD_NEXUS"]}
+{"s": [3, 1, 1, 2, 1, 41, 8, 2, 2, 1, 4, 8, 270, 367], "a": ["TRAIN_IMMORTAL", "BUILD_NEXUS"]}
+{"s": [3, 1, 1, 2, 1, 41, 8, 2, 2, 1, 4, 8, 300, 371], "a": ["TRAIN_IMMORTAL", "BUILD_NEXUS"]}
+{"s": [3, 1, 1, 2, 1, 41, 8, 2, 2, 1, 4, 8, 315, 371], "a": ["TRAIN_IMMORTAL", "BUILD_NEXUS"]}
+{"s": [3, 1, 1, 2, 1, 41, 8, 2, 2, 1, 4, 8, 325, 379], "a": ["TRAIN_IMMORTAL", "BUILD_NEXUS"]}
+{"s": [3, 1, 1, 2, 1, 41, 8, 2, 2, 1, 4, 8, 335, 383], "a": ["TRAIN_IMMORTAL", "BUILD_NEXUS"]}
+{"s": [3, 1, 1, 2, 1, 41, 8, 2, 2, 1, 4, 8, 350, 383], "a": ["TRAIN_IMMORTAL", "BUILD_NEXUS"]}
+{"s": [3, 1, 1, 2, 1, 41, 8, 2, 2, 1, 4, 8, 360, 391], "a": ["TRAIN_IMMORTAL", "BUILD_NEXUS"]}
+{"s": [3, 1, 1, 2, 1, 41, 8, 2, 2, 1, 4, 8, 395, 391], "a": ["TRAIN_IMMORTAL", "BUILD_NEXUS"]}
+{"s": [3, 1, 1, 2, 1, 41, 8, 2, 2, 1, 4, 8, 405, 395], "a": ["TRAIN_IMMORTAL", "BUILD_NEXUS"]}
+{"s": [3, 1, 1, 2, 1, 41, 8, 2, 2, 1, 4, 8, 5, 403], "a": ["TRAIN_PROBE", "TRAIN_OBSERVER"]}
+{"s": [3, 1, 1, 2, 1, 41, 8, 2, 2, 1, 4, 8, 20, 403], "a": ["TRAIN_IMMORTAL"]}
+{"s": [3, 1, 1, 2, 1, 41, 8, 2, 2, 1, 4, 8, 30, 407], "a": ["TRAIN_IMMORTAL"]}
+{"s": [3, 1, 1, 2, 1, 41, 8, 2, 2, 1, 4, 8, 55, 407], "a": ["TRAIN_IMMORTAL"]}
+{"s": [3, 1, 1, 2, 1, 41, 8, 2, 2, 1, 4, 8, 65, 415], "a": ["TRAIN_IMMORTAL"]}
+{"s": [3, 1, 1, 2, 1, 41, 8, 2, 2, 1, 4, 8, 70, 419], "a": ["TRAIN_IMMORTAL"]}
+{"s": [3, 1, 1, 2, 1, 41, 8, 2, 2, 1, 4, 8, 95, 419], "a": ["TRAIN_IMMORTAL"]}
+{"s": [3, 1, 1, 2, 1, 42, 8, 2, 2, 1, 4, 8, 105, 427], "a": ["TRAIN_IMMORTAL"]}
+{"s": [3, 1, 1, 2, 1, 41, 8, 2, 2, 1, 4, 9, 5, 427], "a": ["TRAIN_PROBE", "TRAIN_ZEALOT", "BUILD_GATEWAY"]}
+{"s": [3, 1, 1, 2, 1, 41, 8, 2, 2, 1, 4, 9, 30, 431], "a": ["BUILD_PYLON", "TRAIN_IMMORTAL"]}
+{"s": [3, 1, 2, 2, 1, 41, 8, 2, 2, 1, 4, 9, 40, 439], "a": ["BUILD_PYLON", "TRAIN_IMMORTAL"]}
+{"s": [3, 1, 2, 2, 1, 41, 8, 2, 2, 1, 4, 9, 60, 439], "a": ["BUILD_PYLON", "TRAIN_IMMORTAL"]}
+{"s": [3, 1, 2, 2, 1, 41, 8, 2, 2, 1, 4, 9, 75, 443], "a": ["BUILD_PYLON", "TRAIN_IMMORTAL"]}
+{"s": [3, 1, 2, 2, 1, 41, 8, 2, 2, 1, 4, 9, 85, 443], "a": ["BUILD_PYLON", "TRAIN_IMMORTAL"]}
+{"s": [3, 1, 2, 2, 1, 41, 8, 2, 2, 1, 4, 9, 100, 451], "a": ["BUILD_PYLON", "TRAIN_IMMORTAL"]}
+{"s": [3, 1, 2, 2, 1, 42, 8, 2, 2, 1, 4, 9, 10, 455], "a": ["BUILD_PYLON", "TRAIN_PROBE", "TRAIN_OBSERVER"]}
+{"s": [3, 1, 2, 2, 1, 41, 8, 2, 2, 1, 4, 9, 25, 455], "a": ["TRAIN_IMMORTAL"]}
+{"s": [3, 1, 2, 2, 1, 42, 9, 2, 2, 1, 4, 9, 50, 463], "a": ["TRAIN_IMMORTAL"]}
+{"s": [3, 1, 2, 2, 1, 41, 9, 2, 2, 1, 4, 9, 50, 463], "a": ["BUILD_PYLON"]}
+{"s": [3, 1, 2, 2, 1, 41, 9, 2, 2, 1, 4, 9, 70, 467], "a": ["TRAIN_IMMORTAL"]}
+{"s": [3, 1, 2, 3, 1, 41, 9, 2, 2, 1, 4, 9, 80, 475], "a": ["TRAIN_PROBE", "TRAIN_IMMORTAL"]}
+{"s": [3, 1, 2, 3, 1, 41, 9, 2, 2, 1, 4, 9, 45, 475], "a": ["BUILD_NEXUS"]}
+{"s": [3, 1, 2, 3, 1, 41, 9, 2, 2, 1, 4, 9, 50, 479], "a": ["TRAIN_PROBE", "TRAIN_IMMORTAL"]}
+{"s": [3, 1, 2, 3, 1, 41, 9, 2, 2, 1, 4, 9, 30, 483], "a": ["BUILD_ASSIMILATOR"]}
+{"s": [3, 1, 2, 3, 1, 41, 9, 2, 2, 1, 4, 9, 40, 487], "a": ["TRAIN_PROBE", "TRAIN_IMMORTAL"]}
+{"s": [3, 1, 2, 3, 1, 41, 9, 2, 2, 1, 4, 9, 55, 491], "a": ["TRAIN_PROBE", "TRAIN_IMMORTAL"]}
+{"s": [3, 1, 2, 3, 1, 41, 9, 2, 2, 1, 4, 9, 55, 499], "a": ["TRAIN_PROBE", "TRAIN_IMMORTAL"]}
+{"s": [3, 1, 2, 3, 1, 41, 9, 2, 2, 1, 4, 9, 80, 503], "a": ["TRAIN_PROBE", "TRAIN_IMMORTAL"]}
+{"s": [3, 1, 2, 3, 1, 41, 9, 2, 2, 1, 4, 9, 105, 503], "a": ["TRAIN_PROBE", "TRAIN_IMMORTAL"]}
+{"s": [3, 1, 2, 3, 1, 41, 9, 2, 2, 1, 4, 10, 15, 511], "a": ["TRAIN_PROBE", "TRAIN_OBSERVER"]}
+{"s": [3, 1, 2, 3, 1, 41, 9, 2, 2, 1, 4, 10, 25, 511], "a": ["TRAIN_PROBE", "TRAIN_IMMORTAL"]}
+{"s": [3, 1, 2, 3, 1, 41, 9, 2, 2, 1, 4, 10, 25, 515], "a": ["TRAIN_PROBE", "TRAIN_IMMORTAL"]}
+{"s": [3, 1, 2, 3, 1, 41, 9, 2, 2, 1, 4, 10, 45, 523], "a": ["TRAIN_PROBE", "TRAIN_IMMORTAL"]}
+{"s": [3, 1, 2, 3, 1, 41, 9, 2, 2, 1, 4, 10, 70, 523], "a": ["TRAIN_PROBE", "TRAIN_IMMORTAL"]}
+{"s": [3, 1, 2, 3, 1, 41, 9, 2, 2, 1, 4, 10, 90, 527], "a": ["TRAIN_PROBE", "TRAIN_IMMORTAL"]}
+{"s": [3, 1, 2, 3, 1, 41, 9, 2, 2, 1, 4, 10, 105, 527], "a": ["TRAIN_PROBE", "TRAIN_IMMORTAL"]}
+{"s": [3, 1, 2, 3, 1, 41, 9, 2, 2, 1, 4, 11, 5, 535], "a": ["BUILD_PYLON", "TRAIN_IMMORTAL", "BUILD_NEXUS"]}
+{"s": [3, 1, 2, 3, 1, 41, 9, 2, 2, 1, 4, 11, 15, 539], "a": ["TRAIN_PROBE", "TRAIN_IMMORTAL"]}
+{"s": [3, 1, 3, 3, 1, 41, 9, 2, 2, 1, 4, 11, 35, 539], "a": ["TRAIN_PROBE", "TRAIN_IMMORTAL"]}
+{"s": [3, 1, 3, 3, 1, 42, 9, 2, 2, 1, 4, 11, 45, 547], "a": ["TRAIN_PROBE", "TRAIN_IMMORTAL"]}
+{"s": [3, 1, 3, 3, 1, 41, 9, 2, 2, 1, 4, 11, 60, 547], "a": ["TRAIN_PROBE", "TRAIN_IMMORTAL"]}
+{"s": [3, 1, 3, 3, 1, 41, 9, 2, 2, 1, 4, 11, 75, 551], "a": ["TRAIN_PROBE", "TRAIN_IMMORTAL"]}
+{"s": [3, 1, 3, 3, 1, 41, 9, 2, 2, 1, 4, 11, 75, 559], "a": ["TRAIN_PROBE", "TRAIN_IMMORTAL"]}
+{"s": [3, 1, 3, 3, 1, 41, 9, 2, 2, 1, 4, 11, 95, 559], "a": ["TRAIN_PROBE", "TRAIN_IMMORTAL"]}
+{"s": [3, 1, 3, 3, 1, 41, 9, 2, 2, 1, 4, 11, 115, 563], "a": ["TRAIN_PROBE", "TRAIN_IMMORTAL"]}
+{"s": [3, 1, 3, 3, 1, 41, 9, 2, 2, 1, 4, 12, 35, 563], "a": ["BUILD_CYBERNETICSCORE"]}
+{"s": [3, 1, 3, 3, 1, 41, 9, 2, 2, 1, 4, 12, 45, 571], "a": ["BUILD_PYLON", "TRAIN_PROBE", "TRAIN_IMMORTAL"]}
+{"s": [3, 1, 3, 3, 1, 43, 9, 2, 2, 1, 4, 12, 60, 575], "a": ["BUILD_PYLON", "TRAIN_PROBE", "TRAIN_IMMORTAL"]}
+{"s": [3, 1, 3, 3, 1, 42, 9, 2, 2, 1, 4, 12, 15, 575], "a": ["BUILD_CYBERNETICSCORE"]}
+{"s": [3, 1, 3, 3, 1, 44, 9, 2, 2, 1, 4, 12, 35, 583], "a": ["BUILD_PYLON", "TRAIN_PROBE", "TRAIN_IMMORTAL"]}
+{"s": [3, 1, 3, 3, 1, 43, 9, 2, 2, 1, 4, 12, 40, 583], "a": ["BUILD_PYLON", "TRAIN_PROBE", "TRAIN_IMMORTAL"]}
+{"s": [1, 3, 1, 3, 3, 1, 43, 9, 2, 2, 1, 4, 12, 50, 587], "a": ["BUILD_PYLON", "TRAIN_PROBE", "TRAIN_IMMORTAL"]}
+{"s": [1, 3, 1, 3, 3, 1, 43, 9, 2, 2, 1, 4, 12, 20, 595], "a": ["TRAIN_PROBE", "BUILD_ROBOTICSFACILITY", "TRAIN_ZEALOT", "BUILD_GATEWAY"]}
+{"s": [1, 3, 1, 3, 3, 1, 43, 9, 2, 2, 1, 4, 12, 35, 595], "a": ["BUILD_PYLON", "TRAIN_PROBE", "TRAIN_IMMORTAL"]}
+{"s": [1, 3, 1, 3, 3, 1, 43, 9, 2, 2, 1, 4, 12, 40, 599], "a": ["BUILD_PYLON", "TRAIN_PROBE", "TRAIN_IMMORTAL"]}
+{"s": [1, 3, 1, 3, 3, 1, 43, 9, 2, 2, 1, 4, 12, 65, 603], "a": ["BUILD_PYLON", "TRAIN_PROBE", "TRAIN_IMMORTAL"]}
+{"s": [1, 3, 1, 3, 3, 1, 43, 9, 2, 2, 1, 4, 12, 75, 607], "a": ["BUILD_PYLON", "TRAIN_PROBE", "TRAIN_IMMORTAL"]}
+{"s": [1, 3, 1, 3, 3, 1, 43, 9, 2, 2, 1, 4, 12, 95, 611], "a": ["BUILD_PYLON", "TRAIN_PROBE", "TRAIN_IMMORTAL"]}
+{"s": [3, 1, 3, 3, 1, 43, 9, 2, 2, 1, 4, 12, 100, 611], "a": ["BUILD_PYLON", "TRAIN_PROBE", "TRAIN_IMMORTAL"]}
+{"s": [3, 1, 3, 3, 1, 43, 9, 2, 2, 1, 4, 12, 15, 619], "a": ["TRAIN_IMMORTAL"]}
+{"s": [3, 1, 3, 3, 1, 43, 9, 2, 2, 1, 4, 12, 25, 623], "a": ["TRAIN_PROBE", "TRAIN_IMMORTAL"]}
+{"s": [3, 1, 3, 3, 1, 43, 9, 2, 2, 1, 4, 12, 50, 623], "a": ["TRAIN_PROBE", "TRAIN_IMMORTAL"]}
+{"s": [3, 1, 3, 3, 1, 43, 9, 2, 2, 1, 4, 12, 55, 631], "a": ["TRAIN_PROBE", "TRAIN_IMMORTAL"]}
+{"s": [3, 1, 3, 3, 1, 43, 9, 2, 2, 1, 4, 12, 70, 631], "a": ["TRAIN_PROBE", "TRAIN_IMMORTAL"]}
+{"s": [3, 1, 3, 3, 1, 43, 9, 2, 2, 1, 4, 12, 75, 635], "a": ["TRAIN_PROBE", "TRAIN_IMMORTAL"]}
+{"s": [3, 1, 3, 3, 1, 43, 10, 2, 2, 1, 4, 12, 90, 643], "a": ["TRAIN_PROBE", "TRAIN_IMMORTAL"]}
+{"s": [3, 1, 3, 3, 1, 43, 10, 2, 2, 1, 4, 12, 115, 643], "a": ["TRAIN_PROBE", "TRAIN_IMMORTAL"]}
+{"s": [3, 1, 3, 3, 1, 43, 10, 2, 2, 1, 4, 13, 30, 647], "a": ["BUILD_ASSIMILATOR"]}
+{"s": [3, 1, 3, 3, 1, 43, 10, 2, 2, 1, 4, 13, 40, 647], "a": ["TRAIN_PROBE", "TRAIN_IMMORTAL"]}
+{"s": [3, 1, 3, 3, 1, 43, 10, 2, 2, 1, 4, 13, 40, 655], "a": ["TRAIN_PROBE", "TRAIN_IMMORTAL"]}
+{"s": [3, 1, 3, 3, 1, 43, 10, 2, 2, 1, 4, 13, 65, 659], "a": ["TRAIN_PROBE", "TRAIN_IMMORTAL"]}
+{"s": [3, 1, 3, 3, 1, 43, 10, 2, 2, 1, 4, 13, 80, 659], "a": ["TRAIN_PROBE", "TRAIN_IMMORTAL"]}
+{"s": [3, 1, 3, 3, 1, 44, 10, 2, 2, 1, 4, 13, 100, 667], "a": ["TRAIN_PROBE", "TRAIN_IMMORTAL"]}
+{"s": [3, 1, 3, 3, 1, 43, 10, 2, 2, 1, 4, 13, 110, 667], "a": ["TRAIN_PROBE", "TRAIN_IMMORTAL"]}
+{"s": [3, 1, 3, 3, 1, 43, 10, 2, 2, 1, 4, 13, 115, 671], "a": ["TRAIN_PROBE", "TRAIN_IMMORTAL"]}
+{"s": [3, 1, 3, 3, 1, 44, 10, 2, 2, 1, 4, 14, 45, 679], "a": ["BUILD_PYLON", "TRAIN_STALKER", "TRAIN_PROBE", "TRAIN_ZEALOT", "BUILD_GATEWAY"]}
+{"s": [3, 1, 3, 3, 1, 44, 10, 2, 2, 1, 4, 14, 50, 679], "a": ["TRAIN_PROBE", "TRAIN_IMMORTAL"]}
+{"s": [3, 1, 3, 3, 1, 44, 10, 2, 2, 1, 4, 14, 15, 683], "a": ["BUILD_PYLON", "TRAIN_IMMORTAL", "BUILD_NEXUS"]}
+{"s": [1, 1, 3, 1, 3, 3, 1, 44, 10, 2, 2, 1, 4, 14, 35, 683], "a": ["BUILD_PYLON", "TRAIN_PROBE", "TRAIN_IMMORTAL"]}
+{"s": [1, 1, 3, 1, 3, 3, 1, 45, 10, 2, 2, 1, 4, 14, 40, 691], "a": ["BUILD_PYLON", "TRAIN_PROBE", "TRAIN_IMMORTAL"]}
+{"s": [1, 1, 3, 1, 3, 3, 1, 46, 10, 2, 2, 1, 4, 14, 70, 695], "a": ["BUILD_PYLON", "TRAIN_PROBE", "TRAIN_IMMORTAL"]}
+{"s": [1, 1, 3, 1, 3, 3, 1, 45, 10, 2, 2, 1, 4, 14, 30, 695], "a": ["TRAIN_OBSERVER"]}
+{"s": [1, 3, 1, 3, 3, 1, 46, 10, 2, 2, 1, 4, 14, 35, 703], "a": ["BUILD_PYLON", "TRAIN_PROBE", "TRAIN_IMMORTAL"]}
+{"s": [1, 3, 1, 3, 3, 1, 45, 10, 2, 2, 1, 4, 14, 45, 703], "a": ["BUILD_PYLON", "TRAIN_PROBE", "TRAIN_IMMORTAL"]}
+{"s": [1, 3, 1, 3, 3, 1, 45, 10, 2, 2, 1, 4, 14, 75, 707], "a": ["BUILD_PYLON", "TRAIN_PROBE", "TRAIN_IMMORTAL"]}
+{"s": [1, 3, 1, 3, 3, 1, 45, 10, 2, 2, 1, 4, 14, 85, 715], "a": ["BUILD_PYLON", "TRAIN_PROBE", "TRAIN_IMMORTAL"]}
+{"s": [1, 3, 1, 3, 3, 1, 45, 10, 2, 2, 1, 4, 14, 95, 715], "a": ["BUILD_PYLON", "TRAIN_PROBE", "TRAIN_IMMORTAL"]}
+{"s": [1, 1, 3, 1, 3, 3, 1, 45, 10, 2, 2, 1, 4, 14, 110, 719], "a": ["BUILD_PYLON", "TRAIN_PROBE", "TRAIN_IMMORTAL"]}
+{"s": [1, 2, 5, 1, 3, 1, 3, 3, 1, 45, 10, 2, 2, 1, 4, 14, 25, 723], "a": ["BUILD_PYLON", "TRAIN_PROBE", "TRAIN_IMMORTAL", "BUILD_GATEWAY"]}
+{"s": [1, 2, 14, 1, 3, 1, 3, 3, 1, 45, 10, 2, 2, 1, 4, 14, 55, 727], "a": ["TRAIN_PROBE", "TRAIN_IMMORTAL"]}
+{"s": [1, 2, 16, 1, 3, 1, 3, 3, 1, 45, 10, 2, 2, 1, 4, 14, 65, 731], "a": ["TRAIN_PROBE", "TRAIN_IMMORTAL"]}
+{"s": [1, 3, 17, 1, 3, 1, 3, 3, 1, 45, 10, 2, 2, 1, 4, 14, 70, 731], "a": ["TRAIN_PROBE", "TRAIN_IMMORTAL"]}
+{"s": [3, 17, 1, 3, 1, 3, 3, 1, 45, 10, 2, 2, 1, 4, 14, 95, 739], "a": ["TRAIN_PROBE", "TRAIN_IMMORTAL"]}
+{"s": [3, 17, 1, 3, 1, 3, 3, 1, 45, 10, 2, 2, 1, 4, 14, 115, 743], "a": ["TRAIN_PROBE", "TRAIN_IMMORTAL"]}
+{"s": [3, 17, 1, 3, 1, 3, 3, 1, 45, 10, 2, 2, 1, 4, 14, 20, 743], "a": ["TRAIN_STALKER", "TRAIN_PROBE", "BUILD_ROBOTICSFACILITY", "TRAIN_ZEALOT", "BUILD_GATEWAY"]}
+{"s": [3, 17, 1, 3, 1, 3, 3, 1, 45, 11, 2, 2, 1, 4, 14, 30, 751], "a": ["TRAIN_PROBE", "TRAIN_IMMORTAL"]}
+{"s": [3, 17, 1, 3, 1, 3, 3, 1, 45, 11, 2, 2, 1, 4, 14, 50, 751], "a": ["TRAIN_PROBE", "TRAIN_IMMORTAL"]}
+{"s": [3, 16, 1, 3, 1, 3, 3, 1, 45, 11, 2, 2, 1, 4, 13, 60, 755], "a": ["TRAIN_PROBE", "TRAIN_IMMORTAL"]}
+{"s": [3, 13, 1, 3, 1, 3, 3, 1, 45, 11, 2, 2, 1, 4, 13, 75, 763], "a": ["TRAIN_PROBE", "TRAIN_IMMORTAL"]}
+{"s": [3, 12, 1, 3, 1, 3, 3, 1, 45, 11, 2, 2, 1, 4, 12, 90, 763], "a": ["TRAIN_PROBE", "TRAIN_IMMORTAL"]}
+{"s": [4, 11, 1, 3, 1, 3, 3, 1, 45, 11, 2, 2, 1, 4, 11, 105, 767], "a": ["TRAIN_PROBE", "TRAIN_IMMORTAL"]}
+{"s": [4, 11, 1, 3, 1, 3, 3, 1, 45, 11, 2, 2, 1, 4, 12, 15, 767], "a": ["TRAIN_PROBE", "BUILD_ROBOTICSFACILITY", "TRAIN_ZEALOT", "BUILD_GATEWAY"]}
+{"s": [4, 9, 1, 3, 1, 3, 3, 1, 45, 11, 2, 2, 1, 4, 11, 35, 775], "a": ["TRAIN_PROBE", "TRAIN_IMMORTAL"]}
+{"s": [3, 9, 1, 3, 1, 3, 3, 1, 45, 11, 2, 2, 1, 4, 11, 55, 779], "a": ["TRAIN_PROBE", "TRAIN_IMMORTAL"]}
+{"s": [3, 8, 1, 3, 1, 3, 3, 1, 46, 11, 2, 2, 1, 4, 11, 65, 779], "a": ["TRAIN_PROBE", "TRAIN_IMMORTAL"]}
+{"s": [3, 6, 1, 3, 1, 3, 3, 1, 47, 11, 2, 2, 1, 4, 11, 25, 787], "a": ["BUILD_PYLON", "TRAIN_STALKER", "TRAIN_PROBE", "TRAIN_ZEALOT", "BUILD_GATEWAY"]}
+{"s": [3, 6, 1, 3, 1, 3, 3, 1, 46, 11, 2, 2, 1, 4, 10, 40, 787], "a": ["TRAIN_PROBE", "TRAIN_IMMORTAL"]}
+{"s": [2, 6, 1, 3, 1, 3, 3, 1, 46, 11, 2, 2, 1, 4, 10, 60, 791], "a": ["TRAIN_PROBE", "TRAIN_IMMORTAL"]}
+{"s": [2, 5, 1, 3, 1, 3, 3, 1, 47, 11, 2, 2, 1, 4, 10, 70, 799], "a": ["TRAIN_PROBE", "TRAIN_IMMORTAL"]}
+{"s": [2, 4, 1, 3, 1, 3, 3, 1, 47, 11, 2, 2, 1, 4, 9, 35, 799], "a": ["BUILD_ASSIMILATOR", "TRAIN_OBSERVER"]}
+{"s": [2, 3, 1, 3, 1, 3, 3, 1, 47, 11, 2, 2, 1, 4, 9, 35, 803], "a": ["TRAIN_PROBE", "TRAIN_IMMORTAL"]}
+{"s": [2, 2, 1, 3, 1, 3, 3, 1, 47, 11, 2, 2, 1, 4, 9, 55, 803], "a": ["TRAIN_PROBE", "TRAIN_IMMORTAL"]}
+{"s": [3, 2, 1, 3, 1, 3, 3, 1, 47, 11, 2, 2, 1, 4, 9, 85, 811], "a": ["TRAIN_PROBE", "TRAIN_IMMORTAL"]}
+{"s": [3, 1, 1, 3, 1, 3, 3, 1, 48, 11, 2, 2, 1, 4, 9, 95, 815], "a": ["TRAIN_PROBE", "TRAIN_IMMORTAL"]}
+{"s": [3, 1, 3, 1, 3, 3, 1, 47, 11, 2, 2, 1, 4, 9, 100, 815], "a": ["TRAIN_PROBE", "TRAIN_IMMORTAL"]}
+{"s": [3, 1, 3, 1, 3, 3, 1, 48, 11, 2, 2, 1, 4, 10, 10, 823], "a": ["TRAIN_STALKER", "TRAIN_PROBE", "TRAIN_ZEALOT", "BUILD_GATEWAY"]}
+{"s": [2, 1, 3, 1, 3, 3, 1, 47, 11, 2, 2, 1, 4, 10, 40, 823], "a": ["TRAIN_PROBE", "TRAIN_IMMORTAL"]}
+{"s": [2, 1, 3, 1, 3, 3, 1, 47, 11, 2, 2, 1, 4, 10, 65, 827], "a": ["TRAIN_PROBE", "TRAIN_IMMORTAL"]}
+{"s": [2, 1, 3, 1, 3, 3, 1, 47, 11, 2, 2, 1, 4, 10, 65, 835], "a": ["TRAIN_PROBE", "TRAIN_IMMORTAL"]}
+{"s": [2, 1, 3, 1, 3, 3, 1, 47, 11, 2, 2, 1, 4, 10, 75, 835], "a": ["TRAIN_PROBE", "TRAIN_IMMORTAL"]}
+{"s": [2, 1, 3, 1, 3, 3, 1, 47, 11, 2, 2, 1, 4, 10, 90, 839], "a": ["TRAIN_PROBE", "TRAIN_IMMORTAL"]}
+{"s": [2, 1, 3, 1, 3, 3, 1, 47, 11, 2, 2, 1, 4, 10, 105, 843], "a": ["TRAIN_PROBE", "TRAIN_IMMORTAL"]}
+{"s": [2, 1, 3, 1, 3, 3, 1, 47, 11, 2, 2, 1, 4, 11, 25, 847], "a": ["TRAIN_STALKER", "TRAIN_PROBE", "BUILD_TWILIGHTCOUNCIL", "TRAIN_ZEALOT", "BUILD_GATEWAY"]}
+{"s": [2, 1, 3, 1, 3, 3, 1, 47, 11, 2, 2, 1, 4, 11, 40, 851], "a": ["TRAIN_PROBE", "TRAIN_IMMORTAL"]}
+{"s": [1, 1, 3, 1, 3, 3, 1, 47, 11, 2, 2, 1, 4, 11, 45, 851], "a": ["TRAIN_PROBE", "TRAIN_IMMORTAL"]}
+{"s": [1, 1, 3, 1, 3, 3, 1, 47, 11, 2, 2, 1, 4, 11, 65, 859], "a": ["TRAIN_PROBE", "TRAIN_IMMORTAL"]}
+{"s": [1, 3, 1, 3, 3, 1, 47, 11, 2, 2, 1, 4, 11, 85, 863], "a": ["TRAIN_PROBE", "TRAIN_IMMORTAL"]}
+{"s": [3, 1, 3, 3, 1, 47, 11, 2, 2, 1, 4, 11, 100, 863], "a": ["TRAIN_PROBE", "TRAIN_IMMORTAL"]}
+{"s": [1, 3, 1, 3, 3, 1, 47, 11, 2, 2, 1, 4, 11, 110, 871], "a": ["TRAIN_PROBE", "TRAIN_IMMORTAL"]}
+{"s": [1, 3, 1, 3, 3, 1, 47, 11, 2, 2, 1, 4, 11, 125, 871], "a": ["TRAIN_PROBE", "TRAIN_IMMORTAL"]}
+{"s": [1, 3, 1, 3, 3, 1, 47, 11, 2, 2, 1, 4, 11, 145, 875], "a": ["TRAIN_PROBE", "TRAIN_IMMORTAL"]}
+{"s": [1, 3, 1, 3, 3, 1, 47, 11, 2, 2, 1, 4, 11, 150, 883], "a": ["TRAIN_PROBE", "TRAIN_IMMORTAL"]}
+{"s": [1, 3, 1, 3, 3, 1, 48, 11, 2, 2, 1, 4, 11, 160, 883], "a": ["TRAIN_PROBE", "TRAIN_IMMORTAL"]}
+{"s": [1, 3, 1, 3, 3, 1, 48, 11, 2, 2, 1, 4, 11, 130, 887], "a": ["BUILD_CYBERNETICSCORE"]}
+{"s": [1, 3, 1, 3, 3, 1, 48, 11, 2, 2, 1, 4, 11, 155, 887], "a": ["TRAIN_PROBE", "TRAIN_IMMORTAL"]}
+{"s": [1, 3, 1, 3, 3, 1, 48, 11, 2, 2, 1, 4, 11, 175, 895], "a": ["TRAIN_PROBE", "TRAIN_IMMORTAL"]}
+{"s": [1, 1, 1, 3, 1, 3, 3, 1, 49, 11, 2, 2, 1, 4, 11, 180, 899], "a": ["TRAIN_PROBE", "TRAIN_IMMORTAL"]}
+{"s": [1, 1, 1, 3, 1, 3, 3, 1, 49, 11, 2, 2, 1, 4, 11, 150, 899], "a": ["BUILD_ASSIMILATOR"]}
+{"s": [1, 1, 1, 2, 3, 1, 3, 3, 1, 50, 11, 2, 2, 1, 4, 10, 165, 907], "a": ["TRAIN_PROBE", "TRAIN_IMMORTAL"]}
+{"s": [1, 1, 1, 11, 3, 1, 3, 3, 1, 49, 11, 2, 2, 1, 4, 11, 80, 907], "a": ["BUILD_PYLON", "TRAIN_STALKER", "TRAIN_PROBE", "TRAIN_ZEALOT", "BUILD_GATEWAY"]}
+{"s": [1, 1, 11, 3, 1, 3, 3, 1, 49, 11, 2, 2, 1, 4, 11, 100, 911], "a": ["TRAIN_PROBE", "TRAIN_IMMORTAL"]}
+{"s": [2, 1, 1, 19, 3, 1, 3, 3, 1, 49, 11, 2, 2, 1, 4, 11, 105, 919], "a": ["TRAIN_PROBE", "TRAIN_IMMORTAL"]}
+{"s": [2, 1, 2, 21, 3, 1, 3, 3, 1, 49, 11, 2, 2, 1, 4, 11, 115, 919], "a": ["TRAIN_PROBE", "TRAIN_IMMORTAL"]}
+{"s": [2, 1, 2, 20, 3, 1, 3, 3, 1, 49, 11, 2, 2, 1, 4, 11, 130, 923], "a": ["TRAIN_PROBE", "TRAIN_IMMORTAL"]}
+{"s": [2, 1, 2, 20, 3, 1, 3, 3, 1, 49, 11, 2, 2, 1, 4, 11, 165, 923], "a": ["TRAIN_PROBE", "TRAIN_IMMORTAL"]}
+{"s": [2, 1, 2, 19, 3, 1, 3, 3, 1, 49, 11, 2, 2, 1, 4, 11, 175, 931], "a": ["TRAIN_PROBE", "TRAIN_IMMORTAL"]}
+{"s": [2, 1, 2, 20, 3, 1, 3, 3, 1, 50, 11, 2, 2, 1, 4, 11, 190, 935], "a": ["TRAIN_PROBE", "TRAIN_IMMORTAL"]}
+{"s": [2, 1, 2, 18, 3, 1, 3, 3, 1, 49, 11, 2, 2, 1, 4, 12, 100, 935], "a": ["BUILD_ASSIMILATOR"]}
+{"s": [3, 1, 2, 18, 3, 1, 3, 3, 1, 50, 11, 2, 2, 1, 4, 12, 110, 943], "a": ["TRAIN_PROBE", "TRAIN_IMMORTAL"]}
+{"s": [3, 1, 2, 18, 3, 1, 3, 3, 1, 49, 11, 2, 2, 1, 4, 12, 150, 943], "a": ["TRAIN_PROBE", "TRAIN_IMMORTAL"]}
+{"s": [2, 1, 2, 22, 3, 1, 3, 3, 1, 49, 11, 2, 2, 1, 4, 12, 150, 947], "a": ["TRAIN_PROBE", "TRAIN_IMMORTAL"]}
+{"s": [2, 1, 2, 23, 3, 1, 3, 3, 1, 49, 11, 2, 2, 1, 4, 12, 160, 955], "a": ["TRAIN_PROBE", "TRAIN_IMMORTAL"]}
+{"s": [2, 1, 2, 23, 3, 1, 3, 3, 1, 49, 11, 2, 2, 1, 4, 12, 175, 955], "a": ["TRAIN_PROBE", "TRAIN_IMMORTAL"]}
+{"s": [2, 1, 1, 2, 23, 3, 1, 3, 3, 1, 49, 11, 2, 2, 1, 4, 12, 195, 959], "a": ["TRAIN_PROBE", "TRAIN_IMMORTAL"]}
+{"s": [2, 1, 1, 2, 22, 3, 1, 3, 3, 1, 49, 11, 2, 2, 1, 4, 12, 215, 963], "a": ["TRAIN_PROBE", "TRAIN_IMMORTAL"]}
+{"s": [2, 1, 1, 1, 2, 22, 3, 1, 3, 3, 1, 49, 11, 2, 2, 1, 4, 12, 225, 967], "a": ["TRAIN_PROBE", "TRAIN_IMMORTAL"]}
+{"s": [2, 1, 2, 1, 2, 23, 3, 1, 3, 3, 1, 49, 11, 2, 2, 1, 4, 12, 240, 971], "a": ["TRAIN_PROBE", "TRAIN_IMMORTAL"]}
+{"s": [2, 1, 2, 1, 2, 23, 3, 1, 3, 3, 1, 49, 11, 2, 2, 1, 4, 12, 255, 971], "a": ["TRAIN_PROBE", "TRAIN_IMMORTAL"]}
+{"s": [2, 1, 2, 1, 2, 22, 3, 1, 3, 3, 1, 49, 11, 2, 2, 1, 4, 12, 280, 979], "a": ["TRAIN_PROBE", "TRAIN_IMMORTAL"]}
+{"s": [2, 1, 2, 1, 2, 22, 3, 1, 3, 3, 1, 49, 11, 2, 2, 1, 4, 12, 20, 883], "a": ["TRAIN_PROBE", "TRAIN_ZEALOT"]}
+{"s": [2, 1, 2, 1, 2, 23, 3, 1, 3, 3, 1, 50, 11, 2, 2, 1, 4, 12, 30, 883], "a": ["TRAIN_PROBE", "TRAIN_IMMORTAL"]}
+{"s": [2, 1, 2, 1, 2, 24, 3, 1, 3, 3, 1, 50, 11, 2, 2, 1, 4, 12, 45, 891], "a": ["TRAIN_PROBE", "TRAIN_IMMORTAL"]}
+{"s": [2, 2, 1, 2, 31, 3, 1, 3, 3, 1, 50, 11, 2, 2, 1, 4, 12, 75, 891], "a": ["TRAIN_PROBE", "TRAIN_IMMORTAL"]}
+{"s": [1, 2, 2, 1, 2, 35, 1, 3, 1, 3, 3, 1, 50, 11, 2, 2, 1, 4, 12, 30, 895], "a": ["BUILD_CYBERNETICSCORE"]}
+{"s": [1, 2, 1, 1, 2, 39, 1, 3, 1, 3, 3, 1, 51, 11, 2, 2, 1, 4, 12, 40, 903], "a": ["TRAIN_PROBE", "TRAIN_IMMORTAL"]}
+{"s": [1, 1, 2, 1, 1, 2, 43, 4, 3, 1, 3, 3, 1, 51, 11, 2, 2, 1, 4, 12, 65, 903], "a": ["TRAIN_PROBE", "TRAIN_IMMORTAL"]}
+{"s": [1, 1, 2, 1, 1, 2, 41, 4, 3, 1, 3, 3, 1, 51, 11, 2, 2, 1, 4, 12, 20, 907], "a": ["BUILD_PYLON", "TRAIN_STALKER", "TRAIN_PROBE", "BUILD_ROBOTICSFACILITY", "TRAIN_ZEALOT", "BUILD_GATEWAY"]}
+{"s": [1, 1, 2, 1, 1, 2, 41, 4, 3, 1, 3, 3, 1, 51, 11, 2, 2, 1, 4, 12, 45, 907], "a": ["TRAIN_IMMORTAL"]}
+{"s": [1, 1, 2, 1, 1, 2, 40, 4, 3, 1, 3, 3, 1, 51, 11, 2, 2, 1, 4, 12, 55, 915], "a": ["TRAIN_IMMORTAL"]}
+{"s": [1, 1, 2, 1, 1, 2, 40, 4, 3, 1, 3, 3, 1, 51, 11, 2, 2, 1, 4, 12, 70, 919], "a": ["TRAIN_IMMORTAL"]}
+{"s": [1, 1, 2, 1, 1, 2, 40, 4, 3, 1, 3, 3, 1, 51, 11, 2, 2, 1, 4, 12, 85, 919], "a": ["TRAIN_IMMORTAL"]}
+{"s": [1, 1, 2, 1, 1, 2, 38, 4, 3, 1, 3, 3, 1, 52, 11, 2, 2, 1, 4, 12, 95, 927], "a": ["TRAIN_IMMORTAL"]}
+{"s": [1, 1, 2, 1, 2, 37, 4, 3, 1, 3, 3, 1, 51, 11, 2, 2, 1, 4, 12, 110, 927], "a": ["TRAIN_IMMORTAL"]}
+{"s": [1, 1, 2, 1, 2, 37, 4, 3, 1, 3, 3, 1, 51, 11, 2, 2, 1, 4, 13, 25, 931], "a": ["TRAIN_PROBE", "TRAIN_IMMORTAL", "TRAIN_ZEALOT", "BUILD_GATEWAY"]}
+{"s": [1, 1, 1, 1, 2, 31, 4, 3, 1, 3, 3, 1, 51, 11, 2, 2, 1, 4, 13, 35, 939], "a": ["BUILD_PYLON", "TRAIN_IMMORTAL"]}
+{"s": [1, 1, 1, 1, 2, 28, 4, 3, 1, 3, 3, 1, 51, 11, 2, 2, 1, 4, 13, 55, 939], "a": ["BUILD_PYLON", "TRAIN_IMMORTAL"]}
+{"s": [1, 1, 1, 1, 2, 28, 4, 3, 1, 3, 3, 1, 51, 11, 2, 2, 1, 4, 13, 75, 943], "a": ["BUILD_PYLON", "TRAIN_IMMORTAL"]}
+{"s": [1, 1, 1, 1, 2, 27, 4, 3, 1, 3, 3, 1, 51, 11, 2, 2, 1, 4, 13, 75, 943], "a": ["TRAIN_PROBE", "TRAIN_OBSERVER"]}
+{"s": [1, 1, 1, 1, 2, 25, 4, 3, 1, 3, 3, 1, 51, 11, 2, 2, 1, 4, 13, 90, 951], "a": ["BUILD_PYLON", "TRAIN_IMMORTAL"]}
+{"s": [1, 1, 1, 2, 29, 4, 3, 1, 3, 3, 1, 52, 11, 2, 2, 1, 4, 13, 95, 955], "a": ["TRAIN_IMMORTAL"]}
+{"s": [1, 1, 1, 2, 28, 4, 3, 1, 3, 3, 1, 51, 11, 2, 2, 1, 4, 13, 110, 955], "a": ["TRAIN_IMMORTAL"]}
+{"s": [1, 1, 1, 2, 27, 4, 3, 1, 3, 3, 1, 52, 11, 2, 2, 1, 4, 14, 35, 963], "a": ["BUILD_PYLON"]}
+{"s": [1, 1, 1, 2, 27, 4, 3, 1, 3, 3, 1, 51, 11, 2, 2, 1, 4, 14, 40, 963], "a": ["TRAIN_IMMORTAL"]}
+{"s": [1, 1, 1, 1, 2, 27, 4, 3, 1, 3, 3, 1, 51, 11, 2, 2, 1, 4, 14, 45, 967], "a": ["TRAIN_IMMORTAL"]}
+{"s": [1, 1, 1, 1, 2, 27, 4, 3, 1, 3, 3, 1, 51, 11, 2, 2, 1, 4, 14, 60, 975], "a": ["TRAIN_IMMORTAL"]}
+{"s": [1, 1, 1, 1, 2, 25, 4, 3, 1, 3, 3, 1, 51, 11, 2, 2, 1, 4, 14, 80, 975], "a": ["TRAIN_IMMORTAL"]}
+{"s": [1, 1, 1, 1, 2, 26, 4, 3, 1, 3, 3, 1, 51, 11, 2, 2, 1, 4, 14, 100, 979], "a": ["TRAIN_IMMORTAL"]}
+{"s": [1, 1, 1, 1, 2, 26, 4, 3, 1, 3, 3, 1, 51, 11, 2, 2, 1, 4, 14, 100, 983], "a": ["TRAIN_IMMORTAL"]}
+{"s": [1, 1, 1, 1, 2, 27, 4, 3, 1, 3, 3, 1, 51, 11, 2, 2, 1, 4, 15, 5, 987], "a": ["TRAIN_STALKER", "TRAIN_PROBE", "BUILD_TWILIGHTCOUNCIL", "TRAIN_ZEALOT", "BUILD_GATEWAY"]}
+{"s": [1, 1, 1, 1, 2, 28, 4, 3, 1, 3, 3, 1, 51, 11, 2, 2, 1, 4, 15, 20, 991], "a": ["TRAIN_IMMORTAL"]}
+{"s": [1, 1, 1, 1, 2, 27, 4, 3, 1, 3, 3, 1, 52, 11, 2, 2, 1, 4, 15, 40, 991], "a": ["TRAIN_IMMORTAL"]}
+{"s": [1, 1, 1, 1, 2, 28, 4, 3, 1, 3, 3, 1, 52, 11, 2, 2, 1, 4, 15, 55, 999], "a": ["TRAIN_IMMORTAL"]}
+{"s": [1, 1, 1, 1, 2, 25, 4, 3, 1, 3, 3, 1, 52, 11, 2, 2, 1, 4, 15, 55, 1003], "a": ["TRAIN_IMMORTAL"]}
+{"s": [1, 1, 1, 1, 2, 25, 4, 3, 1, 3, 3, 1, 53, 11, 2, 2, 1, 4, 15, 75, 1003], "a": ["TRAIN_IMMORTAL"]}
+{"s": [1, 1, 1, 1, 2, 21, 4, 3, 1, 3, 3, 1, 53, 11, 2, 2, 1, 4, 15, 85, 1011], "a": ["TRAIN_IMMORTAL"]}
+{"s": [1, 1, 1, 1, 1, 2, 17, 4, 3, 1, 3, 3, 1, 53, 11, 2, 2, 1, 4, 15, 115, 1011], "a": ["TRAIN_IMMORTAL"]}
+{"s": [1, 1, 1, 2, 2, 15, 4, 3, 1, 3, 3, 1, 53, 11, 2, 2, 1, 4, 16, 20, 1015], "a": ["TRAIN_IMMORTAL", "BUILD_NEXUS"]}
+{"s": [1, 1, 1, 2, 2, 14, 4, 3, 1, 3, 3, 1, 53, 11, 2, 2, 1, 4, 16, 30, 1023], "a": ["TRAIN_IMMORTAL"]}
+{"s": [1, 1, 1, 2, 2, 13, 4, 3, 1, 3, 3, 1, 53, 11, 2, 2, 1, 4, 16, 45, 1023], "a": ["TRAIN_IMMORTAL"]}
+{"s": [2, 1, 1, 2, 2, 2, 19, 4, 3, 1, 3, 3, 1, 53, 11, 2, 2, 1, 4, 16, 60, 1027], "a": ["TRAIN_IMMORTAL"]}
+{"s": [2, 1, 1, 2, 2, 1, 2, 16, 6, 3, 1, 3, 3, 1, 53, 11, 2, 2, 1, 4, 16, 65, 1027], "a": ["TRAIN_IMMORTAL"]}
+{"s": [2, 1, 1, 1, 2, 2, 1, 2, 15, 6, 3, 1, 3, 3, 1, 53, 11, 2, 2, 1, 4, 16, 80, 1035], "a": ["TRAIN_IMMORTAL"]}
+{"s": [3, 1, 1, 1, 1, 2, 2, 1, 1, 1, 14, 6, 3, 1, 3, 3, 1, 53, 11, 2, 2, 1, 4, 16, 90, 1039], "a": ["TRAIN_IMMORTAL"]}
+{"s": [3, 1, 1, 1, 1, 2, 2, 1, 1, 1, 13, 6, 3, 1, 3, 3, 1, 53, 11, 2, 2, 1, 4, 16, 105, 1039], "a": ["TRAIN_IMMORTAL"]}
+{"s": [3, 1, 1, 1, 1, 2, 2, 1, 1, 1, 12, 6, 3, 1, 3, 3, 1, 54, 11, 2, 2, 1, 4, 16, 125, 1047], "a": ["TRAIN_IMMORTAL"]}
+{"s": [3, 1, 1, 1, 1, 2, 2, 1, 1, 1, 12, 6, 3, 1, 3, 3, 1, 53, 11, 2, 2, 1, 4, 16, 140, 1047], "a": ["TRAIN_IMMORTAL"]}
+{"s": [3, 1, 1, 1, 1, 2, 2, 1, 1, 1, 10, 6, 3, 1, 3, 3, 1, 53, 11, 2, 2, 1, 4, 16, 150, 1051], "a": ["TRAIN_IMMORTAL"]}
+{"s": [3, 1, 1, 1, 1, 2, 2, 1, 1, 1, 10, 6, 3, 1, 3, 3, 1, 53, 11, 2, 2, 1, 4, 15, 160, 1059], "a": ["TRAIN_IMMORTAL"]}
+{"s": [3, 1, 1, 1, 1, 2, 2, 1, 1, 1, 9, 6, 3, 1, 3, 3, 1, 53, 11, 2, 2, 1, 4, 15, 185, 1059], "a": ["TRAIN_IMMORTAL"]}
+{"s": [3, 1, 1, 1, 1, 2, 2, 1, 1, 1, 9, 6, 3, 1, 3, 3, 1, 53, 11, 2, 2, 1, 4, 15, 200, 1063], "a": ["TRAIN_IMMORTAL"]}
+{"s": [3, 1, 1, 1, 1, 2, 2, 1, 1, 1, 10, 6, 3, 1, 3, 3, 1, 53, 11, 2, 2, 1, 4, 15, 215, 1063], "a": ["TRAIN_IMMORTAL"]}
+{"s": [3, 1, 1, 1, 1, 2, 2, 1, 1, 1, 10, 6, 3, 1, 3, 3, 1, 53, 11, 2, 2, 1, 4, 15, 225, 1071], "a": ["TRAIN_IMMORTAL"]}
+{"s": [3, 1, 1, 1, 1, 2, 2, 1, 1, 10, 6, 3, 1, 3, 3, 1, 54, 11, 2, 2, 1, 4, 15, 240, 1075], "a": ["TRAIN_IMMORTAL"]}
+{"s": [3, 1, 1, 1, 1, 2, 2, 1, 1, 10, 6, 3, 1, 3, 3, 1, 53, 11, 2, 2, 1, 4, 15, 255, 1075], "a": ["TRAIN_IMMORTAL"]}
+{"s": [3, 1, 1, 1, 1, 2, 1, 1, 1, 10, 6, 3, 1, 3, 3, 1, 54, 11, 2, 2, 1, 4, 15, 275, 1083], "a": ["TRAIN_IMMORTAL"]}
+{"s": [3, 1, 1, 1, 1, 2, 1, 1, 1, 10, 6, 3, 1, 3, 3, 1, 53, 11, 2, 2, 1, 4, 15, 15, 983], "a": ["BUILD_ASSIMILATOR", "TRAIN_OBSERVER"]}
+{"s": [3, 1, 1, 1, 1, 2, 1, 1, 1, 8, 6, 3, 1, 3, 3, 1, 53, 11, 2, 2, 1, 4, 15, 35, 987], "a": ["TRAIN_IMMORTAL"]}
+{"s": [3, 1, 1, 1, 1, 2, 1, 1, 1, 8, 6, 3, 1, 3, 3, 1, 53, 11, 2, 2, 1, 4, 14, 50, 995], "a": ["TRAIN_IMMORTAL"]}
+{"s": [3, 1, 1, 1, 1, 2, 1, 1, 1, 8, 6, 3, 1, 4, 3, 1, 53, 11, 2, 2, 1, 4, 14, 70, 995], "a": ["TRAIN_IMMORTAL"]}
+{"s": [3, 1, 1, 1, 1, 2, 1, 1, 1, 6, 6, 3, 1, 4, 3, 1, 53, 11, 2, 2, 1, 4, 14, 90, 999], "a": ["TRAIN_IMMORTAL"]}
+{"s": [3, 1, 1, 1, 1, 2, 1, 1, 6, 6, 3, 1, 4, 3, 1, 53, 11, 2, 2, 1, 4, 14, 105, 1003], "a": ["TRAIN_IMMORTAL"]}
+{"s": [3, 1, 1, 1, 1, 2, 1, 1, 6, 6, 3, 1, 4, 3, 1, 53, 11, 2, 2, 1, 4, 15, 20, 1007], "a": ["BUILD_PYLON"]}
+{"s": [3, 1, 1, 1, 1, 1, 1, 1, 1, 6, 3, 1, 4, 3, 1, 53, 11, 2, 2, 1, 4, 15, 55, 1011], "a": ["TRAIN_IMMORTAL"]}
+{"s": [3, 1, 1, 1, 1, 2, 1, 1, 1, 3, 6, 3, 1, 4, 3, 1, 53, 11, 2, 2, 1, 4, 15, 55, 1011], "a": ["BUILD_PYLON", "TRAIN_STALKER", "TRAIN_PROBE", "BUILD_ROBOTICSFACILITY", "TRAIN_ZEALOT", "BUILD_GATEWAY"]}
+{"s": [3, 1, 2, 1, 1, 2, 1, 1, 1, 2, 6, 3, 1, 4, 3, 1, 53, 11, 2, 2, 1, 4, 15, 65, 1019], "a": ["TRAIN_IMMORTAL"]}
+{"s": [3, 1, 2, 1, 1, 2, 1, 1, 1, 3, 6, 3, 1, 4, 3, 1, 53, 11, 2, 2, 1, 4, 15, 85, 1023], "a": ["TRAIN_IMMORTAL"]}
+{"s": [3, 1, 2, 1, 1, 2, 2, 1, 1, 3, 6, 3, 1, 4, 3, 1, 53, 11, 2, 2, 1, 4, 15, 110, 1023], "a": ["TRAIN_IMMORTAL"]}
+{"s": [3, 1, 2, 1, 1, 1, 2, 2, 1, 1, 1, 4, 6, 3, 1, 4, 3, 1, 53, 11, 2, 2, 1, 4, 16, 35, 1031], "a": ["TRAIN_PROBE", "TRAIN_ZEALOT"]}
+{"s": [3, 1, 2, 1, 1, 1, 2, 2, 1, 1, 1, 2, 6, 3, 1, 4, 3, 1, 53, 11, 2, 2, 1, 4, 16, 50, 1031], "a": ["TRAIN_IMMORTAL"]}
+{"s": [3, 1, 2, 1, 1, 1, 2, 2, 1, 1, 1, 2, 1, 6, 3, 1, 4, 3, 1, 53, 11, 2, 2, 1, 4, 16, 65, 1035], "a": ["TRAIN_IMMORTAL"]}
+{"s": [3, 1, 2, 1, 1, 1, 2, 2, 1, 1, 1, 4, 1, 6, 3, 1, 4, 3, 1, 53, 11, 2, 2, 1, 4, 15, 85, 1043], "a": ["TRAIN_IMMORTAL"]}
+{"s": [3, 1, 2, 1, 1, 1, 3, 1, 1, 1, 1, 7, 1, 7, 3, 1, 4, 3, 1, 53, 11, 2, 2, 1, 4, 15, 105, 1043], "a": ["TRAIN_IMMORTAL"]}
+{"s": [3, 1, 2, 1, 1, 1, 3, 1, 1, 1, 1, 10, 1, 7, 3, 1, 4, 3, 1, 53, 11, 2, 2, 1, 4, 15, 130, 1047], "a": ["TRAIN_IMMORTAL"]}
+{"s": [3, 1, 2, 1, 1, 1, 2, 1, 1, 1, 1, 10, 1, 7, 3, 1, 4, 3, 1, 53, 11, 2, 2, 1, 4, 16, 35, 1047], "a": ["BUILD_PYLON", "TRAIN_PROBE", "TRAIN_IMMORTAL"]}
+{"s": [3, 1, 2, 1, 1, 1, 2, 1, 1, 1, 1, 11, 1, 8, 3, 1, 4, 3, 1, 53, 11, 2, 2, 1, 4, 16, 60, 1055], "a": ["TRAIN_IMMORTAL"]}
+{"s": [3, 1, 2, 1, 1, 1, 2, 1, 1, 1, 1, 11, 1, 8, 3, 1, 4, 3, 1, 53, 11, 2, 2, 1, 4, 16, 70, 1059], "a": ["TRAIN_IMMORTAL"]}
+{"s": [3, 1, 2, 1, 1, 1, 2, 1, 1, 1, 2, 11, 1, 8, 3, 1, 4, 3, 1, 53, 11, 2, 2, 1, 4, 16, 95, 1059], "a": ["TRAIN_IMMORTAL"]}
+{"s": [3, 1, 2, 1, 1, 1, 2, 1, 1, 2, 11, 1, 8, 3, 1, 4, 3, 1, 54, 11, 2, 2, 1, 4, 16, 105, 1067], "a": ["TRAIN_IMMORTAL"]}
+{"s": [3, 1, 2, 2, 1, 1, 2, 1, 1, 2, 10, 1, 8, 3, 1, 4, 3, 1, 53, 11, 2, 2, 1, 4, 16, 125, 1067], "a": ["TRAIN_IMMORTAL"]}
+{"s": [3, 1, 2, 2, 1, 1, 2, 1, 1, 2, 10, 1, 8, 3, 1, 4, 3, 1, 53, 11, 2, 2, 1, 4, 16, 150, 1071], "a": ["TRAIN_IMMORTAL"]}
+{"s": [3, 1, 2, 2, 1, 1, 2, 1, 1, 2, 10, 1, 8, 3, 1, 4, 3, 1, 53, 11, 2, 2, 1, 4, 16, 165, 1079], "a": ["TRAIN_IMMORTAL"]}
+{"s": [3, 1, 2, 2, 1, 1, 2, 1, 1, 2, 10, 1, 8, 3, 1, 4, 3, 1, 53, 11, 2, 2, 1, 4, 17, 95, 1079], "a": ["TRAIN_PROBE"]}
+{"s": [3, 1, 2, 2, 1, 1, 2, 1, 1, 2, 11, 1, 8, 3, 1, 4, 3, 1, 53, 11, 2, 2, 1, 4, 16, 105, 1083], "a": ["TRAIN_IMMORTAL"]}
+{"s": [3, 1, 2, 2, 1, 1, 2, 1, 1, 2, 10, 1, 8, 3, 1, 4, 3, 1, 53, 11, 2, 2, 1, 4, 16, 125, 1083], "a": ["TRAIN_IMMORTAL"]}
+{"s": [3, 1, 2, 2, 1, 1, 2, 1, 1, 2, 10, 1, 8, 3, 1, 4, 3, 1, 53, 11, 2, 2, 1, 4, 16, 135, 1091], "a": ["TRAIN_IMMORTAL"]}
+{"s": [3, 1, 2, 2, 1, 1, 2, 1, 1, 2, 10, 1, 7, 3, 1, 4, 3, 1, 54, 11, 2, 2, 1, 4, 16, 155, 1095], "a": ["TRAIN_IMMORTAL"]}
+{"s": [2, 1, 2, 2, 1, 1, 2, 1, 1, 2, 11, 1, 7, 3, 1, 4, 3, 1, 53, 11, 2, 2, 1, 4, 16, 180, 1095], "a": ["TRAIN_IMMORTAL"]}
+{"s": [2, 2, 2, 1, 1, 2, 1, 1, 1, 2, 10, 1, 7, 3, 1, 4, 3, 1, 54, 11, 2, 2, 1, 4, 16, 210, 1103], "a": ["TRAIN_IMMORTAL"]}
+{"s": [2, 2, 2, 1, 1, 1, 1, 1, 1, 2, 9, 1, 7, 3, 1, 4, 3, 1, 53, 11, 2, 2, 1, 4, 16, 225, 1103], "a": ["TRAIN_IMMORTAL"]}
+{"s": [2, 2, 2, 1, 1, 1, 1, 1, 1, 2, 9, 1, 7, 3, 1, 4, 3, 1, 53, 11, 2, 2, 1, 4, 16, 235, 1107], "a": ["TRAIN_IMMORTAL"]}
+{"s": [2, 1, 2, 1, 1, 1, 1, 1, 1, 2, 10, 1, 7, 3, 1, 4, 3, 1, 53, 11, 2, 2, 1, 4, 16, 250, 1115], "a": ["TRAIN_IMMORTAL"]}
+{"s": [2, 1, 2, 1, 1, 1, 1, 1, 2, 11, 1, 7, 3, 1, 4, 3, 1, 53, 11, 2, 2, 1, 4, 16, 275, 1115], "a": ["TRAIN_IMMORTAL"]}
+{"s": [2, 1, 2, 1, 1, 1, 1, 1, 2, 11, 1, 1, 7, 3, 1, 4, 3, 1, 53, 11, 2, 2, 1, 4, 16, 25, 1019], "a": ["TRAIN_PROBE", "BUILD_ROBOTICSFACILITY", "TRAIN_ZEALOT", "BUILD_GATEWAY"]}
+{"s": [2, 1, 2, 1, 1, 1, 1, 1, 2, 11, 1, 1, 7, 3, 1, 4, 3, 1, 53, 11, 2, 2, 1, 4, 16, 40, 1023], "a": ["BUILD_PYLON", "TRAIN_IMMORTAL"]}
+{"s": [2, 1, 2, 1, 1, 1, 1, 1, 2, 11, 1, 1, 7, 3, 1, 4, 3, 1, 53, 11, 2, 2, 1, 4, 16, 65, 1027], "a": ["BUILD_PYLON", "TRAIN_IMMORTAL"]}
+{"s": [2, 1, 2, 1, 1, 1, 1, 1, 2, 11, 1, 1, 7, 3, 1, 4, 3, 1, 53, 11, 2, 2, 1, 4, 16, 70, 1031], "a": ["BUILD_PYLON", "TRAIN_IMMORTAL"]}
+{"s": [2, 1, 2, 1, 1, 1, 1, 1, 2, 11, 1, 1, 7, 3, 1, 4, 3, 1, 53, 11, 2, 2, 1, 4, 16, 85, 1031], "a": ["BUILD_PYLON", "TRAIN_IMMORTAL"]}
+{"s": [2, 1, 2, 1, 1, 1, 1, 2, 11, 1, 1, 7, 3, 1, 4, 3, 1, 53, 11, 2, 2, 1, 4, 16, 100, 1039], "a": ["BUILD_PYLON", "TRAIN_IMMORTAL"]}
+{"s": [2, 1, 2, 1, 1, 1, 1, 2, 11, 1, 1, 7, 3, 1, 4, 3, 1, 53, 11, 2, 2, 1, 4, 16, 40, 1043], "a": ["TRAIN_STALKER", "TRAIN_PROBE", "TRAIN_ZEALOT", "BUILD_GATEWAY"]}
+{"s": [2, 1, 2, 1, 1, 1, 1, 2, 11, 1, 1, 7, 3, 1, 4, 3, 1, 53, 11, 2, 2, 1, 4, 16, 65, 1043], "a": ["TRAIN_IMMORTAL"]}
+{"s": [2, 1, 2, 1, 1, 1, 1, 2, 11, 1, 1, 7, 3, 1, 4, 3, 1, 53, 11, 2, 2, 1, 4, 16, 70, 1051], "a": ["TRAIN_IMMORTAL"]}
+{"s": [2, 1, 2, 1, 1, 1, 1, 2, 11, 1, 1, 7, 3, 1, 4, 3, 1, 53, 11, 2, 2, 1, 4, 16, 85, 1051], "a": ["TRAIN_IMMORTAL"]}
+{"s": [2, 1, 2, 1, 1, 1, 1, 2, 11, 1, 1, 6, 3, 1, 4, 3, 1, 53, 11, 2, 2, 1, 4, 16, 95, 1055], "a": ["TRAIN_IMMORTAL"]}
+{"s": [2, 1, 2, 1, 1, 1, 1, 2, 11, 1, 1, 6, 3, 1, 4, 3, 1, 53, 11, 2, 2, 1, 4, 16, 120, 1063], "a": ["TRAIN_IMMORTAL"]}
+{"s": [2, 1, 2, 1, 1, 1, 1, 2, 11, 1, 1, 6, 3, 1, 4, 3, 1, 53, 12, 2, 2, 1, 4, 16, 145, 1063], "a": ["TRAIN_IMMORTAL"]}
+{"s": [2, 1, 2, 1, 1, 1, 1, 2, 11, 1, 1, 6, 3, 1, 4, 3, 1, 53, 12, 2, 2, 1, 4, 16, 165, 1067], "a": ["TRAIN_IMMORTAL"]}
+{"s": [2, 1, 2, 1, 1, 1, 1, 2, 11, 1, 1, 6, 3, 1, 4, 3, 1, 53, 12, 2, 2, 1, 4, 17, 75, 1067], "a": ["BUILD_PYLON", "TRAIN_PROBE", "TRAIN_OBSERVER"]}
+{"s": [2, 1, 2, 1, 1, 1, 1, 2, 11, 1, 1, 6, 3, 1, 4, 3, 1, 53, 12, 2, 2, 1, 4, 17, 80, 1075], "a": ["TRAIN_IMMORTAL"]}
+{"s": [2, 1, 2, 1, 1, 1, 1, 2, 11, 1, 1, 6, 3, 1, 4, 3, 1, 53, 12, 2, 2, 1, 4, 17, 105, 1079], "a": ["TRAIN_IMMORTAL"]}
+{"s": [1, 1, 2, 1, 1, 1, 1, 2, 11, 1, 1, 6, 3, 1, 4, 3, 1, 53, 12, 2, 2, 1, 4, 17, 125, 1079], "a": ["TRAIN_IMMORTAL"]}
+{"s": [1, 1, 2, 1, 1, 1, 1, 2, 11, 1, 1, 6, 3, 1, 4, 3, 1, 54, 12, 2, 2, 1, 4, 17, 150, 1087], "a": ["TRAIN_IMMORTAL"]}
+{"s": [1, 1, 2, 1, 1, 1, 1, 2, 11, 1, 1, 6, 3, 1, 4, 3, 1, 53, 12, 2, 2, 1, 4, 17, 175, 1087], "a": ["TRAIN_IMMORTAL"]}
+{"s": [1, 1, 2, 1, 1, 1, 1, 2, 11, 1, 1, 5, 3, 1, 4, 3, 1, 53, 12, 2, 2, 1, 4, 18, 85, 1091], "a": ["BUILD_ASSIMILATOR", "TRAIN_OBSERVER"]}
+{"s": [1, 1, 2, 1, 1, 1, 2, 11, 1, 1, 5, 3, 1, 4, 3, 1, 53, 12, 2, 2, 1, 4, 18, 110, 1099], "a": ["TRAIN_IMMORTAL"]}
+{"s": [1, 1, 2, 1, 1, 1, 2, 11, 1, 1, 5, 3, 1, 5, 3, 1, 53, 12, 2, 2, 1, 4, 18, 125, 1099], "a": ["TRAIN_IMMORTAL"]}
+{"s": [1, 1, 2, 1, 1, 1, 2, 11, 1, 1, 5, 3, 1, 5, 3, 1, 53, 12, 2, 2, 1, 4, 18, 140, 1103], "a": ["TRAIN_IMMORTAL"]}
+{"s": [1, 1, 2, 1, 1, 1, 2, 11, 1, 1, 5, 3, 1, 5, 3, 1, 53, 12, 2, 2, 1, 4, 18, 160, 1103], "a": ["TRAIN_IMMORTAL"]}
+{"s": [1, 1, 2, 1, 1, 1, 2, 11, 1, 1, 5, 3, 1, 5, 3, 1, 53, 12, 2, 2, 1, 4, 18, 175, 1111], "a": ["TRAIN_IMMORTAL"]}
+{"s": [1, 1, 2, 1, 1, 1, 2, 11, 1, 1, 5, 3, 1, 5, 3, 1, 54, 12, 2, 2, 1, 4, 19, 85, 1115], "a": ["TRAIN_PROBE"]}
+{"s": [1, 1, 2, 1, 1, 1, 2, 11, 1, 1, 5, 3, 1, 5, 3, 1, 53, 12, 2, 2, 1, 4, 19, 100, 1115], "a": ["BUILD_PYLON", "TRAIN_IMMORTAL"]}
+{"s": [1, 1, 2, 1, 1, 1, 2, 11, 1, 1, 4, 3, 1, 5, 3, 1, 54, 12, 2, 2, 1, 4, 19, 25, 1123], "a": ["TRAIN_PROBE", "BUILD_ROBOTICSFACILITY", "TRAIN_ZEALOT", "BUILD_GATEWAY"]}
+{"s": [1, 1, 2, 1, 1, 1, 2, 11, 1, 1, 4, 3, 1, 5, 3, 1, 53, 12, 2, 2, 1, 4, 19, 40, 1123], "a": ["TRAIN_IMMORTAL"]}
+{"s": [1, 1, 2, 1, 1, 1, 2, 11, 1, 1, 4, 3, 1, 5, 3, 1, 53, 13, 2, 2, 1, 4, 19, 65, 1127], "a": ["TRAIN_IMMORTAL"]}
+{"s": [1, 1, 2, 1, 1, 1, 2, 11, 1, 1, 4, 3, 1, 5, 3, 1, 53, 13, 2, 2, 1, 4, 19, 80, 1135], "a": ["TRAIN_IMMORTAL"]}
+{"s": [1, 1, 2, 1, 1, 1, 2, 11, 1, 1, 3, 3, 1, 5, 3, 1, 53, 13, 2, 2, 1, 4, 19, 110, 1135], "a": ["TRAIN_IMMORTAL"]}
+{"s": [1, 1, 2, 1, 1, 1, 2, 11, 1, 1, 3, 3, 1, 5, 3, 1, 53, 13, 2, 2, 1, 4, 19, 110, 1139], "a": ["TRAIN_IMMORTAL"]}
+{"s": [1, 1, 2, 1, 1, 1, 2, 11, 1, 1, 3, 3, 1, 5, 3, 1, 53, 13, 2, 2, 1, 4, 19, 135, 1143], "a": ["TRAIN_IMMORTAL"]}
+{"s": [1, 1, 2, 1, 1, 1, 2, 11, 1, 1, 3, 3, 1, 5, 3, 1, 53, 13, 2, 2, 1, 4, 20, 50, 1147], "a": ["BUILD_GATEWAY"]}
+{"s": [1, 1, 2, 1, 2, 11, 1, 1, 3, 1, 3, 1, 5, 3, 1, 53, 13, 2, 2, 1, 4, 20, 60, 1151], "a": ["TRAIN_IMMORTAL"]}
+{"s": [1, 1, 2, 1, 2, 11, 1, 1, 3, 1, 3, 1, 5, 3, 1, 53, 13, 2, 2, 1, 4, 20, 90, 1151], "a": ["TRAIN_IMMORTAL"]}
+{"s": [1, 1, 2, 1, 2, 11, 1, 1, 3, 1, 3, 1, 5, 3, 1, 53, 13, 2, 2, 1, 4, 20, 105, 1159], "a": ["TRAIN_IMMORTAL"]}
+{"s": [1, 1, 2, 1, 2, 10, 1, 1, 3, 1, 3, 1, 5, 3, 1, 53, 13, 2, 2, 1, 4, 20, 140, 1163], "a": ["TRAIN_IMMORTAL"]}
+{"s": [1, 1, 2, 1, 2, 10, 1, 1, 2, 1, 3, 1, 5, 3, 1, 53, 13, 2, 2, 1, 4, 20, 145, 1163], "a": ["TRAIN_IMMORTAL"]}
+{"s": [1, 1, 2, 1, 2, 10, 1, 1, 2, 1, 3, 1, 5, 3, 1, 53, 13, 2, 2, 1, 4, 20, 155, 1171], "a": ["TRAIN_IMMORTAL"]}
+{"s": [1, 1, 2, 1, 2, 9, 1, 1, 2, 1, 3, 1, 5, 3, 1, 53, 13, 2, 2, 1, 4, 20, 175, 1171], "a": ["TRAIN_IMMORTAL"]}
+{"s": [1, 1, 2, 1, 2, 9, 1, 1, 2, 1, 3, 1, 5, 3, 1, 53, 13, 2, 2, 1, 4, 20, 205, 1175], "a": ["TRAIN_IMMORTAL"]}
+{"s": [1, 1, 2, 1, 2, 9, 1, 1, 2, 1, 3, 1, 5, 3, 1, 53, 13, 2, 2, 1, 4, 20, 230, 1183], "a": ["TRAIN_IMMORTAL"]}
+{"s": [1, 1, 2, 1, 2, 9, 1, 1, 2, 1, 3, 1, 5, 3, 1, 53, 13, 2, 2, 1, 4, 20, 240, 1183], "a": ["TRAIN_IMMORTAL"]}
+{"s": [1, 1, 2, 1, 2, 9, 1, 1, 2, 1, 3, 1, 5, 3, 1, 53, 13, 2, 2, 1, 4, 20, 255, 1187], "a": ["TRAIN_IMMORTAL"]}
+{"s": [1, 1, 2, 1, 2, 8, 1, 1, 2, 1, 3, 1, 5, 3, 1, 53, 13, 2, 2, 1, 4, 20, 260, 1187], "a": ["TRAIN_IMMORTAL"]}
+{"s": [1, 1, 2, 1, 2, 8, 1, 1, 2, 1, 3, 1, 5, 3, 1, 53, 13, 2, 2, 1, 4, 20, 285, 1195], "a": ["TRAIN_IMMORTAL"]}
+{"s": [1, 1, 2, 1, 2, 8, 1, 1, 2, 1, 3, 1, 5, 3, 1, 53, 13, 2, 2, 1, 4, 20, 25, 1099], "a": ["TRAIN_PROBE", "TRAIN_ZEALOT"]}
+{"s": [1, 1, 2, 1, 2, 8, 1, 1, 2, 3, 1, 5, 3, 1, 53, 13, 2, 2, 1, 4, 20, 80, 1099], "a": ["TRAIN_IMMORTAL"]}
+{"s": [1, 1, 2, 1, 2, 8, 1, 1, 2, 3, 1, 5, 3, 1, 54, 13, 2, 2, 1, 4, 20, 80, 1107], "a": ["TRAIN_IMMORTAL"]}
+{"s": [1, 1, 2, 1, 2, 7, 1, 1, 2, 3, 1, 5, 3, 1, 53, 13, 2, 2, 1, 4, 20, 85, 1107], "a": ["TRAIN_IMMORTAL"]}
+{"s": [1, 1, 2, 1, 2, 7, 1, 1, 2, 3, 1, 5, 3, 1, 53, 13, 2, 2, 1, 4, 20, 95, 1111], "a": ["TRAIN_IMMORTAL"]}
+{"s": [1, 1, 2, 1, 2, 7, 1, 1, 2, 3, 1, 5, 3, 1, 53, 13, 2, 2, 1, 4, 20, 125, 1119], "a": ["TRAIN_IMMORTAL"]}
+{"s": [1, 1, 2, 1, 2, 7, 1, 1, 2, 3, 1, 5, 3, 1, 53, 13, 2, 2, 1, 4, 20, 150, 1119], "a": ["TRAIN_IMMORTAL"]}
+{"s": [1, 1, 2, 1, 2, 7, 1, 1, 2, 3, 1, 5, 3, 1, 53, 13, 2, 2, 1, 4, 20, 165, 1123], "a": ["TRAIN_IMMORTAL"]}
+{"s": [1, 1, 2, 2, 7, 1, 1, 2, 3, 1, 5, 3, 1, 53, 13, 2, 2, 1, 4, 20, 175, 1123], "a": ["TRAIN_IMMORTAL"]}
+{"s": [1, 1, 2, 2, 6, 1, 1, 2, 3, 1, 5, 3, 1, 53, 13, 2, 2, 1, 4, 20, 195, 1131], "a": ["TRAIN_IMMORTAL"]}
+{"s": [1, 1, 2, 1, 6, 1, 1, 2, 3, 1, 5, 3, 1, 54, 13, 2, 2, 1, 4, 21, 110, 1135], "a": ["BUILD_PYLON", "TRAIN_PROBE", "TRAIN_IMMORTAL"]}
+{"s": [1, 1, 2, 1, 6, 1, 1, 2, 3, 1, 5, 3, 1, 53, 13, 2, 2, 1, 4, 21, 30, 1135], "a": ["BUILD_ASSIMILATOR", "TRAIN_OBSERVER"]}
+{"s": [1, 1, 2, 1, 5, 1, 1, 2, 3, 1, 5, 3, 1, 54, 13, 2, 2, 1, 4, 21, 55, 1143], "a": ["TRAIN_IMMORTAL"]}
+{"s": [1, 1, 2, 1, 5, 1, 1, 1, 3, 1, 5, 3, 1, 53, 13, 2, 2, 1, 4, 21, 80, 1143], "a": ["TRAIN_IMMORTAL"]}
+{"s": [1, 1, 2, 1, 1, 5, 1, 1, 1, 3, 1, 5, 3, 1, 53, 13, 2, 2, 1, 4, 21, 90, 1147], "a": ["TRAIN_IMMORTAL"]}
+{"s": [2, 1, 1, 5, 1, 1, 1, 1, 3, 1, 5, 3, 1, 53, 13, 2, 2, 1, 4, 21, 105, 1155], "a": ["TRAIN_IMMORTAL"]}
+{"s": [2, 1, 1, 5, 1, 1, 1, 1, 3, 1, 6, 3, 1, 53, 13, 2, 2, 1, 4, 22, 20, 1155], "a": ["TRAIN_PROBE"]}
+{"s": [2, 1, 1, 5, 1, 1, 1, 1, 3, 1, 6, 3, 1, 53, 13, 2, 2, 1, 4, 22, 50, 1159], "a": ["TRAIN_IMMORTAL"]}
+{"s": [2, 1, 1, 5, 1, 1, 1, 1, 3, 1, 6, 3, 1, 53, 13, 2, 2, 1, 4, 22, 70, 1163], "a": ["TRAIN_IMMORTAL"]}
+{"s": [2, 1, 1, 4, 1, 1, 1, 1, 3, 1, 6, 3, 1, 53, 13, 2, 2, 1, 4, 22, 75, 1167], "a": ["TRAIN_IMMORTAL"]}
+{"s": [2, 1, 1, 4, 1, 1, 1, 1, 3, 1, 6, 3, 1, 53, 13, 2, 2, 1, 4, 22, 95, 1171], "a": ["TRAIN_IMMORTAL"]}
+{"s": [2, 1, 1, 4, 1, 1, 1, 3, 1, 6, 3, 1, 53, 13, 2, 2, 1, 4, 22, 115, 1171], "a": ["TRAIN_IMMORTAL"]}
+{"s": [2, 1, 1, 4, 1, 1, 1, 3, 1, 6, 3, 1, 53, 14, 2, 2, 1, 4, 23, 55, 1179], "a": ["TRAIN_STALKER", "TRAIN_PROBE", "TRAIN_ZEALOT", "BUILD_GATEWAY"]}
+{"s": [2, 1, 1, 3, 1, 1, 1, 3, 1, 6, 3, 1, 53, 14, 2, 2, 1, 4, 23, 65, 1183], "a": ["TRAIN_IMMORTAL"]}
+{"s": [1, 2, 1, 1, 3, 1, 1, 1, 3, 1, 6, 3, 1, 53, 14, 2, 2, 1, 4, 23, 65, 1183], "a": ["TRAIN_STALKER", "TRAIN_PROBE", "BUILD_TWILIGHTCOUNCIL", "TRAIN_ZEALOT", "BUILD_GATEWAY"]}
+{"s": [1, 2, 1, 1, 3, 1, 1, 1, 3, 1, 6, 3, 1, 53, 14, 2, 2, 1, 4, 23, 85, 1191], "a": ["TRAIN_IMMORTAL"]}
+{"s": [2, 1, 1, 3, 1, 1, 1, 3, 1, 6, 3, 1, 53, 14, 2, 2, 1, 4, 23, 115, 1191], "a": ["TRAIN_IMMORTAL"]}
+{"s": [2, 1, 1, 3, 1, 1, 1, 3, 1, 6, 3, 1, 53, 14, 2, 2, 1, 4, 23, 150, 1195], "a": ["TRAIN_IMMORTAL"]}
+{"s": [2, 1, 1, 2, 1, 1, 3, 1, 6, 3, 1, 53, 14, 2, 2, 1, 4, 23, 155, 1203], "a": ["TRAIN_IMMORTAL"]}
+{"s": [2, 1, 1, 2, 1, 1, 3, 1, 6, 3, 1, 53, 14, 2, 2, 1, 4, 23, 170, 1203], "a": ["TRAIN_IMMORTAL"]}
+{"s": [1, 1, 1, 2, 1, 1, 3, 1, 6, 3, 1, 53, 14, 2, 2, 1, 4, 23, 185, 1207], "a": ["TRAIN_IMMORTAL"]}
+{"s": [1, 1, 1, 2, 1, 1, 3, 1, 6, 3, 1, 53, 14, 2, 2, 1, 4, 23, 195, 1207], "a": ["TRAIN_IMMORTAL"]}
+{"s": [1, 1, 1, 2, 1, 1, 3, 1, 6, 3, 1, 53, 14, 2, 2, 1, 4, 24, 115, 1215], "a": ["TRAIN_PROBE", "TRAIN_ZEALOT", "BUILD_GATEWAY"]}
+{"s": [1, 1, 1, 1, 1, 1, 3, 1, 6, 3, 1, 53, 14, 2, 2, 1, 4, 24, 155, 1219], "a": ["TRAIN_IMMORTAL"]}
+{"s": [1, 1, 1, 1, 1, 1, 3, 1, 6, 3, 1, 53, 14, 2, 2, 1, 4, 24, 170, 1219], "a": ["TRAIN_IMMORTAL"]}
+{"s": [1, 1, 1, 1, 1, 3, 1, 6, 3, 1, 54, 14, 2, 2, 1, 4, 24, 175, 1227], "a": ["TRAIN_IMMORTAL"]}
+{"s": [1, 1, 1, 1, 1, 3, 1, 6, 3, 1, 53, 14, 2, 2, 1, 4, 24, 190, 1227], "a": ["TRAIN_IMMORTAL"]}
+{"s": [1, 1, 1, 1, 3, 1, 6, 3, 1, 53, 14, 2, 2, 1, 4, 24, 200, 1231], "a": ["TRAIN_IMMORTAL"]}
+{"s": [1, 1, 1, 1, 3, 1, 6, 3, 1, 53, 14, 2, 2, 1, 4, 24, 240, 1239], "a": ["TRAIN_IMMORTAL"]}
+{"s": [1, 1, 1, 1, 3, 1, 6, 3, 1, 53, 14, 2, 2, 1, 4, 24, 250, 1239], "a": ["TRAIN_IMMORTAL"]}
+{"s": [1, 1, 1, 1, 3, 1, 6, 3, 1, 53, 14, 2, 2, 1, 4, 24, 275, 1243], "a": ["TRAIN_IMMORTAL"]}
+{"s": [1, 1, 1, 3, 1, 6, 3, 1, 53, 14, 2, 2, 1, 4, 24, 15, 1143], "a": ["TRAIN_STALKER", "TRAIN_PROBE", "TRAIN_ZEALOT", "BUILD_GATEWAY"]}
+{"s": [1, 1, 1, 3, 1, 6, 3, 1, 53, 14, 2, 2, 1, 4, 24, 20, 1151], "a": ["BUILD_PYLON", "TRAIN_IMMORTAL"]}
+{"s": [1, 1, 1, 3, 1, 6, 3, 1, 54, 14, 2, 2, 1, 4, 24, 40, 1155], "a": ["BUILD_PYLON", "TRAIN_IMMORTAL"]}
+{"s": [1, 1, 1, 3, 1, 6, 3, 1, 53, 14, 2, 2, 1, 4, 24, 75, 1155], "a": ["BUILD_PYLON", "TRAIN_IMMORTAL"]}
+{"s": [1, 1, 1, 3, 1, 6, 3, 1, 54, 14, 2, 2, 1, 4, 24, 100, 1163], "a": ["BUILD_PYLON", "TRAIN_IMMORTAL"]}
+{"s": [1, 1, 3, 1, 6, 3, 1, 53, 14, 2, 2, 1, 4, 24, 5, 1163], "a": ["BUILD_GATEWAY"]}
+{"s": [1, 1, 3, 1, 6, 3, 1, 53, 14, 2, 2, 1, 4, 24, 25, 1167], "a": ["TRAIN_IMMORTAL"]}
+{"s": [1, 1, 3, 1, 6, 3, 1, 53, 14, 2, 2, 1, 4, 24, 30, 1175], "a": ["TRAIN_IMMORTAL"]}
+{"s": [1, 1, 3, 1, 6, 3, 1, 53, 14, 2, 2, 1, 4, 24, 60, 1175], "a": ["TRAIN_IMMORTAL"]}
