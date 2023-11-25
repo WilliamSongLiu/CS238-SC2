@@ -1,3 +1,5 @@
+from enum import Enum
+
 from sc2.data import Race
 from sc2.ids.unit_typeid import UnitTypeId
 
@@ -9,6 +11,12 @@ from sharpy.plans.require import *
 from sharpy.plans.tactics import *
 
 class ProxyCS238Explore(ActBase):
+    class ActionEnum(Enum):
+        TRAIN = 1
+        BUILD = 2
+        BUILD_EXPANSION = 3
+        BUILD_GAS = 4
+
     def __init__(self):
         super().__init__()
 
@@ -16,8 +24,13 @@ class ProxyCS238Explore(ActBase):
         await super().start(knowledge)
 
     async def execute(self) -> bool:
+        print("exe")
         
         return False
+    
+    def determine_action(self):
+        self.actionType = self.ActionEnum.TRAIN
+        self.actionUnitTypeId = UnitTypeId.PROBE
 
 class CS238Explore(KnowledgeBot):
     def __init__(self):
@@ -34,7 +47,7 @@ class CS238Explore(KnowledgeBot):
                 DistributeWorkers(),
                 Step(None, SpeedMining(), lambda ai: ai.client.game_step > 5),
                 PlanZoneGather(),
-                Step(UnitReady(UnitTypeId.GATEWAY, 4), PlanZoneAttack(4)),
+                Step(None, PlanZoneAttack(4)),
                 PlanFinishEnemy(),
             )
         )
