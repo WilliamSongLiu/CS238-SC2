@@ -9,7 +9,6 @@ from version import update_version_txt
 
 
 def main():
-    
     # update_version_txt()
     root_dir = os.path.dirname(os.path.abspath(__file__))
     ladder_bots_path = os.path.join("Bots")
@@ -18,6 +17,7 @@ def main():
     starter = GameStarter(definitions)
     starter.play()
     
+
 
 if __name__ == "__main__":
     main()

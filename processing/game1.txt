@@ -1,2 +1,0 @@
-Starting game in AncientCisternAIE.
-robo vs ai.terran.veryhard.random

@@ -10,7 +10,6 @@ from sc2.constants import ALL_GAS
 from sc2.unit import Unit
 from sharpy.knowledges import Knowledge
 
-
 class BuildGas(ActBase):
     """Builds a new gas mining facility closest to vespene geyser with closest worker"""
 
@@ -102,7 +101,7 @@ class BuildGas(ActBase):
 
     async def build_gas(self, worker: Unit):
         if self.best_gas is not None:
-            print(f"ACTION WANTED: BUILD {self.unit_type.name}")
+            print(f"ACTION_WANTED: BUILD_{self.unit_type.name}")
             if self.knowledge.can_afford(self.unit_type):
                 target = self.best_gas
 
@@ -119,7 +118,7 @@ class BuildGas(ActBase):
                     worker.gather(mf, queue=True)
 
                 self.print(f"Building {self.unit_type.name} to {target.position}")
-                print(f"ACTION MADE: BUILD {self.unit_type.name}")
+                print(f"ACTION_MADE: BUILD_{self.unit_type.name}")
         return False
 
     def set_worker(self, worker: Optional[Unit]) -> bool:

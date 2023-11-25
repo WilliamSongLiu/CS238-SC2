@@ -4,7 +4,6 @@ from configparser import ConfigParser
 
 logger = logging.getLogger(__name__)
 
-
 def get_config(local: bool = True) -> ConfigParser:
     """Reads config.ini and returns a configuration parser for it."""
 

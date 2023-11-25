@@ -1,0 +1,6370 @@
+Starting game in AncientCisternAIE.
+robo vs ai.terran.veryhard.random
+ENEMY_UNITS: {}
+MY_UNITS: {'Nexus': 1, 'Probe': 12}
+MINERALS: 50
+GAS: 0
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Nexus': 1, 'Probe': 12}
+MINERALS: 0
+GAS: 0
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Nexus': 1, 'Probe': 12}
+MINERALS: 0
+GAS: 0
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Nexus': 1, 'Probe': 12}
+MINERALS: 0
+GAS: 0
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Nexus': 1, 'Probe': 12}
+MINERALS: 0
+GAS: 0
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Nexus': 1, 'Probe': 12}
+MINERALS: 0
+GAS: 0
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Nexus': 1, 'Probe': 12}
+MINERALS: 0
+GAS: 0
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Nexus': 1, 'Probe': 12}
+MINERALS: 0
+GAS: 0
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Nexus': 1, 'Probe': 12}
+MINERALS: 0
+GAS: 0
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Nexus': 1, 'Probe': 12}
+MINERALS: 0
+GAS: 0
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Nexus': 1, 'Probe': 12}
+MINERALS: 0
+GAS: 0
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Nexus': 1, 'Probe': 12}
+MINERALS: 10
+GAS: 0
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Nexus': 1, 'Probe': 12}
+MINERALS: 30
+GAS: 0
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Nexus': 1, 'Probe': 12}
+MINERALS: 40
+GAS: 0
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Nexus': 1, 'Probe': 12}
+MINERALS: 40
+GAS: 0
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Nexus': 1, 'Probe': 12}
+MINERALS: 40
+GAS: 0
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Nexus': 1, 'Probe': 12}
+MINERALS: 45
+GAS: 0
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Nexus': 1, 'Probe': 12}
+MINERALS: 60
+GAS: 0
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Nexus': 1, 'Probe': 12}
+MINERALS: 60
+GAS: 0
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Nexus': 1, 'Probe': 12}
+MINERALS: 60
+GAS: 0
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Nexus': 1, 'Probe': 12}
+MINERALS: 60
+GAS: 0
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Nexus': 1, 'Probe': 12}
+MINERALS: 60
+GAS: 0
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Nexus': 1, 'Probe': 12}
+MINERALS: 75
+GAS: 0
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Nexus': 1, 'Probe': 12}
+MINERALS: 80
+GAS: 0
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Nexus': 1, 'Probe': 12}
+MINERALS: 90
+GAS: 0
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Nexus': 1, 'Probe': 12}
+MINERALS: 100
+GAS: 0
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Nexus': 1, 'Probe': 12}
+MINERALS: 100
+GAS: 0
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Nexus': 1, 'Probe': 12}
+MINERALS: 105
+GAS: 0
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Nexus': 1, 'Probe': 13}
+MINERALS: 115
+GAS: 0
+ACTION_WANTED: TRAIN_PROBE
+ACTION_MADE: TRAIN_PROBE
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Nexus': 1, 'Probe': 13}
+MINERALS: 70
+GAS: 0
+ACTION_WANTED: BUILD_PYLON
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Nexus': 1, 'Probe': 13}
+MINERALS: 70
+GAS: 0
+ACTION_WANTED: BUILD_PYLON
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Nexus': 1, 'Probe': 13}
+MINERALS: 70
+GAS: 0
+ACTION_WANTED: BUILD_PYLON
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Nexus': 1, 'Probe': 13}
+MINERALS: 80
+GAS: 0
+ACTION_WANTED: BUILD_PYLON
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Nexus': 1, 'Probe': 13}
+MINERALS: 85
+GAS: 0
+ACTION_WANTED: BUILD_PYLON
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Nexus': 1, 'Probe': 13}
+MINERALS: 90
+GAS: 0
+ACTION_WANTED: BUILD_PYLON
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Nexus': 1, 'Probe': 13}
+MINERALS: 90
+GAS: 0
+ACTION_WANTED: BUILD_PYLON
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Nexus': 1, 'Probe': 13}
+MINERALS: 95
+GAS: 0
+ACTION_WANTED: BUILD_PYLON
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Nexus': 1, 'Probe': 13}
+MINERALS: 115
+GAS: 0
+ACTION_WANTED: BUILD_PYLON
+ACTION_MADE: BUILD_PYLON
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Nexus': 1, 'Probe': 13}
+MINERALS: 15
+GAS: 0
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Nexus': 1, 'Probe': 13}
+MINERALS: 25
+GAS: 0
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Nexus': 1, 'Probe': 13}
+MINERALS: 25
+GAS: 0
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Nexus': 1, 'Probe': 13}
+MINERALS: 35
+GAS: 0
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Nexus': 1, 'Probe': 13}
+MINERALS: 35
+GAS: 0
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Nexus': 1, 'Probe': 13}
+MINERALS: 40
+GAS: 0
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Nexus': 1, 'Probe': 13}
+MINERALS: 45
+GAS: 0
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Nexus': 1, 'Probe': 13}
+MINERALS: 50
+GAS: 0
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Nexus': 1, 'Probe': 13}
+MINERALS: 50
+GAS: 0
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Nexus': 1, 'Probe': 13}
+MINERALS: 50
+GAS: 0
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Nexus': 1, 'Probe': 13}
+MINERALS: 60
+GAS: 0
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Nexus': 1, 'Probe': 13, 'Pylon': 1}
+MINERALS: 65
+GAS: 0
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Nexus': 1, 'Probe': 13, 'Pylon': 1}
+MINERALS: 85
+GAS: 0
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Nexus': 1, 'Probe': 13, 'Pylon': 1}
+MINERALS: 85
+GAS: 0
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Nexus': 1, 'Probe': 13, 'Pylon': 1}
+MINERALS: 85
+GAS: 0
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Nexus': 1, 'Probe': 13, 'Pylon': 1}
+MINERALS: 95
+GAS: 0
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Nexus': 1, 'Probe': 13, 'Pylon': 1}
+MINERALS: 100
+GAS: 0
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Nexus': 1, 'Probe': 13, 'Pylon': 1}
+MINERALS: 105
+GAS: 0
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Nexus': 1, 'Probe': 14, 'Pylon': 1}
+MINERALS: 110
+GAS: 0
+ACTION_WANTED: TRAIN_PROBE
+ACTION_MADE: TRAIN_PROBE
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Nexus': 1, 'Probe': 14, 'Pylon': 1}
+MINERALS: 60
+GAS: 0
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Nexus': 1, 'Probe': 14, 'Pylon': 1}
+MINERALS: 65
+GAS: 0
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Nexus': 1, 'Probe': 14, 'Pylon': 1}
+MINERALS: 65
+GAS: 0
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Nexus': 1, 'Probe': 14, 'Pylon': 1}
+MINERALS: 75
+GAS: 0
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Nexus': 1, 'Probe': 14, 'Pylon': 1}
+MINERALS: 80
+GAS: 0
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Nexus': 1, 'Probe': 14, 'Pylon': 1}
+MINERALS: 95
+GAS: 0
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Nexus': 1, 'Probe': 14, 'Pylon': 1}
+MINERALS: 100
+GAS: 0
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Nexus': 1, 'Probe': 14, 'Pylon': 1}
+MINERALS: 100
+GAS: 0
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Nexus': 1, 'Probe': 14, 'Pylon': 1}
+MINERALS: 110
+GAS: 0
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Nexus': 1, 'Probe': 14, 'Pylon': 1}
+MINERALS: 115
+GAS: 0
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Nexus': 1, 'Probe': 14, 'Pylon': 1}
+MINERALS: 120
+GAS: 0
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Nexus': 1, 'Probe': 14, 'Pylon': 1}
+MINERALS: 120
+GAS: 0
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Nexus': 1, 'Probe': 14, 'Pylon': 1}
+MINERALS: 130
+GAS: 0
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Nexus': 1, 'Probe': 14, 'Pylon': 1}
+MINERALS: 130
+GAS: 0
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Nexus': 1, 'Probe': 14, 'Pylon': 1}
+MINERALS: 135
+GAS: 0
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Nexus': 1, 'Probe': 14, 'Pylon': 1}
+MINERALS: 145
+GAS: 0
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Nexus': 1, 'Probe': 14, 'Pylon': 1}
+MINERALS: 155
+GAS: 0
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Nexus': 1, 'Probe': 14, 'Pylon': 1}
+MINERALS: 160
+GAS: 0
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Nexus': 1, 'Probe': 14, 'Pylon': 1}
+MINERALS: 170
+GAS: 0
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Nexus': 1, 'Probe': 14, 'Pylon': 1}
+MINERALS: 175
+GAS: 0
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Nexus': 1, 'Probe': 14, 'Pylon': 1}
+MINERALS: 180
+GAS: 0
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Nexus': 1, 'Probe': 14, 'Pylon': 1}
+MINERALS: 185
+GAS: 0
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Nexus': 1, 'Probe': 14, 'Pylon': 1}
+MINERALS: 195
+GAS: 0
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Nexus': 1, 'Probe': 14, 'Pylon': 1}
+MINERALS: 200
+GAS: 0
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Nexus': 1, 'Probe': 14, 'Pylon': 1}
+MINERALS: 200
+GAS: 0
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Nexus': 1, 'Probe': 14, 'Pylon': 1}
+MINERALS: 205
+GAS: 0
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Nexus': 1, 'Probe': 14, 'Pylon': 1}
+MINERALS: 210
+GAS: 0
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Nexus': 1, 'Probe': 15, 'Pylon': 1}
+MINERALS: 220
+GAS: 0
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Nexus': 1, 'Probe': 15, 'Pylon': 1}
+MINERALS: 220
+GAS: 0
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Nexus': 1, 'Probe': 15, 'Pylon': 1}
+MINERALS: 230
+GAS: 0
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Nexus': 1, 'Probe': 15, 'Pylon': 1}
+MINERALS: 245
+GAS: 0
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Nexus': 1, 'Probe': 15, 'Pylon': 1}
+MINERALS: 245
+GAS: 0
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Nexus': 1, 'Probe': 15, 'Pylon': 1}
+MINERALS: 260
+GAS: 0
+ACTION_WANTED: TRAIN_PROBE
+ACTION_MADE: TRAIN_PROBE
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Nexus': 1, 'Probe': 15, 'Pylon': 1}
+MINERALS: 215
+GAS: 0
+ACTION_WANTED: BUILD_ASSIMILATOR
+ACTION_MADE: BUILD_ASSIMILATOR
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Nexus': 1, 'Probe': 15, 'Pylon': 1}
+MINERALS: 145
+GAS: 0
+ACTION_WANTED: BUILD_GATEWAY
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Nexus': 1, 'Probe': 15, 'Pylon': 1}
+MINERALS: 150
+GAS: 0
+ACTION_WANTED: BUILD_GATEWAY
+ACTION_MADE: BUILD_GATEWAY
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Assimilator': 1, 'Nexus': 1, 'Probe': 15, 'Pylon': 1}
+MINERALS: 0
+GAS: 0
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Assimilator': 1, 'Nexus': 1, 'Probe': 15, 'Pylon': 1}
+MINERALS: 10
+GAS: 0
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Assimilator': 1, 'Nexus': 1, 'Probe': 15, 'Pylon': 1}
+MINERALS: 10
+GAS: 0
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Assimilator': 1, 'Nexus': 1, 'Probe': 15, 'Pylon': 1}
+MINERALS: 15
+GAS: 0
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Assimilator': 1, 'Nexus': 1, 'Probe': 15, 'Pylon': 1}
+MINERALS: 20
+GAS: 0
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Assimilator': 1, 'Nexus': 1, 'Probe': 15, 'Pylon': 1}
+MINERALS: 30
+GAS: 0
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Assimilator': 1, 'Nexus': 1, 'Probe': 15, 'Pylon': 1}
+MINERALS: 30
+GAS: 0
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Assimilator': 1, 'Nexus': 1, 'Probe': 15, 'Pylon': 1}
+MINERALS: 45
+GAS: 0
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Assimilator': 1, 'Nexus': 1, 'Probe': 15, 'Pylon': 1}
+MINERALS: 50
+GAS: 0
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Assimilator': 1, 'Nexus': 1, 'Probe': 15, 'Pylon': 1}
+MINERALS: 50
+GAS: 0
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Assimilator': 1, 'Nexus': 1, 'Probe': 15, 'Pylon': 1}
+MINERALS: 55
+GAS: 0
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Assimilator': 1, 'Gateway': 1, 'Nexus': 1, 'Probe': 15, 'Pylon': 1}
+MINERALS: 75
+GAS: 0
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Assimilator': 1, 'Gateway': 1, 'Nexus': 1, 'Probe': 15, 'Pylon': 1}
+MINERALS: 75
+GAS: 0
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Assimilator': 1, 'Gateway': 1, 'Nexus': 1, 'Probe': 15, 'Pylon': 1}
+MINERALS: 75
+GAS: 0
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Assimilator': 1, 'Gateway': 1, 'Nexus': 1, 'Probe': 15, 'Pylon': 1}
+MINERALS: 75
+GAS: 0
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Assimilator': 1, 'Gateway': 1, 'Nexus': 1, 'Probe': 15, 'Pylon': 1}
+MINERALS: 90
+GAS: 0
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Assimilator': 1, 'Gateway': 1, 'Nexus': 1, 'Probe': 16, 'Pylon': 1}
+MINERALS: 90
+GAS: 0
+ACTION_WANTED: TRAIN_PROBE
+ACTION_MADE: TRAIN_PROBE
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Assimilator': 1, 'Gateway': 1, 'Nexus': 1, 'Probe': 16, 'Pylon': 1}
+MINERALS: 50
+GAS: 0
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Assimilator': 1, 'Gateway': 1, 'Nexus': 1, 'Probe': 16, 'Pylon': 1}
+MINERALS: 55
+GAS: 0
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Assimilator': 1, 'Gateway': 1, 'Nexus': 1, 'Probe': 16, 'Pylon': 1}
+MINERALS: 65
+GAS: 0
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Assimilator': 1, 'Gateway': 1, 'Nexus': 1, 'Probe': 16, 'Pylon': 1}
+MINERALS: 70
+GAS: 0
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Assimilator': 1, 'Gateway': 1, 'Nexus': 1, 'Probe': 16, 'Pylon': 1}
+MINERALS: 75
+GAS: 0
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Assimilator': 1, 'Gateway': 1, 'Nexus': 1, 'Probe': 16, 'Pylon': 1}
+MINERALS: 90
+GAS: 0
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Assimilator': 1, 'Gateway': 1, 'Nexus': 1, 'Probe': 16, 'Pylon': 1}
+MINERALS: 95
+GAS: 0
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Assimilator': 1, 'Gateway': 1, 'Nexus': 1, 'Probe': 16, 'Pylon': 1}
+MINERALS: 95
+GAS: 0
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Assimilator': 1, 'Gateway': 1, 'Nexus': 1, 'Probe': 16, 'Pylon': 1}
+MINERALS: 95
+GAS: 0
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Assimilator': 1, 'Gateway': 1, 'Nexus': 1, 'Probe': 16, 'Pylon': 1}
+MINERALS: 100
+GAS: 0
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Assimilator': 1, 'Gateway': 1, 'Nexus': 1, 'Probe': 16, 'Pylon': 1}
+MINERALS: 115
+GAS: 0
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Assimilator': 1, 'Gateway': 1, 'Nexus': 1, 'Probe': 16, 'Pylon': 1}
+MINERALS: 115
+GAS: 0
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Assimilator': 1, 'Gateway': 1, 'Nexus': 1, 'Probe': 16, 'Pylon': 1}
+MINERALS: 125
+GAS: 0
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Assimilator': 1, 'Gateway': 1, 'Nexus': 1, 'Probe': 16, 'Pylon': 1}
+MINERALS: 125
+GAS: 0
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Assimilator': 1, 'Gateway': 1, 'Nexus': 1, 'Probe': 16, 'Pylon': 1}
+MINERALS: 135
+GAS: 0
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Assimilator': 1, 'Gateway': 1, 'Nexus': 1, 'Probe': 16, 'Pylon': 1}
+MINERALS: 155
+GAS: 0
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Assimilator': 1, 'Gateway': 1, 'Nexus': 1, 'Probe': 16, 'Pylon': 1}
+MINERALS: 160
+GAS: 0
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Assimilator': 1, 'Gateway': 1, 'Nexus': 1, 'Probe': 16, 'Pylon': 1}
+MINERALS: 160
+GAS: 0
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Assimilator': 1, 'Gateway': 1, 'Nexus': 1, 'Probe': 17, 'Pylon': 1}
+MINERALS: 165
+GAS: 0
+ACTION_WANTED: TRAIN_PROBE
+ACTION_MADE: TRAIN_PROBE
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Assimilator': 1, 'Gateway': 1, 'Nexus': 1, 'Probe': 17, 'Pylon': 1}
+MINERALS: 120
+GAS: 0
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Assimilator': 1, 'Gateway': 1, 'Nexus': 1, 'Probe': 17, 'Pylon': 1}
+MINERALS: 130
+GAS: 0
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Assimilator': 1, 'Gateway': 1, 'Nexus': 1, 'Probe': 17, 'Pylon': 1}
+MINERALS: 130
+GAS: 0
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Assimilator': 1, 'Gateway': 1, 'Nexus': 1, 'Probe': 17, 'Pylon': 1}
+MINERALS: 145
+GAS: 0
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Assimilator': 1, 'Gateway': 1, 'Nexus': 1, 'Probe': 17, 'Pylon': 1}
+MINERALS: 145
+GAS: 0
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Assimilator': 1, 'Gateway': 1, 'Nexus': 1, 'Probe': 17, 'Pylon': 1}
+MINERALS: 155
+GAS: 0
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Assimilator': 1, 'Gateway': 1, 'Nexus': 1, 'Probe': 17, 'Pylon': 1}
+MINERALS: 165
+GAS: 0
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Assimilator': 1, 'Gateway': 1, 'Nexus': 1, 'Probe': 17, 'Pylon': 1}
+MINERALS: 165
+GAS: 0
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Assimilator': 1, 'Gateway': 1, 'Nexus': 1, 'Probe': 17, 'Pylon': 1}
+MINERALS: 180
+GAS: 0
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Assimilator': 1, 'Gateway': 1, 'Nexus': 1, 'Probe': 17, 'Pylon': 1}
+MINERALS: 180
+GAS: 0
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Assimilator': 1, 'Gateway': 1, 'Nexus': 1, 'Probe': 17, 'Pylon': 1}
+MINERALS: 190
+GAS: 0
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Assimilator': 1, 'Gateway': 1, 'Nexus': 1, 'Probe': 17, 'Pylon': 1}
+MINERALS: 200
+GAS: 0
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Assimilator': 1, 'Gateway': 1, 'Nexus': 1, 'Probe': 17, 'Pylon': 1}
+MINERALS: 205
+GAS: 0
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Assimilator': 1, 'Gateway': 1, 'Nexus': 1, 'Probe': 17, 'Pylon': 1}
+MINERALS: 205
+GAS: 0
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Assimilator': 1, 'Gateway': 1, 'Nexus': 1, 'Probe': 17, 'Pylon': 1}
+MINERALS: 215
+GAS: 0
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Assimilator': 1, 'Gateway': 1, 'Nexus': 1, 'Probe': 17, 'Pylon': 1}
+MINERALS: 215
+GAS: 0
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Assimilator': 1, 'Gateway': 1, 'Nexus': 1, 'Probe': 17, 'Pylon': 1}
+MINERALS: 225
+GAS: 0
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Assimilator': 1, 'Gateway': 1, 'Nexus': 1, 'Probe': 17, 'Pylon': 1}
+MINERALS: 235
+GAS: 0
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Assimilator': 1, 'Gateway': 1, 'Nexus': 1, 'Probe': 16, 'Pylon': 1}
+MINERALS: 240
+GAS: 0
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Assimilator': 1, 'Gateway': 1, 'Nexus': 1, 'Probe': 17, 'Pylon': 1}
+MINERALS: 245
+GAS: 0
+ACTION_WANTED: TRAIN_PROBE
+ACTION_MADE: TRAIN_PROBE
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Assimilator': 1, 'Gateway': 1, 'Nexus': 1, 'Probe': 17, 'Pylon': 1}
+MINERALS: 195
+GAS: 0
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Assimilator': 1, 'Gateway': 1, 'Nexus': 1, 'Probe': 18, 'Pylon': 1}
+MINERALS: 205
+GAS: 0
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Assimilator': 1, 'Gateway': 1, 'Nexus': 1, 'Probe': 17, 'Pylon': 1}
+MINERALS: 220
+GAS: 0
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Assimilator': 1, 'Gateway': 1, 'Nexus': 1, 'Probe': 17, 'Pylon': 1}
+MINERALS: 220
+GAS: 0
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Assimilator': 1, 'Gateway': 1, 'Nexus': 1, 'Probe': 17, 'Pylon': 1}
+MINERALS: 225
+GAS: 0
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Assimilator': 1, 'Gateway': 1, 'Nexus': 1, 'Probe': 17, 'Pylon': 1}
+MINERALS: 230
+GAS: 4
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Assimilator': 1, 'Gateway': 1, 'Nexus': 1, 'Probe': 17, 'Pylon': 1}
+MINERALS: 235
+GAS: 4
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Assimilator': 1, 'Gateway': 1, 'Nexus': 1, 'Probe': 17, 'Pylon': 1}
+MINERALS: 245
+GAS: 4
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Assimilator': 1, 'Gateway': 1, 'Nexus': 1, 'Probe': 17, 'Pylon': 1}
+MINERALS: 255
+GAS: 8
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Assimilator': 1, 'Gateway': 1, 'Nexus': 1, 'Probe': 17, 'Pylon': 1}
+MINERALS: 255
+GAS: 8
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Assimilator': 1, 'Gateway': 1, 'Nexus': 1, 'Probe': 17, 'Pylon': 1}
+MINERALS: 265
+GAS: 8
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Assimilator': 1, 'Gateway': 1, 'Nexus': 1, 'Probe': 18, 'Pylon': 1}
+MINERALS: 270
+GAS: 8
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Assimilator': 1, 'Gateway': 1, 'Nexus': 1, 'Probe': 17, 'Pylon': 1}
+MINERALS: 275
+GAS: 12
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Assimilator': 1, 'Gateway': 1, 'Nexus': 1, 'Probe': 17, 'Pylon': 1}
+MINERALS: 290
+GAS: 12
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Assimilator': 1, 'Gateway': 1, 'Nexus': 1, 'Probe': 17, 'Pylon': 1}
+MINERALS: 295
+GAS: 12
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Assimilator': 1, 'Gateway': 1, 'Nexus': 1, 'Probe': 17, 'Pylon': 1}
+MINERALS: 295
+GAS: 16
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Assimilator': 1, 'Gateway': 1, 'Nexus': 1, 'Probe': 17, 'Pylon': 1}
+MINERALS: 305
+GAS: 16
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Assimilator': 1, 'Gateway': 1, 'Nexus': 1, 'Probe': 17, 'Pylon': 1}
+MINERALS: 315
+GAS: 16
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Assimilator': 1, 'Gateway': 1, 'Nexus': 1, 'Probe': 18, 'Pylon': 1}
+MINERALS: 325
+GAS: 20
+ACTION_WANTED: TRAIN_PROBE
+ACTION_MADE: TRAIN_PROBE
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Assimilator': 1, 'Gateway': 1, 'Nexus': 1, 'Probe': 18, 'Pylon': 1}
+MINERALS: 275
+GAS: 20
+ACTION_WANTED: BUILD_NEXUS
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Assimilator': 1, 'Gateway': 1, 'Nexus': 1, 'Probe': 18, 'Pylon': 1}
+MINERALS: 280
+GAS: 20
+ACTION_WANTED: BUILD_NEXUS
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Assimilator': 1, 'Gateway': 1, 'Nexus': 1, 'Probe': 18, 'Pylon': 1}
+MINERALS: 285
+GAS: 20
+ACTION_WANTED: BUILD_NEXUS
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Assimilator': 1, 'Gateway': 1, 'Nexus': 1, 'Probe': 18, 'Pylon': 1}
+MINERALS: 290
+GAS: 24
+ACTION_WANTED: BUILD_NEXUS
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Assimilator': 1, 'Gateway': 1, 'Nexus': 1, 'Probe': 18, 'Pylon': 1}
+MINERALS: 305
+GAS: 24
+ACTION_WANTED: BUILD_NEXUS
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Assimilator': 1, 'Gateway': 1, 'Nexus': 1, 'Probe': 18, 'Pylon': 1}
+MINERALS: 305
+GAS: 24
+ACTION_WANTED: BUILD_NEXUS
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Assimilator': 1, 'Gateway': 1, 'Nexus': 1, 'Probe': 18, 'Pylon': 1}
+MINERALS: 315
+GAS: 28
+ACTION_WANTED: BUILD_NEXUS
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Assimilator': 1, 'Gateway': 1, 'Nexus': 1, 'Probe': 18, 'Pylon': 1}
+MINERALS: 320
+GAS: 28
+ACTION_WANTED: BUILD_NEXUS
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Assimilator': 1, 'Gateway': 1, 'Nexus': 1, 'Probe': 18, 'Pylon': 1}
+MINERALS: 330
+GAS: 28
+ACTION_WANTED: BUILD_NEXUS
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Assimilator': 1, 'Gateway': 1, 'Nexus': 1, 'Probe': 18, 'Pylon': 1}
+MINERALS: 335
+GAS: 32
+ACTION_WANTED: BUILD_NEXUS
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Assimilator': 1, 'Gateway': 1, 'Nexus': 1, 'Probe': 18, 'Pylon': 1}
+MINERALS: 345
+GAS: 32
+ACTION_WANTED: BUILD_NEXUS
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Assimilator': 1, 'Gateway': 1, 'Nexus': 1, 'Probe': 18, 'Pylon': 1}
+MINERALS: 350
+GAS: 32
+ACTION_WANTED: BUILD_NEXUS
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Assimilator': 1, 'Gateway': 1, 'Nexus': 1, 'Probe': 18, 'Pylon': 1}
+MINERALS: 350
+GAS: 32
+ACTION_WANTED: BUILD_NEXUS
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Assimilator': 1, 'Gateway': 1, 'Nexus': 1, 'Probe': 18, 'Pylon': 1}
+MINERALS: 365
+GAS: 36
+ACTION_WANTED: BUILD_NEXUS
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Assimilator': 1, 'Gateway': 1, 'Nexus': 1, 'Probe': 18, 'Pylon': 1}
+MINERALS: 370
+GAS: 36
+ACTION_WANTED: BUILD_NEXUS
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Assimilator': 1, 'Gateway': 1, 'Nexus': 1, 'Probe': 18, 'Pylon': 1}
+MINERALS: 375
+GAS: 36
+ACTION_WANTED: BUILD_NEXUS
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Assimilator': 1, 'Gateway': 1, 'Nexus': 1, 'Probe': 18, 'Pylon': 1}
+MINERALS: 380
+GAS: 40
+ACTION_WANTED: BUILD_NEXUS
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Assimilator': 1, 'Gateway': 1, 'Nexus': 1, 'Probe': 18, 'Pylon': 1}
+MINERALS: 380
+GAS: 40
+ACTION_WANTED: BUILD_NEXUS
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Assimilator': 1, 'Gateway': 1, 'Nexus': 1, 'Probe': 19, 'Pylon': 1}
+MINERALS: 385
+GAS: 40
+ACTION_WANTED: BUILD_NEXUS
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Assimilator': 1, 'Gateway': 1, 'Nexus': 1, 'Probe': 19, 'Pylon': 1}
+MINERALS: 405
+GAS: 44
+ACTION_WANTED: BUILD_NEXUS
+ACTION_MADE: BUILD_NEXUS
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Assimilator': 1, 'Gateway': 1, 'Nexus': 1, 'Probe': 19, 'Pylon': 1}
+MINERALS: 10
+GAS: 44
+ACTION_WANTED: BUILD_CYBERNETICSCORE
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Assimilator': 1, 'Gateway': 1, 'Nexus': 1, 'Probe': 19, 'Pylon': 1}
+MINERALS: 20
+GAS: 44
+ACTION_WANTED: BUILD_CYBERNETICSCORE
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Assimilator': 1, 'Gateway': 1, 'Nexus': 1, 'Probe': 19, 'Pylon': 1}
+MINERALS: 20
+GAS: 44
+ACTION_WANTED: BUILD_CYBERNETICSCORE
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Assimilator': 1, 'Gateway': 1, 'Nexus': 1, 'Probe': 19, 'Pylon': 1}
+MINERALS: 25
+GAS: 48
+ACTION_WANTED: BUILD_CYBERNETICSCORE
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Assimilator': 1, 'Gateway': 1, 'Nexus': 1, 'Probe': 19, 'Pylon': 1}
+MINERALS: 40
+GAS: 48
+ACTION_WANTED: BUILD_CYBERNETICSCORE
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Assimilator': 1, 'Gateway': 1, 'Nexus': 1, 'Probe': 19, 'Pylon': 1}
+MINERALS: 40
+GAS: 48
+ACTION_WANTED: BUILD_CYBERNETICSCORE
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Assimilator': 1, 'Gateway': 1, 'Nexus': 1, 'Probe': 19, 'Pylon': 1}
+MINERALS: 50
+GAS: 52
+ACTION_WANTED: BUILD_CYBERNETICSCORE
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Assimilator': 1, 'Gateway': 1, 'Nexus': 1, 'Probe': 19, 'Pylon': 1}
+MINERALS: 50
+GAS: 52
+ACTION_WANTED: BUILD_CYBERNETICSCORE
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Assimilator': 1, 'Gateway': 1, 'Nexus': 1, 'Probe': 19, 'Pylon': 1}
+MINERALS: 50
+GAS: 52
+ACTION_WANTED: BUILD_CYBERNETICSCORE
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Assimilator': 1, 'Gateway': 1, 'Nexus': 1, 'Probe': 19, 'Pylon': 1}
+MINERALS: 55
+GAS: 56
+ACTION_WANTED: BUILD_CYBERNETICSCORE
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Assimilator': 1, 'Gateway': 1, 'Nexus': 1, 'Probe': 19, 'Pylon': 1}
+MINERALS: 70
+GAS: 56
+ACTION_WANTED: BUILD_CYBERNETICSCORE
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Assimilator': 1, 'Gateway': 1, 'Nexus': 1, 'Probe': 19, 'Pylon': 1}
+MINERALS: 80
+GAS: 56
+ACTION_WANTED: BUILD_CYBERNETICSCORE
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Assimilator': 1, 'Gateway': 1, 'Nexus': 1, 'Probe': 19, 'Pylon': 1}
+MINERALS: 85
+GAS: 56
+ACTION_WANTED: BUILD_CYBERNETICSCORE
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Assimilator': 1, 'Gateway': 1, 'Nexus': 1, 'Probe': 19, 'Pylon': 1}
+MINERALS: 90
+GAS: 60
+ACTION_WANTED: BUILD_CYBERNETICSCORE
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Assimilator': 1, 'Gateway': 1, 'Nexus': 1, 'Probe': 19, 'Pylon': 1}
+MINERALS: 95
+GAS: 60
+ACTION_WANTED: BUILD_CYBERNETICSCORE
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Assimilator': 1, 'Gateway': 1, 'Nexus': 2, 'Probe': 19, 'Pylon': 1}
+MINERALS: 110
+GAS: 60
+ACTION_WANTED: BUILD_CYBERNETICSCORE
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Assimilator': 1, 'Gateway': 1, 'Nexus': 2, 'Probe': 19, 'Pylon': 1}
+MINERALS: 115
+GAS: 64
+ACTION_WANTED: BUILD_CYBERNETICSCORE
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Assimilator': 1, 'Gateway': 1, 'Nexus': 2, 'Probe': 19, 'Pylon': 1}
+MINERALS: 115
+GAS: 64
+ACTION_WANTED: BUILD_CYBERNETICSCORE
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Assimilator': 1, 'Gateway': 1, 'Nexus': 2, 'Probe': 19, 'Pylon': 1}
+MINERALS: 120
+GAS: 64
+ACTION_WANTED: BUILD_CYBERNETICSCORE
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Assimilator': 1, 'Gateway': 1, 'Nexus': 2, 'Probe': 19, 'Pylon': 1}
+MINERALS: 120
+GAS: 68
+ACTION_WANTED: BUILD_CYBERNETICSCORE
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Assimilator': 1, 'Gateway': 1, 'Nexus': 2, 'Probe': 19, 'Pylon': 1}
+MINERALS: 125
+GAS: 68
+ACTION_WANTED: BUILD_CYBERNETICSCORE
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Assimilator': 1, 'Gateway': 1, 'Nexus': 2, 'Probe': 19, 'Pylon': 1}
+MINERALS: 140
+GAS: 68
+ACTION_WANTED: BUILD_CYBERNETICSCORE
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Assimilator': 1, 'Gateway': 1, 'Nexus': 2, 'Probe': 19, 'Pylon': 1}
+MINERALS: 150
+GAS: 68
+ACTION_WANTED: BUILD_CYBERNETICSCORE
+ACTION_MADE: BUILD_CYBERNETICSCORE
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Assimilator': 1, 'Gateway': 1, 'Nexus': 2, 'Probe': 19, 'Pylon': 1}
+MINERALS: 5
+GAS: 72
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Assimilator': 1, 'Gateway': 1, 'Nexus': 2, 'Probe': 19, 'Pylon': 1}
+MINERALS: 5
+GAS: 72
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Assimilator': 1, 'Gateway': 1, 'Nexus': 2, 'Probe': 19, 'Pylon': 1}
+MINERALS: 25
+GAS: 72
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Assimilator': 1, 'Gateway': 1, 'Nexus': 2, 'Probe': 19, 'Pylon': 1}
+MINERALS: 30
+GAS: 76
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Assimilator': 1, 'Gateway': 1, 'Nexus': 2, 'Probe': 19, 'Pylon': 1}
+MINERALS: 40
+GAS: 76
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Assimilator': 1, 'Gateway': 1, 'Nexus': 2, 'Probe': 19, 'Pylon': 1}
+MINERALS: 40
+GAS: 76
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Assimilator': 1, 'Gateway': 1, 'Nexus': 2, 'Probe': 19, 'Pylon': 1}
+MINERALS: 40
+GAS: 80
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Assimilator': 1, 'Gateway': 1, 'Nexus': 2, 'Probe': 19, 'Pylon': 1}
+MINERALS: 45
+GAS: 80
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Assimilator': 1, 'Gateway': 1, 'Nexus': 2, 'Probe': 19, 'Pylon': 1}
+MINERALS: 55
+GAS: 80
+ACTION_WANTED: TRAIN_PROBE
+ACTION_MADE: TRAIN_PROBE
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Assimilator': 1, 'Gateway': 1, 'Nexus': 2, 'Probe': 19, 'Pylon': 1}
+MINERALS: 10
+GAS: 84
+ACTION_WANTED: BUILD_ASSIMILATOR
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Assimilator': 1, 'Gateway': 1, 'Nexus': 2, 'Probe': 19, 'Pylon': 1}
+MINERALS: 20
+GAS: 84
+ACTION_WANTED: BUILD_ASSIMILATOR
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Assimilator': 1, 'CyberneticsCore': 1, 'Gateway': 1, 'Nexus': 2, 'Probe': 19, 'Pylon': 1}
+MINERALS: 30
+GAS: 84
+ACTION_WANTED: BUILD_ASSIMILATOR
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Assimilator': 1, 'CyberneticsCore': 1, 'Gateway': 1, 'Nexus': 2, 'Probe': 19, 'Pylon': 1}
+MINERALS: 45
+GAS: 84
+ACTION_WANTED: BUILD_ASSIMILATOR
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Assimilator': 1, 'CyberneticsCore': 1, 'Gateway': 1, 'Nexus': 2, 'Probe': 19, 'Pylon': 1}
+MINERALS: 50
+GAS: 88
+ACTION_WANTED: BUILD_ASSIMILATOR
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Assimilator': 1, 'CyberneticsCore': 1, 'Gateway': 1, 'Nexus': 2, 'Probe': 19, 'Pylon': 1}
+MINERALS: 50
+GAS: 88
+ACTION_WANTED: BUILD_ASSIMILATOR
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Assimilator': 1, 'CyberneticsCore': 1, 'Gateway': 1, 'Nexus': 2, 'Probe': 19, 'Pylon': 1}
+MINERALS: 65
+GAS: 88
+ACTION_WANTED: BUILD_ASSIMILATOR
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Assimilator': 1, 'CyberneticsCore': 1, 'Gateway': 1, 'Nexus': 2, 'Probe': 19, 'Pylon': 1}
+MINERALS: 70
+GAS: 92
+ACTION_WANTED: BUILD_ASSIMILATOR
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Assimilator': 1, 'CyberneticsCore': 1, 'Gateway': 1, 'Nexus': 2, 'Probe': 19, 'Pylon': 1}
+MINERALS: 75
+GAS: 92
+ACTION_WANTED: BUILD_ASSIMILATOR
+ACTION_MADE: BUILD_ASSIMILATOR
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Assimilator': 1, 'CyberneticsCore': 1, 'Gateway': 1, 'Nexus': 2, 'Probe': 19, 'Pylon': 1}
+MINERALS: 5
+GAS: 92
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Assimilator': 1, 'CyberneticsCore': 1, 'Gateway': 1, 'Nexus': 2, 'Probe': 19, 'Pylon': 1}
+MINERALS: 5
+GAS: 96
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 1, 'Nexus': 2, 'Probe': 19, 'Pylon': 1}
+MINERALS: 20
+GAS: 96
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 1, 'Nexus': 2, 'Probe': 19, 'Pylon': 1}
+MINERALS: 20
+GAS: 96
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 1, 'Nexus': 2, 'Probe': 19, 'Pylon': 1}
+MINERALS: 20
+GAS: 96
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 1, 'Nexus': 2, 'Probe': 19, 'Pylon': 1}
+MINERALS: 40
+GAS: 100
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 1, 'Nexus': 2, 'Probe': 19, 'Pylon': 1}
+MINERALS: 45
+GAS: 100
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 1, 'Nexus': 2, 'Probe': 19, 'Pylon': 1}
+MINERALS: 50
+GAS: 100
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 1, 'Nexus': 2, 'Probe': 20, 'Pylon': 1}
+MINERALS: 55
+GAS: 104
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 1, 'Nexus': 2, 'Probe': 19, 'Pylon': 1}
+MINERALS: 55
+GAS: 104
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 1, 'Nexus': 2, 'Probe': 19, 'Pylon': 1}
+MINERALS: 75
+GAS: 104
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 1, 'Nexus': 2, 'Probe': 19, 'Pylon': 1}
+MINERALS: 80
+GAS: 108
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 1, 'Nexus': 2, 'Probe': 19, 'Pylon': 1}
+MINERALS: 80
+GAS: 108
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 1, 'Nexus': 2, 'Probe': 19, 'Pylon': 1}
+MINERALS: 90
+GAS: 108
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 1, 'Nexus': 2, 'Probe': 19, 'Pylon': 1}
+MINERALS: 95
+GAS: 108
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 1, 'Nexus': 2, 'Probe': 19, 'Pylon': 1}
+MINERALS: 105
+GAS: 112
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 1, 'Nexus': 2, 'Probe': 19, 'Pylon': 1}
+MINERALS: 105
+GAS: 112
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 1, 'Nexus': 2, 'Probe': 19, 'Pylon': 1}
+MINERALS: 120
+GAS: 112
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 1, 'Nexus': 2, 'Probe': 20, 'Pylon': 1}
+MINERALS: 130
+GAS: 116
+ACTION_WANTED: TRAIN_PROBE
+ACTION_MADE: TRAIN_PROBE
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 1, 'Nexus': 2, 'Probe': 20, 'Pylon': 1}
+MINERALS: 85
+GAS: 116
+ACTION_WANTED: BUILD_PYLON
+ACTION_WANTED: TRAIN_STALKER
+ACTION_WANTED: TRAIN_PROBE
+ACTION_WANTED: TRAIN_ZEALOT
+ACTION_WANTED: BUILD_GATEWAY
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 1, 'Nexus': 2, 'Probe': 20, 'Pylon': 1}
+MINERALS: 95
+GAS: 116
+ACTION_WANTED: BUILD_PYLON
+ACTION_WANTED: TRAIN_STALKER
+ACTION_WANTED: TRAIN_PROBE
+ACTION_WANTED: TRAIN_ZEALOT
+ACTION_WANTED: BUILD_GATEWAY
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 1, 'Nexus': 2, 'Probe': 20, 'Pylon': 1}
+MINERALS: 100
+GAS: 120
+ACTION_WANTED: BUILD_PYLON
+ACTION_MADE: BUILD_PYLON
+ACTION_WANTED: TRAIN_STALKER
+ACTION_WANTED: TRAIN_PROBE
+ACTION_WANTED: TRAIN_ZEALOT
+ACTION_WANTED: BUILD_GATEWAY
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 1, 'Nexus': 2, 'Probe': 20, 'Pylon': 1}
+MINERALS: 5
+GAS: 120
+ACTION_WANTED: TRAIN_STALKER
+ACTION_WANTED: TRAIN_PROBE
+ACTION_WANTED: TRAIN_ZEALOT
+ACTION_WANTED: BUILD_GATEWAY
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 1, 'Nexus': 2, 'Probe': 20, 'Pylon': 1}
+MINERALS: 15
+GAS: 120
+ACTION_WANTED: TRAIN_STALKER
+ACTION_WANTED: TRAIN_PROBE
+ACTION_WANTED: TRAIN_ZEALOT
+ACTION_WANTED: BUILD_GATEWAY
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 1, 'Nexus': 2, 'Probe': 20, 'Pylon': 1}
+MINERALS: 20
+GAS: 120
+ACTION_WANTED: TRAIN_STALKER
+ACTION_WANTED: TRAIN_PROBE
+ACTION_WANTED: TRAIN_ZEALOT
+ACTION_WANTED: BUILD_GATEWAY
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 1, 'Nexus': 2, 'Probe': 20, 'Pylon': 1}
+MINERALS: 20
+GAS: 124
+ACTION_WANTED: TRAIN_STALKER
+ACTION_WANTED: TRAIN_PROBE
+ACTION_WANTED: TRAIN_ZEALOT
+ACTION_WANTED: BUILD_GATEWAY
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 1, 'Nexus': 2, 'Probe': 20, 'Pylon': 1}
+MINERALS: 25
+GAS: 124
+ACTION_WANTED: TRAIN_STALKER
+ACTION_WANTED: TRAIN_PROBE
+ACTION_WANTED: TRAIN_ZEALOT
+ACTION_WANTED: BUILD_GATEWAY
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 1, 'Nexus': 2, 'Probe': 20, 'Pylon': 1}
+MINERALS: 35
+GAS: 124
+ACTION_WANTED: TRAIN_STALKER
+ACTION_WANTED: TRAIN_PROBE
+ACTION_WANTED: TRAIN_ZEALOT
+ACTION_WANTED: BUILD_GATEWAY
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 1, 'Nexus': 2, 'Probe': 20, 'Pylon': 1}
+MINERALS: 40
+GAS: 128
+ACTION_WANTED: TRAIN_STALKER
+ACTION_WANTED: TRAIN_PROBE
+ACTION_WANTED: TRAIN_ZEALOT
+ACTION_WANTED: BUILD_GATEWAY
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 1, 'Nexus': 2, 'Probe': 20, 'Pylon': 1}
+MINERALS: 50
+GAS: 128
+ACTION_WANTED: TRAIN_STALKER
+ACTION_WANTED: TRAIN_PROBE
+ACTION_WANTED: TRAIN_ZEALOT
+ACTION_WANTED: BUILD_GATEWAY
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 1, 'Nexus': 2, 'Probe': 20, 'Pylon': 1}
+MINERALS: 60
+GAS: 128
+ACTION_WANTED: TRAIN_STALKER
+ACTION_WANTED: TRAIN_PROBE
+ACTION_WANTED: TRAIN_ZEALOT
+ACTION_WANTED: BUILD_GATEWAY
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 1, 'Nexus': 2, 'Probe': 20, 'Pylon': 1}
+MINERALS: 70
+GAS: 132
+ACTION_WANTED: TRAIN_STALKER
+ACTION_WANTED: TRAIN_PROBE
+ACTION_WANTED: TRAIN_ZEALOT
+ACTION_WANTED: BUILD_GATEWAY
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 1, 'Nexus': 2, 'Probe': 20, 'Pylon': 1}
+MINERALS: 70
+GAS: 132
+ACTION_WANTED: TRAIN_STALKER
+ACTION_WANTED: TRAIN_PROBE
+ACTION_WANTED: TRAIN_ZEALOT
+ACTION_WANTED: BUILD_GATEWAY
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 1, 'Nexus': 2, 'Probe': 20, 'Pylon': 1}
+MINERALS: 75
+GAS: 132
+ACTION_WANTED: TRAIN_STALKER
+ACTION_WANTED: TRAIN_PROBE
+ACTION_WANTED: TRAIN_ZEALOT
+ACTION_WANTED: BUILD_GATEWAY
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 1, 'Nexus': 2, 'Probe': 20, 'Pylon': 1}
+MINERALS: 80
+GAS: 132
+ACTION_WANTED: TRAIN_STALKER
+ACTION_WANTED: TRAIN_PROBE
+ACTION_WANTED: TRAIN_ZEALOT
+ACTION_WANTED: BUILD_GATEWAY
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 1, 'Nexus': 2, 'Probe': 20, 'Pylon': 2}
+MINERALS: 100
+GAS: 136
+ACTION_WANTED: TRAIN_STALKER
+ACTION_WANTED: TRAIN_PROBE
+ACTION_WANTED: TRAIN_ZEALOT
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 1, 'Nexus': 2, 'Probe': 20, 'Pylon': 2}
+MINERALS: 105
+GAS: 136
+ACTION_WANTED: TRAIN_STALKER
+ACTION_WANTED: TRAIN_PROBE
+ACTION_WANTED: TRAIN_ZEALOT
+ACTION_WANTED: BUILD_GATEWAY
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 1, 'Nexus': 2, 'Probe': 20, 'Pylon': 2}
+MINERALS: 105
+GAS: 136
+ACTION_WANTED: TRAIN_STALKER
+ACTION_WANTED: TRAIN_PROBE
+ACTION_WANTED: TRAIN_ZEALOT
+ACTION_WANTED: BUILD_GATEWAY
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 1, 'Nexus': 2, 'Probe': 20, 'Pylon': 2}
+MINERALS: 105
+GAS: 140
+ACTION_WANTED: TRAIN_STALKER
+ACTION_WANTED: TRAIN_PROBE
+ACTION_WANTED: TRAIN_ZEALOT
+ACTION_WANTED: BUILD_GATEWAY
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 1, 'Nexus': 2, 'Probe': 20, 'Pylon': 2}
+MINERALS: 115
+GAS: 140
+ACTION_WANTED: TRAIN_STALKER
+ACTION_WANTED: TRAIN_PROBE
+ACTION_WANTED: TRAIN_ZEALOT
+ACTION_WANTED: BUILD_GATEWAY
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 1, 'Nexus': 2, 'Probe': 20, 'Pylon': 2}
+MINERALS: 130
+GAS: 140
+ACTION_WANTED: TRAIN_STALKER
+ACTION_WANTED: TRAIN_PROBE
+ACTION_WANTED: TRAIN_ZEALOT
+ACTION_WANTED: BUILD_GATEWAY
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 1, 'Nexus': 2, 'Probe': 21, 'Pylon': 2}
+MINERALS: 135
+GAS: 144
+ACTION_WANTED: TRAIN_STALKER
+ACTION_WANTED: TRAIN_PROBE
+ACTION_WANTED: TRAIN_ZEALOT
+ACTION_WANTED: BUILD_GATEWAY
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 1, 'Nexus': 2, 'Probe': 20, 'Pylon': 2}
+MINERALS: 140
+GAS: 144
+ACTION_WANTED: TRAIN_STALKER
+ACTION_WANTED: TRAIN_PROBE
+ACTION_WANTED: TRAIN_ZEALOT
+ACTION_WANTED: BUILD_GATEWAY
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 1, 'Nexus': 2, 'Probe': 20, 'Pylon': 2}
+MINERALS: 145
+GAS: 144
+ACTION_WANTED: TRAIN_STALKER
+ACTION_WANTED: TRAIN_PROBE
+ACTION_WANTED: TRAIN_ZEALOT
+ACTION_WANTED: BUILD_GATEWAY
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 1, 'Nexus': 2, 'Probe': 20, 'Pylon': 2}
+MINERALS: 150
+GAS: 144
+ACTION_WANTED: TRAIN_STALKER
+ACTION_WANTED: TRAIN_PROBE
+ACTION_WANTED: TRAIN_ZEALOT
+ACTION_WANTED: BUILD_GATEWAY
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 1, 'Nexus': 2, 'Probe': 20, 'Pylon': 2}
+MINERALS: 165
+GAS: 148
+ACTION_WANTED: TRAIN_STALKER
+ACTION_WANTED: TRAIN_PROBE
+ACTION_WANTED: TRAIN_ZEALOT
+ACTION_WANTED: BUILD_GATEWAY
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 1, 'Nexus': 2, 'Probe': 21, 'Pylon': 2}
+MINERALS: 170
+GAS: 148
+ACTION_WANTED: TRAIN_STALKER
+ACTION_WANTED: TRAIN_PROBE
+ACTION_WANTED: TRAIN_ZEALOT
+ACTION_WANTED: BUILD_GATEWAY
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 1, 'Nexus': 2, 'Probe': 21, 'Pylon': 2}
+MINERALS: 185
+GAS: 148
+ACTION_WANTED: TRAIN_STALKER
+ACTION_WANTED: TRAIN_PROBE
+ACTION_MADE: TRAIN_PROBE
+ACTION_WANTED: TRAIN_ZEALOT
+ACTION_WANTED: BUILD_GATEWAY
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 1, 'Nexus': 2, 'Probe': 21, 'Pylon': 2}
+MINERALS: 135
+GAS: 152
+ACTION_WANTED: TRAIN_STALKER
+ACTION_WANTED: TRAIN_PROBE
+ACTION_WANTED: TRAIN_ZEALOT
+ACTION_WANTED: BUILD_GATEWAY
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 1, 'Nexus': 2, 'Probe': 21, 'Pylon': 2}
+MINERALS: 135
+GAS: 152
+ACTION_WANTED: TRAIN_STALKER
+ACTION_WANTED: TRAIN_PROBE
+ACTION_WANTED: TRAIN_ZEALOT
+ACTION_WANTED: BUILD_GATEWAY
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 1, 'Nexus': 2, 'Probe': 21, 'Pylon': 2}
+MINERALS: 145
+GAS: 152
+ACTION_WANTED: TRAIN_STALKER
+ACTION_WANTED: TRAIN_PROBE
+ACTION_WANTED: TRAIN_ZEALOT
+ACTION_WANTED: BUILD_GATEWAY
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 1, 'Nexus': 2, 'Probe': 21, 'Pylon': 2}
+MINERALS: 155
+GAS: 156
+ACTION_WANTED: TRAIN_STALKER
+ACTION_WANTED: TRAIN_PROBE
+ACTION_WANTED: TRAIN_ZEALOT
+ACTION_WANTED: BUILD_GATEWAY
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 1, 'Nexus': 2, 'Probe': 21, 'Pylon': 2}
+MINERALS: 165
+GAS: 156
+ACTION_WANTED: TRAIN_STALKER
+ACTION_WANTED: TRAIN_PROBE
+ACTION_WANTED: TRAIN_ZEALOT
+ACTION_WANTED: BUILD_GATEWAY
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 1, 'Nexus': 2, 'Probe': 21, 'Pylon': 2}
+MINERALS: 170
+GAS: 156
+ACTION_WANTED: TRAIN_STALKER
+ACTION_WANTED: TRAIN_PROBE
+ACTION_WANTED: TRAIN_ZEALOT
+ACTION_WANTED: BUILD_GATEWAY
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 1, 'Nexus': 2, 'Probe': 21, 'Pylon': 2}
+MINERALS: 170
+GAS: 160
+ACTION_WANTED: TRAIN_STALKER
+ACTION_WANTED: TRAIN_PROBE
+ACTION_WANTED: TRAIN_ZEALOT
+ACTION_WANTED: BUILD_GATEWAY
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 1, 'Nexus': 2, 'Probe': 20, 'Pylon': 2}
+MINERALS: 175
+GAS: 160
+ACTION_WANTED: TRAIN_STALKER
+ACTION_WANTED: TRAIN_PROBE
+ACTION_WANTED: TRAIN_ZEALOT
+ACTION_WANTED: BUILD_GATEWAY
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 1, 'Nexus': 2, 'Probe': 20, 'Pylon': 2}
+MINERALS: 190
+GAS: 160
+ACTION_WANTED: TRAIN_STALKER
+ACTION_WANTED: TRAIN_PROBE
+ACTION_WANTED: TRAIN_ZEALOT
+ACTION_WANTED: BUILD_GATEWAY
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 1, 'Nexus': 2, 'Probe': 20, 'Pylon': 2}
+MINERALS: 200
+GAS: 160
+ACTION_WANTED: TRAIN_STALKER
+ACTION_WANTED: TRAIN_PROBE
+ACTION_WANTED: TRAIN_ZEALOT
+ACTION_WANTED: BUILD_GATEWAY
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 1, 'Nexus': 2, 'Probe': 20, 'Pylon': 2}
+MINERALS: 200
+GAS: 164
+ACTION_WANTED: TRAIN_STALKER
+ACTION_WANTED: TRAIN_PROBE
+ACTION_WANTED: TRAIN_ZEALOT
+ACTION_WANTED: BUILD_GATEWAY
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 1, 'Nexus': 2, 'Probe': 20, 'Pylon': 2}
+MINERALS: 200
+GAS: 164
+ACTION_WANTED: TRAIN_STALKER
+ACTION_WANTED: TRAIN_PROBE
+ACTION_WANTED: TRAIN_ZEALOT
+ACTION_WANTED: BUILD_GATEWAY
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 1, 'Nexus': 2, 'Probe': 20, 'Pylon': 2}
+MINERALS: 210
+GAS: 164
+ACTION_WANTED: TRAIN_STALKER
+ACTION_WANTED: TRAIN_PROBE
+ACTION_WANTED: TRAIN_ZEALOT
+ACTION_WANTED: BUILD_GATEWAY
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 1, 'Nexus': 2, 'Probe': 20, 'Pylon': 2}
+MINERALS: 220
+GAS: 172
+ACTION_WANTED: TRAIN_STALKER
+ACTION_WANTED: TRAIN_PROBE
+ACTION_WANTED: TRAIN_ZEALOT
+ACTION_WANTED: BUILD_GATEWAY
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 1, 'Nexus': 2, 'Probe': 20, 'Pylon': 2}
+MINERALS: 225
+GAS: 172
+ACTION_WANTED: TRAIN_STALKER
+ACTION_WANTED: TRAIN_PROBE
+ACTION_WANTED: TRAIN_ZEALOT
+ACTION_WANTED: BUILD_GATEWAY
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 1, 'Nexus': 2, 'Probe': 20, 'Pylon': 2}
+MINERALS: 230
+GAS: 172
+ACTION_WANTED: TRAIN_STALKER
+ACTION_WANTED: TRAIN_PROBE
+ACTION_WANTED: TRAIN_ZEALOT
+ACTION_WANTED: BUILD_GATEWAY
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 1, 'Nexus': 2, 'Probe': 21, 'Pylon': 2}
+MINERALS: 240
+GAS: 176
+ACTION_WANTED: TRAIN_STALKER
+ACTION_WANTED: TRAIN_PROBE
+ACTION_WANTED: TRAIN_ZEALOT
+ACTION_WANTED: BUILD_GATEWAY
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 1, 'Nexus': 2, 'Probe': 20, 'Pylon': 2}
+MINERALS: 240
+GAS: 180
+ACTION_WANTED: TRAIN_STALKER
+ACTION_WANTED: TRAIN_PROBE
+ACTION_WANTED: TRAIN_ZEALOT
+ACTION_WANTED: BUILD_GATEWAY
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 1, 'Nexus': 2, 'Probe': 20, 'Pylon': 2}
+MINERALS: 245
+GAS: 180
+ACTION_WANTED: TRAIN_STALKER
+ACTION_WANTED: TRAIN_PROBE
+ACTION_WANTED: TRAIN_ZEALOT
+ACTION_WANTED: BUILD_GATEWAY
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 1, 'Nexus': 2, 'Probe': 20, 'Pylon': 2}
+MINERALS: 255
+GAS: 180
+ACTION_WANTED: TRAIN_STALKER
+ACTION_WANTED: TRAIN_PROBE
+ACTION_WANTED: TRAIN_ZEALOT
+ACTION_WANTED: BUILD_GATEWAY
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 1, 'Nexus': 2, 'Probe': 20, 'Pylon': 2}
+MINERALS: 270
+GAS: 188
+ACTION_WANTED: TRAIN_STALKER
+ACTION_WANTED: TRAIN_PROBE
+ACTION_WANTED: TRAIN_ZEALOT
+ACTION_WANTED: BUILD_GATEWAY
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 1, 'Nexus': 2, 'Probe': 21, 'Pylon': 2}
+MINERALS: 275
+GAS: 188
+ACTION_WANTED: TRAIN_STALKER
+ACTION_WANTED: TRAIN_PROBE
+ACTION_WANTED: TRAIN_ZEALOT
+ACTION_WANTED: BUILD_GATEWAY
+ACTION_MADE: BUILD_GATEWAY
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 1, 'Nexus': 2, 'Probe': 21, 'Pylon': 2}
+MINERALS: 125
+GAS: 192
+ACTION_WANTED: TRAIN_STALKER
+ACTION_WANTED: TRAIN_PROBE
+ACTION_WANTED: TRAIN_ZEALOT
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 1, 'Nexus': 2, 'Probe': 21, 'Pylon': 2}
+MINERALS: 125
+GAS: 196
+ACTION_WANTED: TRAIN_STALKER
+ACTION_WANTED: TRAIN_PROBE
+ACTION_WANTED: TRAIN_ZEALOT
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 1, 'Nexus': 2, 'Probe': 21, 'Pylon': 2}
+MINERALS: 145
+GAS: 196
+ACTION_WANTED: TRAIN_STALKER
+ACTION_WANTED: TRAIN_PROBE
+ACTION_WANTED: TRAIN_ZEALOT
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 1, 'Nexus': 2, 'Probe': 21, 'Pylon': 2}
+MINERALS: 150
+GAS: 196
+ACTION_WANTED: TRAIN_STALKER
+ACTION_WANTED: TRAIN_PROBE
+ACTION_WANTED: BUILD_TWILIGHTCOUNCIL
+ACTION_WANTED: TRAIN_ZEALOT
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 1, 'Nexus': 2, 'Probe': 22, 'Pylon': 2}
+MINERALS: 155
+GAS: 204
+ACTION_WANTED: TRAIN_STALKER
+ACTION_WANTED: TRAIN_PROBE
+ACTION_WANTED: BUILD_TWILIGHTCOUNCIL
+ACTION_WANTED: TRAIN_ZEALOT
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 1, 'Nexus': 2, 'Probe': 21, 'Pylon': 2}
+MINERALS: 155
+GAS: 204
+ACTION_WANTED: TRAIN_STALKER
+ACTION_MADE: TRAIN_STALKER
+ACTION_WANTED: TRAIN_PROBE
+ACTION_WANTED: BUILD_TWILIGHTCOUNCIL
+ACTION_WANTED: TRAIN_ZEALOT
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 1, 'Nexus': 2, 'Probe': 21, 'Pylon': 2}
+MINERALS: 40
+GAS: 154
+ACTION_WANTED: TRAIN_STALKER
+ACTION_WANTED: TRAIN_PROBE
+ACTION_WANTED: BUILD_TWILIGHTCOUNCIL
+ACTION_WANTED: TRAIN_ZEALOT
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 1, 'Nexus': 2, 'Probe': 21, 'Pylon': 2}
+MINERALS: 50
+GAS: 158
+ACTION_WANTED: TRAIN_STALKER
+ACTION_WANTED: TRAIN_PROBE
+ACTION_WANTED: BUILD_TWILIGHTCOUNCIL
+ACTION_WANTED: TRAIN_ZEALOT
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 1, 'Nexus': 2, 'Probe': 21, 'Pylon': 2}
+MINERALS: 5
+GAS: 112
+ACTION_WANTED: TRAIN_STALKER
+ACTION_WANTED: TRAIN_PROBE
+ACTION_WANTED: BUILD_TWILIGHTCOUNCIL
+ACTION_WANTED: TRAIN_ZEALOT
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 1, 'Nexus': 2, 'Probe': 21, 'Pylon': 2}
+MINERALS: 5
+GAS: 112
+ACTION_WANTED: TRAIN_STALKER
+ACTION_WANTED: TRAIN_PROBE
+ACTION_WANTED: BUILD_TWILIGHTCOUNCIL
+ACTION_WANTED: TRAIN_ZEALOT
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 1, 'Nexus': 2, 'Probe': 21, 'Pylon': 2}
+MINERALS: 15
+GAS: 116
+ACTION_WANTED: TRAIN_STALKER
+ACTION_WANTED: TRAIN_PROBE
+ACTION_WANTED: BUILD_TWILIGHTCOUNCIL
+ACTION_WANTED: TRAIN_ZEALOT
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 2, 'Nexus': 2, 'Probe': 21, 'Pylon': 2}
+MINERALS: 25
+GAS: 120
+ACTION_WANTED: TRAIN_STALKER
+ACTION_WANTED: TRAIN_PROBE
+ACTION_WANTED: BUILD_TWILIGHTCOUNCIL
+ACTION_WANTED: TRAIN_ZEALOT
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 2, 'Nexus': 2, 'Probe': 21, 'Pylon': 2}
+MINERALS: 25
+GAS: 120
+ACTION_WANTED: TRAIN_STALKER
+ACTION_WANTED: TRAIN_PROBE
+ACTION_WANTED: BUILD_TWILIGHTCOUNCIL
+ACTION_WANTED: TRAIN_ZEALOT
+ACTION_WANTED: BUILD_GATEWAY
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 2, 'Nexus': 2, 'Probe': 21, 'Pylon': 2}
+MINERALS: 40
+GAS: 120
+ACTION_WANTED: TRAIN_STALKER
+ACTION_WANTED: TRAIN_PROBE
+ACTION_WANTED: BUILD_TWILIGHTCOUNCIL
+ACTION_WANTED: TRAIN_ZEALOT
+ACTION_WANTED: BUILD_GATEWAY
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 2, 'Nexus': 2, 'Probe': 21, 'Pylon': 2}
+MINERALS: 40
+GAS: 128
+ACTION_WANTED: TRAIN_STALKER
+ACTION_WANTED: TRAIN_PROBE
+ACTION_WANTED: BUILD_TWILIGHTCOUNCIL
+ACTION_WANTED: TRAIN_ZEALOT
+ACTION_WANTED: BUILD_GATEWAY
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 2, 'Nexus': 2, 'Probe': 21, 'Pylon': 2}
+MINERALS: 50
+GAS: 128
+ACTION_WANTED: TRAIN_STALKER
+ACTION_WANTED: TRAIN_PROBE
+ACTION_MADE: TRAIN_PROBE
+ACTION_WANTED: BUILD_TWILIGHTCOUNCIL
+ACTION_WANTED: TRAIN_ZEALOT
+ACTION_WANTED: BUILD_GATEWAY
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 2, 'Nexus': 2, 'Probe': 21, 'Pylon': 2}
+MINERALS: 0
+GAS: 128
+ACTION_WANTED: TRAIN_STALKER
+ACTION_WANTED: TRAIN_PROBE
+ACTION_WANTED: BUILD_TWILIGHTCOUNCIL
+ACTION_WANTED: TRAIN_ZEALOT
+ACTION_WANTED: BUILD_GATEWAY
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 2, 'Nexus': 2, 'Probe': 21, 'Pylon': 2}
+MINERALS: 5
+GAS: 136
+ACTION_WANTED: TRAIN_STALKER
+ACTION_WANTED: TRAIN_PROBE
+ACTION_WANTED: BUILD_TWILIGHTCOUNCIL
+ACTION_WANTED: TRAIN_ZEALOT
+ACTION_WANTED: BUILD_GATEWAY
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 2, 'Nexus': 2, 'Probe': 21, 'Pylon': 2}
+MINERALS: 25
+GAS: 136
+ACTION_WANTED: TRAIN_STALKER
+ACTION_WANTED: TRAIN_PROBE
+ACTION_WANTED: BUILD_TWILIGHTCOUNCIL
+ACTION_WANTED: TRAIN_ZEALOT
+ACTION_WANTED: BUILD_GATEWAY
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 2, 'Nexus': 2, 'Probe': 21, 'Pylon': 2}
+MINERALS: 30
+GAS: 136
+ACTION_WANTED: TRAIN_STALKER
+ACTION_WANTED: TRAIN_PROBE
+ACTION_WANTED: BUILD_TWILIGHTCOUNCIL
+ACTION_WANTED: TRAIN_ZEALOT
+ACTION_WANTED: BUILD_GATEWAY
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 2, 'Nexus': 2, 'Probe': 21, 'Pylon': 2}
+MINERALS: 30
+GAS: 140
+ACTION_WANTED: TRAIN_STALKER
+ACTION_WANTED: TRAIN_PROBE
+ACTION_WANTED: BUILD_TWILIGHTCOUNCIL
+ACTION_WANTED: TRAIN_ZEALOT
+ACTION_WANTED: BUILD_GATEWAY
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 2, 'Nexus': 2, 'Probe': 21, 'Pylon': 2}
+MINERALS: 30
+GAS: 144
+ACTION_WANTED: TRAIN_STALKER
+ACTION_WANTED: TRAIN_PROBE
+ACTION_WANTED: BUILD_TWILIGHTCOUNCIL
+ACTION_WANTED: TRAIN_ZEALOT
+ACTION_WANTED: BUILD_GATEWAY
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 2, 'Nexus': 2, 'Probe': 21, 'Pylon': 2}
+MINERALS: 40
+GAS: 144
+ACTION_WANTED: TRAIN_STALKER
+ACTION_WANTED: TRAIN_PROBE
+ACTION_WANTED: BUILD_TWILIGHTCOUNCIL
+ACTION_WANTED: TRAIN_ZEALOT
+ACTION_WANTED: BUILD_GATEWAY
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 2, 'Nexus': 2, 'Probe': 21, 'Pylon': 2}
+MINERALS: 60
+GAS: 144
+ACTION_WANTED: TRAIN_STALKER
+ACTION_WANTED: TRAIN_PROBE
+ACTION_WANTED: BUILD_TWILIGHTCOUNCIL
+ACTION_WANTED: TRAIN_ZEALOT
+ACTION_WANTED: BUILD_GATEWAY
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 2, 'Nexus': 2, 'Probe': 21, 'Pylon': 2}
+MINERALS: 65
+GAS: 152
+ACTION_WANTED: TRAIN_STALKER
+ACTION_WANTED: TRAIN_PROBE
+ACTION_WANTED: BUILD_TWILIGHTCOUNCIL
+ACTION_WANTED: TRAIN_ZEALOT
+ACTION_WANTED: BUILD_GATEWAY
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 2, 'Nexus': 2, 'Probe': 21, 'Pylon': 2}
+MINERALS: 65
+GAS: 152
+ACTION_WANTED: TRAIN_STALKER
+ACTION_WANTED: TRAIN_PROBE
+ACTION_WANTED: BUILD_TWILIGHTCOUNCIL
+ACTION_WANTED: TRAIN_ZEALOT
+ACTION_WANTED: BUILD_GATEWAY
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 2, 'Nexus': 2, 'Probe': 21, 'Pylon': 2}
+MINERALS: 70
+GAS: 152
+ACTION_WANTED: TRAIN_STALKER
+ACTION_WANTED: TRAIN_PROBE
+ACTION_WANTED: BUILD_TWILIGHTCOUNCIL
+ACTION_WANTED: TRAIN_ZEALOT
+ACTION_WANTED: BUILD_GATEWAY
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 2, 'Nexus': 2, 'Probe': 22, 'Pylon': 2}
+MINERALS: 75
+GAS: 160
+ACTION_WANTED: TRAIN_STALKER
+ACTION_WANTED: TRAIN_PROBE
+ACTION_WANTED: BUILD_TWILIGHTCOUNCIL
+ACTION_WANTED: TRAIN_ZEALOT
+ACTION_WANTED: BUILD_GATEWAY
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 2, 'Nexus': 2, 'Probe': 21, 'Pylon': 2}
+MINERALS: 80
+GAS: 160
+ACTION_WANTED: TRAIN_STALKER
+ACTION_WANTED: TRAIN_PROBE
+ACTION_WANTED: BUILD_TWILIGHTCOUNCIL
+ACTION_WANTED: TRAIN_ZEALOT
+ACTION_WANTED: BUILD_GATEWAY
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 2, 'Nexus': 2, 'Probe': 21, 'Pylon': 2}
+MINERALS: 90
+GAS: 160
+ACTION_WANTED: TRAIN_STALKER
+ACTION_WANTED: TRAIN_PROBE
+ACTION_WANTED: BUILD_TWILIGHTCOUNCIL
+ACTION_WANTED: TRAIN_ZEALOT
+ACTION_WANTED: BUILD_GATEWAY
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 2, 'Nexus': 2, 'Probe': 21, 'Pylon': 2}
+MINERALS: 105
+GAS: 164
+ACTION_WANTED: TRAIN_STALKER
+ACTION_WANTED: TRAIN_PROBE
+ACTION_WANTED: BUILD_TWILIGHTCOUNCIL
+ACTION_WANTED: TRAIN_ZEALOT
+ACTION_WANTED: BUILD_GATEWAY
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 2, 'Nexus': 2, 'Probe': 21, 'Pylon': 2}
+MINERALS: 110
+GAS: 168
+ACTION_WANTED: TRAIN_STALKER
+ACTION_WANTED: TRAIN_PROBE
+ACTION_WANTED: BUILD_TWILIGHTCOUNCIL
+ACTION_WANTED: TRAIN_ZEALOT
+ACTION_WANTED: BUILD_GATEWAY
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 2, 'Nexus': 2, 'Probe': 21, 'Pylon': 2}
+MINERALS: 115
+GAS: 168
+ACTION_WANTED: TRAIN_STALKER
+ACTION_WANTED: TRAIN_PROBE
+ACTION_WANTED: BUILD_TWILIGHTCOUNCIL
+ACTION_WANTED: TRAIN_ZEALOT
+ACTION_WANTED: BUILD_GATEWAY
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 2, 'Nexus': 2, 'Probe': 21, 'Pylon': 2}
+MINERALS: 115
+GAS: 168
+ACTION_WANTED: TRAIN_STALKER
+ACTION_WANTED: TRAIN_PROBE
+ACTION_WANTED: BUILD_TWILIGHTCOUNCIL
+ACTION_WANTED: TRAIN_ZEALOT
+ACTION_WANTED: BUILD_GATEWAY
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 2, 'Nexus': 2, 'Probe': 21, 'Pylon': 2}
+MINERALS: 135
+GAS: 176
+ACTION_WANTED: TRAIN_STALKER
+ACTION_WANTED: TRAIN_PROBE
+ACTION_WANTED: BUILD_TWILIGHTCOUNCIL
+ACTION_WANTED: TRAIN_ZEALOT
+ACTION_WANTED: BUILD_GATEWAY
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 2, 'Nexus': 2, 'Probe': 22, 'Pylon': 2}
+MINERALS: 145
+GAS: 176
+ACTION_WANTED: TRAIN_STALKER
+ACTION_WANTED: TRAIN_PROBE
+ACTION_WANTED: BUILD_TWILIGHTCOUNCIL
+ACTION_WANTED: TRAIN_ZEALOT
+ACTION_WANTED: BUILD_GATEWAY
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 2, 'Nexus': 2, 'Probe': 22, 'Pylon': 2}
+MINERALS: 145
+GAS: 176
+ACTION_WANTED: TRAIN_STALKER
+ACTION_WANTED: TRAIN_PROBE
+ACTION_WANTED: BUILD_TWILIGHTCOUNCIL
+ACTION_WANTED: TRAIN_ZEALOT
+ACTION_WANTED: BUILD_GATEWAY
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 2, 'Nexus': 2, 'Probe': 23, 'Pylon': 2}
+MINERALS: 155
+GAS: 184
+ACTION_WANTED: TRAIN_STALKER
+ACTION_WANTED: TRAIN_PROBE
+ACTION_WANTED: BUILD_TWILIGHTCOUNCIL
+ACTION_WANTED: TRAIN_ZEALOT
+ACTION_WANTED: BUILD_GATEWAY
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 2, 'Nexus': 2, 'Probe': 22, 'Pylon': 2}
+MINERALS: 155
+GAS: 184
+ACTION_WANTED: TRAIN_STALKER
+ACTION_WANTED: TRAIN_PROBE
+ACTION_WANTED: BUILD_TWILIGHTCOUNCIL
+ACTION_WANTED: TRAIN_ZEALOT
+ACTION_WANTED: BUILD_GATEWAY
+
+ENEMY_UNITS: {}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 2, 'Nexus': 2, 'Probe': 22, 'Pylon': 2}
+MINERALS: 165
+GAS: 184
+ACTION_WANTED: TRAIN_STALKER
+ACTION_WANTED: TRAIN_PROBE
+ACTION_WANTED: BUILD_TWILIGHTCOUNCIL
+ACTION_WANTED: TRAIN_ZEALOT
+ACTION_WANTED: BUILD_GATEWAY
+
+ENEMY_UNITS: {'SCV': 1}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 2, 'Nexus': 2, 'Probe': 22, 'Pylon': 2}
+MINERALS: 170
+GAS: 188
+ACTION_WANTED: TRAIN_STALKER
+ACTION_WANTED: TRAIN_PROBE
+ACTION_WANTED: BUILD_TWILIGHTCOUNCIL
+ACTION_WANTED: TRAIN_ZEALOT
+ACTION_WANTED: BUILD_GATEWAY
+
+ENEMY_UNITS: {'SCV': 1}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 2, 'Nexus': 2, 'Probe': 22, 'Pylon': 2}
+MINERALS: 180
+GAS: 192
+ACTION_WANTED: TRAIN_STALKER
+ACTION_WANTED: TRAIN_PROBE
+ACTION_MADE: TRAIN_PROBE
+ACTION_WANTED: BUILD_TWILIGHTCOUNCIL
+ACTION_WANTED: TRAIN_ZEALOT
+ACTION_WANTED: BUILD_GATEWAY
+
+ENEMY_UNITS: {'SCV': 1}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 2, 'Nexus': 2, 'Probe': 22, 'Pylon': 2}
+MINERALS: 135
+GAS: 192
+ACTION_WANTED: TRAIN_STALKER
+ACTION_WANTED: TRAIN_PROBE
+ACTION_WANTED: BUILD_TWILIGHTCOUNCIL
+ACTION_WANTED: TRAIN_ZEALOT
+ACTION_WANTED: BUILD_GATEWAY
+
+ENEMY_UNITS: {'SCV': 1}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 2, 'Nexus': 2, 'Probe': 22, 'Pylon': 2}
+MINERALS: 145
+GAS: 196
+ACTION_WANTED: TRAIN_STALKER
+ACTION_WANTED: TRAIN_PROBE
+ACTION_WANTED: BUILD_TWILIGHTCOUNCIL
+ACTION_WANTED: TRAIN_ZEALOT
+ACTION_WANTED: BUILD_GATEWAY
+
+ENEMY_UNITS: {'SCV': 1}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 2, 'Nexus': 2, 'Probe': 22, 'Pylon': 2}
+MINERALS: 145
+GAS: 200
+ACTION_WANTED: TRAIN_STALKER
+ACTION_WANTED: TRAIN_PROBE
+ACTION_WANTED: BUILD_TWILIGHTCOUNCIL
+ACTION_WANTED: TRAIN_ZEALOT
+ACTION_WANTED: BUILD_GATEWAY
+
+ENEMY_UNITS: {'SCV': 1}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 2, 'Nexus': 2, 'Probe': 22, 'Pylon': 2}
+MINERALS: 160
+GAS: 200
+ACTION_WANTED: TRAIN_STALKER
+ACTION_WANTED: TRAIN_PROBE
+ACTION_WANTED: BUILD_TWILIGHTCOUNCIL
+ACTION_WANTED: TRAIN_ZEALOT
+ACTION_WANTED: BUILD_GATEWAY
+
+ENEMY_UNITS: {'SCV': 1}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 2, 'Nexus': 2, 'Probe': 22, 'Pylon': 2}
+MINERALS: 165
+GAS: 200
+ACTION_WANTED: TRAIN_STALKER
+ACTION_WANTED: TRAIN_PROBE
+ACTION_WANTED: BUILD_TWILIGHTCOUNCIL
+ACTION_WANTED: TRAIN_ZEALOT
+ACTION_WANTED: BUILD_GATEWAY
+
+ENEMY_UNITS: {'SCV': 1}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 2, 'Nexus': 2, 'Probe': 22, 'Pylon': 2}
+MINERALS: 175
+GAS: 208
+ACTION_WANTED: TRAIN_STALKER
+ACTION_WANTED: TRAIN_PROBE
+ACTION_WANTED: BUILD_TWILIGHTCOUNCIL
+ACTION_WANTED: TRAIN_ZEALOT
+ACTION_WANTED: BUILD_GATEWAY
+
+ENEMY_UNITS: {'SCV': 1}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 2, 'Nexus': 2, 'Probe': 22, 'Pylon': 2}
+MINERALS: 180
+GAS: 208
+ACTION_WANTED: TRAIN_STALKER
+ACTION_WANTED: TRAIN_PROBE
+ACTION_WANTED: BUILD_TWILIGHTCOUNCIL
+ACTION_WANTED: TRAIN_ZEALOT
+ACTION_WANTED: BUILD_GATEWAY
+
+ENEMY_UNITS: {'SCV': 1}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 2, 'Nexus': 2, 'Probe': 22, 'Pylon': 2}
+MINERALS: 180
+GAS: 208
+ACTION_WANTED: TRAIN_STALKER
+ACTION_WANTED: TRAIN_PROBE
+ACTION_WANTED: BUILD_TWILIGHTCOUNCIL
+ACTION_WANTED: TRAIN_ZEALOT
+ACTION_WANTED: BUILD_GATEWAY
+
+ENEMY_UNITS: {'SCV': 1}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 2, 'Nexus': 2, 'Probe': 22, 'Pylon': 2}
+MINERALS: 195
+GAS: 216
+ACTION_WANTED: TRAIN_STALKER
+ACTION_WANTED: TRAIN_PROBE
+ACTION_WANTED: BUILD_TWILIGHTCOUNCIL
+ACTION_WANTED: TRAIN_ZEALOT
+ACTION_WANTED: BUILD_GATEWAY
+
+ENEMY_UNITS: {'SCV': 1}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 2, 'Nexus': 2, 'Probe': 22, 'Pylon': 2}
+MINERALS: 200
+GAS: 216
+ACTION_WANTED: TRAIN_STALKER
+ACTION_WANTED: TRAIN_PROBE
+ACTION_WANTED: BUILD_TWILIGHTCOUNCIL
+ACTION_WANTED: TRAIN_ZEALOT
+ACTION_WANTED: BUILD_GATEWAY
+
+ENEMY_UNITS: {'SCV': 1}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 2, 'Nexus': 2, 'Probe': 22, 'Pylon': 2}
+MINERALS: 205
+GAS: 216
+ACTION_WANTED: TRAIN_STALKER
+ACTION_WANTED: TRAIN_PROBE
+ACTION_WANTED: BUILD_TWILIGHTCOUNCIL
+ACTION_WANTED: TRAIN_ZEALOT
+ACTION_WANTED: BUILD_GATEWAY
+
+ENEMY_UNITS: {'SCV': 1}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 2, 'Nexus': 2, 'Probe': 22, 'Pylon': 2}
+MINERALS: 210
+GAS: 220
+ACTION_WANTED: TRAIN_STALKER
+ACTION_WANTED: TRAIN_PROBE
+ACTION_WANTED: BUILD_TWILIGHTCOUNCIL
+ACTION_WANTED: TRAIN_ZEALOT
+ACTION_WANTED: BUILD_GATEWAY
+
+ENEMY_UNITS: {'SCV': 1}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 2, 'Nexus': 2, 'Probe': 22, 'Pylon': 2}
+MINERALS: 215
+GAS: 224
+ACTION_WANTED: TRAIN_STALKER
+ACTION_WANTED: TRAIN_PROBE
+ACTION_WANTED: BUILD_TWILIGHTCOUNCIL
+ACTION_WANTED: TRAIN_ZEALOT
+ACTION_WANTED: BUILD_GATEWAY
+
+ENEMY_UNITS: {'SCV': 1}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 2, 'Nexus': 2, 'Probe': 22, 'Pylon': 2}
+MINERALS: 215
+GAS: 224
+ACTION_WANTED: TRAIN_STALKER
+ACTION_WANTED: TRAIN_PROBE
+ACTION_WANTED: BUILD_TWILIGHTCOUNCIL
+ACTION_WANTED: TRAIN_ZEALOT
+ACTION_WANTED: BUILD_GATEWAY
+
+ENEMY_UNITS: {'SCV': 1}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 2, 'Nexus': 2, 'Probe': 22, 'Pylon': 2}
+MINERALS: 230
+GAS: 224
+ACTION_WANTED: TRAIN_STALKER
+ACTION_WANTED: TRAIN_PROBE
+ACTION_WANTED: BUILD_TWILIGHTCOUNCIL
+ACTION_WANTED: TRAIN_ZEALOT
+ACTION_WANTED: BUILD_GATEWAY
+
+ENEMY_UNITS: {'SCV': 1}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 2, 'Nexus': 2, 'Probe': 22, 'Pylon': 2}
+MINERALS: 230
+GAS: 232
+ACTION_WANTED: TRAIN_STALKER
+ACTION_WANTED: TRAIN_PROBE
+ACTION_WANTED: BUILD_TWILIGHTCOUNCIL
+ACTION_WANTED: TRAIN_ZEALOT
+ACTION_WANTED: BUILD_GATEWAY
+
+ENEMY_UNITS: {'SCV': 1}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 2, 'Nexus': 2, 'Probe': 22, 'Pylon': 2}
+MINERALS: 235
+GAS: 232
+ACTION_WANTED: TRAIN_STALKER
+ACTION_WANTED: TRAIN_PROBE
+ACTION_WANTED: BUILD_TWILIGHTCOUNCIL
+ACTION_WANTED: TRAIN_ZEALOT
+ACTION_WANTED: BUILD_GATEWAY
+
+ENEMY_UNITS: {'SCV': 1}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 2, 'Nexus': 2, 'Probe': 22, 'Pylon': 2}
+MINERALS: 250
+GAS: 232
+ACTION_WANTED: TRAIN_STALKER
+ACTION_WANTED: TRAIN_PROBE
+ACTION_WANTED: BUILD_TWILIGHTCOUNCIL
+ACTION_WANTED: TRAIN_ZEALOT
+ACTION_WANTED: BUILD_GATEWAY
+
+ENEMY_UNITS: {'SCV': 1}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 2, 'Nexus': 2, 'Probe': 23, 'Pylon': 2}
+MINERALS: 250
+GAS: 240
+ACTION_WANTED: TRAIN_STALKER
+ACTION_WANTED: TRAIN_PROBE
+ACTION_WANTED: BUILD_TWILIGHTCOUNCIL
+ACTION_WANTED: TRAIN_ZEALOT
+ACTION_WANTED: BUILD_GATEWAY
+
+ENEMY_UNITS: {'SCV': 1}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 2, 'Nexus': 2, 'Probe': 22, 'Pylon': 2}
+MINERALS: 260
+GAS: 240
+ACTION_WANTED: TRAIN_STALKER
+ACTION_WANTED: TRAIN_PROBE
+ACTION_WANTED: BUILD_TWILIGHTCOUNCIL
+ACTION_WANTED: TRAIN_ZEALOT
+ACTION_WANTED: BUILD_GATEWAY
+
+ENEMY_UNITS: {'SCV': 1}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 2, 'Nexus': 2, 'Probe': 22, 'Pylon': 2}
+MINERALS: 270
+GAS: 240
+ACTION_WANTED: TRAIN_STALKER
+ACTION_WANTED: TRAIN_PROBE
+ACTION_WANTED: BUILD_TWILIGHTCOUNCIL
+ACTION_WANTED: TRAIN_ZEALOT
+ACTION_WANTED: BUILD_GATEWAY
+
+ENEMY_UNITS: {'SCV': 1}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 2, 'Nexus': 2, 'Probe': 22, 'Pylon': 2}
+MINERALS: 275
+GAS: 244
+ACTION_WANTED: TRAIN_STALKER
+ACTION_WANTED: TRAIN_PROBE
+ACTION_WANTED: BUILD_TWILIGHTCOUNCIL
+ACTION_MADE: BUILD_TWILIGHTCOUNCIL
+ACTION_WANTED: TRAIN_ZEALOT
+ACTION_WANTED: BUILD_GATEWAY
+
+ENEMY_UNITS: {'SCV': 1}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 2, 'Nexus': 2, 'Probe': 22, 'Pylon': 2}
+MINERALS: 135
+GAS: 148
+ACTION_WANTED: TRAIN_STALKER
+ACTION_WANTED: TRAIN_PROBE
+ACTION_WANTED: BUILD_ROBOTICSFACILITY
+ACTION_WANTED: TRAIN_ZEALOT
+ACTION_WANTED: BUILD_GATEWAY
+
+ENEMY_UNITS: {'SCV': 1}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 2, 'Nexus': 2, 'Probe': 22, 'Pylon': 2}
+MINERALS: 135
+GAS: 148
+ACTION_WANTED: TRAIN_STALKER
+ACTION_WANTED: TRAIN_PROBE
+ACTION_WANTED: BUILD_ROBOTICSFACILITY
+ACTION_WANTED: TRAIN_ZEALOT
+ACTION_WANTED: BUILD_GATEWAY
+
+ENEMY_UNITS: {'SCV': 1}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 2, 'Nexus': 2, 'Probe': 22, 'Pylon': 2}
+MINERALS: 140
+GAS: 148
+ACTION_WANTED: TRAIN_STALKER
+ACTION_WANTED: TRAIN_PROBE
+ACTION_WANTED: BUILD_ROBOTICSFACILITY
+ACTION_WANTED: TRAIN_ZEALOT
+ACTION_WANTED: BUILD_GATEWAY
+
+ENEMY_UNITS: {'SCV': 1}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 2, 'Nexus': 2, 'Probe': 23, 'Pylon': 2}
+MINERALS: 155
+GAS: 156
+ACTION_WANTED: TRAIN_STALKER
+ACTION_WANTED: TRAIN_PROBE
+ACTION_WANTED: BUILD_ROBOTICSFACILITY
+ACTION_WANTED: TRAIN_ZEALOT
+ACTION_WANTED: BUILD_GATEWAY
+
+ENEMY_UNITS: {'SCV': 1}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 2, 'Nexus': 2, 'Probe': 23, 'Pylon': 2}
+MINERALS: 155
+GAS: 156
+ACTION_WANTED: TRAIN_STALKER
+ACTION_WANTED: TRAIN_PROBE
+ACTION_WANTED: BUILD_ROBOTICSFACILITY
+ACTION_WANTED: TRAIN_ZEALOT
+ACTION_WANTED: BUILD_GATEWAY
+
+ENEMY_UNITS: {'SCV': 1}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 2, 'Nexus': 2, 'Probe': 23, 'Pylon': 2}
+MINERALS: 155
+GAS: 156
+ACTION_WANTED: TRAIN_STALKER
+ACTION_WANTED: TRAIN_PROBE
+ACTION_WANTED: BUILD_ROBOTICSFACILITY
+ACTION_WANTED: TRAIN_ZEALOT
+ACTION_WANTED: BUILD_GATEWAY
+
+ENEMY_UNITS: {'SCV': 1}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 2, 'Nexus': 2, 'Probe': 24, 'Pylon': 2}
+MINERALS: 155
+GAS: 164
+ACTION_WANTED: TRAIN_STALKER
+ACTION_WANTED: TRAIN_PROBE
+ACTION_WANTED: BUILD_ROBOTICSFACILITY
+ACTION_WANTED: TRAIN_ZEALOT
+ACTION_WANTED: BUILD_GATEWAY
+
+ENEMY_UNITS: {'SCV': 1}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 2, 'Nexus': 2, 'Probe': 23, 'Pylon': 2}
+MINERALS: 165
+GAS: 164
+ACTION_WANTED: TRAIN_STALKER
+ACTION_WANTED: TRAIN_PROBE
+ACTION_WANTED: BUILD_ROBOTICSFACILITY
+ACTION_WANTED: TRAIN_ZEALOT
+ACTION_WANTED: BUILD_GATEWAY
+
+ENEMY_UNITS: {'SCV': 1}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 2, 'Nexus': 2, 'Probe': 23, 'Pylon': 2}
+MINERALS: 180
+GAS: 164
+ACTION_WANTED: TRAIN_STALKER
+ACTION_WANTED: TRAIN_PROBE
+ACTION_MADE: TRAIN_PROBE
+ACTION_WANTED: BUILD_ROBOTICSFACILITY
+ACTION_WANTED: TRAIN_ZEALOT
+ACTION_WANTED: BUILD_GATEWAY
+
+ENEMY_UNITS: {'SCV': 1}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 2, 'Nexus': 2, 'Probe': 23, 'Pylon': 2, 'Stalker': 1}
+MINERALS: 130
+GAS: 168
+ACTION_WANTED: TRAIN_STALKER
+ACTION_MADE: TRAIN_STALKER
+ACTION_WANTED: TRAIN_PROBE
+ACTION_WANTED: BUILD_ROBOTICSFACILITY
+ACTION_WANTED: TRAIN_ZEALOT
+ACTION_WANTED: BUILD_GATEWAY
+
+ENEMY_UNITS: {'SCV': 1}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 2, 'Nexus': 2, 'Probe': 23, 'Pylon': 2, 'Stalker': 1}
+MINERALS: 20
+GAS: 122
+ACTION_WANTED: TRAIN_PROBE
+ACTION_WANTED: BUILD_ROBOTICSFACILITY
+ACTION_WANTED: TRAIN_ZEALOT
+ACTION_WANTED: BUILD_GATEWAY
+
+ENEMY_UNITS: {'SCV': 1}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 2, 'Nexus': 2, 'Probe': 23, 'Pylon': 2, 'Stalker': 1}
+MINERALS: 20
+GAS: 122
+ACTION_WANTED: TRAIN_PROBE
+ACTION_WANTED: BUILD_ROBOTICSFACILITY
+ACTION_WANTED: TRAIN_ZEALOT
+ACTION_WANTED: BUILD_GATEWAY
+
+ENEMY_UNITS: {'SCV': 1}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 2, 'Nexus': 2, 'Probe': 23, 'Pylon': 2, 'Stalker': 1}
+MINERALS: 30
+GAS: 126
+ACTION_WANTED: TRAIN_PROBE
+ACTION_WANTED: BUILD_ROBOTICSFACILITY
+ACTION_WANTED: TRAIN_ZEALOT
+ACTION_WANTED: BUILD_GATEWAY
+
+ENEMY_UNITS: {'SCV': 1}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 2, 'Nexus': 2, 'Probe': 23, 'Pylon': 2, 'Stalker': 1}
+MINERALS: 35
+GAS: 130
+ACTION_WANTED: TRAIN_PROBE
+ACTION_WANTED: BUILD_ROBOTICSFACILITY
+ACTION_WANTED: TRAIN_ZEALOT
+ACTION_WANTED: BUILD_GATEWAY
+
+ENEMY_UNITS: {'SCV': 1}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 2, 'Nexus': 2, 'Probe': 23, 'Pylon': 2, 'Stalker': 1, 'TwilightCouncil': 1}
+MINERALS: 45
+GAS: 130
+ACTION_WANTED: TRAIN_PROBE
+ACTION_WANTED: TRAIN_ZEALOT
+ACTION_WANTED: BUILD_GATEWAY
+
+ENEMY_UNITS: {'SCV': 1}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 2, 'Nexus': 2, 'Probe': 23, 'Pylon': 2, 'Stalker': 1, 'TwilightCouncil': 1}
+MINERALS: 55
+GAS: 130
+ACTION_WANTED: TRAIN_PROBE
+ACTION_MADE: TRAIN_PROBE
+ACTION_WANTED: BUILD_ROBOTICSFACILITY
+ACTION_WANTED: TRAIN_ZEALOT
+ACTION_WANTED: BUILD_GATEWAY
+
+ENEMY_UNITS: {'SCV': 1}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 2, 'Nexus': 2, 'Probe': 23, 'Pylon': 2, 'Stalker': 1, 'TwilightCouncil': 1}
+MINERALS: 5
+GAS: 138
+ACTION_WANTED: TRAIN_PROBE
+ACTION_WANTED: BUILD_ROBOTICSFACILITY
+ACTION_WANTED: TRAIN_ZEALOT
+ACTION_WANTED: BUILD_GATEWAY
+
+ENEMY_UNITS: {'SCV': 1}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 2, 'Nexus': 2, 'Probe': 23, 'Pylon': 2, 'Stalker': 1, 'TwilightCouncil': 1}
+MINERALS: 15
+GAS: 138
+ACTION_WANTED: TRAIN_PROBE
+ACTION_WANTED: BUILD_ROBOTICSFACILITY
+ACTION_WANTED: TRAIN_ZEALOT
+ACTION_WANTED: BUILD_GATEWAY
+
+ENEMY_UNITS: {'SCV': 1}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 2, 'Nexus': 2, 'Probe': 23, 'Pylon': 2, 'Stalker': 1, 'TwilightCouncil': 1}
+MINERALS: 20
+GAS: 138
+ACTION_WANTED: TRAIN_PROBE
+ACTION_WANTED: BUILD_ROBOTICSFACILITY
+ACTION_WANTED: TRAIN_ZEALOT
+ACTION_WANTED: BUILD_GATEWAY
+
+ENEMY_UNITS: {'SCV': 1}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 2, 'Nexus': 2, 'Probe': 23, 'Pylon': 2, 'Stalker': 1, 'TwilightCouncil': 1}
+MINERALS: 25
+GAS: 146
+ACTION_WANTED: TRAIN_PROBE
+ACTION_WANTED: BUILD_ROBOTICSFACILITY
+ACTION_WANTED: TRAIN_ZEALOT
+ACTION_WANTED: BUILD_GATEWAY
+
+ENEMY_UNITS: {'SCV': 1}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 2, 'Nexus': 2, 'Probe': 23, 'Pylon': 2, 'Stalker': 1, 'TwilightCouncil': 1}
+MINERALS: 35
+GAS: 146
+ACTION_WANTED: TRAIN_PROBE
+ACTION_WANTED: BUILD_ROBOTICSFACILITY
+ACTION_WANTED: TRAIN_ZEALOT
+ACTION_WANTED: BUILD_GATEWAY
+
+ENEMY_UNITS: {'SCV': 1}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 2, 'Nexus': 2, 'Probe': 23, 'Pylon': 2, 'Stalker': 1, 'TwilightCouncil': 1}
+MINERALS: 50
+GAS: 146
+ACTION_WANTED: TRAIN_PROBE
+ACTION_WANTED: BUILD_ROBOTICSFACILITY
+ACTION_WANTED: TRAIN_ZEALOT
+ACTION_WANTED: BUILD_GATEWAY
+
+ENEMY_UNITS: {'SCV': 1}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 2, 'Nexus': 2, 'Probe': 23, 'Pylon': 2, 'Stalker': 1, 'TwilightCouncil': 1}
+MINERALS: 55
+GAS: 150
+ACTION_WANTED: TRAIN_PROBE
+ACTION_WANTED: BUILD_ROBOTICSFACILITY
+ACTION_WANTED: TRAIN_ZEALOT
+ACTION_WANTED: BUILD_GATEWAY
+
+ENEMY_UNITS: {'SCV': 1}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 2, 'Nexus': 2, 'Probe': 23, 'Pylon': 2, 'Stalker': 1, 'TwilightCouncil': 1}
+MINERALS: 55
+GAS: 154
+ACTION_WANTED: TRAIN_PROBE
+ACTION_WANTED: BUILD_ROBOTICSFACILITY
+ACTION_WANTED: TRAIN_ZEALOT
+ACTION_WANTED: BUILD_GATEWAY
+
+ENEMY_UNITS: {'SCV': 1}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 2, 'Nexus': 2, 'Probe': 23, 'Pylon': 2, 'Stalker': 1, 'TwilightCouncil': 1}
+MINERALS: 70
+GAS: 154
+ACTION_WANTED: TRAIN_PROBE
+ACTION_WANTED: BUILD_ROBOTICSFACILITY
+ACTION_WANTED: TRAIN_ZEALOT
+ACTION_WANTED: BUILD_GATEWAY
+
+ENEMY_UNITS: {'SCV': 1}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 2, 'Nexus': 2, 'Probe': 23, 'Pylon': 2, 'Stalker': 1, 'TwilightCouncil': 1}
+MINERALS: 80
+GAS: 154
+ACTION_WANTED: TRAIN_PROBE
+ACTION_WANTED: BUILD_ROBOTICSFACILITY
+ACTION_WANTED: TRAIN_ZEALOT
+ACTION_WANTED: BUILD_GATEWAY
+
+ENEMY_UNITS: {'SCV': 1}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 2, 'Nexus': 2, 'Probe': 23, 'Pylon': 2, 'Stalker': 1, 'TwilightCouncil': 1}
+MINERALS: 85
+GAS: 162
+ACTION_WANTED: TRAIN_PROBE
+ACTION_WANTED: BUILD_ROBOTICSFACILITY
+ACTION_WANTED: TRAIN_ZEALOT
+ACTION_WANTED: BUILD_GATEWAY
+
+ENEMY_UNITS: {'SCV': 1}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 2, 'Nexus': 2, 'Probe': 23, 'Pylon': 2, 'Stalker': 1, 'TwilightCouncil': 1}
+MINERALS: 85
+GAS: 162
+ACTION_WANTED: TRAIN_PROBE
+ACTION_WANTED: BUILD_ROBOTICSFACILITY
+ACTION_WANTED: TRAIN_ZEALOT
+ACTION_WANTED: BUILD_GATEWAY
+
+ENEMY_UNITS: {'SCV': 1}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 2, 'Nexus': 2, 'Probe': 23, 'Pylon': 2, 'Stalker': 1, 'TwilightCouncil': 1}
+MINERALS: 95
+GAS: 162
+ACTION_WANTED: TRAIN_PROBE
+ACTION_WANTED: BUILD_ROBOTICSFACILITY
+ACTION_WANTED: TRAIN_ZEALOT
+ACTION_WANTED: BUILD_GATEWAY
+
+ENEMY_UNITS: {'SCV': 1}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 2, 'Nexus': 2, 'Probe': 24, 'Pylon': 2, 'Stalker': 1, 'TwilightCouncil': 1}
+MINERALS: 105
+GAS: 170
+ACTION_WANTED: TRAIN_PROBE
+ACTION_WANTED: BUILD_ROBOTICSFACILITY
+ACTION_WANTED: TRAIN_ZEALOT
+ACTION_WANTED: BUILD_GATEWAY
+
+ENEMY_UNITS: {'SCV': 1}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 2, 'Nexus': 2, 'Probe': 23, 'Pylon': 2, 'Stalker': 1, 'TwilightCouncil': 1}
+MINERALS: 115
+GAS: 170
+ACTION_WANTED: TRAIN_PROBE
+ACTION_WANTED: BUILD_ROBOTICSFACILITY
+ACTION_WANTED: TRAIN_ZEALOT
+ACTION_WANTED: BUILD_GATEWAY
+
+ENEMY_UNITS: {'Marine': 6, 'SCV': 1}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 2, 'Nexus': 2, 'Probe': 23, 'Pylon': 2, 'Stalker': 1, 'TwilightCouncil': 1}
+MINERALS: 125
+GAS: 170
+ACTION_WANTED: TRAIN_PROBE
+ACTION_WANTED: BUILD_ROBOTICSFACILITY
+ACTION_WANTED: TRAIN_ZEALOT
+ACTION_WANTED: BUILD_GATEWAY
+
+ENEMY_UNITS: {'Marine': 6, 'SCV': 1}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 2, 'Nexus': 2, 'Probe': 23, 'Pylon': 2, 'Stalker': 1, 'TwilightCouncil': 1}
+MINERALS: 135
+GAS: 174
+ACTION_WANTED: TRAIN_PROBE
+ACTION_WANTED: BUILD_ROBOTICSFACILITY
+ACTION_WANTED: TRAIN_ZEALOT
+ACTION_WANTED: BUILD_GATEWAY
+
+ENEMY_UNITS: {'Marine': 6, 'SCV': 1}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 2, 'Nexus': 2, 'Probe': 23, 'Pylon': 2, 'Stalker': 1, 'TwilightCouncil': 1}
+MINERALS: 140
+GAS: 178
+ACTION_WANTED: TRAIN_PROBE
+ACTION_WANTED: BUILD_ROBOTICSFACILITY
+ACTION_WANTED: TRAIN_ZEALOT
+ACTION_WANTED: BUILD_GATEWAY
+
+ENEMY_UNITS: {'Marine': 6, 'SCV': 1}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 2, 'Nexus': 2, 'Probe': 24, 'Pylon': 2, 'Stalker': 1, 'TwilightCouncil': 1}
+MINERALS: 145
+GAS: 178
+ACTION_WANTED: TRAIN_PROBE
+ACTION_MADE: TRAIN_PROBE
+ACTION_WANTED: BUILD_ROBOTICSFACILITY
+ACTION_WANTED: TRAIN_ZEALOT
+ACTION_WANTED: BUILD_GATEWAY
+
+ENEMY_UNITS: {'Marine': 6, 'SCV': 1}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 2, 'Nexus': 2, 'Probe': 24, 'Pylon': 2, 'Stalker': 1, 'TwilightCouncil': 1}
+MINERALS: 105
+GAS: 178
+ACTION_WANTED: TRAIN_PROBE
+ACTION_WANTED: BUILD_ROBOTICSFACILITY
+ACTION_WANTED: TRAIN_ZEALOT
+ACTION_WANTED: BUILD_GATEWAY
+
+ENEMY_UNITS: {'Marine': 7, 'SCV': 1}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 2, 'Nexus': 2, 'Probe': 25, 'Pylon': 2, 'Stalker': 1, 'TwilightCouncil': 1}
+MINERALS: 110
+GAS: 186
+ACTION_WANTED: TRAIN_PROBE
+ACTION_MADE: TRAIN_PROBE
+ACTION_WANTED: BUILD_ROBOTICSFACILITY
+ACTION_WANTED: TRAIN_ZEALOT
+ACTION_WANTED: BUILD_GATEWAY
+
+ENEMY_UNITS: {'Marine': 7, 'SCV': 1}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 2, 'Nexus': 2, 'Probe': 25, 'Pylon': 2, 'Stalker': 1, 'TwilightCouncil': 1}
+MINERALS: 65
+GAS: 186
+ACTION_WANTED: TRAIN_PROBE
+ACTION_WANTED: BUILD_ROBOTICSFACILITY
+ACTION_WANTED: TRAIN_ZEALOT
+ACTION_WANTED: BUILD_GATEWAY
+
+ENEMY_UNITS: {'Marine': 7, 'SCV': 1}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 2, 'Nexus': 2, 'Probe': 25, 'Pylon': 2, 'Stalker': 1, 'TwilightCouncil': 1}
+MINERALS: 70
+GAS: 186
+ACTION_WANTED: TRAIN_PROBE
+ACTION_WANTED: BUILD_ROBOTICSFACILITY
+ACTION_WANTED: TRAIN_ZEALOT
+ACTION_WANTED: BUILD_GATEWAY
+
+ENEMY_UNITS: {'Marine': 7, 'SCV': 1}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 2, 'Nexus': 2, 'Probe': 26, 'Pylon': 2, 'Stalker': 1, 'TwilightCouncil': 1}
+MINERALS: 80
+GAS: 194
+ACTION_WANTED: TRAIN_PROBE
+ACTION_WANTED: BUILD_ROBOTICSFACILITY
+ACTION_WANTED: TRAIN_ZEALOT
+ACTION_WANTED: BUILD_GATEWAY
+
+ENEMY_UNITS: {'Marine': 7, 'SCV': 1}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 2, 'Nexus': 2, 'Probe': 25, 'Pylon': 2, 'Stalker': 1, 'TwilightCouncil': 1}
+MINERALS: 90
+GAS: 194
+ACTION_WANTED: TRAIN_PROBE
+ACTION_WANTED: BUILD_ROBOTICSFACILITY
+ACTION_WANTED: TRAIN_ZEALOT
+ACTION_WANTED: BUILD_GATEWAY
+
+ENEMY_UNITS: {'Marine': 8, 'SCV': 1}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 2, 'Nexus': 2, 'Probe': 25, 'Pylon': 2, 'Stalker': 1, 'TwilightCouncil': 1}
+MINERALS: 100
+GAS: 194
+ACTION_WANTED: TRAIN_PROBE
+ACTION_WANTED: BUILD_ROBOTICSFACILITY
+ACTION_WANTED: TRAIN_ZEALOT
+ACTION_WANTED: BUILD_GATEWAY
+
+ENEMY_UNITS: {'Marine': 8, 'SCV': 1}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 2, 'Nexus': 2, 'Probe': 25, 'Pylon': 2, 'TwilightCouncil': 1}
+MINERALS: 110
+GAS: 198
+ACTION_WANTED: TRAIN_STALKER
+ACTION_WANTED: TRAIN_PROBE
+ACTION_WANTED: BUILD_ROBOTICSFACILITY
+ACTION_WANTED: TRAIN_ZEALOT
+ACTION_WANTED: BUILD_GATEWAY
+
+ENEMY_UNITS: {'Marine': 8, 'SCV': 1}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 2, 'Nexus': 2, 'Probe': 25, 'Pylon': 2, 'TwilightCouncil': 1}
+MINERALS: 115
+GAS: 202
+ACTION_WANTED: TRAIN_STALKER
+ACTION_WANTED: TRAIN_PROBE
+ACTION_WANTED: BUILD_ROBOTICSFACILITY
+ACTION_WANTED: TRAIN_ZEALOT
+ACTION_WANTED: BUILD_GATEWAY
+
+ENEMY_UNITS: {'Marine': 8, 'SCV': 1}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 2, 'Nexus': 2, 'Probe': 25, 'Pylon': 2, 'TwilightCouncil': 1}
+MINERALS: 120
+GAS: 202
+ACTION_WANTED: TRAIN_STALKER
+ACTION_WANTED: TRAIN_PROBE
+ACTION_WANTED: BUILD_ROBOTICSFACILITY
+ACTION_WANTED: TRAIN_ZEALOT
+ACTION_WANTED: BUILD_GATEWAY
+
+ENEMY_UNITS: {'Marine': 8, 'SCV': 1}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 2, 'Nexus': 2, 'Probe': 25, 'Pylon': 2, 'TwilightCouncil': 1}
+MINERALS: 130
+GAS: 206
+ACTION_WANTED: TRAIN_STALKER
+ACTION_WANTED: TRAIN_PROBE
+ACTION_WANTED: BUILD_ROBOTICSFACILITY
+ACTION_WANTED: TRAIN_ZEALOT
+ACTION_WANTED: BUILD_GATEWAY
+
+ENEMY_UNITS: {'Marine': 8, 'SCV': 1}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 2, 'Nexus': 2, 'Probe': 25, 'Pylon': 2, 'TwilightCouncil': 1}
+MINERALS: 135
+GAS: 210
+ACTION_WANTED: TRAIN_STALKER
+ACTION_WANTED: TRAIN_PROBE
+ACTION_WANTED: BUILD_ROBOTICSFACILITY
+ACTION_WANTED: TRAIN_ZEALOT
+ACTION_WANTED: BUILD_GATEWAY
+
+ENEMY_UNITS: {'Marine': 8, 'SCV': 1}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 2, 'Nexus': 2, 'Probe': 25, 'Pylon': 2, 'TwilightCouncil': 1}
+MINERALS: 140
+GAS: 210
+ACTION_WANTED: TRAIN_STALKER
+ACTION_WANTED: TRAIN_PROBE
+ACTION_WANTED: BUILD_ROBOTICSFACILITY
+ACTION_WANTED: TRAIN_ZEALOT
+ACTION_WANTED: BUILD_GATEWAY
+
+ENEMY_UNITS: {'Marine': 8, 'SCV': 1}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 2, 'Nexus': 2, 'Probe': 25, 'Pylon': 2, 'TwilightCouncil': 1}
+MINERALS: 145
+GAS: 210
+ACTION_WANTED: TRAIN_STALKER
+ACTION_WANTED: TRAIN_PROBE
+ACTION_WANTED: BUILD_ROBOTICSFACILITY
+ACTION_WANTED: TRAIN_ZEALOT
+ACTION_WANTED: BUILD_GATEWAY
+
+ENEMY_UNITS: {'Marine': 8, 'SCV': 1}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 2, 'Nexus': 2, 'Probe': 25, 'Pylon': 2, 'TwilightCouncil': 1}
+MINERALS: 160
+GAS: 218
+ACTION_WANTED: TRAIN_STALKER
+ACTION_WANTED: TRAIN_PROBE
+ACTION_WANTED: BUILD_ROBOTICSFACILITY
+ACTION_WANTED: TRAIN_ZEALOT
+ACTION_WANTED: BUILD_GATEWAY
+
+ENEMY_UNITS: {'Marine': 8, 'SCV': 1}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 2, 'Nexus': 2, 'Probe': 25, 'Pylon': 2, 'TwilightCouncil': 1}
+MINERALS: 170
+GAS: 218
+ACTION_WANTED: TRAIN_STALKER
+ACTION_WANTED: TRAIN_PROBE
+ACTION_WANTED: BUILD_ROBOTICSFACILITY
+ACTION_WANTED: TRAIN_ZEALOT
+ACTION_WANTED: BUILD_GATEWAY
+
+ENEMY_UNITS: {'Marine': 8, 'SCV': 1}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 2, 'Nexus': 2, 'Probe': 25, 'Pylon': 2, 'TwilightCouncil': 1}
+MINERALS: 175
+GAS: 218
+ACTION_WANTED: TRAIN_STALKER
+ACTION_MADE: TRAIN_STALKER
+ACTION_WANTED: TRAIN_PROBE
+ACTION_WANTED: BUILD_ROBOTICSFACILITY
+ACTION_WANTED: TRAIN_ZEALOT
+ACTION_WANTED: BUILD_GATEWAY
+
+ENEMY_UNITS: {'Marine': 8, 'SCV': 1}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 2, 'Nexus': 2, 'Probe': 25, 'Pylon': 2, 'TwilightCouncil': 1}
+MINERALS: 60
+GAS: 176
+ACTION_WANTED: TRAIN_PROBE
+ACTION_WANTED: BUILD_ROBOTICSFACILITY
+ACTION_WANTED: TRAIN_ZEALOT
+ACTION_WANTED: BUILD_GATEWAY
+
+ENEMY_UNITS: {'Marine': 8, 'SCV': 1}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 2, 'Nexus': 2, 'Probe': 25, 'Pylon': 2, 'TwilightCouncil': 1}
+MINERALS: 70
+GAS: 176
+ACTION_WANTED: TRAIN_PROBE
+ACTION_WANTED: BUILD_ROBOTICSFACILITY
+ACTION_WANTED: TRAIN_ZEALOT
+ACTION_WANTED: BUILD_GATEWAY
+
+ENEMY_UNITS: {'Marine': 8, 'SCV': 1}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 2, 'Nexus': 2, 'Probe': 25, 'Pylon': 2, 'TwilightCouncil': 1}
+MINERALS: 70
+GAS: 176
+ACTION_WANTED: TRAIN_PROBE
+ACTION_WANTED: BUILD_ROBOTICSFACILITY
+ACTION_WANTED: TRAIN_ZEALOT
+ACTION_WANTED: BUILD_GATEWAY
+
+ENEMY_UNITS: {'Marine': 8, 'SCV': 1}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 2, 'Nexus': 2, 'Probe': 24, 'Pylon': 2, 'TwilightCouncil': 1}
+MINERALS: 70
+GAS: 180
+ACTION_WANTED: TRAIN_PROBE
+ACTION_WANTED: BUILD_ROBOTICSFACILITY
+ACTION_WANTED: TRAIN_ZEALOT
+ACTION_WANTED: BUILD_GATEWAY
+
+ENEMY_UNITS: {'Marine': 8, 'SCV': 1}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 2, 'Nexus': 2, 'Probe': 24, 'Pylon': 2, 'TwilightCouncil': 1}
+MINERALS: 75
+GAS: 184
+ACTION_WANTED: TRAIN_PROBE
+ACTION_MADE: TRAIN_PROBE
+ACTION_WANTED: BUILD_ROBOTICSFACILITY
+ACTION_WANTED: TRAIN_ZEALOT
+ACTION_WANTED: BUILD_GATEWAY
+
+ENEMY_UNITS: {'Marine': 8, 'SCV': 1}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 2, 'Nexus': 2, 'Probe': 23, 'Pylon': 2, 'TwilightCouncil': 1}
+MINERALS: 40
+GAS: 184
+ACTION_WANTED: TRAIN_PROBE
+ACTION_WANTED: BUILD_ROBOTICSFACILITY
+ACTION_WANTED: TRAIN_ZEALOT
+ACTION_WANTED: BUILD_GATEWAY
+
+ENEMY_UNITS: {'Marine': 8, 'SCV': 1}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 2, 'Nexus': 2, 'Probe': 22, 'Pylon': 2, 'TwilightCouncil': 1}
+MINERALS: 50
+GAS: 184
+ACTION_WANTED: TRAIN_PROBE
+ACTION_WANTED: BUILD_ROBOTICSFACILITY
+ACTION_WANTED: TRAIN_ZEALOT
+ACTION_WANTED: BUILD_GATEWAY
+
+ENEMY_UNITS: {'Marine': 8, 'SCV': 1}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 2, 'Nexus': 2, 'Probe': 22, 'Pylon': 2, 'TwilightCouncil': 1}
+MINERALS: 50
+GAS: 192
+ACTION_WANTED: TRAIN_PROBE
+ACTION_WANTED: BUILD_ROBOTICSFACILITY
+ACTION_WANTED: TRAIN_ZEALOT
+ACTION_WANTED: BUILD_GATEWAY
+
+ENEMY_UNITS: {'Marine': 8, 'SCV': 1}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 2, 'Nexus': 2, 'Probe': 21, 'Pylon': 2, 'TwilightCouncil': 1}
+MINERALS: 50
+GAS: 192
+ACTION_WANTED: TRAIN_PROBE
+ACTION_WANTED: BUILD_ROBOTICSFACILITY
+ACTION_WANTED: TRAIN_ZEALOT
+ACTION_WANTED: BUILD_GATEWAY
+
+ENEMY_UNITS: {'Marine': 8, 'SCV': 1}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 2, 'Nexus': 2, 'Probe': 21, 'Pylon': 2, 'TwilightCouncil': 1}
+MINERALS: 65
+GAS: 192
+ACTION_WANTED: TRAIN_PROBE
+ACTION_WANTED: BUILD_ROBOTICSFACILITY
+ACTION_WANTED: TRAIN_ZEALOT
+ACTION_WANTED: BUILD_GATEWAY
+
+ENEMY_UNITS: {'Marine': 8, 'SCV': 1}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 2, 'Nexus': 2, 'Probe': 22, 'Pylon': 2, 'TwilightCouncil': 1}
+MINERALS: 75
+GAS: 200
+ACTION_WANTED: TRAIN_PROBE
+ACTION_WANTED: BUILD_ROBOTICSFACILITY
+ACTION_WANTED: TRAIN_ZEALOT
+ACTION_WANTED: BUILD_GATEWAY
+
+ENEMY_UNITS: {'Marine': 8, 'SCV': 1}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 2, 'Nexus': 2, 'Probe': 21, 'Pylon': 2, 'TwilightCouncil': 1}
+MINERALS: 75
+GAS: 200
+ACTION_WANTED: TRAIN_PROBE
+ACTION_WANTED: BUILD_ROBOTICSFACILITY
+ACTION_WANTED: TRAIN_ZEALOT
+ACTION_WANTED: BUILD_GATEWAY
+
+ENEMY_UNITS: {'Marine': 8, 'SCV': 1}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 2, 'Nexus': 2, 'Probe': 22, 'Pylon': 2, 'TwilightCouncil': 1}
+MINERALS: 80
+GAS: 200
+ACTION_WANTED: TRAIN_PROBE
+ACTION_MADE: TRAIN_PROBE
+ACTION_WANTED: BUILD_ROBOTICSFACILITY
+ACTION_WANTED: TRAIN_ZEALOT
+ACTION_WANTED: BUILD_GATEWAY
+
+ENEMY_UNITS: {'Marine': 8, 'SCV': 1}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 2, 'Nexus': 2, 'Probe': 22, 'Pylon': 2, 'TwilightCouncil': 1}
+MINERALS: 35
+GAS: 204
+ACTION_WANTED: TRAIN_PROBE
+ACTION_WANTED: BUILD_ROBOTICSFACILITY
+ACTION_WANTED: TRAIN_ZEALOT
+ACTION_WANTED: BUILD_GATEWAY
+
+ENEMY_UNITS: {'Marine': 8, 'SCV': 1}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 2, 'Nexus': 2, 'Probe': 22, 'Pylon': 2, 'TwilightCouncil': 1}
+MINERALS: 45
+GAS: 208
+ACTION_WANTED: TRAIN_PROBE
+ACTION_WANTED: BUILD_ROBOTICSFACILITY
+ACTION_WANTED: TRAIN_ZEALOT
+ACTION_WANTED: BUILD_GATEWAY
+
+ENEMY_UNITS: {'Marine': 8, 'SCV': 1}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 2, 'Nexus': 2, 'Probe': 21, 'Pylon': 2, 'TwilightCouncil': 1}
+MINERALS: 50
+GAS: 208
+ACTION_WANTED: TRAIN_PROBE
+ACTION_WANTED: BUILD_ROBOTICSFACILITY
+ACTION_WANTED: TRAIN_ZEALOT
+ACTION_WANTED: BUILD_GATEWAY
+
+ENEMY_UNITS: {'Marine': 8, 'SCV': 1}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 2, 'Nexus': 2, 'Probe': 21, 'Pylon': 2, 'TwilightCouncil': 1}
+MINERALS: 55
+GAS: 208
+ACTION_WANTED: TRAIN_PROBE
+ACTION_WANTED: BUILD_ROBOTICSFACILITY
+ACTION_WANTED: TRAIN_ZEALOT
+ACTION_WANTED: BUILD_GATEWAY
+
+ENEMY_UNITS: {'Marine': 8, 'SCV': 1}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 2, 'Nexus': 2, 'Probe': 21, 'Pylon': 2, 'TwilightCouncil': 1}
+MINERALS: 65
+GAS: 216
+ACTION_WANTED: TRAIN_PROBE
+ACTION_WANTED: BUILD_ROBOTICSFACILITY
+ACTION_WANTED: TRAIN_ZEALOT
+ACTION_WANTED: BUILD_GATEWAY
+
+ENEMY_UNITS: {'Marine': 8, 'SCV': 1}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 2, 'Nexus': 2, 'Probe': 21, 'Pylon': 2, 'TwilightCouncil': 1}
+MINERALS: 70
+GAS: 216
+ACTION_WANTED: TRAIN_PROBE
+ACTION_WANTED: BUILD_ROBOTICSFACILITY
+ACTION_WANTED: TRAIN_ZEALOT
+ACTION_WANTED: BUILD_GATEWAY
+
+ENEMY_UNITS: {'Marine': 8, 'SCV': 1}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 2, 'Nexus': 2, 'Probe': 21, 'Pylon': 2, 'TwilightCouncil': 1}
+MINERALS: 70
+GAS: 216
+ACTION_WANTED: TRAIN_PROBE
+ACTION_WANTED: BUILD_ROBOTICSFACILITY
+ACTION_WANTED: TRAIN_ZEALOT
+ACTION_WANTED: BUILD_GATEWAY
+
+ENEMY_UNITS: {'Marine': 8, 'SCV': 1}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 2, 'Nexus': 2, 'Probe': 21, 'Pylon': 2, 'TwilightCouncil': 1}
+MINERALS: 90
+GAS: 224
+ACTION_WANTED: TRAIN_PROBE
+ACTION_WANTED: BUILD_ROBOTICSFACILITY
+ACTION_WANTED: TRAIN_ZEALOT
+ACTION_WANTED: BUILD_GATEWAY
+
+ENEMY_UNITS: {'Marine': 8, 'SCV': 1}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 2, 'Nexus': 2, 'Probe': 20, 'Pylon': 2, 'TwilightCouncil': 1}
+MINERALS: 90
+GAS: 224
+ACTION_WANTED: TRAIN_PROBE
+ACTION_WANTED: BUILD_ROBOTICSFACILITY
+ACTION_WANTED: TRAIN_ZEALOT
+ACTION_WANTED: BUILD_GATEWAY
+
+ENEMY_UNITS: {'Marine': 9, 'SCV': 1}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 2, 'Nexus': 2, 'Probe': 20, 'Pylon': 2, 'TwilightCouncil': 1}
+MINERALS: 95
+GAS: 224
+ACTION_WANTED: TRAIN_PROBE
+ACTION_WANTED: BUILD_ROBOTICSFACILITY
+ACTION_WANTED: TRAIN_ZEALOT
+ACTION_WANTED: BUILD_GATEWAY
+
+ENEMY_UNITS: {'Marine': 9, 'SCV': 1}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 2, 'Nexus': 2, 'Probe': 20, 'Pylon': 2, 'TwilightCouncil': 1}
+MINERALS: 105
+GAS: 228
+ACTION_WANTED: TRAIN_PROBE
+ACTION_WANTED: BUILD_ROBOTICSFACILITY
+ACTION_WANTED: TRAIN_ZEALOT
+ACTION_WANTED: BUILD_GATEWAY
+
+ENEMY_UNITS: {'Marine': 9, 'SCV': 1}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 2, 'Nexus': 2, 'Probe': 20, 'Pylon': 2, 'TwilightCouncil': 1}
+MINERALS: 110
+GAS: 232
+ACTION_WANTED: TRAIN_PROBE
+ACTION_WANTED: BUILD_ROBOTICSFACILITY
+ACTION_WANTED: TRAIN_ZEALOT
+ACTION_WANTED: BUILD_GATEWAY
+
+ENEMY_UNITS: {'Marine': 9, 'SCV': 1}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 2, 'Nexus': 2, 'Probe': 21, 'Pylon': 2, 'Stalker': 1, 'TwilightCouncil': 1}
+MINERALS: 115
+GAS: 232
+ACTION_WANTED: TRAIN_PROBE
+ACTION_MADE: TRAIN_PROBE
+ACTION_WANTED: BUILD_ROBOTICSFACILITY
+ACTION_WANTED: TRAIN_ZEALOT
+ACTION_WANTED: BUILD_GATEWAY
+
+ENEMY_UNITS: {'Marine': 9, 'SCV': 1}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 2, 'Nexus': 2, 'Probe': 21, 'Pylon': 2, 'Stalker': 1, 'TwilightCouncil': 1}
+MINERALS: 70
+GAS: 236
+ACTION_WANTED: TRAIN_PROBE
+ACTION_WANTED: BUILD_ROBOTICSFACILITY
+ACTION_WANTED: TRAIN_ZEALOT
+ACTION_WANTED: BUILD_GATEWAY
+
+ENEMY_UNITS: {'Marine': 9, 'SCV': 1}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 2, 'Nexus': 2, 'Probe': 21, 'Pylon': 2, 'Stalker': 1, 'TwilightCouncil': 1}
+MINERALS: 80
+GAS: 240
+ACTION_WANTED: TRAIN_PROBE
+ACTION_WANTED: BUILD_ROBOTICSFACILITY
+ACTION_WANTED: TRAIN_ZEALOT
+ACTION_WANTED: BUILD_GATEWAY
+
+ENEMY_UNITS: {'Marine': 9, 'SCV': 1}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 2, 'Nexus': 2, 'Probe': 21, 'Pylon': 2, 'Stalker': 1, 'TwilightCouncil': 1}
+MINERALS: 85
+GAS: 240
+ACTION_WANTED: TRAIN_PROBE
+ACTION_WANTED: BUILD_ROBOTICSFACILITY
+ACTION_WANTED: TRAIN_ZEALOT
+ACTION_WANTED: BUILD_GATEWAY
+
+ENEMY_UNITS: {'Marine': 10, 'SCV': 1}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 2, 'Nexus': 2, 'Probe': 21, 'Pylon': 2, 'Stalker': 1, 'TwilightCouncil': 1}
+MINERALS: 95
+GAS: 240
+ACTION_WANTED: TRAIN_PROBE
+ACTION_WANTED: BUILD_ROBOTICSFACILITY
+ACTION_WANTED: TRAIN_ZEALOT
+ACTION_WANTED: BUILD_GATEWAY
+
+ENEMY_UNITS: {'Marine': 10, 'SCV': 1}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 2, 'Nexus': 2, 'Probe': 21, 'Pylon': 2, 'Stalker': 1, 'TwilightCouncil': 1}
+MINERALS: 105
+GAS: 248
+ACTION_WANTED: TRAIN_PROBE
+ACTION_WANTED: BUILD_ROBOTICSFACILITY
+ACTION_WANTED: TRAIN_ZEALOT
+ACTION_MADE: TRAIN_ZEALOT
+ACTION_WANTED: BUILD_GATEWAY
+
+ENEMY_UNITS: {'Marine': 10, 'SCV': 1}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 2, 'Nexus': 2, 'Probe': 21, 'Pylon': 2, 'Stalker': 1, 'TwilightCouncil': 1}
+MINERALS: 15
+GAS: 248
+ACTION_WANTED: TRAIN_PROBE
+ACTION_WANTED: BUILD_ROBOTICSFACILITY
+ACTION_WANTED: TRAIN_ZEALOT
+ACTION_WANTED: BUILD_GATEWAY
+
+ENEMY_UNITS: {'Marine': 10, 'SCV': 1}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 2, 'Nexus': 2, 'Probe': 21, 'Pylon': 2, 'Stalker': 1, 'TwilightCouncil': 1}
+MINERALS: 15
+GAS: 248
+ACTION_WANTED: TRAIN_PROBE
+ACTION_WANTED: BUILD_ROBOTICSFACILITY
+ACTION_WANTED: TRAIN_ZEALOT
+ACTION_WANTED: BUILD_GATEWAY
+
+ENEMY_UNITS: {'Marine': 10, 'SCV': 1}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 2, 'Nexus': 2, 'Probe': 21, 'Pylon': 2, 'Stalker': 1, 'TwilightCouncil': 1}
+MINERALS: 20
+GAS: 256
+ACTION_WANTED: TRAIN_PROBE
+ACTION_WANTED: BUILD_ROBOTICSFACILITY
+ACTION_WANTED: TRAIN_ZEALOT
+ACTION_WANTED: BUILD_GATEWAY
+
+ENEMY_UNITS: {'Marine': 10, 'SCV': 1}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 2, 'Nexus': 2, 'Probe': 21, 'Pylon': 2, 'Stalker': 1, 'TwilightCouncil': 1}
+MINERALS: 25
+GAS: 256
+ACTION_WANTED: TRAIN_PROBE
+ACTION_WANTED: BUILD_ROBOTICSFACILITY
+ACTION_WANTED: TRAIN_ZEALOT
+ACTION_WANTED: BUILD_GATEWAY
+
+ENEMY_UNITS: {'Marine': 10, 'SCV': 1}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 2, 'Nexus': 2, 'Probe': 21, 'Pylon': 2, 'Stalker': 1, 'TwilightCouncil': 1}
+MINERALS: 35
+GAS: 256
+ACTION_WANTED: TRAIN_PROBE
+ACTION_WANTED: BUILD_ROBOTICSFACILITY
+ACTION_WANTED: TRAIN_ZEALOT
+ACTION_WANTED: BUILD_GATEWAY
+
+ENEMY_UNITS: {'Marine': 10, 'SCV': 1}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 2, 'Nexus': 2, 'Probe': 21, 'Pylon': 2, 'Stalker': 1, 'TwilightCouncil': 1}
+MINERALS: 40
+GAS: 260
+ACTION_WANTED: TRAIN_PROBE
+ACTION_WANTED: BUILD_ROBOTICSFACILITY
+ACTION_WANTED: TRAIN_ZEALOT
+ACTION_WANTED: BUILD_GATEWAY
+
+ENEMY_UNITS: {'Marine': 10, 'SCV': 1}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 2, 'Nexus': 2, 'Probe': 21, 'Pylon': 2, 'Stalker': 1, 'TwilightCouncil': 1}
+MINERALS: 40
+GAS: 264
+ACTION_WANTED: TRAIN_PROBE
+ACTION_WANTED: BUILD_ROBOTICSFACILITY
+ACTION_WANTED: TRAIN_ZEALOT
+ACTION_WANTED: BUILD_GATEWAY
+
+ENEMY_UNITS: {'Marine': 9, 'SCV': 1}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 2, 'Nexus': 2, 'Probe': 21, 'Pylon': 2, 'Stalker': 1, 'TwilightCouncil': 1}
+MINERALS: 60
+GAS: 264
+ACTION_WANTED: TRAIN_PROBE
+ACTION_WANTED: BUILD_ROBOTICSFACILITY
+ACTION_WANTED: TRAIN_ZEALOT
+ACTION_WANTED: BUILD_GATEWAY
+
+ENEMY_UNITS: {'Marine': 10, 'SCV': 1}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 2, 'Nexus': 2, 'Probe': 21, 'Pylon': 2, 'Stalker': 1, 'TwilightCouncil': 1}
+MINERALS: 65
+GAS: 264
+ACTION_WANTED: TRAIN_PROBE
+ACTION_WANTED: BUILD_ROBOTICSFACILITY
+ACTION_WANTED: TRAIN_ZEALOT
+ACTION_WANTED: BUILD_GATEWAY
+
+ENEMY_UNITS: {'Marine': 10, 'SCV': 1}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 2, 'Nexus': 2, 'Probe': 22, 'Pylon': 2, 'TwilightCouncil': 1}
+MINERALS: 70
+GAS: 272
+ACTION_WANTED: TRAIN_STALKER
+ACTION_WANTED: TRAIN_PROBE
+ACTION_MADE: TRAIN_PROBE
+ACTION_WANTED: BUILD_ROBOTICSFACILITY
+ACTION_WANTED: TRAIN_ZEALOT
+ACTION_WANTED: BUILD_GATEWAY
+
+ENEMY_UNITS: {'Marine': 10, 'SCV': 1}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 2, 'Nexus': 2, 'Probe': 21, 'Pylon': 2, 'TwilightCouncil': 1}
+MINERALS: 30
+GAS: 272
+ACTION_WANTED: TRAIN_STALKER
+ACTION_WANTED: TRAIN_PROBE
+ACTION_WANTED: BUILD_ROBOTICSFACILITY
+ACTION_WANTED: TRAIN_ZEALOT
+ACTION_WANTED: BUILD_GATEWAY
+
+ENEMY_UNITS: {'Marine': 11, 'SCV': 1}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 2, 'Nexus': 2, 'Probe': 21, 'Pylon': 2, 'TwilightCouncil': 1}
+MINERALS: 35
+GAS: 272
+ACTION_WANTED: TRAIN_STALKER
+ACTION_WANTED: TRAIN_PROBE
+ACTION_WANTED: BUILD_ROBOTICSFACILITY
+ACTION_WANTED: TRAIN_ZEALOT
+ACTION_WANTED: BUILD_GATEWAY
+
+ENEMY_UNITS: {'Marine': 11, 'SCV': 1}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 2, 'Nexus': 2, 'Probe': 22, 'Pylon': 2, 'TwilightCouncil': 1}
+MINERALS: 45
+GAS: 280
+ACTION_WANTED: TRAIN_STALKER
+ACTION_WANTED: TRAIN_PROBE
+ACTION_WANTED: BUILD_ROBOTICSFACILITY
+ACTION_WANTED: TRAIN_ZEALOT
+ACTION_WANTED: BUILD_GATEWAY
+
+ENEMY_UNITS: {'Marine': 11, 'SCV': 1}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 2, 'Nexus': 2, 'Probe': 22, 'Pylon': 2, 'TwilightCouncil': 1}
+MINERALS: 50
+GAS: 280
+ACTION_WANTED: TRAIN_STALKER
+ACTION_WANTED: TRAIN_PROBE
+ACTION_MADE: TRAIN_PROBE
+ACTION_WANTED: BUILD_ROBOTICSFACILITY
+ACTION_WANTED: TRAIN_ZEALOT
+ACTION_WANTED: BUILD_GATEWAY
+
+ENEMY_UNITS: {'Marine': 11, 'SCV': 1}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 2, 'Nexus': 2, 'Probe': 22, 'Pylon': 2, 'TwilightCouncil': 1}
+MINERALS: 5
+GAS: 280
+ACTION_WANTED: TRAIN_STALKER
+ACTION_WANTED: TRAIN_PROBE
+ACTION_WANTED: BUILD_ROBOTICSFACILITY
+ACTION_WANTED: TRAIN_ZEALOT
+ACTION_WANTED: BUILD_GATEWAY
+
+ENEMY_UNITS: {'Marine': 11, 'SCV': 1}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 2, 'Nexus': 2, 'Probe': 22, 'Pylon': 2, 'TwilightCouncil': 1}
+MINERALS: 5
+GAS: 284
+ACTION_WANTED: TRAIN_STALKER
+ACTION_WANTED: TRAIN_PROBE
+ACTION_WANTED: BUILD_ROBOTICSFACILITY
+ACTION_WANTED: TRAIN_ZEALOT
+ACTION_WANTED: BUILD_GATEWAY
+
+ENEMY_UNITS: {'Marine': 11, 'SCV': 1}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 2, 'Nexus': 2, 'Probe': 22, 'Pylon': 2, 'TwilightCouncil': 1}
+MINERALS: 20
+GAS: 288
+ACTION_WANTED: TRAIN_STALKER
+ACTION_WANTED: TRAIN_PROBE
+ACTION_WANTED: BUILD_ROBOTICSFACILITY
+ACTION_WANTED: TRAIN_ZEALOT
+ACTION_WANTED: BUILD_GATEWAY
+
+ENEMY_UNITS: {'Marine': 11, 'SCV': 1}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 2, 'Nexus': 2, 'Probe': 22, 'Pylon': 2, 'TwilightCouncil': 1}
+MINERALS: 25
+GAS: 288
+ACTION_WANTED: TRAIN_STALKER
+ACTION_WANTED: TRAIN_PROBE
+ACTION_WANTED: BUILD_ROBOTICSFACILITY
+ACTION_WANTED: TRAIN_ZEALOT
+ACTION_WANTED: BUILD_GATEWAY
+
+ENEMY_UNITS: {'Marine': 11, 'SCV': 1}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 2, 'Nexus': 2, 'Probe': 22, 'Pylon': 2, 'TwilightCouncil': 1}
+MINERALS: 35
+GAS: 288
+ACTION_WANTED: TRAIN_STALKER
+ACTION_WANTED: TRAIN_PROBE
+ACTION_WANTED: BUILD_ROBOTICSFACILITY
+ACTION_WANTED: TRAIN_ZEALOT
+ACTION_WANTED: BUILD_GATEWAY
+
+ENEMY_UNITS: {'Marine': 11, 'SCV': 1}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 2, 'Nexus': 2, 'Probe': 22, 'Pylon': 2, 'TwilightCouncil': 1}
+MINERALS: 35
+GAS: 296
+ACTION_WANTED: TRAIN_STALKER
+ACTION_WANTED: TRAIN_PROBE
+ACTION_WANTED: BUILD_ROBOTICSFACILITY
+ACTION_WANTED: TRAIN_ZEALOT
+ACTION_WANTED: BUILD_GATEWAY
+
+ENEMY_UNITS: {'Marine': 11, 'SCV': 1}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 2, 'Nexus': 2, 'Probe': 22, 'Pylon': 2, 'TwilightCouncil': 1}
+MINERALS: 40
+GAS: 296
+ACTION_WANTED: TRAIN_STALKER
+ACTION_WANTED: TRAIN_PROBE
+ACTION_WANTED: BUILD_ROBOTICSFACILITY
+ACTION_WANTED: TRAIN_ZEALOT
+ACTION_WANTED: BUILD_GATEWAY
+
+ENEMY_UNITS: {'Marine': 11, 'SCV': 1}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 2, 'Nexus': 2, 'Probe': 22, 'Pylon': 2, 'TwilightCouncil': 1}
+MINERALS: 60
+GAS: 296
+ACTION_WANTED: TRAIN_STALKER
+ACTION_WANTED: TRAIN_PROBE
+ACTION_WANTED: BUILD_ROBOTICSFACILITY
+ACTION_WANTED: TRAIN_ZEALOT
+ACTION_WANTED: BUILD_GATEWAY
+
+ENEMY_UNITS: {'Marine': 11, 'SCV': 1}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 2, 'Nexus': 2, 'Probe': 23, 'Pylon': 2, 'TwilightCouncil': 1}
+MINERALS: 70
+GAS: 304
+ACTION_WANTED: TRAIN_STALKER
+ACTION_WANTED: TRAIN_PROBE
+ACTION_WANTED: BUILD_ROBOTICSFACILITY
+ACTION_WANTED: TRAIN_ZEALOT
+ACTION_WANTED: BUILD_GATEWAY
+
+ENEMY_UNITS: {'Marine': 11, 'SCV': 1}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 2, 'Nexus': 2, 'Probe': 22, 'Pylon': 2, 'TwilightCouncil': 1}
+MINERALS: 70
+GAS: 304
+ACTION_WANTED: TRAIN_STALKER
+ACTION_WANTED: TRAIN_PROBE
+ACTION_WANTED: BUILD_ROBOTICSFACILITY
+ACTION_WANTED: TRAIN_ZEALOT
+ACTION_WANTED: BUILD_GATEWAY
+
+ENEMY_UNITS: {'Marine': 11, 'SCV': 1}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 2, 'Nexus': 2, 'Probe': 22, 'Pylon': 2, 'TwilightCouncil': 1}
+MINERALS: 75
+GAS: 304
+ACTION_WANTED: TRAIN_STALKER
+ACTION_WANTED: TRAIN_PROBE
+ACTION_WANTED: BUILD_ROBOTICSFACILITY
+ACTION_WANTED: TRAIN_ZEALOT
+ACTION_WANTED: BUILD_GATEWAY
+
+ENEMY_UNITS: {'Marine': 11, 'SCV': 1}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 2, 'Nexus': 2, 'Probe': 22, 'Pylon': 2, 'TwilightCouncil': 1}
+MINERALS: 85
+GAS: 308
+ACTION_WANTED: TRAIN_STALKER
+ACTION_WANTED: TRAIN_PROBE
+ACTION_WANTED: BUILD_ROBOTICSFACILITY
+ACTION_WANTED: TRAIN_ZEALOT
+ACTION_WANTED: BUILD_GATEWAY
+
+ENEMY_UNITS: {'Marine': 11, 'SCV': 1}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 2, 'Nexus': 2, 'Probe': 22, 'Pylon': 2, 'TwilightCouncil': 1}
+MINERALS: 90
+GAS: 312
+ACTION_WANTED: TRAIN_STALKER
+ACTION_WANTED: TRAIN_PROBE
+ACTION_WANTED: BUILD_ROBOTICSFACILITY
+ACTION_WANTED: TRAIN_ZEALOT
+ACTION_WANTED: BUILD_GATEWAY
+
+ENEMY_UNITS: {'Marine': 11, 'SCV': 1}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 2, 'Nexus': 2, 'Probe': 22, 'Pylon': 2, 'TwilightCouncil': 1}
+MINERALS: 95
+GAS: 312
+ACTION_WANTED: TRAIN_STALKER
+ACTION_WANTED: TRAIN_PROBE
+ACTION_WANTED: BUILD_ROBOTICSFACILITY
+ACTION_WANTED: TRAIN_ZEALOT
+ACTION_WANTED: BUILD_GATEWAY
+
+ENEMY_UNITS: {'Marine': 11, 'SCV': 1}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 2, 'Nexus': 2, 'Probe': 22, 'Pylon': 2, 'TwilightCouncil': 1}
+MINERALS: 100
+GAS: 316
+ACTION_WANTED: TRAIN_STALKER
+ACTION_WANTED: TRAIN_PROBE
+ACTION_WANTED: BUILD_ROBOTICSFACILITY
+ACTION_WANTED: TRAIN_ZEALOT
+ACTION_WANTED: BUILD_GATEWAY
+
+ENEMY_UNITS: {'Marine': 11, 'SCV': 1}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 2, 'Nexus': 2, 'Probe': 22, 'Pylon': 2, 'TwilightCouncil': 1}
+MINERALS: 110
+GAS: 320
+ACTION_WANTED: TRAIN_STALKER
+ACTION_WANTED: TRAIN_PROBE
+ACTION_WANTED: BUILD_ROBOTICSFACILITY
+ACTION_WANTED: TRAIN_ZEALOT
+ACTION_WANTED: BUILD_GATEWAY
+
+ENEMY_UNITS: {'Marine': 11, 'SCV': 1}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 2, 'Nexus': 2, 'Probe': 22, 'Pylon': 2, 'TwilightCouncil': 1}
+MINERALS: 120
+GAS: 320
+ACTION_WANTED: TRAIN_STALKER
+ACTION_WANTED: TRAIN_PROBE
+ACTION_WANTED: BUILD_ROBOTICSFACILITY
+ACTION_WANTED: TRAIN_ZEALOT
+ACTION_WANTED: BUILD_GATEWAY
+
+ENEMY_UNITS: {'Marine': 11, 'SCV': 1}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 2, 'Nexus': 2, 'Probe': 22, 'Pylon': 2, 'TwilightCouncil': 1}
+MINERALS: 125
+GAS: 320
+ACTION_WANTED: TRAIN_STALKER
+ACTION_WANTED: TRAIN_PROBE
+ACTION_WANTED: BUILD_ROBOTICSFACILITY
+ACTION_WANTED: TRAIN_ZEALOT
+ACTION_WANTED: BUILD_GATEWAY
+
+ENEMY_UNITS: {'Marine': 12, 'SCV': 1}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 2, 'Nexus': 2, 'Probe': 22, 'Pylon': 2, 'TwilightCouncil': 1}
+MINERALS: 135
+GAS: 328
+ACTION_WANTED: TRAIN_STALKER
+ACTION_WANTED: TRAIN_PROBE
+ACTION_WANTED: BUILD_ROBOTICSFACILITY
+ACTION_WANTED: TRAIN_ZEALOT
+ACTION_WANTED: BUILD_GATEWAY
+
+ENEMY_UNITS: {'Marine': 12, 'SCV': 1}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 2, 'Nexus': 2, 'Probe': 22, 'Pylon': 2, 'TwilightCouncil': 1}
+MINERALS: 140
+GAS: 328
+ACTION_WANTED: TRAIN_STALKER
+ACTION_WANTED: TRAIN_PROBE
+ACTION_WANTED: BUILD_ROBOTICSFACILITY
+ACTION_WANTED: TRAIN_ZEALOT
+ACTION_WANTED: BUILD_GATEWAY
+
+ENEMY_UNITS: {'Marine': 12, 'SCV': 1}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 2, 'Nexus': 2, 'Probe': 23, 'Pylon': 2, 'TwilightCouncil': 1}
+MINERALS: 145
+GAS: 328
+ACTION_WANTED: TRAIN_STALKER
+ACTION_WANTED: TRAIN_PROBE
+ACTION_WANTED: BUILD_ROBOTICSFACILITY
+ACTION_WANTED: TRAIN_ZEALOT
+ACTION_WANTED: BUILD_GATEWAY
+
+ENEMY_UNITS: {'Marine': 12, 'SCV': 1}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 2, 'Nexus': 2, 'Probe': 23, 'Pylon': 2, 'TwilightCouncil': 1}
+MINERALS: 155
+GAS: 336
+ACTION_WANTED: TRAIN_STALKER
+ACTION_WANTED: TRAIN_PROBE
+ACTION_WANTED: BUILD_ROBOTICSFACILITY
+ACTION_WANTED: TRAIN_ZEALOT
+ACTION_WANTED: BUILD_GATEWAY
+
+ENEMY_UNITS: {'Marine': 12, 'SCV': 1}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 2, 'Nexus': 2, 'Probe': 23, 'Pylon': 2, 'Stalker': 1, 'TwilightCouncil': 1}
+MINERALS: 165
+GAS: 336
+ACTION_WANTED: TRAIN_STALKER
+ACTION_MADE: TRAIN_STALKER
+ACTION_WANTED: TRAIN_PROBE
+ACTION_WANTED: BUILD_ROBOTICSFACILITY
+ACTION_WANTED: TRAIN_ZEALOT
+ACTION_WANTED: BUILD_GATEWAY
+
+ENEMY_UNITS: {'Marine': 12, 'SCV': 1}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 2, 'Nexus': 2, 'Probe': 24, 'Pylon': 2, 'Stalker': 1, 'TwilightCouncil': 1}
+MINERALS: 50
+GAS: 286
+ACTION_WANTED: TRAIN_PROBE
+ACTION_MADE: TRAIN_PROBE
+ACTION_WANTED: BUILD_ROBOTICSFACILITY
+ACTION_WANTED: TRAIN_ZEALOT
+ACTION_WANTED: BUILD_GATEWAY
+
+ENEMY_UNITS: {'Marine': 12, 'SCV': 1}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 2, 'Nexus': 2, 'Probe': 23, 'Pylon': 2, 'Stalker': 1, 'TwilightCouncil': 1}
+MINERALS: 0
+GAS: 290
+ACTION_WANTED: TRAIN_PROBE
+ACTION_WANTED: BUILD_ROBOTICSFACILITY
+ACTION_WANTED: TRAIN_ZEALOT
+ACTION_WANTED: BUILD_GATEWAY
+
+ENEMY_UNITS: {'Marine': 12, 'SCV': 1}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 2, 'Nexus': 2, 'Probe': 23, 'Pylon': 2, 'Stalker': 1, 'TwilightCouncil': 1}
+MINERALS: 10
+GAS: 294
+ACTION_WANTED: TRAIN_PROBE
+ACTION_WANTED: BUILD_ROBOTICSFACILITY
+ACTION_WANTED: TRAIN_ZEALOT
+ACTION_WANTED: BUILD_GATEWAY
+
+ENEMY_UNITS: {'Marine': 12, 'SCV': 1}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 2, 'Nexus': 2, 'Probe': 23, 'Pylon': 2, 'Stalker': 1, 'TwilightCouncil': 1}
+MINERALS: 15
+GAS: 294
+ACTION_WANTED: TRAIN_PROBE
+ACTION_WANTED: BUILD_ROBOTICSFACILITY
+ACTION_WANTED: TRAIN_ZEALOT
+ACTION_WANTED: BUILD_GATEWAY
+
+ENEMY_UNITS: {'Marine': 12}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 2, 'Nexus': 2, 'Probe': 23, 'Pylon': 2, 'Stalker': 1, 'TwilightCouncil': 1}
+MINERALS: 30
+GAS: 294
+ACTION_WANTED: TRAIN_PROBE
+ACTION_WANTED: BUILD_ROBOTICSFACILITY
+ACTION_WANTED: TRAIN_ZEALOT
+ACTION_WANTED: BUILD_GATEWAY
+
+ENEMY_UNITS: {'Marine': 12}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 2, 'Nexus': 2, 'Probe': 23, 'Pylon': 2, 'Stalker': 1, 'TwilightCouncil': 1}
+MINERALS: 35
+GAS: 302
+ACTION_WANTED: TRAIN_PROBE
+ACTION_WANTED: BUILD_ROBOTICSFACILITY
+ACTION_WANTED: TRAIN_ZEALOT
+ACTION_WANTED: BUILD_GATEWAY
+
+ENEMY_UNITS: {'Marine': 12}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 2, 'Nexus': 1, 'Probe': 23, 'Pylon': 2, 'Stalker': 1, 'TwilightCouncil': 1}
+MINERALS: 35
+GAS: 302
+
+ENEMY_UNITS: {'Marine': 12}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 2, 'Nexus': 1, 'Probe': 23, 'Pylon': 2, 'Stalker': 1, 'TwilightCouncil': 1}
+MINERALS: 45
+GAS: 302
+
+ENEMY_UNITS: {'Marine': 12}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 2, 'Nexus': 1, 'Probe': 24, 'Pylon': 2, 'Stalker': 1, 'TwilightCouncil': 1}
+MINERALS: 55
+GAS: 310
+
+ENEMY_UNITS: {'Marine': 12}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 2, 'Nexus': 1, 'Probe': 23, 'Pylon': 2, 'Stalker': 1, 'TwilightCouncil': 1}
+MINERALS: 70
+GAS: 310
+
+ENEMY_UNITS: {'Marine': 12}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 2, 'Nexus': 1, 'Probe': 23, 'Pylon': 2, 'Stalker': 1, 'TwilightCouncil': 1}
+MINERALS: 70
+GAS: 310
+
+ENEMY_UNITS: {'Marine': 12}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 2, 'Nexus': 1, 'Probe': 23, 'Pylon': 2, 'Stalker': 1, 'TwilightCouncil': 1}
+MINERALS: 80
+GAS: 314
+
+ENEMY_UNITS: {'Marine': 12}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 2, 'Nexus': 1, 'Probe': 23, 'Pylon': 2, 'Stalker': 1, 'TwilightCouncil': 1}
+MINERALS: 80
+GAS: 318
+
+ENEMY_UNITS: {'Marine': 12}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 2, 'Nexus': 1, 'Probe': 23, 'Pylon': 2, 'Stalker': 1, 'TwilightCouncil': 1}
+MINERALS: 95
+GAS: 318
+
+ENEMY_UNITS: {'Marine': 12}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 2, 'Nexus': 1, 'Probe': 23, 'Pylon': 2, 'Stalker': 1, 'TwilightCouncil': 1}
+MINERALS: 105
+GAS: 318
+
+ENEMY_UNITS: {'Marine': 12}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 2, 'Nexus': 1, 'Probe': 23, 'Pylon': 2, 'Stalker': 1, 'TwilightCouncil': 1}
+MINERALS: 105
+GAS: 326
+
+ENEMY_UNITS: {'Marine': 12}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 2, 'Nexus': 1, 'Probe': 23, 'Pylon': 2, 'Stalker': 1, 'TwilightCouncil': 1}
+MINERALS: 120
+GAS: 326
+
+ENEMY_UNITS: {'Marine': 12}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 2, 'Nexus': 1, 'Probe': 23, 'Pylon': 2, 'Stalker': 1, 'TwilightCouncil': 1}
+MINERALS: 125
+GAS: 326
+
+ENEMY_UNITS: {'Marine': 12}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 2, 'Nexus': 1, 'Probe': 24, 'Pylon': 2, 'Stalker': 1, 'TwilightCouncil': 1}
+MINERALS: 130
+GAS: 334
+ACTION_WANTED: BUILD_NEXUS
+
+ENEMY_UNITS: {'Marine': 12}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 2, 'Nexus': 1, 'Probe': 23, 'Pylon': 2, 'Stalker': 1, 'TwilightCouncil': 1}
+MINERALS: 135
+GAS: 334
+ACTION_WANTED: BUILD_NEXUS
+
+ENEMY_UNITS: {'Marine': 12}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 2, 'Nexus': 1, 'Probe': 23, 'Pylon': 2, 'Stalker': 1, 'TwilightCouncil': 1}
+MINERALS: 140
+GAS: 334
+ACTION_WANTED: BUILD_NEXUS
+
+ENEMY_UNITS: {'Marine': 12}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 2, 'Nexus': 1, 'Probe': 23, 'Pylon': 2, 'Stalker': 1, 'TwilightCouncil': 1}
+MINERALS: 140
+GAS: 338
+ACTION_WANTED: BUILD_NEXUS
+
+ENEMY_UNITS: {'Marine': 12}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 2, 'Nexus': 1, 'Probe': 25, 'Pylon': 2, 'Stalker': 1, 'TwilightCouncil': 1}
+MINERALS: 145
+GAS: 338
+ACTION_WANTED: BUILD_NEXUS
+
+ENEMY_UNITS: {'Marine': 12}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 2, 'Nexus': 1, 'Probe': 24, 'Pylon': 2, 'Stalker': 1, 'TwilightCouncil': 1, 'Zealot': 1}
+MINERALS: 145
+GAS: 338
+ACTION_WANTED: BUILD_NEXUS
+
+ENEMY_UNITS: {'Marine': 12}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 2, 'Nexus': 1, 'Probe': 23, 'Pylon': 2, 'Stalker': 1, 'TwilightCouncil': 1, 'Zealot': 1}
+MINERALS: 150
+GAS: 342
+ACTION_WANTED: BUILD_NEXUS
+
+ENEMY_UNITS: {'Marine': 11}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 2, 'Nexus': 1, 'Probe': 23, 'Pylon': 2, 'Stalker': 1, 'TwilightCouncil': 1, 'Zealot': 1}
+MINERALS: 160
+GAS: 346
+ACTION_WANTED: BUILD_NEXUS
+
+ENEMY_UNITS: {'Marine': 11}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 2, 'Nexus': 1, 'Probe': 23, 'Pylon': 2, 'TwilightCouncil': 1, 'Zealot': 1}
+MINERALS: 160
+GAS: 346
+ACTION_WANTED: BUILD_NEXUS
+
+ENEMY_UNITS: {'Marine': 11}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 2, 'Nexus': 1, 'Probe': 22, 'Pylon': 2, 'TwilightCouncil': 1, 'Zealot': 1}
+MINERALS: 160
+GAS: 346
+ACTION_WANTED: BUILD_NEXUS
+
+ENEMY_UNITS: {'Marine': 11}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 2, 'Nexus': 1, 'Probe': 21, 'Pylon': 2, 'TwilightCouncil': 1, 'Zealot': 1}
+MINERALS: 160
+GAS: 346
+ACTION_WANTED: BUILD_NEXUS
+
+ENEMY_UNITS: {'Marine': 11}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 2, 'Nexus': 1, 'Probe': 20, 'Pylon': 2, 'TwilightCouncil': 1, 'Zealot': 1}
+MINERALS: 160
+GAS: 346
+ACTION_WANTED: BUILD_NEXUS
+
+ENEMY_UNITS: {'Marine': 11}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 2, 'Nexus': 1, 'Probe': 21, 'Pylon': 2, 'TwilightCouncil': 1, 'Zealot': 1}
+MINERALS: 170
+GAS: 346
+ACTION_WANTED: BUILD_NEXUS
+
+ENEMY_UNITS: {'Marine': 11}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 2, 'Nexus': 1, 'Probe': 21, 'Pylon': 2, 'TwilightCouncil': 1, 'Zealot': 1}
+MINERALS: 170
+GAS: 346
+ACTION_WANTED: BUILD_NEXUS
+
+ENEMY_UNITS: {'Marine': 11}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 2, 'Nexus': 1, 'Probe': 20, 'Pylon': 2, 'TwilightCouncil': 1, 'Zealot': 1}
+MINERALS: 170
+GAS: 346
+ACTION_WANTED: BUILD_NEXUS
+
+ENEMY_UNITS: {'Marine': 11}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 2, 'Nexus': 1, 'Probe': 19, 'Pylon': 2, 'TwilightCouncil': 1, 'Zealot': 1}
+MINERALS: 170
+GAS: 346
+ACTION_WANTED: TRAIN_PROBE
+ACTION_MADE: TRAIN_PROBE
+
+ENEMY_UNITS: {'Marine': 11}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 2, 'Nexus': 1, 'Probe': 18, 'Pylon': 2, 'TwilightCouncil': 1, 'Zealot': 1}
+MINERALS: 125
+GAS: 354
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {'Marine': 11}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 2, 'Nexus': 1, 'Probe': 17, 'Pylon': 2, 'TwilightCouncil': 1, 'Zealot': 1}
+MINERALS: 125
+GAS: 354
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {'Marine': 11}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 2, 'Nexus': 1, 'Probe': 16, 'Pylon': 2, 'TwilightCouncil': 1, 'Zealot': 1}
+MINERALS: 125
+GAS: 354
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {'Marine': 9}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 2, 'Nexus': 1, 'Probe': 15, 'Pylon': 2, 'TwilightCouncil': 1, 'Zealot': 1}
+MINERALS: 125
+GAS: 354
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {'Marine': 9}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 2, 'Nexus': 1, 'Probe': 14, 'Pylon': 2, 'TwilightCouncil': 1, 'Zealot': 1}
+MINERALS: 130
+GAS: 354
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {'Marine': 9}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 2, 'Nexus': 1, 'Probe': 13, 'Pylon': 2, 'TwilightCouncil': 1, 'Zealot': 1}
+MINERALS: 135
+GAS: 354
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {'Marine': 9}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 2, 'Nexus': 1, 'Probe': 13, 'Pylon': 2, 'TwilightCouncil': 1, 'Zealot': 1}
+MINERALS: 135
+GAS: 354
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {'Marine': 8}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 2, 'Nexus': 1, 'Probe': 13, 'Pylon': 2, 'TwilightCouncil': 1, 'Zealot': 1}
+MINERALS: 135
+GAS: 354
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {'Marine': 8}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 2, 'TwilightCouncil': 1, 'Zealot': 1}
+MINERALS: 135
+GAS: 354
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {'Marine': 8}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 2, 'Nexus': 1, 'Probe': 11, 'Pylon': 2, 'TwilightCouncil': 1, 'Zealot': 1}
+MINERALS: 135
+GAS: 354
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {'Marine': 8}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 2, 'Nexus': 1, 'Probe': 10, 'Pylon': 2, 'TwilightCouncil': 1, 'Zealot': 1}
+MINERALS: 140
+GAS: 354
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {'Marine': 8}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 2, 'Nexus': 1, 'Probe': 10, 'Pylon': 2, 'TwilightCouncil': 1, 'Zealot': 1}
+MINERALS: 140
+GAS: 354
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {'Marine': 8}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 2, 'Nexus': 1, 'Probe': 10, 'Pylon': 2, 'TwilightCouncil': 1, 'Zealot': 1}
+MINERALS: 140
+GAS: 354
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {'Marine': 7}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 2, 'Nexus': 1, 'Probe': 9, 'Pylon': 2, 'TwilightCouncil': 1, 'Zealot': 1}
+MINERALS: 140
+GAS: 354
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {'Marine': 7}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 2, 'Nexus': 1, 'Probe': 9, 'Pylon': 2, 'TwilightCouncil': 1, 'Zealot': 1}
+MINERALS: 140
+GAS: 354
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {'Marine': 6}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 2, 'Nexus': 1, 'Probe': 8, 'Pylon': 2, 'TwilightCouncil': 1, 'Zealot': 1}
+MINERALS: 145
+GAS: 354
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {'Marine': 6}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 2, 'Nexus': 1, 'Probe': 8, 'Pylon': 2, 'TwilightCouncil': 1, 'Zealot': 1}
+MINERALS: 145
+GAS: 354
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {'Marine': 6}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 2, 'Nexus': 1, 'Probe': 8, 'Pylon': 2, 'TwilightCouncil': 1, 'Zealot': 1}
+MINERALS: 145
+GAS: 354
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {'Marine': 6}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 2, 'Nexus': 1, 'Probe': 8, 'Pylon': 2, 'TwilightCouncil': 1, 'Zealot': 1}
+MINERALS: 150
+GAS: 354
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {'Marine': 6}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 2, 'Nexus': 1, 'Probe': 8, 'Pylon': 2, 'TwilightCouncil': 1, 'Zealot': 1}
+MINERALS: 150
+GAS: 354
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {'Marine': 6}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 2, 'Nexus': 1, 'Probe': 8, 'Pylon': 2, 'TwilightCouncil': 1}
+MINERALS: 150
+GAS: 354
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {'Marine': 6}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 2, 'Nexus': 1, 'Probe': 8, 'Pylon': 2, 'TwilightCouncil': 1}
+MINERALS: 150
+GAS: 354
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {'Marine': 6}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 2, 'Nexus': 1, 'Probe': 8, 'Pylon': 2, 'TwilightCouncil': 1}
+MINERALS: 150
+GAS: 354
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {'Marine': 6}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 2, 'Nexus': 1, 'Probe': 7, 'Pylon': 2, 'TwilightCouncil': 1}
+MINERALS: 150
+GAS: 354
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {'Marine': 6}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 2, 'Nexus': 1, 'Probe': 7, 'Pylon': 2, 'TwilightCouncil': 1}
+MINERALS: 150
+GAS: 354
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {'Marine': 6}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 2, 'Nexus': 1, 'Probe': 6, 'Pylon': 2, 'TwilightCouncil': 1}
+MINERALS: 150
+GAS: 354
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {'Marine': 6}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 2, 'Nexus': 1, 'Probe': 5, 'Pylon': 2, 'TwilightCouncil': 1}
+MINERALS: 150
+GAS: 354
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {'Marine': 6}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 2, 'Nexus': 1, 'Probe': 5, 'Pylon': 2, 'TwilightCouncil': 1}
+MINERALS: 150
+GAS: 354
+ACTION_WANTED: TRAIN_PROBE
+ACTION_MADE: TRAIN_PROBE
+
+ENEMY_UNITS: {'Marine': 6}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 2, 'Nexus': 1, 'Probe': 5, 'Pylon': 2, 'TwilightCouncil': 1}
+MINERALS: 105
+GAS: 354
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {'Marine': 6}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 2, 'Nexus': 1, 'Probe': 5, 'Pylon': 2, 'TwilightCouncil': 1}
+MINERALS: 105
+GAS: 354
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {'Marine': 6}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 1, 'Nexus': 1, 'Probe': 4, 'Pylon': 2, 'TwilightCouncil': 1, 'WarpGate': 1}
+MINERALS: 105
+GAS: 354
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {'Marine': 6}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 1, 'Nexus': 1, 'Probe': 4, 'Pylon': 2, 'TwilightCouncil': 1, 'WarpGate': 1}
+MINERALS: 105
+GAS: 354
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {'Marine': 6}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 1, 'Nexus': 1, 'Probe': 3, 'Pylon': 2, 'TwilightCouncil': 1, 'WarpGate': 1}
+MINERALS: 105
+GAS: 354
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {'Marine': 6}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 1, 'Nexus': 1, 'Probe': 1, 'Pylon': 2, 'Stalker': 1, 'TwilightCouncil': 1, 'WarpGate': 1}
+MINERALS: 105
+GAS: 354
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {'Marine': 6}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 1, 'Nexus': 1, 'Pylon': 2, 'Stalker': 1, 'TwilightCouncil': 1, 'WarpGate': 1}
+MINERALS: 105
+GAS: 354
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {'Marine': 6}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 1, 'Nexus': 1, 'Pylon': 2, 'Stalker': 1, 'TwilightCouncil': 1, 'WarpGate': 1}
+MINERALS: 105
+GAS: 354
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {'Marine': 6}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 1, 'Nexus': 1, 'Pylon': 2, 'Stalker': 1, 'TwilightCouncil': 1, 'WarpGate': 1}
+MINERALS: 105
+GAS: 354
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {'Marine': 6}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 1, 'Nexus': 1, 'Pylon': 2, 'Stalker': 1, 'TwilightCouncil': 1, 'WarpGate': 1}
+MINERALS: 105
+GAS: 354
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {'Marine': 5}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 1, 'Nexus': 1, 'Pylon': 2, 'Stalker': 1, 'TwilightCouncil': 1, 'WarpGate': 1}
+MINERALS: 105
+GAS: 354
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {'Marine': 5}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 1, 'Nexus': 1, 'Pylon': 2, 'Stalker': 1, 'TwilightCouncil': 1, 'WarpGate': 1}
+MINERALS: 105
+GAS: 354
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {'Marine': 5}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 1, 'Nexus': 1, 'Pylon': 2, 'Stalker': 1, 'TwilightCouncil': 1, 'WarpGate': 1}
+MINERALS: 105
+GAS: 354
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {'Marine': 4}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 1, 'Nexus': 1, 'Pylon': 2, 'Stalker': 1, 'TwilightCouncil': 1, 'WarpGate': 1}
+MINERALS: 105
+GAS: 354
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {'Marine': 4}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 1, 'Nexus': 1, 'Pylon': 2, 'Stalker': 1, 'TwilightCouncil': 1, 'WarpGate': 1}
+MINERALS: 105
+GAS: 354
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {'Marine': 4}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 1, 'Nexus': 1, 'Pylon': 2, 'Stalker': 1, 'TwilightCouncil': 1, 'WarpGate': 1}
+MINERALS: 105
+GAS: 354
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {'Marine': 4}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 1, 'Nexus': 1, 'Pylon': 2, 'Stalker': 1, 'TwilightCouncil': 1, 'WarpGate': 1}
+MINERALS: 105
+GAS: 354
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {'Marine': 3}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 1, 'Nexus': 1, 'Pylon': 2, 'Stalker': 1, 'TwilightCouncil': 1, 'WarpGate': 1}
+MINERALS: 105
+GAS: 354
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {'Marine': 3}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 1, 'Nexus': 1, 'Pylon': 2, 'Stalker': 1, 'TwilightCouncil': 1, 'WarpGate': 1}
+MINERALS: 105
+GAS: 354
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {'Marine': 3}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 1, 'Nexus': 1, 'Pylon': 2, 'Stalker': 1, 'TwilightCouncil': 1, 'WarpGate': 1}
+MINERALS: 105
+GAS: 354
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {'Marine': 3}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Gateway': 1, 'Nexus': 1, 'Pylon': 2, 'Stalker': 1, 'TwilightCouncil': 1, 'WarpGate': 1}
+MINERALS: 105
+GAS: 354
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {'Marine': 3}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Nexus': 1, 'Pylon': 2, 'Stalker': 1, 'TwilightCouncil': 1, 'WarpGate': 2}
+MINERALS: 105
+GAS: 354
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {'Marine': 3}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Nexus': 1, 'Pylon': 2, 'Stalker': 1, 'TwilightCouncil': 1, 'WarpGate': 2}
+MINERALS: 105
+GAS: 354
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {'Marine': 3}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Nexus': 1, 'Pylon': 2, 'Stalker': 1, 'TwilightCouncil': 1, 'WarpGate': 2}
+MINERALS: 105
+GAS: 354
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {'Marine': 3}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Nexus': 1, 'Pylon': 2, 'Stalker': 1, 'TwilightCouncil': 1, 'WarpGate': 2}
+MINERALS: 105
+GAS: 354
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {'Marine': 3}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Nexus': 1, 'Pylon': 2, 'Stalker': 1, 'TwilightCouncil': 1, 'WarpGate': 2}
+MINERALS: 105
+GAS: 354
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {'Marine': 3}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Nexus': 1, 'Probe': 1, 'Pylon': 2, 'Stalker': 1, 'TwilightCouncil': 1, 'WarpGate': 2}
+MINERALS: 105
+GAS: 354
+ACTION_WANTED: TRAIN_PROBE
+ACTION_MADE: TRAIN_PROBE
+
+ENEMY_UNITS: {'Marine': 3}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Nexus': 1, 'Probe': 1, 'Pylon': 2, 'Stalker': 1, 'TwilightCouncil': 1, 'WarpGate': 2}
+MINERALS: 55
+GAS: 354
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {'Marine': 3}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Nexus': 1, 'Probe': 1, 'Pylon': 2, 'TwilightCouncil': 1, 'WarpGate': 2}
+MINERALS: 55
+GAS: 354
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {'Marine': 3}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Nexus': 1, 'Probe': 1, 'Pylon': 2, 'TwilightCouncil': 1, 'WarpGate': 2}
+MINERALS: 55
+GAS: 354
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {'Marine': 3}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Nexus': 1, 'Probe': 1, 'Pylon': 2, 'TwilightCouncil': 1, 'WarpGate': 2}
+MINERALS: 55
+GAS: 354
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {'Marine': 3}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Nexus': 1, 'Pylon': 2, 'TwilightCouncil': 1, 'WarpGate': 2}
+MINERALS: 55
+GAS: 354
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {'Marine': 3}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Nexus': 1, 'Pylon': 2, 'TwilightCouncil': 1, 'WarpGate': 2}
+MINERALS: 55
+GAS: 354
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {'Marine': 3}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Nexus': 1, 'Pylon': 2, 'TwilightCouncil': 1, 'WarpGate': 2}
+MINERALS: 55
+GAS: 354
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {'Marine': 3}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Nexus': 1, 'Pylon': 2, 'TwilightCouncil': 1, 'WarpGate': 2}
+MINERALS: 55
+GAS: 354
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {'Marine': 3}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Nexus': 1, 'Pylon': 2, 'TwilightCouncil': 1, 'WarpGate': 2}
+MINERALS: 55
+GAS: 354
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {'Marine': 3}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Nexus': 1, 'Pylon': 2, 'TwilightCouncil': 1, 'WarpGate': 2}
+MINERALS: 55
+GAS: 354
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {'Marine': 3}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Nexus': 1, 'Pylon': 2, 'TwilightCouncil': 1, 'WarpGate': 2}
+MINERALS: 55
+GAS: 354
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {'Marine': 3}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Nexus': 1, 'Pylon': 2, 'TwilightCouncil': 1, 'WarpGate': 2}
+MINERALS: 55
+GAS: 354
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {'Marine': 3}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Nexus': 1, 'Pylon': 2, 'TwilightCouncil': 1, 'WarpGate': 2}
+MINERALS: 55
+GAS: 354
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {'Marine': 3}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Nexus': 1, 'Pylon': 2, 'TwilightCouncil': 1, 'WarpGate': 2}
+MINERALS: 55
+GAS: 354
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {'Marine': 3}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Nexus': 1, 'Pylon': 2, 'TwilightCouncil': 1, 'WarpGate': 2}
+MINERALS: 55
+GAS: 354
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {'Marine': 3}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Nexus': 1, 'Pylon': 2, 'TwilightCouncil': 1, 'WarpGate': 2}
+MINERALS: 55
+GAS: 354
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {'Marine': 3}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Nexus': 1, 'Pylon': 2, 'TwilightCouncil': 1, 'WarpGate': 2}
+MINERALS: 55
+GAS: 354
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {'Marine': 3}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Nexus': 1, 'Pylon': 2, 'TwilightCouncil': 1, 'WarpGate': 2}
+MINERALS: 55
+GAS: 354
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {'Marine': 3}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Nexus': 1, 'Probe': 1, 'Pylon': 2, 'TwilightCouncil': 1, 'WarpGate': 2}
+MINERALS: 55
+GAS: 354
+ACTION_WANTED: TRAIN_PROBE
+ACTION_MADE: TRAIN_PROBE
+
+ENEMY_UNITS: {'Marine': 3}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Nexus': 1, 'Probe': 1, 'Pylon': 2, 'TwilightCouncil': 1, 'WarpGate': 2}
+MINERALS: 5
+GAS: 354
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {'Marine': 3}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Nexus': 1, 'Probe': 1, 'Pylon': 2, 'TwilightCouncil': 1, 'WarpGate': 2}
+MINERALS: 5
+GAS: 354
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {'Marine': 3}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Nexus': 1, 'Probe': 1, 'Pylon': 2, 'TwilightCouncil': 1, 'WarpGate': 2}
+MINERALS: 5
+GAS: 354
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {'Marine': 3}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Nexus': 1, 'Probe': 1, 'Pylon': 2, 'TwilightCouncil': 1, 'WarpGate': 2}
+MINERALS: 5
+GAS: 354
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {'Marine': 3}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Nexus': 1, 'Pylon': 2, 'TwilightCouncil': 1, 'WarpGate': 2}
+MINERALS: 5
+GAS: 354
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {'Marine': 3}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Nexus': 1, 'Pylon': 2, 'TwilightCouncil': 1, 'WarpGate': 2}
+MINERALS: 5
+GAS: 354
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {'Marine': 3}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Nexus': 1, 'Pylon': 2, 'TwilightCouncil': 1, 'WarpGate': 2}
+MINERALS: 5
+GAS: 354
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {'Marine': 3}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Nexus': 1, 'Pylon': 2, 'TwilightCouncil': 1, 'WarpGate': 2}
+MINERALS: 5
+GAS: 354
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {'Marine': 3}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Nexus': 1, 'Pylon': 2, 'TwilightCouncil': 1, 'WarpGate': 2}
+MINERALS: 5
+GAS: 354
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {'Marine': 3}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Nexus': 1, 'Pylon': 2, 'TwilightCouncil': 1, 'WarpGate': 2}
+MINERALS: 5
+GAS: 354
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {'Marine': 3}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Nexus': 1, 'Pylon': 2, 'TwilightCouncil': 1, 'WarpGate': 2}
+MINERALS: 5
+GAS: 354
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {'Marine': 3}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Nexus': 1, 'Pylon': 2, 'TwilightCouncil': 1, 'WarpGate': 2}
+MINERALS: 5
+GAS: 354
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {'Marine': 3}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Nexus': 1, 'Pylon': 2, 'TwilightCouncil': 1, 'WarpGate': 2}
+MINERALS: 5
+GAS: 354
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {'Marine': 3}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Nexus': 1, 'Pylon': 2, 'TwilightCouncil': 1, 'WarpGate': 2}
+MINERALS: 5
+GAS: 354
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {'Marine': 3}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Nexus': 1, 'Pylon': 2, 'TwilightCouncil': 1, 'WarpGate': 2}
+MINERALS: 5
+GAS: 354
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {'Marine': 3}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Nexus': 1, 'Pylon': 2, 'TwilightCouncil': 1, 'WarpGate': 2}
+MINERALS: 5
+GAS: 354
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {'Marine': 3}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Nexus': 1, 'Pylon': 2, 'TwilightCouncil': 1, 'WarpGate': 2}
+MINERALS: 5
+GAS: 354
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {'Marine': 3}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Nexus': 1, 'Pylon': 2, 'TwilightCouncil': 1, 'WarpGate': 2}
+MINERALS: 5
+GAS: 354
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {'Marine': 3}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Nexus': 1, 'Probe': 1, 'Pylon': 2, 'TwilightCouncil': 1, 'WarpGate': 2}
+MINERALS: 5
+GAS: 354
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {'Marine': 3}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Nexus': 1, 'Probe': 1, 'Pylon': 2, 'TwilightCouncil': 1, 'WarpGate': 2}
+MINERALS: 5
+GAS: 354
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {'Marine': 3}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Nexus': 1, 'Probe': 1, 'Pylon': 2, 'TwilightCouncil': 1, 'WarpGate': 2}
+MINERALS: 5
+GAS: 354
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {'Marine': 3}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Nexus': 1, 'Probe': 1, 'Pylon': 2, 'TwilightCouncil': 1, 'WarpGate': 2}
+MINERALS: 5
+GAS: 354
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {'Marine': 3}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Nexus': 1, 'Probe': 1, 'Pylon': 2, 'TwilightCouncil': 1, 'WarpGate': 2}
+MINERALS: 5
+GAS: 354
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {'Marine': 3}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Nexus': 1, 'Pylon': 2, 'TwilightCouncil': 1, 'WarpGate': 2}
+MINERALS: 5
+GAS: 354
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {'Marine': 3}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Nexus': 1, 'Pylon': 2, 'TwilightCouncil': 1, 'WarpGate': 2}
+MINERALS: 5
+GAS: 354
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {'Marine': 3}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Nexus': 1, 'Pylon': 2, 'TwilightCouncil': 1, 'WarpGate': 2}
+MINERALS: 5
+GAS: 354
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {'Marine': 3}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Nexus': 1, 'Pylon': 2, 'TwilightCouncil': 1, 'WarpGate': 2}
+MINERALS: 5
+GAS: 354
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {'Marine': 3}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Nexus': 1, 'Pylon': 2, 'TwilightCouncil': 1, 'WarpGate': 2}
+MINERALS: 5
+GAS: 354
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {'Marine': 3}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Nexus': 1, 'Pylon': 2, 'TwilightCouncil': 1, 'WarpGate': 2}
+MINERALS: 5
+GAS: 354
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {'Marine': 3}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Nexus': 1, 'Pylon': 2, 'TwilightCouncil': 1, 'WarpGate': 2}
+MINERALS: 5
+GAS: 354
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {'Marine': 3}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Nexus': 1, 'Pylon': 2, 'TwilightCouncil': 1, 'WarpGate': 2}
+MINERALS: 5
+GAS: 354
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {'Marine': 3}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Nexus': 1, 'Pylon': 2, 'TwilightCouncil': 1, 'WarpGate': 2}
+MINERALS: 5
+GAS: 354
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {'Marine': 3}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Nexus': 1, 'Pylon': 2, 'TwilightCouncil': 1, 'WarpGate': 2}
+MINERALS: 5
+GAS: 354
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {'Marine': 3}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Nexus': 1, 'Pylon': 2, 'TwilightCouncil': 1, 'WarpGate': 2}
+MINERALS: 5
+GAS: 354
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {'Marine': 3}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Nexus': 1, 'Pylon': 2, 'TwilightCouncil': 1, 'WarpGate': 2}
+MINERALS: 5
+GAS: 354
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {'Marine': 3}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Nexus': 1, 'Pylon': 2, 'TwilightCouncil': 1, 'WarpGate': 2}
+MINERALS: 5
+GAS: 354
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {'Marine': 3}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Nexus': 1, 'Pylon': 2, 'TwilightCouncil': 1, 'WarpGate': 2}
+MINERALS: 5
+GAS: 354
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {'Marine': 3}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Nexus': 1, 'Pylon': 2, 'TwilightCouncil': 1, 'WarpGate': 2}
+MINERALS: 5
+GAS: 354
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {'Marine': 3}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Nexus': 1, 'Pylon': 2, 'TwilightCouncil': 1, 'WarpGate': 2}
+MINERALS: 5
+GAS: 354
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {'Marine': 3}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Nexus': 1, 'Pylon': 2, 'TwilightCouncil': 1, 'WarpGate': 2}
+MINERALS: 5
+GAS: 354
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {'Marine': 3}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Nexus': 1, 'Pylon': 2, 'TwilightCouncil': 1, 'WarpGate': 2}
+MINERALS: 5
+GAS: 354
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {'Marine': 3}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Nexus': 1, 'Pylon': 2, 'TwilightCouncil': 1, 'WarpGate': 2}
+MINERALS: 5
+GAS: 354
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {'Marine': 3}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Nexus': 1, 'Pylon': 2, 'TwilightCouncil': 1, 'WarpGate': 2}
+MINERALS: 5
+GAS: 354
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {'Marine': 3}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Nexus': 1, 'Pylon': 2, 'TwilightCouncil': 1, 'WarpGate': 2}
+MINERALS: 5
+GAS: 354
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {'Marine': 3}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Nexus': 1, 'Pylon': 2, 'TwilightCouncil': 1, 'WarpGate': 2}
+MINERALS: 5
+GAS: 354
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {'Marine': 3}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Nexus': 1, 'Pylon': 2, 'TwilightCouncil': 1, 'WarpGate': 2}
+MINERALS: 5
+GAS: 354
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {'Marine': 3}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Nexus': 1, 'Pylon': 2, 'TwilightCouncil': 1, 'WarpGate': 2}
+MINERALS: 5
+GAS: 354
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {'Marine': 3}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Nexus': 1, 'Pylon': 2, 'TwilightCouncil': 1, 'WarpGate': 2}
+MINERALS: 5
+GAS: 354
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {'Marine': 3}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Nexus': 1, 'Pylon': 2, 'TwilightCouncil': 1, 'WarpGate': 2}
+MINERALS: 5
+GAS: 354
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {'Marine': 3}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Nexus': 1, 'Pylon': 2, 'TwilightCouncil': 1, 'WarpGate': 2}
+MINERALS: 5
+GAS: 354
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {'Marine': 3}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Nexus': 1, 'Pylon': 2, 'TwilightCouncil': 1, 'WarpGate': 2}
+MINERALS: 5
+GAS: 354
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {'Marine': 3}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Nexus': 1, 'Pylon': 2, 'TwilightCouncil': 1, 'WarpGate': 2}
+MINERALS: 5
+GAS: 354
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {'Marine': 3}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Nexus': 1, 'Pylon': 2, 'TwilightCouncil': 1, 'WarpGate': 2}
+MINERALS: 5
+GAS: 354
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {'Marine': 3}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Nexus': 1, 'Pylon': 2, 'TwilightCouncil': 1, 'WarpGate': 2}
+MINERALS: 5
+GAS: 354
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {'Marine': 3}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Nexus': 1, 'Pylon': 2, 'TwilightCouncil': 1, 'WarpGate': 2}
+MINERALS: 5
+GAS: 354
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {'Marine': 3}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Nexus': 1, 'Pylon': 2, 'TwilightCouncil': 1, 'WarpGate': 2}
+MINERALS: 5
+GAS: 354
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {'Marine': 3}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Nexus': 1, 'Pylon': 2, 'TwilightCouncil': 1, 'WarpGate': 2}
+MINERALS: 5
+GAS: 354
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {'Marine': 3}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Nexus': 1, 'Pylon': 2, 'TwilightCouncil': 1, 'WarpGate': 2}
+MINERALS: 5
+GAS: 354
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {'Marine': 3}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Nexus': 1, 'Pylon': 2, 'TwilightCouncil': 1, 'WarpGate': 2}
+MINERALS: 5
+GAS: 354
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {'Marine': 3}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Nexus': 1, 'Pylon': 2, 'TwilightCouncil': 1, 'WarpGate': 2}
+MINERALS: 5
+GAS: 354
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {'Marine': 3}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Nexus': 1, 'Pylon': 2, 'TwilightCouncil': 1, 'WarpGate': 2}
+MINERALS: 5
+GAS: 354
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {'Marine': 3}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Nexus': 1, 'Pylon': 2, 'TwilightCouncil': 1, 'WarpGate': 2}
+MINERALS: 5
+GAS: 354
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {'Marine': 3}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Nexus': 1, 'Pylon': 2, 'TwilightCouncil': 1, 'WarpGate': 2}
+MINERALS: 5
+GAS: 354
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {'Marine': 3}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Nexus': 1, 'Pylon': 2, 'TwilightCouncil': 1, 'WarpGate': 2}
+MINERALS: 5
+GAS: 354
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {'Marine': 3}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Nexus': 1, 'Pylon': 2, 'TwilightCouncil': 1, 'WarpGate': 2}
+MINERALS: 5
+GAS: 354
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {'Marine': 3}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Nexus': 1, 'Pylon': 2, 'TwilightCouncil': 1, 'WarpGate': 2}
+MINERALS: 5
+GAS: 354
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {'Marine': 3}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Nexus': 1, 'Pylon': 2, 'TwilightCouncil': 1, 'WarpGate': 2}
+MINERALS: 5
+GAS: 354
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {'Marine': 3}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Nexus': 1, 'Pylon': 2, 'TwilightCouncil': 1, 'WarpGate': 2}
+MINERALS: 5
+GAS: 354
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {'Marine': 3}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Nexus': 1, 'Pylon': 2, 'TwilightCouncil': 1, 'WarpGate': 2}
+MINERALS: 5
+GAS: 354
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {'Marine': 3}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Nexus': 1, 'Pylon': 2, 'TwilightCouncil': 1, 'WarpGate': 2}
+MINERALS: 5
+GAS: 354
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {'Marine': 3}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Nexus': 1, 'Pylon': 2, 'TwilightCouncil': 1, 'WarpGate': 2}
+MINERALS: 5
+GAS: 354
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {'Marine': 3}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Nexus': 1, 'Pylon': 2, 'TwilightCouncil': 1, 'WarpGate': 2}
+MINERALS: 5
+GAS: 354
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {'Marine': 3}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Nexus': 1, 'Pylon': 2, 'TwilightCouncil': 1, 'WarpGate': 2}
+MINERALS: 5
+GAS: 354
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {'Marine': 3}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Nexus': 1, 'Pylon': 2, 'TwilightCouncil': 1, 'WarpGate': 2}
+MINERALS: 5
+GAS: 354
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {'Marine': 3}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Nexus': 1, 'Pylon': 2, 'TwilightCouncil': 1, 'WarpGate': 2}
+MINERALS: 5
+GAS: 354
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {'Marine': 3}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Nexus': 1, 'Pylon': 2, 'TwilightCouncil': 1, 'WarpGate': 2}
+MINERALS: 5
+GAS: 354
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {'Marine': 3}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Nexus': 1, 'Pylon': 2, 'TwilightCouncil': 1, 'WarpGate': 2}
+MINERALS: 5
+GAS: 354
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {'Marine': 3}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Nexus': 1, 'Pylon': 2, 'TwilightCouncil': 1, 'WarpGate': 2}
+MINERALS: 5
+GAS: 354
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {'Marine': 3}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Nexus': 1, 'Pylon': 2, 'TwilightCouncil': 1, 'WarpGate': 2}
+MINERALS: 5
+GAS: 354
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {'Marine': 3}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Nexus': 1, 'Pylon': 2, 'TwilightCouncil': 1, 'WarpGate': 2}
+MINERALS: 5
+GAS: 354
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {'Marine': 3}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Nexus': 1, 'Pylon': 2, 'TwilightCouncil': 1, 'WarpGate': 2}
+MINERALS: 5
+GAS: 354
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {'Marine': 3}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Nexus': 1, 'Pylon': 2, 'TwilightCouncil': 1, 'WarpGate': 2}
+MINERALS: 5
+GAS: 354
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {'Marine': 3}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Nexus': 1, 'Pylon': 2, 'TwilightCouncil': 1, 'WarpGate': 2}
+MINERALS: 5
+GAS: 354
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {'Marine': 3}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Nexus': 1, 'Pylon': 2, 'TwilightCouncil': 1, 'WarpGate': 2}
+MINERALS: 5
+GAS: 354
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {'Marine': 3}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Nexus': 1, 'Pylon': 2, 'TwilightCouncil': 1, 'WarpGate': 2}
+MINERALS: 5
+GAS: 354
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {'Marine': 3}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Nexus': 1, 'Pylon': 2, 'TwilightCouncil': 1, 'WarpGate': 2}
+MINERALS: 5
+GAS: 354
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {'Marine': 3}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Nexus': 1, 'Pylon': 2, 'TwilightCouncil': 1, 'WarpGate': 2}
+MINERALS: 5
+GAS: 354
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {'Marine': 3}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Nexus': 1, 'Pylon': 2, 'TwilightCouncil': 1, 'WarpGate': 2}
+MINERALS: 5
+GAS: 354
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {'Marine': 3}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Nexus': 1, 'Pylon': 2, 'TwilightCouncil': 1, 'WarpGate': 2}
+MINERALS: 5
+GAS: 354
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {'Marine': 3}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Nexus': 1, 'Pylon': 2, 'TwilightCouncil': 1, 'WarpGate': 2}
+MINERALS: 5
+GAS: 354
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {'Marine': 3}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Nexus': 1, 'Pylon': 2, 'TwilightCouncil': 1, 'WarpGate': 2}
+MINERALS: 5
+GAS: 354
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {'Marine': 3}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Nexus': 1, 'Pylon': 2, 'TwilightCouncil': 1, 'WarpGate': 2}
+MINERALS: 5
+GAS: 354
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {'Marine': 3}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Nexus': 1, 'Pylon': 2, 'TwilightCouncil': 1, 'WarpGate': 2}
+MINERALS: 5
+GAS: 354
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {'Marine': 3}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Nexus': 1, 'Pylon': 2, 'TwilightCouncil': 1, 'WarpGate': 2}
+MINERALS: 5
+GAS: 354
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {'Marine': 3}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Nexus': 1, 'Pylon': 2, 'TwilightCouncil': 1, 'WarpGate': 2}
+MINERALS: 5
+GAS: 354
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {'Marine': 3}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Nexus': 1, 'Pylon': 2, 'TwilightCouncil': 1, 'WarpGate': 2}
+MINERALS: 5
+GAS: 354
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {'Marine': 3}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Nexus': 1, 'Pylon': 2, 'TwilightCouncil': 1, 'WarpGate': 2}
+MINERALS: 5
+GAS: 354
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {'Marine': 3}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Nexus': 1, 'Pylon': 2, 'TwilightCouncil': 1, 'WarpGate': 2}
+MINERALS: 5
+GAS: 354
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {'Marine': 3}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Nexus': 1, 'Pylon': 2, 'TwilightCouncil': 1, 'WarpGate': 2}
+MINERALS: 5
+GAS: 354
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {'Marine': 3}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Nexus': 1, 'Pylon': 2, 'TwilightCouncil': 1, 'WarpGate': 2}
+MINERALS: 5
+GAS: 354
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {'Marine': 3}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Nexus': 1, 'Pylon': 2, 'TwilightCouncil': 1, 'WarpGate': 2}
+MINERALS: 5
+GAS: 354
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {'Marine': 3}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Nexus': 1, 'Pylon': 2, 'TwilightCouncil': 1, 'WarpGate': 2}
+MINERALS: 5
+GAS: 354
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {'Marine': 3}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Nexus': 1, 'Pylon': 2, 'TwilightCouncil': 1, 'WarpGate': 2}
+MINERALS: 5
+GAS: 354
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {'Marine': 3}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Nexus': 1, 'Pylon': 2, 'TwilightCouncil': 1, 'WarpGate': 2}
+MINERALS: 5
+GAS: 354
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {'Marine': 3}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Nexus': 1, 'Pylon': 2, 'TwilightCouncil': 1, 'WarpGate': 2}
+MINERALS: 5
+GAS: 354
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {'Marine': 3}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Nexus': 1, 'Pylon': 2, 'TwilightCouncil': 1, 'WarpGate': 2}
+MINERALS: 5
+GAS: 354
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {'Marine': 3}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Nexus': 1, 'Pylon': 2, 'TwilightCouncil': 1, 'WarpGate': 2}
+MINERALS: 5
+GAS: 354
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {'Marine': 3}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Nexus': 1, 'Pylon': 2, 'TwilightCouncil': 1, 'WarpGate': 2}
+MINERALS: 5
+GAS: 354
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {'Marine': 3}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Nexus': 1, 'Pylon': 2, 'TwilightCouncil': 1, 'WarpGate': 2}
+MINERALS: 5
+GAS: 354
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {'Marine': 3}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Nexus': 1, 'Pylon': 2, 'TwilightCouncil': 1, 'WarpGate': 2}
+MINERALS: 5
+GAS: 354
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {'Marine': 3}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Nexus': 1, 'Pylon': 2, 'TwilightCouncil': 1, 'WarpGate': 2}
+MINERALS: 5
+GAS: 354
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {'Marine': 3}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Nexus': 1, 'Pylon': 2, 'TwilightCouncil': 1, 'WarpGate': 2}
+MINERALS: 5
+GAS: 354
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {'Marine': 3}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Nexus': 1, 'Pylon': 2, 'TwilightCouncil': 1, 'WarpGate': 2}
+MINERALS: 5
+GAS: 354
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {'Marine': 3}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Nexus': 1, 'Pylon': 2, 'TwilightCouncil': 1, 'WarpGate': 2}
+MINERALS: 5
+GAS: 354
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {'Marine': 3}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Nexus': 1, 'Pylon': 2, 'TwilightCouncil': 1, 'WarpGate': 2}
+MINERALS: 5
+GAS: 354
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {'Marine': 3}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Nexus': 1, 'Pylon': 2, 'TwilightCouncil': 1, 'WarpGate': 2}
+MINERALS: 5
+GAS: 354
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {'Marine': 3}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Nexus': 1, 'Pylon': 2, 'TwilightCouncil': 1, 'WarpGate': 2}
+MINERALS: 5
+GAS: 354
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {'Marine': 3}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Nexus': 1, 'Pylon': 2, 'TwilightCouncil': 1, 'WarpGate': 2}
+MINERALS: 5
+GAS: 354
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {'Marine': 3}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Nexus': 1, 'Pylon': 2, 'TwilightCouncil': 1, 'WarpGate': 2}
+MINERALS: 5
+GAS: 354
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {'Marine': 3}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Nexus': 1, 'Pylon': 2, 'TwilightCouncil': 1, 'WarpGate': 2}
+MINERALS: 5
+GAS: 354
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {'Marine': 3}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Nexus': 1, 'Pylon': 2, 'TwilightCouncil': 1, 'WarpGate': 2}
+MINERALS: 5
+GAS: 354
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {'Marine': 3}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Nexus': 1, 'Pylon': 2, 'TwilightCouncil': 1, 'WarpGate': 2}
+MINERALS: 5
+GAS: 354
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {'Marine': 3}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Nexus': 1, 'Pylon': 2, 'TwilightCouncil': 1, 'WarpGate': 2}
+MINERALS: 5
+GAS: 354
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {'Marine': 3}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Nexus': 1, 'Pylon': 2, 'TwilightCouncil': 1, 'WarpGate': 2}
+MINERALS: 5
+GAS: 354
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {'Marine': 3}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Nexus': 1, 'Pylon': 2, 'TwilightCouncil': 1, 'WarpGate': 2}
+MINERALS: 5
+GAS: 354
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {'Marine': 3}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Nexus': 1, 'Pylon': 2, 'TwilightCouncil': 1, 'WarpGate': 2}
+MINERALS: 5
+GAS: 354
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {'Marine': 3}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Nexus': 1, 'Pylon': 2, 'TwilightCouncil': 1, 'WarpGate': 2}
+MINERALS: 5
+GAS: 354
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {'Marine': 3}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Nexus': 1, 'Pylon': 2, 'TwilightCouncil': 1, 'WarpGate': 2}
+MINERALS: 5
+GAS: 354
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {'Marine': 3}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Nexus': 1, 'Pylon': 2, 'TwilightCouncil': 1, 'WarpGate': 2}
+MINERALS: 5
+GAS: 354
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {'Marine': 3}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Nexus': 1, 'Pylon': 2, 'TwilightCouncil': 1, 'WarpGate': 2}
+MINERALS: 5
+GAS: 354
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {'Marine': 3}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Nexus': 1, 'Pylon': 2, 'TwilightCouncil': 1, 'WarpGate': 2}
+MINERALS: 5
+GAS: 354
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {'Marine': 3}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Nexus': 1, 'Pylon': 2, 'TwilightCouncil': 1, 'WarpGate': 2}
+MINERALS: 5
+GAS: 354
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {'Marine': 3}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Nexus': 1, 'Pylon': 2, 'TwilightCouncil': 1, 'WarpGate': 2}
+MINERALS: 5
+GAS: 354
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {'Marine': 3}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Nexus': 1, 'Pylon': 2, 'TwilightCouncil': 1, 'WarpGate': 2}
+MINERALS: 5
+GAS: 354
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {'Marine': 3}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Nexus': 1, 'Pylon': 2, 'TwilightCouncil': 1, 'WarpGate': 2}
+MINERALS: 5
+GAS: 354
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {'Marine': 3}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Nexus': 1, 'Pylon': 2, 'TwilightCouncil': 1, 'WarpGate': 2}
+MINERALS: 5
+GAS: 354
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {'Marine': 3}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Nexus': 1, 'Pylon': 2, 'TwilightCouncil': 1, 'WarpGate': 2}
+MINERALS: 5
+GAS: 354
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {'Marine': 3}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Nexus': 1, 'Pylon': 2, 'TwilightCouncil': 1, 'WarpGate': 2}
+MINERALS: 5
+GAS: 354
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {'Marine': 3}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Nexus': 1, 'Pylon': 2, 'TwilightCouncil': 1, 'WarpGate': 2}
+MINERALS: 5
+GAS: 354
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {'Marine': 3}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Nexus': 1, 'Pylon': 2, 'TwilightCouncil': 1, 'WarpGate': 2}
+MINERALS: 5
+GAS: 354
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {'Marine': 3}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Nexus': 1, 'Pylon': 2, 'TwilightCouncil': 1, 'WarpGate': 2}
+MINERALS: 5
+GAS: 354
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {'Marine': 3}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Nexus': 1, 'Pylon': 2, 'TwilightCouncil': 1, 'WarpGate': 2}
+MINERALS: 5
+GAS: 354
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {'Marine': 3}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Nexus': 1, 'Pylon': 2, 'TwilightCouncil': 1, 'WarpGate': 2}
+MINERALS: 5
+GAS: 354
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {'Marine': 3}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Nexus': 1, 'Pylon': 2, 'TwilightCouncil': 1, 'WarpGate': 2}
+MINERALS: 5
+GAS: 354
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {'Marine': 3}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Nexus': 1, 'Pylon': 2, 'TwilightCouncil': 1, 'WarpGate': 2}
+MINERALS: 5
+GAS: 354
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {'Marine': 3}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Nexus': 1, 'Pylon': 2, 'TwilightCouncil': 1, 'WarpGate': 2}
+MINERALS: 5
+GAS: 354
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {'Marine': 3}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Nexus': 1, 'Pylon': 2, 'TwilightCouncil': 1, 'WarpGate': 2}
+MINERALS: 5
+GAS: 354
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {'Marine': 3}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Nexus': 1, 'Pylon': 2, 'TwilightCouncil': 1, 'WarpGate': 2}
+MINERALS: 5
+GAS: 354
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {'Marine': 3}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Nexus': 1, 'Pylon': 2, 'TwilightCouncil': 1, 'WarpGate': 2}
+MINERALS: 5
+GAS: 354
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {'Marine': 3}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Nexus': 1, 'Pylon': 2, 'TwilightCouncil': 1, 'WarpGate': 2}
+MINERALS: 5
+GAS: 354
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {'Marine': 3}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Nexus': 1, 'Pylon': 2, 'TwilightCouncil': 1, 'WarpGate': 2}
+MINERALS: 5
+GAS: 354
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {'Marine': 3}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Nexus': 1, 'Pylon': 2, 'TwilightCouncil': 1, 'WarpGate': 2}
+MINERALS: 5
+GAS: 354
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {'Marine': 3}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Nexus': 1, 'Pylon': 2, 'TwilightCouncil': 1, 'WarpGate': 2}
+MINERALS: 5
+GAS: 354
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {'Marine': 3}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Nexus': 1, 'Pylon': 2, 'TwilightCouncil': 1, 'WarpGate': 2}
+MINERALS: 5
+GAS: 354
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {'Marine': 3}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Nexus': 1, 'Pylon': 2, 'TwilightCouncil': 1, 'WarpGate': 2}
+MINERALS: 5
+GAS: 354
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {'Marine': 3}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Nexus': 1, 'Pylon': 2, 'TwilightCouncil': 1, 'WarpGate': 2}
+MINERALS: 5
+GAS: 354
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {'Marine': 3}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Nexus': 1, 'Pylon': 2, 'TwilightCouncil': 1, 'WarpGate': 2}
+MINERALS: 5
+GAS: 354
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {'Marine': 3}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Nexus': 1, 'Pylon': 2, 'TwilightCouncil': 1, 'WarpGate': 2}
+MINERALS: 5
+GAS: 354
+ACTION_WANTED: TRAIN_PROBE
+
+ENEMY_UNITS: {'Marine': 3}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Pylon': 2, 'TwilightCouncil': 1, 'WarpGate': 2}
+MINERALS: 5
+GAS: 354
+
+ENEMY_UNITS: {'Marine': 3}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Pylon': 2, 'TwilightCouncil': 1, 'WarpGate': 2}
+MINERALS: 5
+GAS: 354
+
+ENEMY_UNITS: {'Marine': 3}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Pylon': 2, 'TwilightCouncil': 1, 'WarpGate': 2}
+MINERALS: 5
+GAS: 354
+
+ENEMY_UNITS: {'Marine': 3}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Pylon': 2, 'TwilightCouncil': 1, 'WarpGate': 2}
+MINERALS: 5
+GAS: 354
+
+ENEMY_UNITS: {'Marine': 3}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Pylon': 2, 'TwilightCouncil': 1, 'WarpGate': 2}
+MINERALS: 5
+GAS: 354
+
+ENEMY_UNITS: {'Marine': 3}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Pylon': 2, 'TwilightCouncil': 1, 'WarpGate': 2}
+MINERALS: 5
+GAS: 354
+
+ENEMY_UNITS: {'Marine': 3}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Pylon': 2, 'TwilightCouncil': 1, 'WarpGate': 2}
+MINERALS: 5
+GAS: 354
+
+ENEMY_UNITS: {'Marine': 3}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Pylon': 2, 'TwilightCouncil': 1, 'WarpGate': 2}
+MINERALS: 5
+GAS: 354
+
+ENEMY_UNITS: {'Marine': 3}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Pylon': 2, 'TwilightCouncil': 1, 'WarpGate': 2}
+MINERALS: 5
+GAS: 354
+
+ENEMY_UNITS: {'Marine': 3}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Pylon': 2, 'TwilightCouncil': 1, 'WarpGate': 2}
+MINERALS: 5
+GAS: 354
+
+ENEMY_UNITS: {'Marine': 3}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Pylon': 2, 'TwilightCouncil': 1, 'WarpGate': 2}
+MINERALS: 5
+GAS: 354
+
+ENEMY_UNITS: {'Marine': 3}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Pylon': 2, 'TwilightCouncil': 1, 'WarpGate': 2}
+MINERALS: 5
+GAS: 354
+
+ENEMY_UNITS: {'Marine': 3}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Pylon': 2, 'TwilightCouncil': 1, 'WarpGate': 2}
+MINERALS: 5
+GAS: 354
+
+ENEMY_UNITS: {'Marine': 3}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Pylon': 2, 'TwilightCouncil': 1, 'WarpGate': 2}
+MINERALS: 5
+GAS: 354
+
+ENEMY_UNITS: {'Marine': 3}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Pylon': 2, 'TwilightCouncil': 1, 'WarpGate': 2}
+MINERALS: 5
+GAS: 354
+
+ENEMY_UNITS: {'Marine': 3}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Pylon': 2, 'TwilightCouncil': 1, 'WarpGate': 2}
+MINERALS: 5
+GAS: 354
+
+ENEMY_UNITS: {'Marine': 3}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Pylon': 2, 'TwilightCouncil': 1, 'WarpGate': 2}
+MINERALS: 5
+GAS: 354
+
+ENEMY_UNITS: {'Marine': 3}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Pylon': 2, 'TwilightCouncil': 1, 'WarpGate': 2}
+MINERALS: 5
+GAS: 354
+
+ENEMY_UNITS: {'Marine': 3}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Pylon': 2, 'TwilightCouncil': 1, 'WarpGate': 2}
+MINERALS: 5
+GAS: 354
+
+ENEMY_UNITS: {'Marine': 3}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Pylon': 2, 'TwilightCouncil': 1, 'WarpGate': 2}
+MINERALS: 5
+GAS: 354
+
+ENEMY_UNITS: {'Marine': 3}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Pylon': 2, 'TwilightCouncil': 1, 'WarpGate': 2}
+MINERALS: 5
+GAS: 354
+
+ENEMY_UNITS: {'Marine': 3}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Pylon': 2, 'TwilightCouncil': 1, 'WarpGate': 2}
+MINERALS: 5
+GAS: 354
+
+ENEMY_UNITS: {'Marine': 3}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Pylon': 2, 'TwilightCouncil': 1, 'WarpGate': 2}
+MINERALS: 5
+GAS: 354
+
+ENEMY_UNITS: {'Marine': 3}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Pylon': 2, 'TwilightCouncil': 1, 'WarpGate': 2}
+MINERALS: 5
+GAS: 354
+
+ENEMY_UNITS: {'Marine': 3}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Pylon': 2, 'TwilightCouncil': 1, 'WarpGate': 2}
+MINERALS: 5
+GAS: 354
+
+ENEMY_UNITS: {'Marine': 3}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Pylon': 2, 'TwilightCouncil': 1, 'WarpGate': 2}
+MINERALS: 5
+GAS: 354
+
+ENEMY_UNITS: {'Marine': 3}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Pylon': 2, 'TwilightCouncil': 1, 'WarpGate': 2}
+MINERALS: 5
+GAS: 354
+
+ENEMY_UNITS: {'Marine': 9}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Pylon': 2, 'TwilightCouncil': 1, 'WarpGate': 2}
+MINERALS: 5
+GAS: 354
+
+ENEMY_UNITS: {'Marine': 9}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Pylon': 2, 'TwilightCouncil': 1, 'WarpGate': 2}
+MINERALS: 5
+GAS: 354
+
+ENEMY_UNITS: {'Marine': 9}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Pylon': 2, 'TwilightCouncil': 1, 'WarpGate': 2}
+MINERALS: 5
+GAS: 354
+
+ENEMY_UNITS: {'Marine': 10}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Pylon': 2, 'TwilightCouncil': 1, 'WarpGate': 2}
+MINERALS: 5
+GAS: 354
+
+ENEMY_UNITS: {'Marine': 10}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Pylon': 2, 'TwilightCouncil': 1, 'WarpGate': 2}
+MINERALS: 5
+GAS: 354
+
+ENEMY_UNITS: {'Marine': 10}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Pylon': 2, 'TwilightCouncil': 1, 'WarpGate': 2}
+MINERALS: 5
+GAS: 354
+
+ENEMY_UNITS: {'Marine': 10}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Pylon': 2, 'TwilightCouncil': 1, 'WarpGate': 2}
+MINERALS: 5
+GAS: 354
+
+ENEMY_UNITS: {'Marine': 10}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Pylon': 2, 'TwilightCouncil': 1, 'WarpGate': 2}
+MINERALS: 5
+GAS: 354
+
+ENEMY_UNITS: {'Marine': 10}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Pylon': 2, 'TwilightCouncil': 1, 'WarpGate': 2}
+MINERALS: 5
+GAS: 354
+
+ENEMY_UNITS: {'Marine': 10}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Pylon': 2, 'TwilightCouncil': 1, 'WarpGate': 2}
+MINERALS: 5
+GAS: 354
+
+ENEMY_UNITS: {'Marine': 10}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Pylon': 2, 'TwilightCouncil': 1, 'WarpGate': 2}
+MINERALS: 5
+GAS: 354
+
+ENEMY_UNITS: {'Marine': 10}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Pylon': 2, 'TwilightCouncil': 1, 'WarpGate': 2}
+MINERALS: 5
+GAS: 354
+
+ENEMY_UNITS: {'Marine': 10}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Pylon': 2, 'TwilightCouncil': 1, 'WarpGate': 2}
+MINERALS: 5
+GAS: 354
+
+ENEMY_UNITS: {'Marine': 10}
+MY_UNITS: {'Assimilator': 2, 'CyberneticsCore': 1, 'Pylon': 2, 'TwilightCouncil': 1, 'WarpGate': 2}
+MINERALS: 5
+GAS: 354
+
+ENEMY_UNITS: {'Marine': 10}
+MY_UNITS: {'Assimilator': 1, 'CyberneticsCore': 1, 'Pylon': 2, 'TwilightCouncil': 1, 'WarpGate': 2}
+MINERALS: 5
+GAS: 354
+
+ENEMY_UNITS: {'Marine': 10}
+MY_UNITS: {'Assimilator': 1, 'CyberneticsCore': 1, 'Pylon': 2, 'TwilightCouncil': 1, 'WarpGate': 2}
+MINERALS: 5
+GAS: 354
+
+ENEMY_UNITS: {'Marine': 10}
+MY_UNITS: {'Assimilator': 1, 'CyberneticsCore': 1, 'Pylon': 2, 'TwilightCouncil': 1, 'WarpGate': 2}
+MINERALS: 5
+GAS: 354
+
+ENEMY_UNITS: {'Marine': 10}
+MY_UNITS: {'Assimilator': 1, 'CyberneticsCore': 1, 'Pylon': 2, 'TwilightCouncil': 1, 'WarpGate': 2}
+MINERALS: 5
+GAS: 354
+
+ENEMY_UNITS: {'Marine': 10}
+MY_UNITS: {'Assimilator': 1, 'CyberneticsCore': 1, 'Pylon': 2, 'TwilightCouncil': 1, 'WarpGate': 2}
+MINERALS: 5
+GAS: 354
+
+ENEMY_UNITS: {'Marine': 10}
+MY_UNITS: {'Assimilator': 1, 'CyberneticsCore': 1, 'Pylon': 2, 'TwilightCouncil': 1, 'WarpGate': 2}
+MINERALS: 5
+GAS: 354
+
+ENEMY_UNITS: {'Marine': 10}
+MY_UNITS: {'Assimilator': 1, 'CyberneticsCore': 1, 'Pylon': 2, 'TwilightCouncil': 1, 'WarpGate': 2}
+MINERALS: 5
+GAS: 354
+
+ENEMY_UNITS: {'Marine': 10}
+MY_UNITS: {'Assimilator': 1, 'CyberneticsCore': 1, 'Pylon': 2, 'TwilightCouncil': 1, 'WarpGate': 2}
+MINERALS: 5
+GAS: 354
+
+ENEMY_UNITS: {'Marine': 10}
+MY_UNITS: {'Assimilator': 1, 'CyberneticsCore': 1, 'Pylon': 2, 'TwilightCouncil': 1, 'WarpGate': 2}
+MINERALS: 5
+GAS: 354
+
+ENEMY_UNITS: {'Marine': 10}
+MY_UNITS: {'Assimilator': 1, 'CyberneticsCore': 1, 'Pylon': 2, 'TwilightCouncil': 1, 'WarpGate': 2}
+MINERALS: 5
+GAS: 354
+
+ENEMY_UNITS: {'Marine': 10}
+MY_UNITS: {'Assimilator': 1, 'CyberneticsCore': 1, 'Pylon': 2, 'TwilightCouncil': 1, 'WarpGate': 2}
+MINERALS: 5
+GAS: 354
+
+ENEMY_UNITS: {'Marine': 10}
+MY_UNITS: {'Assimilator': 1, 'CyberneticsCore': 1, 'Pylon': 2, 'TwilightCouncil': 1, 'WarpGate': 2}
+MINERALS: 5
+GAS: 354
+
+ENEMY_UNITS: {'Marine': 10}
+MY_UNITS: {'Assimilator': 1, 'CyberneticsCore': 1, 'Pylon': 2, 'TwilightCouncil': 1, 'WarpGate': 2}
+MINERALS: 5
+GAS: 354
+
+ENEMY_UNITS: {'Marine': 10}
+MY_UNITS: {'Assimilator': 1, 'CyberneticsCore': 1, 'Pylon': 2, 'TwilightCouncil': 1, 'WarpGate': 2}
+MINERALS: 5
+GAS: 354
+
+ENEMY_UNITS: {'Marine': 10}
+MY_UNITS: {'Assimilator': 1, 'CyberneticsCore': 1, 'Pylon': 2, 'TwilightCouncil': 1, 'WarpGate': 2}
+MINERALS: 5
+GAS: 354
+
+ENEMY_UNITS: {'Marine': 10}
+MY_UNITS: {'Assimilator': 1, 'CyberneticsCore': 1, 'Pylon': 2, 'TwilightCouncil': 1, 'WarpGate': 2}
+MINERALS: 5
+GAS: 354
+
+ENEMY_UNITS: {'Marine': 10}
+MY_UNITS: {'Assimilator': 1, 'CyberneticsCore': 1, 'Pylon': 2, 'TwilightCouncil': 1, 'WarpGate': 2}
+MINERALS: 5
+GAS: 354
+
+ENEMY_UNITS: {'Marine': 10}
+MY_UNITS: {'Assimilator': 1, 'CyberneticsCore': 1, 'Pylon': 2, 'TwilightCouncil': 1, 'WarpGate': 2}
+MINERALS: 5
+GAS: 354
+
+ENEMY_UNITS: {'Marine': 10}
+MY_UNITS: {'Assimilator': 1, 'CyberneticsCore': 1, 'Pylon': 2, 'TwilightCouncil': 1, 'WarpGate': 2}
+MINERALS: 5
+GAS: 354
+
+ENEMY_UNITS: {'Marine': 10}
+MY_UNITS: {'Assimilator': 1, 'CyberneticsCore': 1, 'Pylon': 2, 'TwilightCouncil': 1, 'WarpGate': 2}
+MINERALS: 5
+GAS: 354
+
+ENEMY_UNITS: {'Marine': 10}
+MY_UNITS: {'Assimilator': 1, 'CyberneticsCore': 1, 'Pylon': 2, 'TwilightCouncil': 1, 'WarpGate': 2}
+MINERALS: 5
+GAS: 354
+
+ENEMY_UNITS: {'Marine': 10}
+MY_UNITS: {'Assimilator': 1, 'CyberneticsCore': 1, 'Pylon': 2, 'TwilightCouncil': 1, 'WarpGate': 2}
+MINERALS: 5
+GAS: 354
+
+ENEMY_UNITS: {'Marine': 10}
+MY_UNITS: {'Assimilator': 1, 'CyberneticsCore': 1, 'Pylon': 2, 'TwilightCouncil': 1, 'WarpGate': 2}
+MINERALS: 5
+GAS: 354
+
+ENEMY_UNITS: {'Marine': 10}
+MY_UNITS: {'Assimilator': 1, 'CyberneticsCore': 1, 'Pylon': 2, 'TwilightCouncil': 1, 'WarpGate': 2}
+MINERALS: 5
+GAS: 354
+
+ENEMY_UNITS: {'Marine': 10}
+MY_UNITS: {'Assimilator': 1, 'CyberneticsCore': 1, 'Pylon': 2, 'TwilightCouncil': 1, 'WarpGate': 2}
+MINERALS: 5
+GAS: 354
+
+ENEMY_UNITS: {'Marine': 10}
+MY_UNITS: {'Assimilator': 1, 'CyberneticsCore': 1, 'Pylon': 2, 'TwilightCouncil': 1, 'WarpGate': 2}
+MINERALS: 5
+GAS: 354
+
+ENEMY_UNITS: {'Marine': 10}
+MY_UNITS: {'Assimilator': 1, 'CyberneticsCore': 1, 'Pylon': 2, 'TwilightCouncil': 1, 'WarpGate': 2}
+MINERALS: 5
+GAS: 354
+
+ENEMY_UNITS: {'Marine': 10}
+MY_UNITS: {'Assimilator': 1, 'CyberneticsCore': 1, 'Pylon': 2, 'TwilightCouncil': 1, 'WarpGate': 2}
+MINERALS: 5
+GAS: 354
+
+ENEMY_UNITS: {'Marine': 10}
+MY_UNITS: {'Assimilator': 1, 'CyberneticsCore': 1, 'Pylon': 2, 'TwilightCouncil': 1, 'WarpGate': 2}
+MINERALS: 5
+GAS: 354
+
+ENEMY_UNITS: {'Marine': 10}
+MY_UNITS: {'Assimilator': 1, 'CyberneticsCore': 1, 'Pylon': 2, 'TwilightCouncil': 1, 'WarpGate': 2}
+MINERALS: 5
+GAS: 354
+
+ENEMY_UNITS: {'Marine': 10}
+MY_UNITS: {'Assimilator': 1, 'CyberneticsCore': 1, 'Pylon': 2, 'TwilightCouncil': 1, 'WarpGate': 2}
+MINERALS: 5
+GAS: 354
+
+ENEMY_UNITS: {'Marine': 10}
+MY_UNITS: {'Assimilator': 1, 'CyberneticsCore': 1, 'Pylon': 2, 'TwilightCouncil': 1, 'WarpGate': 2}
+MINERALS: 5
+GAS: 354
+
+ENEMY_UNITS: {'Marine': 10}
+MY_UNITS: {'Assimilator': 1, 'CyberneticsCore': 1, 'Pylon': 2, 'TwilightCouncil': 1, 'WarpGate': 2}
+MINERALS: 5
+GAS: 354
+
+ENEMY_UNITS: {'Marine': 10}
+MY_UNITS: {'Assimilator': 1, 'CyberneticsCore': 1, 'Pylon': 2, 'TwilightCouncil': 1, 'WarpGate': 2}
+MINERALS: 5
+GAS: 354
+
+ENEMY_UNITS: {'Marine': 10}
+MY_UNITS: {'Assimilator': 1, 'CyberneticsCore': 1, 'Pylon': 2, 'TwilightCouncil': 1, 'WarpGate': 2}
+MINERALS: 5
+GAS: 354
+
+ENEMY_UNITS: {'Marine': 10}
+MY_UNITS: {'Assimilator': 1, 'CyberneticsCore': 1, 'Pylon': 2, 'TwilightCouncil': 1, 'WarpGate': 2}
+MINERALS: 5
+GAS: 354
+
+ENEMY_UNITS: {'Marine': 10}
+MY_UNITS: {'Assimilator': 1, 'CyberneticsCore': 1, 'Pylon': 2, 'TwilightCouncil': 1, 'WarpGate': 2}
+MINERALS: 5
+GAS: 354
+
+ENEMY_UNITS: {'Marine': 10}
+MY_UNITS: {'Assimilator': 1, 'CyberneticsCore': 1, 'Pylon': 2, 'TwilightCouncil': 1, 'WarpGate': 2}
+MINERALS: 5
+GAS: 354
+
+ENEMY_UNITS: {'Marine': 10}
+MY_UNITS: {'Assimilator': 1, 'CyberneticsCore': 1, 'Pylon': 2, 'TwilightCouncil': 1, 'WarpGate': 2}
+MINERALS: 5
+GAS: 354
+
+ENEMY_UNITS: {'Marine': 10}
+MY_UNITS: {'Assimilator': 1, 'CyberneticsCore': 1, 'Pylon': 2, 'TwilightCouncil': 1, 'WarpGate': 2}
+MINERALS: 5
+GAS: 354
+
+ENEMY_UNITS: {'Marine': 10}
+MY_UNITS: {'Assimilator': 1, 'CyberneticsCore': 1, 'Pylon': 2, 'TwilightCouncil': 1, 'WarpGate': 2}
+MINERALS: 5
+GAS: 354
+
+ENEMY_UNITS: {'Marine': 10}
+MY_UNITS: {'Assimilator': 1, 'CyberneticsCore': 1, 'Pylon': 2, 'TwilightCouncil': 1, 'WarpGate': 2}
+MINERALS: 5
+GAS: 354
+
+ENEMY_UNITS: {'Marine': 10}
+MY_UNITS: {'Assimilator': 1, 'CyberneticsCore': 1, 'Pylon': 2, 'TwilightCouncil': 1, 'WarpGate': 2}
+MINERALS: 5
+GAS: 354
+
+ENEMY_UNITS: {'Marine': 10}
+MY_UNITS: {'Assimilator': 1, 'CyberneticsCore': 1, 'Pylon': 2, 'TwilightCouncil': 1, 'WarpGate': 2}
+MINERALS: 5
+GAS: 354
+
+ENEMY_UNITS: {'Marine': 10}
+MY_UNITS: {'Assimilator': 1, 'CyberneticsCore': 1, 'Pylon': 2, 'TwilightCouncil': 1, 'WarpGate': 2}
+MINERALS: 5
+GAS: 354
+
+ENEMY_UNITS: {'Marine': 10}
+MY_UNITS: {'Assimilator': 1, 'CyberneticsCore': 1, 'Pylon': 2, 'TwilightCouncil': 1, 'WarpGate': 2}
+MINERALS: 5
+GAS: 354
+
+ENEMY_UNITS: {'Marine': 10}
+MY_UNITS: {'Assimilator': 1, 'CyberneticsCore': 1, 'Pylon': 2, 'TwilightCouncil': 1, 'WarpGate': 2}
+MINERALS: 5
+GAS: 354
+
+ENEMY_UNITS: {'Marine': 10}
+MY_UNITS: {'Assimilator': 1, 'CyberneticsCore': 1, 'Pylon': 2, 'TwilightCouncil': 1, 'WarpGate': 2}
+MINERALS: 5
+GAS: 354
+
+ENEMY_UNITS: {'Marine': 10}
+MY_UNITS: {'Assimilator': 1, 'CyberneticsCore': 1, 'Pylon': 2, 'TwilightCouncil': 1, 'WarpGate': 1}
+MINERALS: 5
+GAS: 354
+
+ENEMY_UNITS: {'Marine': 10}
+MY_UNITS: {'Assimilator': 1, 'CyberneticsCore': 1, 'Pylon': 2, 'TwilightCouncil': 1, 'WarpGate': 1}
+MINERALS: 5
+GAS: 354
+
+ENEMY_UNITS: {'Marine': 10}
+MY_UNITS: {'Assimilator': 1, 'CyberneticsCore': 1, 'Pylon': 2, 'TwilightCouncil': 1, 'WarpGate': 1}
+MINERALS: 5
+GAS: 354
+
+ENEMY_UNITS: {'Marine': 10}
+MY_UNITS: {'Assimilator': 1, 'CyberneticsCore': 1, 'Pylon': 2, 'TwilightCouncil': 1, 'WarpGate': 1}
+MINERALS: 5
+GAS: 354
+
+ENEMY_UNITS: {'Marine': 10}
+MY_UNITS: {'Assimilator': 1, 'CyberneticsCore': 1, 'Pylon': 2, 'TwilightCouncil': 1, 'WarpGate': 1}
+MINERALS: 5
+GAS: 354
+
+ENEMY_UNITS: {'Marine': 10}
+MY_UNITS: {'Assimilator': 1, 'CyberneticsCore': 1, 'Pylon': 2, 'TwilightCouncil': 1, 'WarpGate': 1}
+MINERALS: 5
+GAS: 354
+
+ENEMY_UNITS: {'Marine': 10}
+MY_UNITS: {'Assimilator': 1, 'CyberneticsCore': 1, 'Pylon': 2, 'TwilightCouncil': 1, 'WarpGate': 1}
+MINERALS: 5
+GAS: 354
+
+ENEMY_UNITS: {'Marine': 10}
+MY_UNITS: {'Assimilator': 1, 'CyberneticsCore': 1, 'Pylon': 2, 'TwilightCouncil': 1, 'WarpGate': 1}
+MINERALS: 5
+GAS: 354
+
+ENEMY_UNITS: {'Marine': 10}
+MY_UNITS: {'Assimilator': 1, 'CyberneticsCore': 1, 'Pylon': 2, 'TwilightCouncil': 1, 'WarpGate': 1}
+MINERALS: 5
+GAS: 354
+
+ENEMY_UNITS: {'Marine': 10}
+MY_UNITS: {'Assimilator': 1, 'CyberneticsCore': 1, 'Pylon': 2, 'TwilightCouncil': 1, 'WarpGate': 1}
+MINERALS: 5
+GAS: 354
+
+ENEMY_UNITS: {'Marine': 10}
+MY_UNITS: {'Assimilator': 1, 'CyberneticsCore': 1, 'Pylon': 2, 'TwilightCouncil': 1, 'WarpGate': 1}
+MINERALS: 5
+GAS: 354
+
+ENEMY_UNITS: {'Marine': 10}
+MY_UNITS: {'Assimilator': 1, 'CyberneticsCore': 1, 'Pylon': 2, 'TwilightCouncil': 1, 'WarpGate': 1}
+MINERALS: 5
+GAS: 354
+
+ENEMY_UNITS: {'Marine': 10}
+MY_UNITS: {'Assimilator': 1, 'CyberneticsCore': 1, 'Pylon': 2, 'TwilightCouncil': 1, 'WarpGate': 1}
+MINERALS: 5
+GAS: 354
+
+ENEMY_UNITS: {'Marine': 10}
+MY_UNITS: {'Assimilator': 1, 'CyberneticsCore': 1, 'Pylon': 2, 'TwilightCouncil': 1, 'WarpGate': 1}
+MINERALS: 5
+GAS: 354
+
+ENEMY_UNITS: {'Marine': 10}
+MY_UNITS: {'Assimilator': 1, 'CyberneticsCore': 1, 'Pylon': 2, 'TwilightCouncil': 1, 'WarpGate': 1}
+MINERALS: 5
+GAS: 354
+
+ENEMY_UNITS: {'Marine': 10}
+MY_UNITS: {'Assimilator': 1, 'CyberneticsCore': 1, 'Pylon': 2, 'TwilightCouncil': 1, 'WarpGate': 1}
+MINERALS: 5
+GAS: 354
+
+ENEMY_UNITS: {'Marine': 10}
+MY_UNITS: {'Assimilator': 1, 'CyberneticsCore': 1, 'Pylon': 2, 'TwilightCouncil': 1, 'WarpGate': 1}
+MINERALS: 5
+GAS: 354
+
+ENEMY_UNITS: {'Marine': 10}
+MY_UNITS: {'Assimilator': 1, 'CyberneticsCore': 1, 'Pylon': 2, 'TwilightCouncil': 1, 'WarpGate': 1}
+MINERALS: 5
+GAS: 354
+
+ENEMY_UNITS: {'Marine': 10}
+MY_UNITS: {'Assimilator': 1, 'CyberneticsCore': 1, 'Pylon': 2, 'TwilightCouncil': 1, 'WarpGate': 1}
+MINERALS: 5
+GAS: 354
+
+ENEMY_UNITS: {'Marine': 10}
+MY_UNITS: {'Assimilator': 1, 'CyberneticsCore': 1, 'Pylon': 2, 'TwilightCouncil': 1, 'WarpGate': 1}
+MINERALS: 5
+GAS: 354
+
+ENEMY_UNITS: {'Marine': 10}
+MY_UNITS: {'Assimilator': 1, 'CyberneticsCore': 1, 'Pylon': 2, 'TwilightCouncil': 1, 'WarpGate': 1}
+MINERALS: 5
+GAS: 354
+
+ENEMY_UNITS: {'Marine': 10}
+MY_UNITS: {'Assimilator': 1, 'CyberneticsCore': 1, 'Pylon': 2, 'TwilightCouncil': 1}
+MINERALS: 5
+GAS: 354
+
+ENEMY_UNITS: {'Marine': 10}
+MY_UNITS: {'Assimilator': 1, 'CyberneticsCore': 1, 'Pylon': 2, 'TwilightCouncil': 1}
+MINERALS: 5
+GAS: 354
+
+ENEMY_UNITS: {'Marine': 10}
+MY_UNITS: {'Assimilator': 1, 'CyberneticsCore': 1, 'Pylon': 2, 'TwilightCouncil': 1}
+MINERALS: 5
+GAS: 354
+
+ENEMY_UNITS: {'Marine': 10}
+MY_UNITS: {'Assimilator': 1, 'CyberneticsCore': 1, 'Pylon': 2, 'TwilightCouncil': 1}
+MINERALS: 5
+GAS: 354
+
+ENEMY_UNITS: {'Marine': 10}
+MY_UNITS: {'Assimilator': 1, 'CyberneticsCore': 1, 'Pylon': 2, 'TwilightCouncil': 1}
+MINERALS: 5
+GAS: 354
+
+ENEMY_UNITS: {'Marine': 10}
+MY_UNITS: {'Assimilator': 1, 'CyberneticsCore': 1, 'Pylon': 2, 'TwilightCouncil': 1}
+MINERALS: 5
+GAS: 354
+
+ENEMY_UNITS: {'Marine': 10}
+MY_UNITS: {'Assimilator': 1, 'CyberneticsCore': 1, 'Pylon': 2, 'TwilightCouncil': 1}
+MINERALS: 5
+GAS: 354
+
+ENEMY_UNITS: {'Marine': 10}
+MY_UNITS: {'Assimilator': 1, 'CyberneticsCore': 1, 'Pylon': 2, 'TwilightCouncil': 1}
+MINERALS: 5
+GAS: 354
+
+ENEMY_UNITS: {'Marine': 10}
+MY_UNITS: {'Assimilator': 1, 'CyberneticsCore': 1, 'Pylon': 2, 'TwilightCouncil': 1}
+MINERALS: 5
+GAS: 354
+
+ENEMY_UNITS: {'Marine': 10}
+MY_UNITS: {'Assimilator': 1, 'CyberneticsCore': 1, 'Pylon': 2, 'TwilightCouncil': 1}
+MINERALS: 5
+GAS: 354
+
+ENEMY_UNITS: {'Marine': 10}
+MY_UNITS: {'Assimilator': 1, 'CyberneticsCore': 1, 'Pylon': 2, 'TwilightCouncil': 1}
+MINERALS: 5
+GAS: 354
+
+ENEMY_UNITS: {'Marine': 10}
+MY_UNITS: {'Assimilator': 1, 'CyberneticsCore': 1, 'Pylon': 1, 'TwilightCouncil': 1}
+MINERALS: 5
+GAS: 354
+
+ENEMY_UNITS: {'Marine': 10}
+MY_UNITS: {'Assimilator': 1, 'CyberneticsCore': 1, 'Pylon': 1, 'TwilightCouncil': 1}
+MINERALS: 5
+GAS: 354
+
+ENEMY_UNITS: {'Marine': 10}
+MY_UNITS: {'Assimilator': 1, 'CyberneticsCore': 1, 'Pylon': 1, 'TwilightCouncil': 1}
+MINERALS: 5
+GAS: 354
+
+ENEMY_UNITS: {'Marine': 10}
+MY_UNITS: {'Assimilator': 1, 'CyberneticsCore': 1, 'Pylon': 1, 'TwilightCouncil': 1}
+MINERALS: 5
+GAS: 354
+
+ENEMY_UNITS: {'Marine': 10}
+MY_UNITS: {'Assimilator': 1, 'CyberneticsCore': 1, 'Pylon': 1, 'TwilightCouncil': 1}
+MINERALS: 5
+GAS: 354
+
+ENEMY_UNITS: {'Marine': 10}
+MY_UNITS: {'Assimilator': 1, 'CyberneticsCore': 1, 'Pylon': 1, 'TwilightCouncil': 1}
+MINERALS: 5
+GAS: 354
+
+ENEMY_UNITS: {'Marine': 10}
+MY_UNITS: {'Assimilator': 1, 'CyberneticsCore': 1, 'Pylon': 1, 'TwilightCouncil': 1}
+MINERALS: 5
+GAS: 354
+
+ENEMY_UNITS: {'Marine': 10}
+MY_UNITS: {'Assimilator': 1, 'CyberneticsCore': 1, 'Pylon': 1, 'TwilightCouncil': 1}
+MINERALS: 5
+GAS: 354
+
+ENEMY_UNITS: {'Marine': 10}
+MY_UNITS: {'Assimilator': 1, 'CyberneticsCore': 1, 'Pylon': 1, 'TwilightCouncil': 1}
+MINERALS: 5
+GAS: 354
+
+ENEMY_UNITS: {'Marine': 10}
+MY_UNITS: {'Assimilator': 1, 'CyberneticsCore': 1, 'Pylon': 1, 'TwilightCouncil': 1}
+MINERALS: 5
+GAS: 354
+
+ENEMY_UNITS: {'Marine': 10}
+MY_UNITS: {'Assimilator': 1, 'CyberneticsCore': 1, 'Pylon': 1, 'TwilightCouncil': 1}
+MINERALS: 5
+GAS: 354
+
+ENEMY_UNITS: {'Marine': 10}
+MY_UNITS: {'Assimilator': 1, 'CyberneticsCore': 1, 'Pylon': 1, 'TwilightCouncil': 1}
+MINERALS: 5
+GAS: 354
+
+ENEMY_UNITS: {'Marine': 10}
+MY_UNITS: {'Assimilator': 1, 'CyberneticsCore': 1, 'Pylon': 1, 'TwilightCouncil': 1}
+MINERALS: 5
+GAS: 354
+
+ENEMY_UNITS: {'Marine': 10}
+MY_UNITS: {'Assimilator': 1, 'CyberneticsCore': 1, 'Pylon': 1, 'TwilightCouncil': 1}
+MINERALS: 5
+GAS: 354
+
+ENEMY_UNITS: {'Marine': 10}
+MY_UNITS: {'Assimilator': 1, 'CyberneticsCore': 1, 'Pylon': 1, 'TwilightCouncil': 1}
+MINERALS: 5
+GAS: 354
+
+ENEMY_UNITS: {'Marine': 10}
+MY_UNITS: {'Assimilator': 1, 'CyberneticsCore': 1, 'Pylon': 1, 'TwilightCouncil': 1}
+MINERALS: 5
+GAS: 354
+
+ENEMY_UNITS: {'Marine': 10}
+MY_UNITS: {'Assimilator': 1, 'CyberneticsCore': 1, 'Pylon': 1, 'TwilightCouncil': 1}
+MINERALS: 5
+GAS: 354
+
+ENEMY_UNITS: {'Marine': 10}
+MY_UNITS: {'Assimilator': 1, 'CyberneticsCore': 1, 'Pylon': 1, 'TwilightCouncil': 1}
+MINERALS: 5
+GAS: 354
+
+ENEMY_UNITS: {'Marine': 10}
+MY_UNITS: {'Assimilator': 1, 'CyberneticsCore': 1, 'Pylon': 1, 'TwilightCouncil': 1}
+MINERALS: 5
+GAS: 354
+
+ENEMY_UNITS: {'Marine': 10}
+MY_UNITS: {'Assimilator': 1, 'CyberneticsCore': 1, 'Pylon': 1, 'TwilightCouncil': 1}
+MINERALS: 5
+GAS: 354
+
+ENEMY_UNITS: {'Marine': 10}
+MY_UNITS: {'Assimilator': 1, 'CyberneticsCore': 1, 'Pylon': 1, 'TwilightCouncil': 1}
+MINERALS: 5
+GAS: 354
+
+ENEMY_UNITS: {'Marine': 10}
+MY_UNITS: {'Assimilator': 1, 'CyberneticsCore': 1, 'Pylon': 1, 'TwilightCouncil': 1}
+MINERALS: 5
+GAS: 354
+
+ENEMY_UNITS: {'Marine': 10}
+MY_UNITS: {'Assimilator': 1, 'CyberneticsCore': 1, 'Pylon': 1, 'TwilightCouncil': 1}
+MINERALS: 5
+GAS: 354
+
+ENEMY_UNITS: {'Marine': 10}
+MY_UNITS: {'Assimilator': 1, 'CyberneticsCore': 1, 'Pylon': 1, 'TwilightCouncil': 1}
+MINERALS: 5
+GAS: 354
+
+ENEMY_UNITS: {'Marine': 10}
+MY_UNITS: {'Assimilator': 1, 'CyberneticsCore': 1, 'Pylon': 1, 'TwilightCouncil': 1}
+MINERALS: 5
+GAS: 354
+
+ENEMY_UNITS: {'Marine': 10}
+MY_UNITS: {'Assimilator': 1, 'CyberneticsCore': 1, 'Pylon': 1, 'TwilightCouncil': 1}
+MINERALS: 5
+GAS: 354
+
+ENEMY_UNITS: {'Marine': 10}
+MY_UNITS: {'Assimilator': 1, 'CyberneticsCore': 1, 'Pylon': 1, 'TwilightCouncil': 1}
+MINERALS: 5
+GAS: 354
+
+ENEMY_UNITS: {'Marine': 10}
+MY_UNITS: {'Assimilator': 1, 'CyberneticsCore': 1, 'Pylon': 1, 'TwilightCouncil': 1}
+MINERALS: 5
+GAS: 354
+
+ENEMY_UNITS: {'Marine': 10}
+MY_UNITS: {'Assimilator': 1, 'CyberneticsCore': 1, 'Pylon': 1, 'TwilightCouncil': 1}
+MINERALS: 5
+GAS: 354
+
+ENEMY_UNITS: {'Marine': 10}
+MY_UNITS: {'Assimilator': 1, 'CyberneticsCore': 1, 'Pylon': 1, 'TwilightCouncil': 1}
+MINERALS: 5
+GAS: 354
+
+ENEMY_UNITS: {'Marine': 10}
+MY_UNITS: {'Assimilator': 1, 'CyberneticsCore': 1, 'Pylon': 1, 'TwilightCouncil': 1}
+MINERALS: 5
+GAS: 354
+
+ENEMY_UNITS: {'Marine': 10}
+MY_UNITS: {'Assimilator': 1, 'CyberneticsCore': 1, 'Pylon': 1, 'TwilightCouncil': 1}
+MINERALS: 5
+GAS: 354
+
+ENEMY_UNITS: {'Marine': 10}
+MY_UNITS: {'Assimilator': 1, 'CyberneticsCore': 1, 'Pylon': 1, 'TwilightCouncil': 1}
+MINERALS: 5
+GAS: 354
+
+ENEMY_UNITS: {'Marine': 10}
+MY_UNITS: {'Assimilator': 1, 'CyberneticsCore': 1, 'Pylon': 1, 'TwilightCouncil': 1}
+MINERALS: 5
+GAS: 354
+
+ENEMY_UNITS: {'Marine': 10}
+MY_UNITS: {'Assimilator': 1, 'CyberneticsCore': 1, 'Pylon': 1, 'TwilightCouncil': 1}
+MINERALS: 5
+GAS: 354
+
+ENEMY_UNITS: {'Marine': 10}
+MY_UNITS: {'Assimilator': 1, 'CyberneticsCore': 1, 'Pylon': 1, 'TwilightCouncil': 1}
+MINERALS: 5
+GAS: 354
+
+ENEMY_UNITS: {'Marine': 10}
+MY_UNITS: {'Assimilator': 1, 'Pylon': 1, 'TwilightCouncil': 1}
+MINERALS: 5
+GAS: 354
+
+ENEMY_UNITS: {'Marine': 10}
+MY_UNITS: {'Assimilator': 1, 'Pylon': 1, 'TwilightCouncil': 1}
+MINERALS: 5
+GAS: 354
+
+ENEMY_UNITS: {'Marine': 10}
+MY_UNITS: {'Assimilator': 1, 'Pylon': 1, 'TwilightCouncil': 1}
+MINERALS: 5
+GAS: 354
+
+ENEMY_UNITS: {'Marine': 10}
+MY_UNITS: {'Assimilator': 1, 'Pylon': 1, 'TwilightCouncil': 1}
+MINERALS: 5
+GAS: 354
+
+ENEMY_UNITS: {'Marine': 10}
+MY_UNITS: {'Assimilator': 1, 'Pylon': 1, 'TwilightCouncil': 1}
+MINERALS: 5
+GAS: 354
+
+ENEMY_UNITS: {'Marine': 10}
+MY_UNITS: {'Assimilator': 1, 'Pylon': 1, 'TwilightCouncil': 1}
+MINERALS: 5
+GAS: 354
+
+ENEMY_UNITS: {'Marine': 10}
+MY_UNITS: {'Assimilator': 1, 'Pylon': 1, 'TwilightCouncil': 1}
+MINERALS: 5
+GAS: 354
+
+ENEMY_UNITS: {'Marine': 10}
+MY_UNITS: {'Assimilator': 1, 'Pylon': 1, 'TwilightCouncil': 1}
+MINERALS: 5
+GAS: 354
+
+ENEMY_UNITS: {'Marine': 10}
+MY_UNITS: {'Assimilator': 1, 'Pylon': 1, 'TwilightCouncil': 1}
+MINERALS: 5
+GAS: 354
+
+ENEMY_UNITS: {'Marine': 10}
+MY_UNITS: {'Assimilator': 1, 'Pylon': 1, 'TwilightCouncil': 1}
+MINERALS: 5
+GAS: 354
+
+ENEMY_UNITS: {'Marine': 10}
+MY_UNITS: {'Assimilator': 1, 'Pylon': 1, 'TwilightCouncil': 1}
+MINERALS: 5
+GAS: 354
+
+ENEMY_UNITS: {'Marine': 10}
+MY_UNITS: {'Assimilator': 1, 'Pylon': 1, 'TwilightCouncil': 1}
+MINERALS: 5
+GAS: 354
+
+ENEMY_UNITS: {'Marine': 10}
+MY_UNITS: {'Assimilator': 1, 'Pylon': 1, 'TwilightCouncil': 1}
+MINERALS: 5
+GAS: 354
+
+ENEMY_UNITS: {'Marine': 10}
+MY_UNITS: {'Assimilator': 1, 'Pylon': 1, 'TwilightCouncil': 1}
+MINERALS: 5
+GAS: 354
+
+ENEMY_UNITS: {'Marine': 10}
+MY_UNITS: {'Assimilator': 1, 'Pylon': 1, 'TwilightCouncil': 1}
+MINERALS: 5
+GAS: 354
+
+ENEMY_UNITS: {'Marine': 10}
+MY_UNITS: {'Assimilator': 1, 'Pylon': 1, 'TwilightCouncil': 1}
+MINERALS: 5
+GAS: 354
+
+ENEMY_UNITS: {'Marine': 10}
+MY_UNITS: {'Assimilator': 1, 'Pylon': 1, 'TwilightCouncil': 1}
+MINERALS: 5
+GAS: 354
+
+ENEMY_UNITS: {'Marine': 10}
+MY_UNITS: {'Assimilator': 1, 'Pylon': 1, 'TwilightCouncil': 1}
+MINERALS: 5
+GAS: 354
+
+ENEMY_UNITS: {'Marine': 10}
+MY_UNITS: {'Assimilator': 1, 'Pylon': 1, 'TwilightCouncil': 1}
+MINERALS: 5
+GAS: 354
+
+ENEMY_UNITS: {'Marine': 10}
+MY_UNITS: {'Assimilator': 1, 'Pylon': 1, 'TwilightCouncil': 1}
+MINERALS: 5
+GAS: 354
+
+ENEMY_UNITS: {'Marine': 10}
+MY_UNITS: {'Assimilator': 1, 'Pylon': 1, 'TwilightCouncil': 1}
+MINERALS: 5
+GAS: 354
+
+ENEMY_UNITS: {'Marine': 10}
+MY_UNITS: {'Assimilator': 1, 'Pylon': 1, 'TwilightCouncil': 1}
+MINERALS: 5
+GAS: 354
+
+ENEMY_UNITS: {'Marine': 10}
+MY_UNITS: {'Assimilator': 1, 'Pylon': 1, 'TwilightCouncil': 1}
+MINERALS: 5
+GAS: 354
+
+ENEMY_UNITS: {'Marine': 10}
+MY_UNITS: {'Assimilator': 1, 'TwilightCouncil': 1}
+MINERALS: 5
+GAS: 354
+
+ENEMY_UNITS: {'Marine': 10}
+MY_UNITS: {'Assimilator': 1, 'TwilightCouncil': 1}
+MINERALS: 5
+GAS: 354
+
+ENEMY_UNITS: {'Marine': 10}
+MY_UNITS: {'Assimilator': 1, 'TwilightCouncil': 1}
+MINERALS: 5
+GAS: 354
+
+ENEMY_UNITS: {'Marine': 10}
+MY_UNITS: {'Assimilator': 1, 'TwilightCouncil': 1}
+MINERALS: 5
+GAS: 354
+
+ENEMY_UNITS: {'Marauder': 1, 'Marine': 10}
+MY_UNITS: {'Assimilator': 1, 'TwilightCouncil': 1}
+MINERALS: 5
+GAS: 354
+
+ENEMY_UNITS: {'Marauder': 1, 'Marine': 11}
+MY_UNITS: {'Assimilator': 1, 'TwilightCouncil': 1}
+MINERALS: 5
+GAS: 354
+
+ENEMY_UNITS: {'Marauder': 3, 'Marine': 11}
+MY_UNITS: {'Assimilator': 1, 'TwilightCouncil': 1}
+MINERALS: 5
+GAS: 354
+
+ENEMY_UNITS: {'Marauder': 3, 'Marine': 11}
+MY_UNITS: {'Assimilator': 1}
+MINERALS: 5
+GAS: 354
+
+ENEMY_UNITS: {'Marauder': 3, 'Marine': 11}
+MY_UNITS: {'Assimilator': 1}
+MINERALS: 5
+GAS: 354
+
+ENEMY_UNITS: {'Marauder': 3, 'Marine': 11}
+MY_UNITS: {'Assimilator': 1}
+MINERALS: 5
+GAS: 354
+
+ENEMY_UNITS: {'Marauder': 3, 'Marine': 11}
+MY_UNITS: {'Assimilator': 1}
+MINERALS: 5
+GAS: 354
+
+ENEMY_UNITS: {'Marauder': 3, 'Marine': 11}
+MY_UNITS: {'Assimilator': 1}
+MINERALS: 5
+GAS: 354
+
+ENEMY_UNITS: {'Marauder': 3, 'Marine': 11}
+MY_UNITS: {'Assimilator': 1}
+MINERALS: 5
+GAS: 354
+
+ENEMY_UNITS: {'Marauder': 3, 'Marine': 11}
+MY_UNITS: {'Assimilator': 1}
+MINERALS: 5
+GAS: 354
+
+ENEMY_UNITS: {'Marauder': 3, 'Marine': 11}
+MY_UNITS: {'Assimilator': 1}
+MINERALS: 5
+GAS: 354
+
+ENEMY_UNITS: {'Marauder': 3, 'Marine': 11}
+MY_UNITS: {'Assimilator': 1}
+MINERALS: 5
+GAS: 354
+
+ENEMY_UNITS: {'Marauder': 3, 'Marine': 11}
+MY_UNITS: {'Assimilator': 1}
+MINERALS: 5
+GAS: 354
+
+ENEMY_UNITS: {'Marauder': 3, 'Marine': 12}
+MY_UNITS: {'Assimilator': 1}
+MINERALS: 5
+GAS: 354
+
+ENEMY_UNITS: {'Marauder': 4, 'Marine': 12}
+MY_UNITS: {'Assimilator': 1}
+MINERALS: 5
+GAS: 354
+
+ENEMY_UNITS: {'Marauder': 4, 'Marine': 12}
+MY_UNITS: {'Assimilator': 1}
+MINERALS: 5
+GAS: 354
+
+ENEMY_UNITS: {'Marauder': 4, 'Marine': 12}
+MY_UNITS: {'Assimilator': 1}
+MINERALS: 5
+GAS: 354
+
+ENEMY_UNITS: {'Marauder': 4, 'Marine': 12}
+MY_UNITS: {'Assimilator': 1}
+MINERALS: 5
+GAS: 354
+
+ENEMY_UNITS: {'Marauder': 4, 'Marine': 12}
+MY_UNITS: {'Assimilator': 1}
+MINERALS: 5
+GAS: 354
+
+ENEMY_UNITS: {'Marauder': 4, 'Marine': 12}
+MY_UNITS: {'Assimilator': 1}
+MINERALS: 5
+GAS: 354
+
+ENEMY_UNITS: {'Marauder': 4, 'Marine': 12}
+MY_UNITS: {'Assimilator': 1}
+MINERALS: 5
+GAS: 354
+

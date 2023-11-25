@@ -220,7 +220,7 @@ class UnitCacheManager(ManagerBase, IUnitCache):
                 own_tally[unit.name] = 0
             own_tally[unit.name] += 1
         own_tally = dict(sorted(own_tally.items()))
-        print(f"MY UNITS: {own_tally}")
+        print(f"MY_UNITS: {own_tally}")
     #     self.update_csv(own_tally)
 
     # def update_csv(self, own_tally):

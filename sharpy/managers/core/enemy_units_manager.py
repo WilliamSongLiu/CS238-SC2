@@ -122,7 +122,7 @@ class EnemyUnitsManager(ManagerBase, IEnemyUnitsManager):
                 enemy_tally[unit.name] = 0
             enemy_tally[unit.name] += 1
         enemy_tally = dict(sorted(enemy_tally.items()))
-        print(f"ENEMY UNITS: {enemy_tally}")
+        print(f"ENEMY_UNITS: {enemy_tally}")
 
     @property
     def enemy_cloak_trigger(self):

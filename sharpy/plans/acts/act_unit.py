@@ -92,7 +92,7 @@ class ActUnit(ActBase):
         cost = self.ai._game_data.calculate_ability_cost(unit_data.creation_ability)
 
         if self.builders.ready.exists:
-            print(f"ACTION WANTED: TRAIN {self.unit_type.name}")
+            print(f"ACTION_WANTED: TRAIN_{self.unit_type.name}")
             if self.knowledge.can_afford(unit_data.creation_ability):
                 for builder in self.builders.ready:
                     if self.has_order_ready(builder) and not builder.is_flying:
@@ -104,7 +104,7 @@ class ActUnit(ActBase):
                             if builder.train(self.unit_type):
                                 pos_formatted = f"({builder.position.x:.1f}, {builder.position.y:.1f})"
                                 self.print(f"{self.unit_type.name} from {self.from_building.name} at {pos_formatted}")
-                                print(f"ACTION MADE: TRAIN {self.unit_type.name}")
+                                print(f"ACTION_MADE: TRAIN_{self.unit_type.name}")
                                 return False  # Only one at a time
 
                 if self.priority:
