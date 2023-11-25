@@ -10,36 +10,39 @@ from sharpy.plans.acts.protoss import *
 from sharpy.plans.require import *
 from sharpy.plans.tactics import *
 
-class ProxyCS238Explore(ActBase):
+class CS238Explore(KnowledgeBot):
     class ActionEnum(Enum):
         TRAIN = 1
-        BUILD = 2
-        BUILD_EXPANSION = 3
-        BUILD_GAS = 4
-
-    def __init__(self):
-        super().__init__()
-
-    async def start(self, knowledge: Knowledge):
-        await super().start(knowledge)
-
-    async def execute(self) -> bool:
-        print("exe")
-        
-        return False
+        TRAIN_PROBE = 2
+        BUILD = 10
+        BUILD_EXPANSION = 11
+        BUILD_GAS = 12
     
-    def determine_action(self):
-        self.actionType = self.ActionEnum.TRAIN
-        self.actionUnitTypeId = UnitTypeId.PROBE
-
-class CS238Explore(KnowledgeBot):
     def __init__(self):
         super().__init__("CS 238 Explore")
     
+    async def on_start(self):
+        super().on_start()
+    
+    async def pre_step_execute(self):
+        super().pre_step_execute()
+        self.actionType = self.ActionEnum.TRAIN_PROBE
+        self.actionUnitTypeId = UnitTypeId.PROBE
+        print("pre_step_execute")
+
+    def actions(self) -> ActBase:
+        return BuildOrder(
+            Step(lambda k: self.actionType == self.ActionEnum.TRAIN, ProtossUnit(self.actionUnitTypeId)),
+            Step(lambda k: self.actionType == self.ActionEnum.TRAIN_PROBE, ActUnit(UnitTypeId.PROBE, UnitTypeId.NEXUS)),
+            Step(lambda k: self.actionType == self.ActionEnum.BUILD, GridBuilding(self.actionUnitTypeId, 9999)),
+            Step(lambda k: self.actionType == self.ActionEnum.BUILD_EXPANSION, Expand(9999)),
+            Step(lambda k: self.actionType == self.ActionEnum.BUILD_GAS, BuildGas(9999))
+        )
+
     async def create_plan(self) -> BuildOrder:
         return BuildOrder(
-            Step(None, ChronoUnit(UnitTypeId.PROBE, UnitTypeId.NEXUS)),
-            Step(None, ProxyCS238Explore()),
+            ChronoUnit(UnitTypeId.PROBE, UnitTypeId.NEXUS),
+            self.actions(),
             SequentialList(
                 MineOpenBlockedBase(),
                 PlanZoneDefense(),
@@ -47,7 +50,7 @@ class CS238Explore(KnowledgeBot):
                 DistributeWorkers(),
                 Step(None, SpeedMining(), lambda ai: ai.client.game_step > 5),
                 PlanZoneGather(),
-                Step(None, PlanZoneAttack(4)),
+                PlanZoneAttack(4),
                 PlanFinishEnemy(),
             )
         )
