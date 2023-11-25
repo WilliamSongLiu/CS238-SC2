@@ -1,6 +1,6 @@
 Please leave files and directories where they are. These scripts will likely break if you begin moving things.
 
-For an example of how this works, please see raw_data/finished/game1_small.txt, processed_data/jsons/game1_small.json, processed_data/jsonls/game1_small.jsonl
+For an example of how this works, please see raw_data/finished/game1_small.txt, processed_data/jsons/game1_small.json, processed_data/jsonls/game1_small.jsonl. game1_small.jsonl will probably be easier to understand.
 
 Additional documentation can be found in the code comments.
 
