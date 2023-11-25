@@ -1,3 +1,4 @@
+from .cs238_explore import CS238Explore
 from .dark_templar_rush import DarkTemplarRush
 from .proxy_zealot_rush import ProxyZealotRushBot
 from .macro_stalkers import MacroStalkers
