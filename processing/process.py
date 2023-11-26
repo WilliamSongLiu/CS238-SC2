@@ -9,9 +9,9 @@ OUT_DIR = "processed_data"
 
 # load unit costs into a dict from file
 unit_costs = None
-possible_enemy_units = None
+protoss_units = None
 def load_unit_costs():
-    global unit_costs, possible_enemy_units
+    global unit_costs, protoss_units
     with open("unit_costs.json", "r") as file:
         data = json.load(file)
     
@@ -19,10 +19,10 @@ def load_unit_costs():
     for unit in data["Unit"]:
         unit_costs[unit["name"].upper()] = (unit["minerals"], unit["gas"])
     
-    possible_enemy_units = []
+    protoss_units = []
     for unit in data["Unit"]:
         if unit["race"] == "Protoss":
-            possible_enemy_units.append(unit["name"].upper())
+            protoss_units.append(unit["name"].upper())
 
 def calc_reward(curr, prev):
     reward = (curr["minerals"] + curr["gas"]) - (prev["s"]["minerals"] + prev["s"]["gas"])
@@ -55,7 +55,7 @@ def process_file(inpath, outjson, outjsonl):
         for _ in range(2): # skip headers
             next(f)
 
-        seen_enemy_units = {unit: 0 for unit in possible_enemy_units}
+        seen_enemy_units = {unit: 0 for unit in protoss_units}
         tuple = {} # our current (s, a, r, s') tuple
         state = {} # our current state s
         actions_wanted = []
@@ -97,10 +97,16 @@ def process_file(inpath, outjson, outjsonl):
                 if heading == "MY_UNITS:" or heading == "ENEMY_UNITS:":
                     state[heading[:-1].lower()] = {k.upper(): v for k, v in state[heading[:-1].lower()].items()}
                 
+                if heading == "MY_UNITS:":
+                    state[heading[:-1].lower()] = {
+                        unit: state[heading[:-1].lower()][unit]
+                        if unit in state[heading[:-1].lower()] else 0 for unit in protoss_units
+                    }
+
                 # aggregate enemy unit observations into binary variables
                 if heading == "ENEMY_UNITS:":
-                    for unit in seen_enemy_units:
-                        if seen_enemy_units[unit] == 0 and unit in state[heading[:-1].lower()]:
+                    for unit in state[heading[:-1].lower()]:
+                        if seen_enemy_units[unit] == 0:
                             seen_enemy_units[unit] = 1
                     state[heading[:-1].lower()] = seen_enemy_units
 
