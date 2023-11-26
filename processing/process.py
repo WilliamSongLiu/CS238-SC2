@@ -7,10 +7,25 @@ STATE_INFO = {"MY_UNITS:", "ENEMY_UNITS:", "MINERALS:", "GAS:"}
 IN_DIR = "raw_data"
 OUT_DIR = "processed_data"
 
+# load unit costs into a dict from file
+unit_costs = None
+def load_unit_costs():
+    global unit_costs
+    with open("unit_costs.json", "r") as file:
+        data = json.load(file)
+    
+    unit_costs = {}
+    for unit in data["Unit"]:
+        unit_costs[unit["name"]] = (unit["minerals"], unit["gas"])
 
-# TODO: Incoporate Value of Added Units
 def calc_reward(curr, prev):
     reward = (curr["minerals"] + curr["gas"]) - (prev["s"]["minerals"] + prev["s"]["gas"])
+
+    for unit in curr["my_units"]:
+        reward += curr["my_units"][unit] * (unit_costs[unit][0] + unit_costs[unit][1])
+    for unit in prev["s"]["my_units"]:
+        reward -= prev["s"]["my_units"][unit] * (unit_costs[unit][0] + unit_costs[unit][1])
+    
     return reward
 
 def process_file(inpath, outjson, outjsonl):
@@ -27,7 +42,7 @@ def process_file(inpath, outjson, outjsonl):
         for line in reader:
             if not line: # reached "break" between updates
                 tuple["s"] = state
-                tuple["actions_wanted"] = actions_wanted
+                tuple["a"] = actions_wanted
                 
                 if data: # not the first tuple
                     # current s is s' for the last tuple
@@ -57,11 +72,10 @@ def process_file(inpath, outjson, outjsonl):
                 # Note: sets are not valid JSON objects
                 # if heading == "ENEMY_UNITS:":
                 #     state[heading[:-1].lower()] = list(json.loads(dict_str).keys())
-
             elif heading == "ACTION_WANTED:":
                 actions_wanted.append(line[-1])
             else: # heading == ACTION_MADE:
-                tuple["action_made"] = line[-1]
+                tuple["a"] = line[-1]
 
     with open(outjson, "w") as out:
         json.dump(data, out)
@@ -70,22 +84,26 @@ def process_file(inpath, outjson, outjsonl):
         for object in data:
             out.write(json.dumps(object) + "\n")
 
-
 def main():
     """ Main entry point of the app """
+
+    print("Loading unit costs")
+    load_unit_costs()
 
     # match all files with the .txt in the input directory
     pathlist = Path(IN_DIR).glob("*.txt")
 
     for inpath in pathlist:
-        outjson = Path(f"{OUT_DIR}/jsons/{inpath.stem}.json")
-        outjsonl = Path(f"{OUT_DIR}/jsonls/{inpath.stem}.jsonl")
+        outjson = Path(os.path.join(OUT_DIR, "jsons", f"{inpath.stem}.json"))
+        outjsonl = Path(os.path.join(OUT_DIR, "jsonls", f"{inpath.stem}.jsonl"))
 
         print(f"Processing file {inpath.name}")
         process_file(inpath, outjson, outjsonl)
 
         # move processed input files to finished directory
-        os.rename(inpath, f"{IN_DIR}/finished/{inpath.name}")
+        finished_dir = os.path.join(IN_DIR, "finished", inpath.name)
+        os.rename(inpath, finished_dir)
+
     print(f"Finished processing all files in {IN_DIR}")
 
 if __name__ == "__main__":
