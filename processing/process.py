@@ -28,6 +28,15 @@ def calc_reward(curr, prev):
     
     return reward
 
+def get_cheapest_action_wanted(actions_wanted):
+    print(f"get_cheapest_action_wanted {actions_wanted}")
+    cheapest_action = None
+    cheapest_action_cost = 0
+    for action in actions_wanted:
+        action_unit = action.split("_")[1]
+        print(action_unit)
+    return cheapest_action
+
 def process_file(inpath, outjson, outjsonl):
     data = []
     with open(inpath, "r") as f:
@@ -36,13 +45,18 @@ def process_file(inpath, outjson, outjsonl):
         for _ in range(2): # skip headers
             next(f)
 
-        tuple = {} # our current (s, a, r, s') tuple, currently modified to also include all actions_wanted
+        tuple = {} # our current (s, a, r, s') tuple
         state = {} # our current state s
         actions_wanted = []
+        action_made = None
         for line in reader:
             if not line: # reached "break" between updates
                 tuple["s"] = state
-                tuple["a"] = actions_wanted
+
+                if action_made: # if there was an action made, go with that
+                    tuple["a"] = action_made
+                else: # otherwise, we will most likely make the lowest cost action in the future
+                    tuple["a"] = get_cheapest_action_wanted(actions_wanted)
                 
                 if data: # not the first tuple
                     # current s is s' for the last tuple
@@ -58,6 +72,7 @@ def process_file(inpath, outjson, outjsonl):
                 tuple = {}
                 state = {}
                 actions_wanted = []
+                action_made = None
                 continue
 
             heading = line[0]
@@ -75,7 +90,7 @@ def process_file(inpath, outjson, outjsonl):
             elif heading == "ACTION_WANTED:":
                 actions_wanted.append(line[-1])
             else: # heading == ACTION_MADE:
-                tuple["a"] = line[-1]
+                action_made = line[-1]
 
     with open(outjson, "w") as out:
         json.dump(data, out)
