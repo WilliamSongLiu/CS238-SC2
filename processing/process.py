@@ -16,25 +16,29 @@ def load_unit_costs():
     
     unit_costs = {}
     for unit in data["Unit"]:
-        unit_costs[unit["name"]] = (unit["minerals"], unit["gas"])
+        unit_costs[unit["name"].upper()] = (unit["minerals"], unit["gas"])
 
 def calc_reward(curr, prev):
     reward = (curr["minerals"] + curr["gas"]) - (prev["s"]["minerals"] + prev["s"]["gas"])
 
     for unit in curr["my_units"]:
+        unit = unit.upper()
         reward += curr["my_units"][unit] * (unit_costs[unit][0] + unit_costs[unit][1])
     for unit in prev["s"]["my_units"]:
+        unit = unit.upper()
         reward -= prev["s"]["my_units"][unit] * (unit_costs[unit][0] + unit_costs[unit][1])
     
     return reward
 
 def get_cheapest_action_wanted(actions_wanted):
-    print(f"get_cheapest_action_wanted {actions_wanted}")
     cheapest_action = None
     cheapest_action_cost = 0
     for action in actions_wanted:
-        action_unit = action.split("_")[1]
-        print(action_unit)
+        unit = action.split("_")[1].upper()
+        cost = unit_costs[unit]
+        if cheapest_action == None or cost < cheapest_action_cost:
+            cheapest_action = action
+            cheapest_action_cost = cost
     return cheapest_action
 
 def process_file(inpath, outjson, outjsonl):
@@ -81,6 +85,9 @@ def process_file(inpath, outjson, outjsonl):
                 dict_str = dict_str.replace("\'", "\"")
 
                 state[heading[:-1].lower()] = json.loads(dict_str)
+
+                if heading == "MY_UNITS:" or heading == "ENEMY_UNITS:":
+                    state[heading[:-1].lower()] = {k.upper(): v for k, v in state[heading[:-1].lower()].items()}
 
                 # Uncomment this for a "binary" representation of enemy units
                 # This simply puts all the enemy units into a list, without the counts
