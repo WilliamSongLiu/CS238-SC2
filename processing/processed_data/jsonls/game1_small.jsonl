@@ -1,4 +1,4 @@
-{"s": {"enemy_units": {}, "my_units": {"Nexus": 1, "Probe": 12}, "minerals": 50, "gas": 0}, "a": "TRAIN_PROBE", "r": 0, "sp": {"enemy_units": {}, "my_units": {"Nexus": 1, "Probe": 12}, "minerals": 0, "gas": 0}}
-{"s": {"enemy_units": {}, "my_units": {"Nexus": 1, "Probe": 12}, "minerals": 0, "gas": 0}, "a": "TRAIN_PROBE", "r": -50, "sp": {"enemy_units": {}, "my_units": {"Nexus": 1, "Probe": 12}, "minerals": 0, "gas": 0}}
-{"s": {"enemy_units": {}, "my_units": {"Nexus": 1, "Probe": 12}, "minerals": 0, "gas": 0}, "a": "TRAIN_PROBE", "r": 0, "sp": {"enemy_units": {}, "my_units": {"Nexus": 1, "Probe": 12}, "minerals": 0, "gas": 0}}
-{"s": {"enemy_units": {}, "my_units": {"Nexus": 1, "Probe": 12}, "minerals": 0, "gas": 0}, "a": "TRAIN_PROBE", "r": 0}
+{"s": {"enemy_units": {}, "my_units": {"NEXUS": 1, "PROBE": 12}, "minerals": 50, "gas": 0}, "a": "TRAIN_PROBE", "r": 0, "sp": {"enemy_units": {}, "my_units": {"NEXUS": 1, "PROBE": 12}, "minerals": 0, "gas": 0}}
+{"s": {"enemy_units": {}, "my_units": {"NEXUS": 1, "PROBE": 12}, "minerals": 0, "gas": 0}, "a": "TRAIN_PROBE", "r": -50, "sp": {"enemy_units": {}, "my_units": {"NEXUS": 1, "PROBE": 12}, "minerals": 0, "gas": 0}}
+{"s": {"enemy_units": {}, "my_units": {"NEXUS": 1, "PROBE": 12}, "minerals": 0, "gas": 0}, "a": "TRAIN_PROBE", "r": 0, "sp": {"enemy_units": {}, "my_units": {"NEXUS": 1, "PROBE": 12}, "minerals": 0, "gas": 0}}
+{"s": {"enemy_units": {}, "my_units": {"NEXUS": 1, "PROBE": 12}, "minerals": 0, "gas": 0}, "a": "TRAIN_PROBE", "r": 0}
