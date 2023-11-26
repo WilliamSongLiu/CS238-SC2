@@ -9,14 +9,20 @@ OUT_DIR = "processed_data"
 
 # load unit costs into a dict from file
 unit_costs = None
+possible_enemy_units = None
 def load_unit_costs():
-    global unit_costs
+    global unit_costs, possible_enemy_units
     with open("unit_costs.json", "r") as file:
         data = json.load(file)
     
     unit_costs = {}
     for unit in data["Unit"]:
         unit_costs[unit["name"].upper()] = (unit["minerals"], unit["gas"])
+    
+    possible_enemy_units = []
+    for unit in data["Unit"]:
+        if unit["race"] == "Protoss":
+            possible_enemy_units.append(unit["name"].upper())
 
 def calc_reward(curr, prev):
     reward = (curr["minerals"] + curr["gas"]) - (prev["s"]["minerals"] + prev["s"]["gas"])
@@ -49,6 +55,7 @@ def process_file(inpath, outjson, outjsonl):
         for _ in range(2): # skip headers
             next(f)
 
+        seen_enemy_units = {unit: 0 for unit in possible_enemy_units}
         tuple = {} # our current (s, a, r, s') tuple
         state = {} # our current state s
         actions_wanted = []
@@ -86,8 +93,16 @@ def process_file(inpath, outjson, outjsonl):
 
                 state[heading[:-1].lower()] = json.loads(dict_str)
 
+                # making unit names uppercase
                 if heading == "MY_UNITS:" or heading == "ENEMY_UNITS:":
                     state[heading[:-1].lower()] = {k.upper(): v for k, v in state[heading[:-1].lower()].items()}
+                
+                # aggregate enemy unit observations into binary variables
+                if heading == "ENEMY_UNITS:":
+                    for unit in seen_enemy_units:
+                        if seen_enemy_units[unit] == 0 and unit in state[heading[:-1].lower()]:
+                            seen_enemy_units[unit] = 1
+                    state[heading[:-1].lower()] = seen_enemy_units
 
                 # Uncomment this for a "binary" representation of enemy units
                 # This simply puts all the enemy units into a list, without the counts
