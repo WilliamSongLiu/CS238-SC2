@@ -1,10 +1,10 @@
 import os
 
 NUM_GAMES = 1
-OFFSET = 2 # Change this to equal how many games are in the "finished" directory
+OFFSET = 4 # Change this to equal how many games are in the "finished" directory
 MAP = "AncientCisternAIE"
 P1 = "robo"
-P2 = "ai.terran.veryhard.random"
+P2 = "ai.protoss.veryhard.random"
 OUTSTEM = "processing/raw_data/game"
 
 def main():
