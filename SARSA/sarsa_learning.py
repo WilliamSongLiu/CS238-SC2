@@ -1,11 +1,28 @@
 import numpy as np
 import random
 import json
+import os
 from collections import defaultdict
 
+#Define inpath for .jsonl and outpath for policy
+in_path = 'jsonl'
+out_path = 'policy'
+out_name = 'policy_5joined'
+
 #Load Jsonl data
-with open('game5.jsonl', 'r') as file:
-    data = [json.loads(line) for line in file]
+def read_jsonl(file_path):
+    with open(file_path, 'r') as file:
+        return [json.loads(line) for line in file]
+
+#List of all .jsonl files in inpath
+jsonl_files = [file for file in os.listdir(in_path) if file.endswith('.jsonl')]
+
+#Joining all the data
+combined_data = []
+for file_name in jsonl_files:
+    file_path = os.path.join(in_path, file_name)
+    data = read_jsonl(file_path)
+    combined_data.extend(data)
 
 #Flatten the states to store in Q-table
 def flatten_state(state):
@@ -18,7 +35,7 @@ def flatten_state(state):
     return tuple(flat_state)
 
 #Define all possible actions
-all_actions = [entry['a'] for entry in data]
+all_actions = [entry['a'] for entry in combined_data]
 unique_actions = list(set(all_actions))
 
 #Initialize Q-table
@@ -30,7 +47,7 @@ gamma = 0.9;    #discount factor
 epsilon = 0.5;  #exploration rate
 
 #SARSA Learning Loop
-for entry in data:
+for entry in combined_data:
     current_state = flatten_state(entry['s'])
     action = entry['a']
     reward = entry['r']
@@ -98,10 +115,13 @@ def reconstruct_state(flat_state):
     return original_state
 
 #Write the policy to a .jsonl file
-with open('policy_game5.jsonl', 'w') as file:
+output_file_path = os.path.join(out_path, out_name)
+with open(output_file_path, 'w') as file:
     for flat_state, action in policy.items():
         original_state = reconstruct_state(flat_state)
 
         policy_line = {"s":original_state, "a":action}
         json_line = json.dumps(policy_line)
         file.write(json_line + '\n')
+
+print(f"Policy file saved to {output_file_path}")
