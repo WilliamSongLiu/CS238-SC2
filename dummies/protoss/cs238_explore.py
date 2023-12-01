@@ -13,13 +13,13 @@ from sharpy.plans.tactics import *
 class CS238Explore(KnowledgeBot):
     def __init__(self):
         super().__init__("CS 238 Explore")
+        self.actionUnitTypeId = UnitTypeId.PROBE
     
     # This breaks everything
     # async def on_start(self):
-    #     super().on_start()
+    #     pass
     
     async def execute(self):
-        print("b")
         super().execute()
         self.actionUnitTypeId = UnitTypeId.PROBE
 
@@ -80,7 +80,7 @@ class CS238Explore(KnowledgeBot):
         )
 
     async def create_plan(self) -> BuildOrder:
-        print("a")
+        print("create_plan")
         return BuildOrder(
             Step(lambda k: self.actionUnitTypeId == UnitTypeId.PROBE, ActUnit(UnitTypeId.PROBE, UnitTypeId.NEXUS)),
             *self.train_actions(),
