@@ -21,28 +21,31 @@ class CS238Explore(KnowledgeBot):
     def __init__(self):
         super().__init__("CS 238 Explore")
     
-    async def on_start(self):
-        super().on_start()
+    # This breaks everything
+    # async def on_start(self):
+    #     super().on_start()
     
-    async def pre_step_execute(self):
-        super().pre_step_execute()
+    async def execute(self):
+        print("b")
+        super().execute()
         self.actionType = self.ActionEnum.TRAIN_PROBE
         self.actionUnitTypeId = UnitTypeId.PROBE
-        print("pre_step_execute")
 
     def actions(self) -> ActBase:
-        return BuildOrder(
-            Step(lambda k: self.actionType == self.ActionEnum.TRAIN, ProtossUnit(self.actionUnitTypeId)),
-            Step(lambda k: self.actionType == self.ActionEnum.TRAIN_PROBE, ActUnit(UnitTypeId.PROBE, UnitTypeId.NEXUS)),
-            Step(lambda k: self.actionType == self.ActionEnum.BUILD, GridBuilding(self.actionUnitTypeId, 9999)),
-            Step(lambda k: self.actionType == self.ActionEnum.BUILD_EXPANSION, Expand(9999)),
-            Step(lambda k: self.actionType == self.ActionEnum.BUILD_GAS, BuildGas(9999))
-        )
+        return [
+            
+        ]
 
     async def create_plan(self) -> BuildOrder:
+        print("a")
         return BuildOrder(
+            Step(lambda k: self.actionType == self.ActionEnum.TRAIN_PROBE, ActUnit(UnitTypeId.PROBE, UnitTypeId.NEXUS)),
+            Step(lambda k: self.actionType == self.ActionEnum.TRAIN, ProtossUnit(self.actionUnitTypeId)),
+            Step(lambda k: self.actionType == self.ActionEnum.BUILD, GridBuilding(self.actionUnitTypeId, 9999)),
+            Step(lambda k: self.actionType == self.ActionEnum.BUILD_EXPANSION, Expand(9999)),
+            Step(lambda k: self.actionType == self.ActionEnum.BUILD_GAS, BuildGas(9999)),
+
             ChronoUnit(UnitTypeId.PROBE, UnitTypeId.NEXUS),
-            self.actions(),
             SequentialList(
                 MineOpenBlockedBase(),
                 PlanZoneDefense(),
