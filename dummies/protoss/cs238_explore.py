@@ -17,7 +17,6 @@ class CS238Explore(KnowledgeBot):
         super().__init__("CS 238 Explore")
         self.action = None
         self.action_unit_count = 0
-        self.queue_next_action = False
     
     # This breaks everything
     # async def on_start(self):
@@ -45,10 +44,8 @@ class CS238Explore(KnowledgeBot):
 
         # If we picked an action, check if we've done it yet, unless it's invalid
         new_action = False
-        if self.queue_next_action:
-            new_action = True
-        elif self.action:
-            if len(self.knowledge.unit_cache.own(self.action)) != self.action_unit_count or not self.is_action_valid(self.action):
+        if self.action:
+            if len(self.knowledge.unit_cache.own(self.action)) != self.action_unit_count or not self.is_action_valid(self.action) or self.knowledge.can_afford(self.action, check_supply_cost=False):
                 new_action = True
         else:
             new_action = True
@@ -59,7 +56,7 @@ class CS238Explore(KnowledgeBot):
                 UnitTypeId.PROBE,
                 UnitTypeId.ZEALOT, UnitTypeId.STALKER, UnitTypeId.SENTRY, UnitTypeId.ADEPT, UnitTypeId.HIGHTEMPLAR, UnitTypeId.DARKTEMPLAR, UnitTypeId.IMMORTAL, UnitTypeId.COLOSSUS, UnitTypeId.DISRUPTOR, UnitTypeId.OBSERVER, UnitTypeId.WARPPRISM, UnitTypeId.PHOENIX, UnitTypeId.VOIDRAY, UnitTypeId.ORACLE, UnitTypeId.CARRIER, UnitTypeId.TEMPEST,
                 UnitTypeId.NEXUS, UnitTypeId.ASSIMILATOR,
-                UnitTypeId.PYLON, UnitTypeId.GATEWAY, UnitTypeId.FORGE, UnitTypeId.CYBERNETICSCORE, UnitTypeId.PHOTONCANNON, UnitTypeId.SHIELDBATTERY, UnitTypeId.TWILIGHTCOUNCIL, UnitTypeId.STARGATE, UnitTypeId.ROBOTICSFACILITY, UnitTypeId.TEMPLARARCHIVE, UnitTypeId.DARKSHRINE, UnitTypeId.FLEETBEACON, UnitTypeId.ROBOTICSBAY,
+                UnitTypeId.PYLON, UnitTypeId.GATEWAY, UnitTypeId.FORGE, UnitTypeId.CYBERNETICSCORE, UnitTypeId.PHOTONCANNON, UnitTypeId.TWILIGHTCOUNCIL, UnitTypeId.STARGATE, UnitTypeId.ROBOTICSFACILITY, UnitTypeId.TEMPLARARCHIVE, UnitTypeId.DARKSHRINE, UnitTypeId.FLEETBEACON, UnitTypeId.ROBOTICSBAY,
             ]
 
             only_want_one = [UnitTypeId.FORGE, UnitTypeId.CYBERNETICSCORE, UnitTypeId.TWILIGHTCOUNCIL, UnitTypeId.TEMPLARARCHIVE, UnitTypeId.DARKSHRINE, UnitTypeId.FLEETBEACON]
@@ -71,17 +68,14 @@ class CS238Explore(KnowledgeBot):
             valid_action_weights = [1 for action in valid_actions]
             for i in range(len(valid_actions)):
                 if valid_actions[i] == UnitTypeId.PROBE:
-                    valid_action_weights[i] = 3 if len(self.knowledge.unit_cache.own(UnitTypeId.PROBE)) < len(self.knowledge.unit_cache.own(UnitTypeId.NEXUS)) * 20 else 0
-                    print(f"probe weight {valid_action_weights[i]}")
+                    valid_action_weights[i] = 5 if len(self.knowledge.unit_cache.own(UnitTypeId.PROBE)) < len(self.knowledge.unit_cache.own(UnitTypeId.NEXUS)) * 18 else 0
                 elif valid_actions[i] == UnitTypeId.NEXUS:
-                    valid_action_weights[i] = 2 if len(self.knowledge.unit_cache.own(UnitTypeId.PROBE)) > len(self.knowledge.unit_cache.own(UnitTypeId.NEXUS)) * 20 else 0
-                    print(f"nexus weight {valid_action_weights[i]}")
+                    valid_action_weights[i] = 5 if len(self.knowledge.unit_cache.own(UnitTypeId.PROBE)) > len(self.knowledge.unit_cache.own(UnitTypeId.NEXUS)) * 14 else 0
                 elif valid_actions[i] == UnitTypeId.ASSIMILATOR:
-                    valid_action_weights[i] = 2 if len(self.knowledge.unit_cache.own(UnitTypeId.ASSIMILATOR)) < len(self.knowledge.unit_cache.own(UnitTypeId.NEXUS)) * 2 else 0
+                    valid_action_weights[i] = 4 if len(self.knowledge.unit_cache.own(UnitTypeId.ASSIMILATOR)) < len(self.knowledge.unit_cache.own(UnitTypeId.NEXUS)) * 2 else 0
 
             self.action = random.choices(valid_actions, valid_action_weights, k=1)[0] if len(valid_actions) > 0 else None
             self.action_unit_count = len(self.knowledge.unit_cache.own(self.action))
-            self.queue_next_action = self.knowledge.can_afford(self.action, False)
 
             print(f"valid actions {valid_actions}")
             print(f"new action {self.action}")
