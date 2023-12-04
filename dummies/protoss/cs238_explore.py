@@ -24,12 +24,19 @@ class CS238Explore(KnowledgeBot):
     
     def is_action_valid(self, action):
         if action not in UNIT_TRAINED_FROM:
-            return True
+            return False
         for unit_from in UNIT_TRAINED_FROM[action]:
-            if len(self.knowledge.unit_cache.own(unit_from)) > 0:
-                if "required_building" not in TRAIN_INFO[unit_from][action] or len(
-                    self.knowledge.unit_cache.own(TRAIN_INFO[unit_from][action]["required_building"])) > 0:
-                    return True
+            if len(self.knowledge.unit_cache.own(unit_from)) == 0:
+                continue
+            entry = None
+            if action in TRAIN_INFO[unit_from]:
+                entry = TRAIN_INFO[unit_from][action]
+            elif action in TRAIN_INFO[unit_from][UnitTypeId.PROBE]:
+                entry = TRAIN_INFO[unit_from][UnitTypeId.PROBE][action]
+            if not entry:
+                continue
+            if "required_building" not in entry or len(self.knowledge.unit_cache.own(entry["required_building"])) > 0:
+                return True
         return False
 
     async def execute(self):
