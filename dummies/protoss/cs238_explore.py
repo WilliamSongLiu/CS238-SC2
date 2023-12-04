@@ -68,7 +68,18 @@ class CS238Explore(KnowledgeBot):
                     all_actions.remove(action)
             
             valid_actions = [action for action in all_actions if self.is_action_valid(action)]
-            self.action = random.choice(valid_actions) if len(valid_actions) > 0 else None
+            valid_action_weights = [1 for action in valid_actions]
+            for i in range(len(valid_actions)):
+                if valid_actions[i] == UnitTypeId.PROBE:
+                    valid_action_weights[i] = 3 if len(self.knowledge.unit_cache.own(UnitTypeId.PROBE)) < len(self.knowledge.unit_cache.own(UnitTypeId.NEXUS)) * 20 else 0
+                    print(f"probe weight {valid_action_weights[i]}")
+                elif valid_actions[i] == UnitTypeId.NEXUS:
+                    valid_action_weights[i] = 2 if len(self.knowledge.unit_cache.own(UnitTypeId.PROBE)) > len(self.knowledge.unit_cache.own(UnitTypeId.NEXUS)) * 20 else 0
+                    print(f"nexus weight {valid_action_weights[i]}")
+                elif valid_actions[i] == UnitTypeId.ASSIMILATOR:
+                    valid_action_weights[i] = 2 if len(self.knowledge.unit_cache.own(UnitTypeId.ASSIMILATOR)) < len(self.knowledge.unit_cache.own(UnitTypeId.NEXUS)) * 2 else 0
+
+            self.action = random.choices(valid_actions, valid_action_weights, k=1)[0] if len(valid_actions) > 0 else None
             self.action_unit_count = len(self.knowledge.unit_cache.own(self.action))
             self.queue_next_action = self.knowledge.can_afford(self.action, False)
 
