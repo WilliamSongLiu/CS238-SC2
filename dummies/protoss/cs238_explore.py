@@ -17,6 +17,7 @@ class CS238Explore(KnowledgeBot):
         super().__init__("CS 238 Explore")
         self.action = None
         self.action_unit_count = 0
+        self.action_wanted_turns = 0
     
     # This breaks everything
     # async def on_start(self):
@@ -42,10 +43,11 @@ class CS238Explore(KnowledgeBot):
     async def execute(self):
         super().execute()
 
-        # If we picked an action, check if we've done it yet, unless it's invalid, or if we can afford it meaning we can start the next one too
+        # If we picked an action, check if we've done it yet, unless it's invalid, or if we can afford it meaning we can start the next one too, or if we've wanted it for too long
+        self.action_wanted_turns += 1
         new_action = False
         if self.action:
-            if len(self.knowledge.unit_cache.own(self.action)) != self.action_unit_count or not self.is_action_valid(self.action) or self.knowledge.can_afford(self.action, check_supply_cost=False):
+            if len(self.knowledge.unit_cache.own(self.action)) != self.action_unit_count or not self.is_action_valid(self.action) or self.knowledge.can_afford(self.action, check_supply_cost=False) or self.action_wanted_turns >= 50:
                 new_action = True
         else:
             new_action = True
@@ -74,9 +76,14 @@ class CS238Explore(KnowledgeBot):
                 elif valid_actions[i] == UnitTypeId.NEXUS:
                     valid_action_weights[i] = 5 if len(self.knowledge.unit_cache.own(UnitTypeId.PROBE)) >= len(self.knowledge.unit_cache.own(UnitTypeId.NEXUS)) * 14 else 0
                 elif valid_actions[i] == UnitTypeId.ASSIMILATOR:
-                    valid_action_weights[i] = 7 if len(self.knowledge.unit_cache.own(UnitTypeId.ASSIMILATOR)) < len(self.knowledge.unit_cache.own(UnitTypeId.NEXUS)) * 2 else 0
+                    valid_action_weights[i] = 10 if len(self.knowledge.unit_cache.own(UnitTypeId.ASSIMILATOR)) < len(self.knowledge.unit_cache.own(UnitTypeId.NEXUS)) * 2 and self.vespene < 300 else 0
                 elif valid_actions[i] == UnitTypeId.PYLON:
-                    valid_action_weights[i] = 10 if self.supply_left < 3 else 1
+                    if self.supply_left < 3:
+                        valid_action_weights[i] = 10
+                    elif self.supply_left < 10:
+                        valid_action_weights[i] = 5
+                    else:
+                        valid_action_weights[i] = 1
                 elif valid_actions[i] in train_actions:
                     valid_action_weights[i] = 5 if self.supply_left >= 10 else 3
                 elif valid_actions[i] in build_actions:
@@ -84,6 +91,7 @@ class CS238Explore(KnowledgeBot):
 
             self.action = random.choices(valid_actions, valid_action_weights, k=1)[0] if len(valid_actions) > 0 else None
             self.action_unit_count = len(self.knowledge.unit_cache.own(self.action))
+            self.action_wanted_turns = 0
 
             print(f"valid actions {valid_actions}")
             print(f"new action {self.action}")
