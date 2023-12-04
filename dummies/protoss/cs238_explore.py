@@ -58,6 +58,10 @@ class CS238Explore(KnowledgeBot):
                 UnitTypeId.NEXUS, UnitTypeId.ASSIMILATOR,
                 UnitTypeId.PYLON, UnitTypeId.GATEWAY, UnitTypeId.FORGE, UnitTypeId.CYBERNETICSCORE, UnitTypeId.PHOTONCANNON, UnitTypeId.SHIELDBATTERY, UnitTypeId.TWILIGHTCOUNCIL, UnitTypeId.STARGATE, UnitTypeId.ROBOTICSFACILITY, UnitTypeId.TEMPLARARCHIVE, UnitTypeId.DARKSHRINE, UnitTypeId.FLEETBEACON, UnitTypeId.ROBOTICSBAY,
             ]
+            only_want_one = [UnitTypeId.FORGE, UnitTypeId.CYBERNETICSCORE, UnitTypeId.TWILIGHTCOUNCIL, UnitTypeId.TEMPLARARCHIVE, UnitTypeId.DARKSHRINE, UnitTypeId.FLEETBEACON]
+            for action in only_want_one:
+                if len(self.knowledge.unit_cache.own(action)):
+                    all_actions.remove(action)
             valid_actions = [action for action in all_actions if self.is_action_valid(action)]
             self.action = random.choice(valid_actions) if len(valid_actions) > 0 else None
             self.action_unit_count = len(self.knowledge.unit_cache.own(self.action))
