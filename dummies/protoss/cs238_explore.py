@@ -93,10 +93,10 @@ class CS238Explore(KnowledgeBot):
             self.action_unit_count = len(self.knowledge.unit_cache.own(self.action))
             self.action_wanted_turns = 0
 
-            print(f"valid actions {valid_actions}")
-            print(f"new action {self.action}")
-        else:
-            print(f"old action {self.action}")
+        #     print(f"valid actions {valid_actions}")
+        #     print(f"new action {self.action}")
+        # else:
+        #     print(f"old action {self.action}")
 
     def train_actions(self):
         return (
