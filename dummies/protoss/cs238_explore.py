@@ -1,5 +1,7 @@
 from sc2.data import Race
 from sc2.ids.unit_typeid import UnitTypeId
+from sc2.dicts.unit_trained_from import UNIT_TRAINED_FROM
+from sc2.dicts.unit_train_build_abilities import TRAIN_INFO
 
 from sharpy.knowledges import KnowledgeBot
 from sharpy.plans import BuildOrder, Step, SequentialList
@@ -13,22 +15,47 @@ import random
 class CS238Explore(KnowledgeBot):
     def __init__(self):
         super().__init__("CS 238 Explore")
-        self.action = UnitTypeId.PROBE
+        self.action = None
+        self.action_unit_count = 0
     
     # This breaks everything
     # async def on_start(self):
     #     pass
     
+    def is_action_valid(self, action):
+        if action not in UNIT_TRAINED_FROM:
+            return True
+        for unit_from in UNIT_TRAINED_FROM[action]:
+            if len(self.knowledge.unit_cache.own(unit_from)) > 0:
+                if "required_building" not in TRAIN_INFO[unit_from][action] or len(
+                    self.knowledge.unit_cache.own(TRAIN_INFO[unit_from][action]["required_building"])) > 0:
+                    return True
+        return False
+
     async def execute(self):
         super().execute()
-        possible_actions = [
-            UnitTypeId.PROBE,
-            UnitTypeId.ZEALOT, UnitTypeId.STALKER, UnitTypeId.SENTRY, UnitTypeId.ADEPT, UnitTypeId.HIGHTEMPLAR, UnitTypeId.DARKTEMPLAR, UnitTypeId.IMMORTAL, UnitTypeId.COLOSSUS, UnitTypeId.DISRUPTOR, UnitTypeId.OBSERVER, UnitTypeId.WARPPRISM, UnitTypeId.PHOENIX, UnitTypeId.VOIDRAY, UnitTypeId.ORACLE, UnitTypeId.CARRIER, UnitTypeId.TEMPEST,
-            UnitTypeId.NEXUS, UnitTypeId.ASSIMILATOR,
-            UnitTypeId.PYLON, UnitTypeId.GATEWAY, UnitTypeId.FORGE, UnitTypeId.CYBERNETICSCORE, UnitTypeId.PHOTONCANNON, UnitTypeId.SHIELDBATTERY, UnitTypeId.TWILIGHTCOUNCIL, UnitTypeId.STARGATE, UnitTypeId.ROBOTICSFACILITY, UnitTypeId.TEMPLARARCHIVE, UnitTypeId.DARKSHRINE, UnitTypeId.FLEETBEACON, UnitTypeId.ROBOTICSBAY,
-        ]
-        self.action = random.choice(possible_actions)
-        print(f"execute action {self.action}")
+
+        # If we picked an action, check if we've done it yet, unless it's invalid
+        new_action = False
+        if self.action:
+            if len(self.knowledge.unit_cache.own(self.action)) != self.action_unit_count:
+                new_action = True
+        else:
+            new_action = True
+        
+        # Pick a new action
+        if new_action:
+            all_actions = [
+                UnitTypeId.PROBE,
+                UnitTypeId.ZEALOT, UnitTypeId.STALKER, UnitTypeId.SENTRY, UnitTypeId.ADEPT, UnitTypeId.HIGHTEMPLAR, UnitTypeId.DARKTEMPLAR, UnitTypeId.IMMORTAL, UnitTypeId.COLOSSUS, UnitTypeId.DISRUPTOR, UnitTypeId.OBSERVER, UnitTypeId.WARPPRISM, UnitTypeId.PHOENIX, UnitTypeId.VOIDRAY, UnitTypeId.ORACLE, UnitTypeId.CARRIER, UnitTypeId.TEMPEST,
+                UnitTypeId.NEXUS, UnitTypeId.ASSIMILATOR,
+                UnitTypeId.PYLON, UnitTypeId.GATEWAY, UnitTypeId.FORGE, UnitTypeId.CYBERNETICSCORE, UnitTypeId.PHOTONCANNON, UnitTypeId.SHIELDBATTERY, UnitTypeId.TWILIGHTCOUNCIL, UnitTypeId.STARGATE, UnitTypeId.ROBOTICSFACILITY, UnitTypeId.TEMPLARARCHIVE, UnitTypeId.DARKSHRINE, UnitTypeId.FLEETBEACON, UnitTypeId.ROBOTICSBAY,
+            ]
+            valid_actions = [action for action in all_actions if self.is_action_valid(action)]
+            self.action = random.choice(valid_actions) if len(valid_actions) > 0 else None
+            self.action_unit_count = len(self.knowledge.unit_cache.own(self.action))
+            print(f"valid actions {valid_actions}")
+            print(f"new action {self.action}")
 
     def train_actions(self):
         return (
@@ -84,7 +111,7 @@ class CS238Explore(KnowledgeBot):
                 DistributeWorkers(),
                 Step(None, SpeedMining(), lambda ai: ai.client.game_step > 5),
                 PlanZoneGather(),
-                PlanZoneAttack(4),
+                PlanZoneAttack(20),
                 PlanFinishEnemy(),
             )
         )
