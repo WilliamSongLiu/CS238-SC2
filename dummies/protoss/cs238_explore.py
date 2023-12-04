@@ -42,7 +42,7 @@ class CS238Explore(KnowledgeBot):
     async def execute(self):
         super().execute()
 
-        # If we picked an action, check if we've done it yet, unless it's invalid
+        # If we picked an action, check if we've done it yet, unless it's invalid, or if we can afford it meaning we can start the next one too
         new_action = False
         if self.action:
             if len(self.knowledge.unit_cache.own(self.action)) != self.action_unit_count or not self.is_action_valid(self.action) or self.knowledge.can_afford(self.action, check_supply_cost=False):
@@ -52,11 +52,13 @@ class CS238Explore(KnowledgeBot):
         
         # Pick a new action
         if new_action:
+            train_actions = [UnitTypeId.ZEALOT, UnitTypeId.STALKER, UnitTypeId.SENTRY, UnitTypeId.ADEPT, UnitTypeId.HIGHTEMPLAR, UnitTypeId.DARKTEMPLAR, UnitTypeId.IMMORTAL, UnitTypeId.COLOSSUS, UnitTypeId.DISRUPTOR, UnitTypeId.OBSERVER, UnitTypeId.WARPPRISM, UnitTypeId.PHOENIX, UnitTypeId.VOIDRAY, UnitTypeId.ORACLE, UnitTypeId.CARRIER, UnitTypeId.TEMPEST]
+            build_actions = [UnitTypeId.GATEWAY, UnitTypeId.FORGE, UnitTypeId.CYBERNETICSCORE, UnitTypeId.PHOTONCANNON, UnitTypeId.TWILIGHTCOUNCIL, UnitTypeId.STARGATE, UnitTypeId.ROBOTICSFACILITY, UnitTypeId.TEMPLARARCHIVE, UnitTypeId.DARKSHRINE, UnitTypeId.FLEETBEACON, UnitTypeId.ROBOTICSBAY]
             all_actions = [
                 UnitTypeId.PROBE,
-                UnitTypeId.ZEALOT, UnitTypeId.STALKER, UnitTypeId.SENTRY, UnitTypeId.ADEPT, UnitTypeId.HIGHTEMPLAR, UnitTypeId.DARKTEMPLAR, UnitTypeId.IMMORTAL, UnitTypeId.COLOSSUS, UnitTypeId.DISRUPTOR, UnitTypeId.OBSERVER, UnitTypeId.WARPPRISM, UnitTypeId.PHOENIX, UnitTypeId.VOIDRAY, UnitTypeId.ORACLE, UnitTypeId.CARRIER, UnitTypeId.TEMPEST,
-                UnitTypeId.NEXUS, UnitTypeId.ASSIMILATOR,
-                UnitTypeId.PYLON, UnitTypeId.GATEWAY, UnitTypeId.FORGE, UnitTypeId.CYBERNETICSCORE, UnitTypeId.PHOTONCANNON, UnitTypeId.TWILIGHTCOUNCIL, UnitTypeId.STARGATE, UnitTypeId.ROBOTICSFACILITY, UnitTypeId.TEMPLARARCHIVE, UnitTypeId.DARKSHRINE, UnitTypeId.FLEETBEACON, UnitTypeId.ROBOTICSBAY,
+                *train_actions,
+                UnitTypeId.NEXUS, UnitTypeId.ASSIMILATOR, UnitTypeId.PYLON,
+                *build_actions
             ]
 
             only_want_one = [UnitTypeId.FORGE, UnitTypeId.CYBERNETICSCORE, UnitTypeId.TWILIGHTCOUNCIL, UnitTypeId.TEMPLARARCHIVE, UnitTypeId.DARKSHRINE, UnitTypeId.FLEETBEACON]
@@ -68,11 +70,17 @@ class CS238Explore(KnowledgeBot):
             valid_action_weights = [1 for action in valid_actions]
             for i in range(len(valid_actions)):
                 if valid_actions[i] == UnitTypeId.PROBE:
-                    valid_action_weights[i] = 5 if len(self.knowledge.unit_cache.own(UnitTypeId.PROBE)) < len(self.knowledge.unit_cache.own(UnitTypeId.NEXUS)) * 18 else 0
+                    valid_action_weights[i] = 20 if len(self.knowledge.unit_cache.own(UnitTypeId.PROBE)) < len(self.knowledge.unit_cache.own(UnitTypeId.NEXUS)) * 18 else 0
                 elif valid_actions[i] == UnitTypeId.NEXUS:
-                    valid_action_weights[i] = 5 if len(self.knowledge.unit_cache.own(UnitTypeId.PROBE)) > len(self.knowledge.unit_cache.own(UnitTypeId.NEXUS)) * 14 else 0
+                    valid_action_weights[i] = 5 if len(self.knowledge.unit_cache.own(UnitTypeId.PROBE)) >= len(self.knowledge.unit_cache.own(UnitTypeId.NEXUS)) * 14 else 0
                 elif valid_actions[i] == UnitTypeId.ASSIMILATOR:
-                    valid_action_weights[i] = 4 if len(self.knowledge.unit_cache.own(UnitTypeId.ASSIMILATOR)) < len(self.knowledge.unit_cache.own(UnitTypeId.NEXUS)) * 2 else 0
+                    valid_action_weights[i] = 7 if len(self.knowledge.unit_cache.own(UnitTypeId.ASSIMILATOR)) < len(self.knowledge.unit_cache.own(UnitTypeId.NEXUS)) * 2 else 0
+                elif valid_actions[i] == UnitTypeId.PYLON:
+                    valid_action_weights[i] = 10 if self.supply_left < 3 else 1
+                elif valid_actions[i] in train_actions:
+                    valid_action_weights[i] = 5 if self.supply_left >= 10 else 3
+                elif valid_actions[i] in build_actions:
+                    valid_action_weights[i] = 3 if self.supply_left < 10 else 1
 
             self.action = random.choices(valid_actions, valid_action_weights, k=1)[0] if len(valid_actions) > 0 else None
             self.action_unit_count = len(self.knowledge.unit_cache.own(self.action))
