@@ -5,19 +5,19 @@ import os
 from collections import defaultdict
 
 #Define inpath for .jsonl and outpath for policy
-in_path = 'jsonl'
+in_path = '..\processing\processed_data\jsonls'
 out_path = 'policy'
-out_name = 'policy_5joined'
+out_name = 'policy_54joined.jsonl'
 
-#Load Jsonl data
+#Read jsonl file
 def read_jsonl(file_path):
     with open(file_path, 'r') as file:
         return [json.loads(line) for line in file]
-
+    
 #List of all .jsonl files in inpath
 jsonl_files = [file for file in os.listdir(in_path) if file.endswith('.jsonl')]
 
-#Joining all the data
+#Join all the data
 combined_data = []
 for file_name in jsonl_files:
     file_path = os.path.join(in_path, file_name)
@@ -42,9 +42,9 @@ unique_actions = list(set(all_actions))
 q_table = defaultdict(lambda: defaultdict(float))
 
 #Define learning parameters
-alpha = 0.1;    #learning rate
+alpha = 0.01;    #learning rate
 gamma = 0.9;    #discount factor
-epsilon = 0.5;  #exploration rate
+epsilon = 0.3;  #exploration rate
 
 #SARSA Learning Loop
 for entry in combined_data:
@@ -87,38 +87,38 @@ def derive_policy(q_table):
 #Policy of SARSA learning
 policy = derive_policy(q_table)
 
-#Converting states back to original
-def reconstruct_state(flat_state):
-    unit_keys = ["COLOSSUS", "MOTHERSHIP", "NEXUS", "PYLON", "ASSIMILATOR", "GATEWAY", "FORGE", "FLEETBEACON", 
-                 "TWILIGHTCOUNCIL", "PHOTONCANNON", "STARGATE", "TEMPLARARCHIVE", "DARKSHRINE", "ROBOTICSBAY",
-                 "ROBOTICSFACILITY", "CYBERNETICSCORE", "ZEALOT", "STALKER", "HIGHTEMPLAR", "DARKTEMPLAR", 
-                 "SENTRY", "PHOENIX", "CARRIER", "VOIDRAY", "WARPPRISM", "OBSERVER", "IMMORTAL", "PROBE", "INTERCEPTOR", 
-                 "WARPGATE", "WARPPRISMPHASING", "ARCHON", "ADEPT", "MOTHERSHIPCORE", "ORACLE", "TEMPEST", "RESOURCEBLOCKER", 
-                 "ICEPROTOSSCRATES", "PROTOSSCRATES", "DISRUPTOR", "VOIDMPIMMORTALREVIVECORPSE", "ORACLESTASISTRAP", 
-                 "DISRUPTORPHASED", "RELEASEINTERCEPTORSBEACON", "ADEPTPHASESHIFT", "REPLICANT", "CORSAIRMP", 
-                 "SCOUTMP", "ARBITERMP", "PYLONOVERCHARGED", "SHIELDBATTERY", "OBSERVERSIEGEMODE", "ASSIMILATORRICH"]
-    num_unit_keys = len(unit_keys)
+# #Converting states back to original
+# def reconstruct_state(flat_state):
+#     unit_keys = ["COLOSSUS", "MOTHERSHIP", "NEXUS", "PYLON", "ASSIMILATOR", "GATEWAY", "FORGE", "FLEETBEACON", 
+#                  "TWILIGHTCOUNCIL", "PHOTONCANNON", "STARGATE", "TEMPLARARCHIVE", "DARKSHRINE", "ROBOTICSBAY",
+#                  "ROBOTICSFACILITY", "CYBERNETICSCORE", "ZEALOT", "STALKER", "HIGHTEMPLAR", "DARKTEMPLAR", 
+#                  "SENTRY", "PHOENIX", "CARRIER", "VOIDRAY", "WARPPRISM", "OBSERVER", "IMMORTAL", "PROBE", "INTERCEPTOR", 
+#                  "WARPGATE", "WARPPRISMPHASING", "ARCHON", "ADEPT", "MOTHERSHIPCORE", "ORACLE", "TEMPEST", "RESOURCEBLOCKER", 
+#                  "ICEPROTOSSCRATES", "PROTOSSCRATES", "DISRUPTOR", "VOIDMPIMMORTALREVIVECORPSE", "ORACLESTASISTRAP", 
+#                  "DISRUPTORPHASED", "RELEASEINTERCEPTORSBEACON", "ADEPTPHASESHIFT", "REPLICANT", "CORSAIRMP", 
+    #              "SCOUTMP", "ARBITERMP", "PYLONOVERCHARGED", "SHIELDBATTERY", "OBSERVERSIEGEMODE", "ASSIMILATORRICH"]
+    # num_unit_keys = len(unit_keys)
 
-    #split the flat states into parts
-    enemy_units_values = flat_state[:num_unit_keys]
-    my_units_values = flat_state[num_unit_keys : num_unit_keys*2]
-    minerals, gas = flat_state[num_unit_keys*2], flat_state[num_unit_keys*2 + 1]
+#     #split the flat states into parts
+#     enemy_units_values = flat_state[:num_unit_keys]
+#     my_units_values = flat_state[num_unit_keys : num_unit_keys*2]
+#     minerals, gas = flat_state[num_unit_keys*2], flat_state[num_unit_keys*2 + 1]
 
-    #Reconstruct the original state
-    original_state = {
-        "enemy_units": dict(zip(unit_keys, enemy_units_values)),
-        "my_units": dict(zip(unit_keys, my_units_values)),
-        "minerals": minerals,
-        "gas": gas
-    }
+#     #Reconstruct the original state
+#     original_state = {
+#         "enemy_units": dict(zip(unit_keys, enemy_units_values)),
+#         "my_units": dict(zip(unit_keys, my_units_values)),
+#         "minerals": minerals,
+#         "gas": gas
+#     }
 
-    return original_state
+#     return original_state
 
 #Write the policy to a .jsonl file
 output_file_path = os.path.join(out_path, out_name)
 with open(output_file_path, 'w') as file:
     for flat_state, action in policy.items():
-        original_state = reconstruct_state(flat_state)
+        original_state = flat_state
 
         policy_line = {"s":original_state, "a":action}
         json_line = json.dumps(policy_line)
