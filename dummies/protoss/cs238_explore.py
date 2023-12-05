@@ -39,10 +39,8 @@ class CS238Explore(KnowledgeBot):
             if "required_building" not in entry or len(self.knowledge.unit_cache.own(entry["required_building"])) > 0:
                 return True
         return False
-
-    async def execute(self):
-        super().execute()
-
+    
+    def random_policy(self):
         # If we picked an action, check if we've done it yet, unless it's invalid, or if we can afford it meaning we can start the next one too, or if we've wanted it for too long
         self.action_wanted_turns += 1
         new_action = False
@@ -97,6 +95,15 @@ class CS238Explore(KnowledgeBot):
         #     print(f"new action {self.action}")
         # else:
         #     print(f"old action {self.action}")
+
+    def policy(self):
+        my_units = self.unit_cache.get_my_units()
+        minerals = self.knowledge.ai.minerals
+        gas = self.knowledge.ai.vespene
+
+    async def execute(self):
+        super().execute()
+        self.random_policy()
 
     def train_actions(self):
         return (

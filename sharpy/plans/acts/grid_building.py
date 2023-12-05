@@ -169,7 +169,7 @@ class GridBuilding(ActBuilding):
 
         adjusted_income = self.income_calculator.mineral_income * 0.93  # 14 / 15 = 0.933333
 
-        print(f"ACTION_WANTED: BUILD_{self.unit_type.name}")
+        print(f"ACTION_WANTED: {self.unit_type.name}")
         # build_logger.info(f"ACTION WANTED: BUILD {self.unit_type.name}")
         if self.knowledge.can_afford(self.unit_type, check_supply_cost=False):
             if wait_time <= 0:
@@ -183,7 +183,7 @@ class GridBuilding(ActBuilding):
                     else:
                         await self.build_zerg(worker, count, position)
                     self.print(f"Building {self.unit_type.name} at {position}")
-                    print(f"ACTION_MADE: BUILD_{self.unit_type.name}")
+                    print(f"ACTION_MADE: {self.unit_type.name}")
                     # build_logger.info(f"ACTION MADE: BUILD {self.unit_type.name}")
                 return False
 
