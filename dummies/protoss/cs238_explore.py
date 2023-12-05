@@ -88,7 +88,7 @@ class CS238Explore(KnowledgeBot):
                     valid_action_weights[i] = 3 if self.supply_left < 10 else 1
 
             self.action = random.choices(valid_actions, valid_action_weights, k=1)[0] if len(valid_actions) > 0 else None
-            self.action_unit_count = len(self.knowledge.unit_cache.own(self.action))
+            self.action_unit_count = len(self.knowledge.unit_cache.own(self.action)) if self.action else 0
             self.action_wanted_turns = 0
 
         #     print(f"valid actions {valid_actions}")
