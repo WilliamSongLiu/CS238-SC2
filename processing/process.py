@@ -3,7 +3,8 @@ import csv
 from pathlib import Path
 import os
 
-STATE_INFO = {"MY_UNITS:", "ENEMY_UNITS:", "MINERALS:", "GAS:"}
+# STATE_INFO = {"MY_UNITS:", "ENEMY_UNITS:", "MINERALS:", "GAS:"}
+STATE_INFO = {"MY_UNITS:", "MINERALS:", "GAS:"}
 IN_DIR = "raw_data"
 OUT_DIR = "processed_data"
 
@@ -55,7 +56,7 @@ def process_file(inpath, outjson, outjsonl):
         for _ in range(2): # skip headers
             next(f)
 
-        seen_enemy_units = {unit: 0 for unit in protoss_units}
+        # seen_enemy_units = {unit: 0 for unit in protoss_units}
         tuple = {} # our current (s, a, r, s') tuple
         state = {} # our current state s
         actions_wanted = []
@@ -94,7 +95,7 @@ def process_file(inpath, outjson, outjsonl):
                 state[heading[:-1].lower()] = json.loads(dict_str)
 
                 # making unit names uppercase
-                if heading == "MY_UNITS:" or heading == "ENEMY_UNITS:":
+                if heading == "MY_UNITS:":
                     state[heading[:-1].lower()] = {k.upper(): v for k, v in state[heading[:-1].lower()].items()}
                 
                 if heading == "MY_UNITS:":
@@ -104,11 +105,11 @@ def process_file(inpath, outjson, outjsonl):
                     }
 
                 # aggregate enemy unit observations into binary variables
-                if heading == "ENEMY_UNITS:":
-                    for unit in state[heading[:-1].lower()]:
-                        if seen_enemy_units[unit] == 0:
-                            seen_enemy_units[unit] = 1
-                    state[heading[:-1].lower()] = seen_enemy_units
+                # if heading == "ENEMY_UNITS:":
+                #     for unit in state[heading[:-1].lower()]:
+                #         if seen_enemy_units[unit] == 0:
+                #             seen_enemy_units[unit] = 1
+                #     state[heading[:-1].lower()] = seen_enemy_units
 
                 # Uncomment this for a "binary" representation of enemy units
                 # This simply puts all the enemy units into a list, without the counts
