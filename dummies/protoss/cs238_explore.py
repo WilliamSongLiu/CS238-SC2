@@ -111,19 +111,28 @@ class CS238Explore(KnowledgeBot):
                     state_tuple = tuple(data['s'])
                     pol[state_tuple] = data['a']
             return pol
-
+            
+        def flatten_state(state):
+            flat_state = []
+            for key, value in state.items():
+                if isinstance(value, dict):
+                    flat_state.extend(value.values())
+                else:
+                    flat_state.append(value)
+            return tuple(flat_state)
+        
         def get_action(state, pol):
-            state_tuple = tuple(state)
-            if state_tuple in pol:
-                return pol[state_tuple]
+            if state in pol:
+                return pol[state]
             else:
-                return self.random_policy
+                return self.random_policy   #FIX CAUSE I DONT KNOW HOW THE RANDOM_POLICY WORKS
 
-        policy = load_policy('..\SARSA\policy')
-        flattened_units = [item for sublist in my_units.values() for item in sublist]
-        flattened_state = flattened_units + [minerals, gas]
+        policy = load_policy("..\..\SARSA\policy\policy_game5.jsonl")   #File path = ..\..\SARSA\policy\nameofpolicy.jsonl
+        flattened_units = flatten_state(my_units)
+        flattened_state = flattened_units + (minerals, gas)
         action = get_action(flattened_state, policy)
-        return action
+        return action   #AND I DONT KNOW IF THIS IS CORRECT BY RETURN HERE
+    #IM ALSO NOT CALLING SELF IN SOME FUNCTIONS IS THAT ALRIGHT???
 
         
 
