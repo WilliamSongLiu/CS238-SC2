@@ -96,9 +96,8 @@ class CS238Explore(KnowledgeBot):
         #     print(f"new action {self.action}")
         # else:
         #     print(f"old action {self.action}")
-
-    #NEW    
-    def policy(self):
+    
+    def trained_policy(self):
         my_units = self.unit_cache.get_my_units()
         minerals = self.knowledge.ai.minerals
         gas = self.knowledge.ai.vespene
@@ -120,25 +119,18 @@ class CS238Explore(KnowledgeBot):
                 else:
                     flat_state.append(value)
             return tuple(flat_state)
-        
-        def get_action(state, pol):
-            if state in pol:
-                return pol[state]
-            else:
-                return self.random_policy   #FIX CAUSE I DONT KNOW HOW THE RANDOM_POLICY WORKS
 
-        policy = load_policy("..\..\SARSA\policy\policy_game5.jsonl")   #File path = ..\..\SARSA\policy\nameofpolicy.jsonl
+        policy = load_policy(r"SARSA\policy\policy_game4.jsonl")
         flattened_units = flatten_state(my_units)
         flattened_state = flattened_units + (minerals, gas)
-        action = get_action(flattened_state, policy)
-        return action   #AND I DONT KNOW IF THIS IS CORRECT BY RETURN HERE
-    #IM ALSO NOT CALLING SELF IN SOME FUNCTIONS IS THAT ALRIGHT???
-
-        
-
+        if flattened_state in policy:
+            self.action = policy[flattened_state]
+        else:
+            self.random_policy()
+    
     async def execute(self):
         super().execute()
-        self.random_policy()
+        self.trained_policy()
 
     def train_actions(self):
         return (
