@@ -132,7 +132,7 @@ class CS238Explore(KnowledgeBot):
     
     async def execute(self):
         super().execute()
-        self.trained_policy()
+        self.random_policy()
 
     def train_actions(self):
         return (
