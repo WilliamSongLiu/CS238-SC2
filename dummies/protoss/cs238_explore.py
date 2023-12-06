@@ -11,6 +11,7 @@ from sharpy.plans.require import *
 from sharpy.plans.tactics import *
 
 import random
+import json
 
 class CS238Explore(KnowledgeBot):
     def __init__(self):
@@ -100,6 +101,30 @@ class CS238Explore(KnowledgeBot):
         my_units = self.unit_cache.get_my_units()
         minerals = self.knowledge.ai.minerals
         gas = self.knowledge.ai.vespene
+
+        def load_policy(file_path):
+            pol = {}
+            with open(file_path, 'r') as file:
+                for line in file:
+                    data = json.loads(line)
+                    state_tuple = tuple(data['s'])
+                    pol[state_tuple] = data['a']
+            return pol
+
+        def get_action(state, pol):
+            state_tuple = tuple(state)
+            if state_tuple in pol:
+                return pol[state_tuple]
+            else:
+                return self.random_policy
+
+        policy = load_policy('..\SARSA\policy')
+        flattened_units = [item for sublist in my_units.values() for item in sublist]
+        flattened_state = flattened_units + [minerals, gas]
+        action = get_action(flattened_state, policy)
+        return action
+
+        
 
     async def execute(self):
         super().execute()
