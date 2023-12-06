@@ -97,6 +97,7 @@ class CS238Explore(KnowledgeBot):
         # else:
         #     print(f"old action {self.action}")
 
+    #NEW    
     def policy(self):
         my_units = self.unit_cache.get_my_units()
         minerals = self.knowledge.ai.minerals
