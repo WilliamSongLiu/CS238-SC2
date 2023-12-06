@@ -1,7 +1,7 @@
 import os
 
-NUM_GAMES = 500
-OFFSET = 0 # Change this to equal how many games are in the "finished" directory
+NUM_GAMES = 1
+OFFSET = 1000 # Change this to equal how many games are in the "finished" directory
 MAP = "AncientCisternAIE"
 P1 = "explore"
 P2 = "ai.protoss.hard.random"
