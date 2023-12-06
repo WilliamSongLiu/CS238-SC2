@@ -124,8 +124,10 @@ class CS238Explore(KnowledgeBot):
         flattened_units = flatten_state(my_units)
         flattened_state = flattened_units + (minerals, gas)
         if flattened_state in policy:
+            print("Found state in policy")
             self.action = policy[flattened_state]
         else:
+            print("State not found, resorting to random")
             self.random_policy()
     
     async def execute(self):
