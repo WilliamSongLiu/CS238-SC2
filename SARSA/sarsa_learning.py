@@ -102,20 +102,20 @@ policy = derive_policy(q_table)
 #                  "WARPGATE", "WARPPRISMPHASING", "ARCHON", "ADEPT", "MOTHERSHIPCORE", "ORACLE", "TEMPEST", "RESOURCEBLOCKER", 
 #                  "ICEPROTOSSCRATES", "PROTOSSCRATES", "DISRUPTOR", "VOIDMPIMMORTALREVIVECORPSE", "ORACLESTASISTRAP", 
 #                  "DISRUPTORPHASED", "RELEASEINTERCEPTORSBEACON", "ADEPTPHASESHIFT", "REPLICANT", "CORSAIRMP", 
-    #              "SCOUTMP", "ARBITERMP", "PYLONOVERCHARGED", "SHIELDBATTERY", "OBSERVERSIEGEMODE", "ASSIMILATORRICH"]
-    # num_unit_keys = len(unit_keys)
+#                  "SCOUTMP", "ARBITERMP", "PYLONOVERCHARGED", "SHIELDBATTERY", "OBSERVERSIEGEMODE", "ASSIMILATORRICH"]
+#     num_unit_keys = len(unit_keys)
 
 #     #split the flat states into parts
-#     enemy_units_values = flat_state[:num_unit_keys]
-#     my_units_values = flat_state[num_unit_keys : num_unit_keys*2]
-#     minerals, gas = flat_state[num_unit_keys*2], flat_state[num_unit_keys*2 + 1]
+#     # enemy_units_values = flat_state[:num_unit_keys]
+#     my_units_values = flat_state[: num_unit_keys]
+#     # minerals, gas = flat_state[num_unit_keys*2], flat_state[num_unit_keys*2 + 1]
 
 #     #Reconstruct the original state
 #     original_state = {
-#         "enemy_units": dict(zip(unit_keys, enemy_units_values)),
-#         "my_units": dict(zip(unit_keys, my_units_values)),
-#         "minerals": minerals,
-#         "gas": gas
+#         # "enemy_units": dict(zip(unit_keys, enemy_units_values)),
+#         "my_units": dict(zip(unit_keys, my_units_values))
+#         # "minerals": minerals,
+#         # "gas": gas
 #     }
 
 #     return original_state
