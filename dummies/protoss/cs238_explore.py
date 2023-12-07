@@ -112,6 +112,7 @@ class CS238Explore(KnowledgeBot):
             return pol
             
         def flatten_state(state):
+            protoss_units = ['COLOSSUS', 'MOTHERSHIP', 'NEXUS', 'PYLON', 'ASSIMILATOR', 'GATEWAY', 'FORGE', 'FLEETBEACON', 'TWILIGHTCOUNCIL', 'PHOTONCANNON', 'STARGATE', 'TEMPLARARCHIVE', 'DARKSHRINE', 'ROBOTICSBAY', 'ROBOTICSFACILITY', 'CYBERNETICSCORE', 'ZEALOT', 'STALKER', 'HIGHTEMPLAR', 'DARKTEMPLAR', 'SENTRY', 'PHOENIX', 'CARRIER', 'VOIDRAY', 'WARPPRISM', 'OBSERVER', 'IMMORTAL', 'PROBE', 'INTERCEPTOR', 'WARPGATE', 'WARPPRISMPHASING', 'ARCHON', 'ADEPT', 'MOTHERSHIPCORE', 'ORACLE', 'TEMPEST', 'RESOURCEBLOCKER', 'ICEPROTOSSCRATES', 'PROTOSSCRATES', 'DISRUPTOR', 'VOIDMPIMMORTALREVIVECORPSE', 'ORACLESTASISTRAP', 'DISRUPTORPHASED', 'RELEASEINTERCEPTORSBEACON', 'ADEPTPHASESHIFT', 'REPLICANT', 'CORSAIRMP', 'SCOUTMP', 'ARBITERMP', 'PYLONOVERCHARGED', 'SHIELDBATTERY', 'OBSERVERSIEGEMODE', 'ASSIMILATORRICH']
             flat_state = []
             for key, value in state.items():
                 if isinstance(value, dict):
@@ -120,9 +121,10 @@ class CS238Explore(KnowledgeBot):
                     flat_state.append(value)
             return tuple(flat_state)
 
-        policy = load_policy(r"SARSA\policy\policy_game4.jsonl")
+        policy = load_policy(r"SARSA\policy\policy_178joined.jsonl")
         flattened_state = flatten_state(my_units)
         # flattened_state = flattened_units + (minerals, gas)
+        print(flattened_state)
         if flattened_state in policy:
             print("Found state in policy")
             self.action = policy[flattened_state]
@@ -132,7 +134,7 @@ class CS238Explore(KnowledgeBot):
     
     async def execute(self):
         super().execute()
-        self.random_policy()
+        self.trained_policy()
 
     def train_actions(self):
         return (
