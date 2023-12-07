@@ -113,25 +113,13 @@ class CS238Explore(KnowledgeBot):
             my_units_caps = {}
             for key, value in my_units.items():
                 my_units_caps[key.upper()] = value
-            return [0 if unit not in my_units_caps else my_units_caps[unit] for unit in protoss_units]
-
-        def flatten_state(state):
-            flat_state = []
-            for key, value in state.items():
-                if isinstance(value, dict):
-                    flat_state.extend(value.values())
-                else:
-                    flat_state.append(value)
-            return tuple(flat_state)
+            return tuple([0 if unit not in my_units_caps else my_units_caps[unit] for unit in protoss_units])
 
         policy = load_policy(r"SARSA\policy\policy_178joined.jsonl")
         state = get_state()
-        print(state)
-        flattened_state = flatten_state(state)
-        print(flattened_state)
-        if flattened_state in policy:
+        if state in policy:
             print("Found state in policy")
-            self.action = policy[flattened_state]
+            self.action = policy[state]
         else:
             print("State not found, resorting to random")
             self.random_policy()
