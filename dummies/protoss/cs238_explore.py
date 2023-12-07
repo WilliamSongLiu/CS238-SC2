@@ -99,8 +99,8 @@ class CS238Explore(KnowledgeBot):
     
     def trained_policy(self):
         my_units = self.unit_cache.get_my_units()
-        minerals = self.knowledge.ai.minerals
-        gas = self.knowledge.ai.vespene
+        # minerals = self.knowledge.ai.minerals
+        # gas = self.knowledge.ai.vespene
 
         def load_policy(file_path):
             pol = {}
@@ -121,8 +121,8 @@ class CS238Explore(KnowledgeBot):
             return tuple(flat_state)
 
         policy = load_policy(r"SARSA\policy\policy_game4.jsonl")
-        flattened_units = flatten_state(my_units)
-        flattened_state = flattened_units + (minerals, gas)
+        flattened_state = flatten_state(my_units)
+        # flattened_state = flattened_units + (minerals, gas)
         if flattened_state in policy:
             print("Found state in policy")
             self.action = policy[flattened_state]
