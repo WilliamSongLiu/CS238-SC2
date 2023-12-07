@@ -98,10 +98,6 @@ class CS238Explore(KnowledgeBot):
         #     print(f"old action {self.action}")
     
     def trained_policy(self):
-        my_units = self.unit_cache.get_my_units()
-        # minerals = self.knowledge.ai.minerals
-        # gas = self.knowledge.ai.vespene
-
         def load_policy(file_path):
             pol = {}
             with open(file_path, 'r') as file:
@@ -110,9 +106,13 @@ class CS238Explore(KnowledgeBot):
                     state_tuple = tuple(data['s'])
                     pol[state_tuple] = data['a']
             return pol
-            
-        def flatten_state(state):
+        
+        def get_state():
             protoss_units = ['COLOSSUS', 'MOTHERSHIP', 'NEXUS', 'PYLON', 'ASSIMILATOR', 'GATEWAY', 'FORGE', 'FLEETBEACON', 'TWILIGHTCOUNCIL', 'PHOTONCANNON', 'STARGATE', 'TEMPLARARCHIVE', 'DARKSHRINE', 'ROBOTICSBAY', 'ROBOTICSFACILITY', 'CYBERNETICSCORE', 'ZEALOT', 'STALKER', 'HIGHTEMPLAR', 'DARKTEMPLAR', 'SENTRY', 'PHOENIX', 'CARRIER', 'VOIDRAY', 'WARPPRISM', 'OBSERVER', 'IMMORTAL', 'PROBE', 'INTERCEPTOR', 'WARPGATE', 'WARPPRISMPHASING', 'ARCHON', 'ADEPT', 'MOTHERSHIPCORE', 'ORACLE', 'TEMPEST', 'RESOURCEBLOCKER', 'ICEPROTOSSCRATES', 'PROTOSSCRATES', 'DISRUPTOR', 'VOIDMPIMMORTALREVIVECORPSE', 'ORACLESTASISTRAP', 'DISRUPTORPHASED', 'RELEASEINTERCEPTORSBEACON', 'ADEPTPHASESHIFT', 'REPLICANT', 'CORSAIRMP', 'SCOUTMP', 'ARBITERMP', 'PYLONOVERCHARGED', 'SHIELDBATTERY', 'OBSERVERSIEGEMODE', 'ASSIMILATORRICH']
+            my_units = self.unit_cache.get_my_units()
+            return [0 if unit not in my_units else my_units[unit] for unit in protoss_units]
+
+        def flatten_state(state):
             flat_state = []
             for key, value in state.items():
                 if isinstance(value, dict):
@@ -122,8 +122,7 @@ class CS238Explore(KnowledgeBot):
             return tuple(flat_state)
 
         policy = load_policy(r"SARSA\policy\policy_178joined.jsonl")
-        flattened_state = flatten_state(my_units)
-        # flattened_state = flattened_units + (minerals, gas)
+        flattened_state = flatten_state(get_state())
         print(flattened_state)
         if flattened_state in policy:
             print("Found state in policy")
