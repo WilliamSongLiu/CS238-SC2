@@ -110,7 +110,10 @@ class CS238Explore(KnowledgeBot):
         def get_state():
             protoss_units = ['COLOSSUS', 'MOTHERSHIP', 'NEXUS', 'PYLON', 'ASSIMILATOR', 'GATEWAY', 'FORGE', 'FLEETBEACON', 'TWILIGHTCOUNCIL', 'PHOTONCANNON', 'STARGATE', 'TEMPLARARCHIVE', 'DARKSHRINE', 'ROBOTICSBAY', 'ROBOTICSFACILITY', 'CYBERNETICSCORE', 'ZEALOT', 'STALKER', 'HIGHTEMPLAR', 'DARKTEMPLAR', 'SENTRY', 'PHOENIX', 'CARRIER', 'VOIDRAY', 'WARPPRISM', 'OBSERVER', 'IMMORTAL', 'PROBE', 'INTERCEPTOR', 'WARPGATE', 'WARPPRISMPHASING', 'ARCHON', 'ADEPT', 'MOTHERSHIPCORE', 'ORACLE', 'TEMPEST', 'RESOURCEBLOCKER', 'ICEPROTOSSCRATES', 'PROTOSSCRATES', 'DISRUPTOR', 'VOIDMPIMMORTALREVIVECORPSE', 'ORACLESTASISTRAP', 'DISRUPTORPHASED', 'RELEASEINTERCEPTORSBEACON', 'ADEPTPHASESHIFT', 'REPLICANT', 'CORSAIRMP', 'SCOUTMP', 'ARBITERMP', 'PYLONOVERCHARGED', 'SHIELDBATTERY', 'OBSERVERSIEGEMODE', 'ASSIMILATORRICH']
             my_units = self.unit_cache.get_my_units()
-            return [0 if unit not in my_units else my_units[unit] for unit in protoss_units]
+            my_units_caps = {}
+            for key, value in my_units.items():
+                my_units_caps[key.upper()] = value
+            return [0 if unit not in my_units_caps else my_units_caps[unit] for unit in protoss_units]
 
         def flatten_state(state):
             flat_state = []
@@ -122,7 +125,9 @@ class CS238Explore(KnowledgeBot):
             return tuple(flat_state)
 
         policy = load_policy(r"SARSA\policy\policy_178joined.jsonl")
-        flattened_state = flatten_state(get_state())
+        state = get_state()
+        print(state)
+        flattened_state = flatten_state(state)
         print(flattened_state)
         if flattened_state in policy:
             print("Found state in policy")
