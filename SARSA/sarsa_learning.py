@@ -7,7 +7,7 @@ from collections import defaultdict
 #Define inpath for .jsonl and outpath for policy
 in_path = '..\processing\processed_data\jsonls'
 out_path = 'policy'
-out_name = 'policy_178joined_new.jsonl'
+out_name = 'policy_178_nested.jsonl'
 
 #Read jsonl file
 def read_jsonl(file_path):
@@ -93,40 +93,61 @@ def derive_policy(q_table):
 #Policy of SARSA learning
 policy = derive_policy(q_table)
 
-# #Converting states back to original
-# def reconstruct_state(flat_state):
-#     unit_keys = ["COLOSSUS", "MOTHERSHIP", "NEXUS", "PYLON", "ASSIMILATOR", "GATEWAY", "FORGE", "FLEETBEACON", 
-#                  "TWILIGHTCOUNCIL", "PHOTONCANNON", "STARGATE", "TEMPLARARCHIVE", "DARKSHRINE", "ROBOTICSBAY",
-#                  "ROBOTICSFACILITY", "CYBERNETICSCORE", "ZEALOT", "STALKER", "HIGHTEMPLAR", "DARKTEMPLAR", 
-#                  "SENTRY", "PHOENIX", "CARRIER", "VOIDRAY", "WARPPRISM", "OBSERVER", "IMMORTAL", "PROBE", "INTERCEPTOR", 
-#                  "WARPGATE", "WARPPRISMPHASING", "ARCHON", "ADEPT", "MOTHERSHIPCORE", "ORACLE", "TEMPEST", "RESOURCEBLOCKER", 
-#                  "ICEPROTOSSCRATES", "PROTOSSCRATES", "DISRUPTOR", "VOIDMPIMMORTALREVIVECORPSE", "ORACLESTASISTRAP", 
-#                  "DISRUPTORPHASED", "RELEASEINTERCEPTORSBEACON", "ADEPTPHASESHIFT", "REPLICANT", "CORSAIRMP", 
-#                  "SCOUTMP", "ARBITERMP", "PYLONOVERCHARGED", "SHIELDBATTERY", "OBSERVERSIEGEMODE", "ASSIMILATORRICH"]
-#     num_unit_keys = len(unit_keys)
+#Converting states back to original
+def reconstruct_state(flat_state):
+    unit_keys = ["COLOSSUS", "MOTHERSHIP", "NEXUS", "PYLON", "ASSIMILATOR", "GATEWAY", "FORGE", "FLEETBEACON", 
+                 "TWILIGHTCOUNCIL", "PHOTONCANNON", "STARGATE", "TEMPLARARCHIVE", "DARKSHRINE", "ROBOTICSBAY",
+                 "ROBOTICSFACILITY", "CYBERNETICSCORE", "ZEALOT", "STALKER", "HIGHTEMPLAR", "DARKTEMPLAR", 
+                 "SENTRY", "PHOENIX", "CARRIER", "VOIDRAY", "WARPPRISM", "OBSERVER", "IMMORTAL", "PROBE", "INTERCEPTOR", 
+                 "WARPGATE", "WARPPRISMPHASING", "ARCHON", "ADEPT", "MOTHERSHIPCORE", "ORACLE", "TEMPEST", "RESOURCEBLOCKER", 
+                 "ICEPROTOSSCRATES", "PROTOSSCRATES", "DISRUPTOR", "VOIDMPIMMORTALREVIVECORPSE", "ORACLESTASISTRAP", 
+                 "DISRUPTORPHASED", "RELEASEINTERCEPTORSBEACON", "ADEPTPHASESHIFT", "REPLICANT", "CORSAIRMP", 
+                 "SCOUTMP", "ARBITERMP", "PYLONOVERCHARGED", "SHIELDBATTERY", "OBSERVERSIEGEMODE", "ASSIMILATORRICH"]
+    num_unit_keys = len(unit_keys)
 
-#     #split the flat states into parts
-#     # enemy_units_values = flat_state[:num_unit_keys]
-#     my_units_values = flat_state[: num_unit_keys]
-#     # minerals, gas = flat_state[num_unit_keys*2], flat_state[num_unit_keys*2 + 1]
+    #split the flat states into parts
+    # enemy_units_values = flat_state[:num_unit_keys]
+    my_units_values = flat_state[: num_unit_keys]
+    # minerals, gas = flat_state[num_unit_keys*2], flat_state[num_unit_keys*2 + 1]
 
-#     #Reconstruct the original state
-#     original_state = {
-#         # "enemy_units": dict(zip(unit_keys, enemy_units_values)),
-#         "my_units": dict(zip(unit_keys, my_units_values))
-#         # "minerals": minerals,
-#         # "gas": gas
-#     }
+    #Reconstruct the original state
+    original_state = dict(zip(unit_keys, my_units_values))
+    # original_state = {
+    #     "enemy_units": dict(zip(unit_keys, enemy_units_values)),
+    #     "my_units": dict(zip(unit_keys, my_units_values))
+    #     "minerals": minerals,
+    #     "gas": gas
+    # }
 
-#     return original_state
+    return original_state
+
+#Create nested dict for the states in policy
+def nest_dict(flat_dict):
+
+    #Recursive helper function
+    def nest_items(items):
+        if not items:
+            return {}
+        
+        key, value = items[0]
+        #If it's the last item, return the key-value pair
+        if len(items) == 1:
+            return {key: value}
+        #Else, nest the rest of the items
+        return {key: {"value": value, "next": nest_items(items[1:])}}
+
+    items = list(flat_dict.items())
+    return nest_items(items)
+
 
 #Write the policy to a .jsonl file
 output_file_path = os.path.join(out_path, out_name)
 with open(output_file_path, 'w') as file:
     for flat_state, action in policy.items():
-        original_state = flat_state
+        original_state = reconstruct_state(flat_state)
+        nested_state = nest_dict(original_state)
 
-        policy_line = {"s":original_state, "a":action}
+        policy_line = {"s":nested_state, "a":action}
         json_line = json.dumps(policy_line)
         file.write(json_line + '\n')
 
