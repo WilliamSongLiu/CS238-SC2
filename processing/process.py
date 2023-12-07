@@ -41,7 +41,7 @@ def get_cheapest_action_wanted(actions_wanted):
     cheapest_action = None
     cheapest_action_cost = 0
     for action in actions_wanted:
-        unit = action.split("_")[1].upper()
+        unit = action.upper()
         cost = unit_costs[unit]
         if cheapest_action == None or cost < cheapest_action_cost:
             cheapest_action = action

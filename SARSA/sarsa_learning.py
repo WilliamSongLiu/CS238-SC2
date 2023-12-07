@@ -7,7 +7,7 @@ from collections import defaultdict
 #Define inpath for .jsonl and outpath for policy
 in_path = '..\processing\processed_data\jsonls'
 out_path = 'policy'
-out_name = 'policy_5joined_new.jsonl'
+out_name = 'policy_178joined_new.jsonl'
 
 #Read jsonl file
 def read_jsonl(file_path):
