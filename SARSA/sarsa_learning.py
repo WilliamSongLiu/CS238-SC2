@@ -7,7 +7,7 @@ from collections import defaultdict
 #Define inpath for .jsonl and outpath for policy
 in_path = '..\processing\processed_data\jsonls'
 out_path = 'policy'
-out_name = 'policy_54joined.jsonl'
+out_name = 'policy_5joined_new.jsonl'
 
 #Read jsonl file
 def read_jsonl(file_path):
@@ -24,14 +24,20 @@ for file_name in jsonl_files:
     data = read_jsonl(file_path)
     combined_data.extend(data)
 
-#Flatten the states to store in Q-table
+# def flatten_state(state):
+#     flat_state = []
+#     for key, value in state.items():
+#         if isinstance(value, dict):
+#             flat_state.extend(value.values())
+#         else:
+#             flat_state.append(value)
+#     return tuple(flat_state)
+
+#Flatten only my_units as the states
 def flatten_state(state):
     flat_state = []
-    for key, value in state.items():
-        if isinstance(value, dict):
-            flat_state.extend(value.values())
-        else:
-            flat_state.append(value)
+    my_units = state.get('my_units', {})
+    flat_state.extend(my_units.values())
     return tuple(flat_state)
 
 #Define all possible actions
