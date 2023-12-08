@@ -108,7 +108,7 @@ class CS238Explore(KnowledgeBot):
             my_units_caps = {}
             for key, value in my_units.items():
                 my_units_caps[key.upper()] = value
-            return tuple([0 if unit not in my_units_caps else my_units_caps[unit] for unit in protoss_units])
+            return tuple(["0" if unit not in my_units_caps else str(my_units_caps[unit]) for unit in protoss_units])
 
         def get_action(policy, state):
             current_level = policy
