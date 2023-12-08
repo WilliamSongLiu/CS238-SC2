@@ -3,7 +3,7 @@ from pathlib import Path
 import json
 
 # Directory containing finished game files
-GAMES_DIR = "raw_data/finished"
+GAMES_DIR = "trained/raw_data/finished"
 
 # List of buildings for checking the game state
 BUILDINGS = {

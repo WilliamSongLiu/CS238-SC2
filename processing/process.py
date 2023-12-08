@@ -5,8 +5,8 @@ import os
 
 # STATE_INFO = {"MY_UNITS:", "ENEMY_UNITS:", "MINERALS:", "GAS:"}
 STATE_INFO = {"MY_UNITS:", "MINERALS:", "GAS:"}
-IN_DIR = "raw_data"
-OUT_DIR = "processed_data"
+IN_DIR = "trained/raw_data"
+OUT_DIR = "trained/processed_data"
 
 # load unit costs into a dict from file
 unit_costs = None
