@@ -1,0 +1,2 @@
+Starting game in AncientCisternAIE.
+explore vs ai.protoss.hard.random

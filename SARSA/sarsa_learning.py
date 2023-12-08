@@ -7,7 +7,7 @@ from collections import defaultdict
 #Define inpath for .jsonl and outpath for policy
 in_path = '..\processing\processed_data\jsonls'
 out_path = 'policy'
-out_name = 'policy_2.jsonl'
+out_name = 'policy_all_300.jsonl'
 
 protoss_units = ["COLOSSUS", "MOTHERSHIP", "NEXUS", "PYLON", "ASSIMILATOR", "GATEWAY", "FORGE", "FLEETBEACON", 
                  "TWILIGHTCOUNCIL", "PHOTONCANNON", "STARGATE", "TEMPLARARCHIVE", "DARKSHRINE", "ROBOTICSBAY",
