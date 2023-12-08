@@ -1,0 +1,4658 @@
+Starting game in AncientCisternAIE.
+explore vs ai.protoss.hard.random
+create_plan
+MY_UNITS: {'Nexus': 1, 'Probe': 12}
+MINERALS: 50
+GAS: 0
+Using policy: PYLON
+
+MY_UNITS: {'Nexus': 1, 'Probe': 12}
+MINERALS: 0
+GAS: 0
+ACTION_WANTED: PYLON
+Using policy: PYLON
+
+MY_UNITS: {'Nexus': 1, 'Probe': 12}
+MINERALS: 0
+GAS: 0
+ACTION_WANTED: PYLON
+Using policy: PYLON
+
+MY_UNITS: {'Nexus': 1, 'Probe': 12}
+MINERALS: 0
+GAS: 0
+ACTION_WANTED: PYLON
+Using policy: PYLON
+
+MY_UNITS: {'Nexus': 1, 'Probe': 12}
+MINERALS: 0
+GAS: 0
+ACTION_WANTED: PYLON
+Using policy: PYLON
+
+MY_UNITS: {'Nexus': 1, 'Probe': 12}
+MINERALS: 0
+GAS: 0
+ACTION_WANTED: PYLON
+Using policy: PYLON
+
+MY_UNITS: {'Nexus': 1, 'Probe': 12}
+MINERALS: 0
+GAS: 0
+ACTION_WANTED: PYLON
+Using policy: PYLON
+
+MY_UNITS: {'Nexus': 1, 'Probe': 12}
+MINERALS: 0
+GAS: 0
+ACTION_WANTED: PYLON
+Using policy: PYLON
+
+MY_UNITS: {'Nexus': 1, 'Probe': 12}
+MINERALS: 0
+GAS: 0
+ACTION_WANTED: PYLON
+Using policy: PYLON
+
+MY_UNITS: {'Nexus': 1, 'Probe': 12}
+MINERALS: 0
+GAS: 0
+ACTION_WANTED: PYLON
+Using policy: PYLON
+
+MY_UNITS: {'Nexus': 1, 'Probe': 12}
+MINERALS: 0
+GAS: 0
+ACTION_WANTED: PYLON
+Using policy: PYLON
+
+MY_UNITS: {'Nexus': 1, 'Probe': 12}
+MINERALS: 10
+GAS: 0
+ACTION_WANTED: PYLON
+Using policy: PYLON
+
+MY_UNITS: {'Nexus': 1, 'Probe': 12}
+MINERALS: 25
+GAS: 0
+ACTION_WANTED: PYLON
+Using policy: PYLON
+
+MY_UNITS: {'Nexus': 1, 'Probe': 12}
+MINERALS: 40
+GAS: 0
+ACTION_WANTED: PYLON
+Using policy: PYLON
+
+MY_UNITS: {'Nexus': 1, 'Probe': 12}
+MINERALS: 40
+GAS: 0
+ACTION_WANTED: PYLON
+Using policy: PYLON
+
+MY_UNITS: {'Nexus': 1, 'Probe': 12}
+MINERALS: 40
+GAS: 0
+ACTION_WANTED: PYLON
+Using policy: PYLON
+
+MY_UNITS: {'Nexus': 1, 'Probe': 12}
+MINERALS: 45
+GAS: 0
+ACTION_WANTED: PYLON
+Using policy: PYLON
+
+MY_UNITS: {'Nexus': 1, 'Probe': 12}
+MINERALS: 60
+GAS: 0
+ACTION_WANTED: PYLON
+Using policy: PYLON
+
+MY_UNITS: {'Nexus': 1, 'Probe': 12}
+MINERALS: 60
+GAS: 0
+ACTION_WANTED: PYLON
+Using policy: PYLON
+
+MY_UNITS: {'Nexus': 1, 'Probe': 13}
+MINERALS: 60
+GAS: 0
+ACTION_WANTED: PYLON
+Using policy: ASSIMILATOR
+
+MY_UNITS: {'Nexus': 1, 'Probe': 13}
+MINERALS: 60
+GAS: 0
+ACTION_WANTED: ASSIMILATOR
+Using policy: ASSIMILATOR
+
+MY_UNITS: {'Nexus': 1, 'Probe': 13}
+MINERALS: 60
+GAS: 0
+ACTION_WANTED: ASSIMILATOR
+Using policy: ASSIMILATOR
+
+MY_UNITS: {'Nexus': 1, 'Probe': 13}
+MINERALS: 80
+GAS: 0
+ACTION_WANTED: ASSIMILATOR
+ACTION_MADE: ASSIMILATOR
+Using policy: ASSIMILATOR
+
+MY_UNITS: {'Nexus': 1, 'Probe': 13}
+MINERALS: 5
+GAS: 0
+Using policy: ASSIMILATOR
+
+MY_UNITS: {'Nexus': 1, 'Probe': 13}
+MINERALS: 10
+GAS: 0
+Using policy: ASSIMILATOR
+
+MY_UNITS: {'Nexus': 1, 'Probe': 13}
+MINERALS: 25
+GAS: 0
+Using policy: ASSIMILATOR
+
+MY_UNITS: {'Assimilator': 1, 'Nexus': 1, 'Probe': 13}
+MINERALS: 25
+GAS: 0
+Using policy: PYLON
+
+MY_UNITS: {'Assimilator': 1, 'Nexus': 1, 'Probe': 13}
+MINERALS: 30
+GAS: 0
+ACTION_WANTED: PYLON
+Using policy: PYLON
+
+MY_UNITS: {'Assimilator': 1, 'Nexus': 1, 'Probe': 13}
+MINERALS: 40
+GAS: 0
+ACTION_WANTED: PYLON
+Using policy: PYLON
+
+MY_UNITS: {'Assimilator': 1, 'Nexus': 1, 'Probe': 13}
+MINERALS: 40
+GAS: 0
+ACTION_WANTED: PYLON
+Using policy: PYLON
+
+MY_UNITS: {'Assimilator': 1, 'Nexus': 1, 'Probe': 13}
+MINERALS: 40
+GAS: 0
+ACTION_WANTED: PYLON
+Using policy: PYLON
+
+MY_UNITS: {'Assimilator': 1, 'Nexus': 1, 'Probe': 13}
+MINERALS: 40
+GAS: 0
+ACTION_WANTED: PYLON
+Using policy: PYLON
+
+MY_UNITS: {'Assimilator': 1, 'Nexus': 1, 'Probe': 13}
+MINERALS: 55
+GAS: 0
+ACTION_WANTED: PYLON
+Using policy: PYLON
+
+MY_UNITS: {'Assimilator': 1, 'Nexus': 1, 'Probe': 13}
+MINERALS: 65
+GAS: 0
+ACTION_WANTED: PYLON
+Using policy: PYLON
+
+MY_UNITS: {'Assimilator': 1, 'Nexus': 1, 'Probe': 13}
+MINERALS: 65
+GAS: 0
+ACTION_WANTED: PYLON
+Using policy: PYLON
+
+MY_UNITS: {'Assimilator': 1, 'Nexus': 1, 'Probe': 13}
+MINERALS: 65
+GAS: 0
+ACTION_WANTED: PYLON
+Using policy: PYLON
+
+MY_UNITS: {'Assimilator': 1, 'Nexus': 1, 'Probe': 13}
+MINERALS: 70
+GAS: 0
+ACTION_WANTED: PYLON
+Using policy: PYLON
+
+MY_UNITS: {'Assimilator': 1, 'Nexus': 1, 'Probe': 13}
+MINERALS: 85
+GAS: 0
+ACTION_WANTED: PYLON
+Using policy: PYLON
+
+MY_UNITS: {'Assimilator': 1, 'Nexus': 1, 'Probe': 13}
+MINERALS: 95
+GAS: 0
+ACTION_WANTED: PYLON
+Using policy: PYLON
+
+MY_UNITS: {'Assimilator': 1, 'Nexus': 1, 'Probe': 13}
+MINERALS: 105
+GAS: 0
+ACTION_WANTED: PYLON
+ACTION_MADE: PYLON
+Using policy: PYLON
+
+MY_UNITS: {'Assimilator': 1, 'Nexus': 1, 'Probe': 13}
+MINERALS: 5
+GAS: 0
+Using policy: PYLON
+
+MY_UNITS: {'Assimilator': 1, 'Nexus': 1, 'Probe': 13}
+MINERALS: 5
+GAS: 0
+Using policy: PYLON
+
+MY_UNITS: {'Assimilator': 1, 'Nexus': 1, 'Probe': 13}
+MINERALS: 5
+GAS: 0
+Using policy: PYLON
+
+MY_UNITS: {'Assimilator': 1, 'Nexus': 1, 'Probe': 13}
+MINERALS: 15
+GAS: 0
+Using policy: PYLON
+
+MY_UNITS: {'Assimilator': 1, 'Nexus': 1, 'Probe': 13}
+MINERALS: 30
+GAS: 0
+Using policy: PYLON
+
+MY_UNITS: {'Assimilator': 1, 'Nexus': 1, 'Probe': 13}
+MINERALS: 30
+GAS: 0
+Using policy: PYLON
+
+MY_UNITS: {'Assimilator': 1, 'Nexus': 1, 'Probe': 13}
+MINERALS: 30
+GAS: 0
+Using policy: PYLON
+
+MY_UNITS: {'Assimilator': 1, 'Nexus': 1, 'Probe': 13}
+MINERALS: 30
+GAS: 0
+Using policy: PYLON
+
+MY_UNITS: {'Assimilator': 1, 'Nexus': 1, 'Probe': 13}
+MINERALS: 45
+GAS: 0
+Using policy: PYLON
+
+MY_UNITS: {'Assimilator': 1, 'Nexus': 1, 'Probe': 13, 'Pylon': 1}
+MINERALS: 50
+GAS: 0
+Using policy: PYLON
+
+MY_UNITS: {'Assimilator': 1, 'Nexus': 1, 'Probe': 13, 'Pylon': 1}
+MINERALS: 65
+GAS: 0
+ACTION_WANTED: PYLON
+Using policy: PYLON
+
+MY_UNITS: {'Assimilator': 1, 'Nexus': 1, 'Probe': 13, 'Pylon': 1}
+MINERALS: 65
+GAS: 0
+ACTION_WANTED: PYLON
+Using policy: PYLON
+
+MY_UNITS: {'Assimilator': 1, 'Nexus': 1, 'Probe': 13, 'Pylon': 1}
+MINERALS: 65
+GAS: 0
+ACTION_WANTED: PYLON
+Using policy: PYLON
+
+MY_UNITS: {'Assimilator': 1, 'Nexus': 1, 'Probe': 13, 'Pylon': 1}
+MINERALS: 75
+GAS: 0
+ACTION_WANTED: PYLON
+Using policy: PYLON
+
+MY_UNITS: {'Assimilator': 1, 'Nexus': 1, 'Probe': 13, 'Pylon': 1}
+MINERALS: 75
+GAS: 0
+ACTION_WANTED: PYLON
+Using policy: PYLON
+
+MY_UNITS: {'Assimilator': 1, 'Nexus': 1, 'Probe': 13, 'Pylon': 1}
+MINERALS: 85
+GAS: 0
+ACTION_WANTED: PYLON
+Using policy: PYLON
+
+MY_UNITS: {'Assimilator': 1, 'Nexus': 1, 'Probe': 13, 'Pylon': 1}
+MINERALS: 85
+GAS: 0
+ACTION_WANTED: PYLON
+Using policy: PYLON
+
+MY_UNITS: {'Assimilator': 1, 'Nexus': 1, 'Probe': 13, 'Pylon': 1}
+MINERALS: 90
+GAS: 0
+ACTION_WANTED: PYLON
+Using policy: PYLON
+
+MY_UNITS: {'Assimilator': 1, 'Nexus': 1, 'Probe': 13, 'Pylon': 1}
+MINERALS: 100
+GAS: 0
+ACTION_WANTED: PYLON
+ACTION_MADE: PYLON
+Using policy: PYLON
+
+MY_UNITS: {'Assimilator': 1, 'Nexus': 1, 'Probe': 13, 'Pylon': 1}
+MINERALS: 0
+GAS: 0
+Using policy: PYLON
+
+MY_UNITS: {'Assimilator': 1, 'Nexus': 1, 'Probe': 13, 'Pylon': 1}
+MINERALS: 10
+GAS: 0
+Using policy: PYLON
+
+MY_UNITS: {'Assimilator': 1, 'Nexus': 1, 'Probe': 13, 'Pylon': 1}
+MINERALS: 10
+GAS: 0
+Using policy: PYLON
+
+MY_UNITS: {'Assimilator': 1, 'Nexus': 1, 'Probe': 13, 'Pylon': 1}
+MINERALS: 15
+GAS: 0
+Using policy: PYLON
+
+MY_UNITS: {'Assimilator': 1, 'Nexus': 1, 'Probe': 13, 'Pylon': 1}
+MINERALS: 30
+GAS: 0
+Using policy: PYLON
+
+MY_UNITS: {'Assimilator': 1, 'Nexus': 1, 'Probe': 13, 'Pylon': 1}
+MINERALS: 35
+GAS: 0
+Using policy: PYLON
+
+MY_UNITS: {'Assimilator': 1, 'Nexus': 1, 'Probe': 13, 'Pylon': 1}
+MINERALS: 40
+GAS: 0
+Using policy: PYLON
+
+MY_UNITS: {'Assimilator': 1, 'Nexus': 1, 'Probe': 13, 'Pylon': 1}
+MINERALS: 45
+GAS: 0
+Using policy: PYLON
+
+MY_UNITS: {'Assimilator': 1, 'Nexus': 1, 'Probe': 13, 'Pylon': 2}
+MINERALS: 45
+GAS: 0
+Using policy: PYLON
+
+MY_UNITS: {'Assimilator': 1, 'Nexus': 1, 'Probe': 13, 'Pylon': 2}
+MINERALS: 50
+GAS: 0
+ACTION_WANTED: PYLON
+Using policy: PYLON
+
+MY_UNITS: {'Assimilator': 1, 'Nexus': 1, 'Probe': 13, 'Pylon': 2}
+MINERALS: 60
+GAS: 0
+ACTION_WANTED: PYLON
+Using policy: PYLON
+
+MY_UNITS: {'Assimilator': 1, 'Nexus': 1, 'Probe': 13, 'Pylon': 2}
+MINERALS: 60
+GAS: 0
+ACTION_WANTED: PYLON
+Using policy: PYLON
+
+MY_UNITS: {'Assimilator': 1, 'Nexus': 1, 'Probe': 13, 'Pylon': 2}
+MINERALS: 65
+GAS: 0
+ACTION_WANTED: PYLON
+Using policy: PYLON
+
+MY_UNITS: {'Assimilator': 1, 'Nexus': 1, 'Probe': 13, 'Pylon': 2}
+MINERALS: 70
+GAS: 0
+ACTION_WANTED: PYLON
+Using policy: PYLON
+
+MY_UNITS: {'Assimilator': 1, 'Nexus': 1, 'Probe': 13, 'Pylon': 2}
+MINERALS: 75
+GAS: 0
+ACTION_WANTED: PYLON
+Using policy: PYLON
+
+MY_UNITS: {'Assimilator': 1, 'Nexus': 1, 'Probe': 13, 'Pylon': 2}
+MINERALS: 80
+GAS: 0
+ACTION_WANTED: PYLON
+Using policy: PYLON
+
+MY_UNITS: {'Assimilator': 1, 'Nexus': 1, 'Probe': 13, 'Pylon': 2}
+MINERALS: 95
+GAS: 0
+ACTION_WANTED: PYLON
+Using policy: PYLON
+
+MY_UNITS: {'Assimilator': 1, 'Nexus': 1, 'Probe': 13, 'Pylon': 2}
+MINERALS: 100
+GAS: 0
+ACTION_WANTED: PYLON
+ACTION_MADE: PYLON
+Using policy: PYLON
+
+MY_UNITS: {'Assimilator': 1, 'Nexus': 1, 'Probe': 13, 'Pylon': 2}
+MINERALS: 5
+GAS: 0
+Using policy: PYLON
+
+MY_UNITS: {'Assimilator': 1, 'Nexus': 1, 'Probe': 13, 'Pylon': 2}
+MINERALS: 10
+GAS: 0
+Using policy: PYLON
+
+MY_UNITS: {'Assimilator': 1, 'Nexus': 1, 'Probe': 13, 'Pylon': 2}
+MINERALS: 15
+GAS: 0
+Using policy: PYLON
+
+MY_UNITS: {'Assimilator': 1, 'Nexus': 1, 'Probe': 12, 'Pylon': 2}
+MINERALS: 15
+GAS: 0
+Using policy: ASSIMILATOR
+
+MY_UNITS: {'Assimilator': 1, 'Nexus': 1, 'Probe': 12, 'Pylon': 2}
+MINERALS: 15
+GAS: 0
+ACTION_WANTED: ASSIMILATOR
+Using policy: ASSIMILATOR
+
+MY_UNITS: {'Assimilator': 1, 'Nexus': 1, 'Probe': 12, 'Pylon': 2}
+MINERALS: 25
+GAS: 0
+ACTION_WANTED: ASSIMILATOR
+Using policy: ASSIMILATOR
+
+MY_UNITS: {'Assimilator': 1, 'Nexus': 1, 'Probe': 12, 'Pylon': 2}
+MINERALS: 25
+GAS: 0
+ACTION_WANTED: ASSIMILATOR
+Using policy: ASSIMILATOR
+
+MY_UNITS: {'Assimilator': 1, 'Nexus': 1, 'Probe': 12, 'Pylon': 2}
+MINERALS: 30
+GAS: 0
+ACTION_WANTED: ASSIMILATOR
+Using policy: ASSIMILATOR
+
+MY_UNITS: {'Assimilator': 1, 'Nexus': 1, 'Probe': 12, 'Pylon': 3}
+MINERALS: 35
+GAS: 0
+ACTION_WANTED: ASSIMILATOR
+Using policy: PYLON
+
+MY_UNITS: {'Assimilator': 1, 'Nexus': 1, 'Probe': 13, 'Pylon': 3}
+MINERALS: 35
+GAS: 0
+ACTION_WANTED: PYLON
+Using policy: PYLON
+
+MY_UNITS: {'Assimilator': 1, 'Nexus': 1, 'Probe': 13, 'Pylon': 3}
+MINERALS: 40
+GAS: 4
+ACTION_WANTED: PYLON
+Using policy: PYLON
+
+MY_UNITS: {'Assimilator': 1, 'Nexus': 1, 'Probe': 13, 'Pylon': 3}
+MINERALS: 55
+GAS: 4
+ACTION_WANTED: PYLON
+Using policy: PYLON
+
+MY_UNITS: {'Assimilator': 1, 'Nexus': 1, 'Probe': 13, 'Pylon': 3}
+MINERALS: 60
+GAS: 4
+ACTION_WANTED: PYLON
+Using policy: PYLON
+
+MY_UNITS: {'Assimilator': 1, 'Nexus': 1, 'Probe': 12, 'Pylon': 3}
+MINERALS: 65
+GAS: 8
+ACTION_WANTED: PYLON
+Using policy: PYLON
+
+MY_UNITS: {'Assimilator': 1, 'Nexus': 1, 'Probe': 12, 'Pylon': 3}
+MINERALS: 65
+GAS: 8
+ACTION_WANTED: PYLON
+Using policy: PYLON
+
+MY_UNITS: {'Assimilator': 1, 'Nexus': 1, 'Probe': 12, 'Pylon': 3}
+MINERALS: 70
+GAS: 8
+ACTION_WANTED: PYLON
+Using policy: PYLON
+
+MY_UNITS: {'Assimilator': 1, 'Nexus': 1, 'Probe': 13, 'Pylon': 3}
+MINERALS: 70
+GAS: 8
+ACTION_WANTED: PYLON
+Using policy: PYLON
+
+MY_UNITS: {'Assimilator': 1, 'Nexus': 1, 'Probe': 12, 'Pylon': 3}
+MINERALS: 80
+GAS: 8
+ACTION_WANTED: PYLON
+Using policy: PYLON
+
+MY_UNITS: {'Assimilator': 1, 'Nexus': 1, 'Probe': 12, 'Pylon': 3}
+MINERALS: 85
+GAS: 8
+ACTION_WANTED: PYLON
+Using policy: PYLON
+
+MY_UNITS: {'Assimilator': 1, 'Nexus': 1, 'Probe': 12, 'Pylon': 3}
+MINERALS: 85
+GAS: 8
+ACTION_WANTED: PYLON
+Using policy: PYLON
+
+MY_UNITS: {'Assimilator': 1, 'Nexus': 1, 'Probe': 13, 'Pylon': 3}
+MINERALS: 85
+GAS: 12
+ACTION_WANTED: PYLON
+Using policy: PYLON
+
+MY_UNITS: {'Assimilator': 1, 'Nexus': 1, 'Probe': 13, 'Pylon': 3}
+MINERALS: 85
+GAS: 12
+ACTION_WANTED: PYLON
+Using policy: PYLON
+
+MY_UNITS: {'Assimilator': 1, 'Nexus': 1, 'Probe': 13, 'Pylon': 3}
+MINERALS: 95
+GAS: 12
+ACTION_WANTED: PYLON
+Using policy: PYLON
+
+MY_UNITS: {'Assimilator': 1, 'Nexus': 1, 'Probe': 12, 'Pylon': 3}
+MINERALS: 115
+GAS: 16
+ACTION_WANTED: PYLON
+ACTION_MADE: PYLON
+Using policy: PYLON
+
+MY_UNITS: {'Assimilator': 1, 'Nexus': 1, 'Probe': 12, 'Pylon': 3}
+MINERALS: 15
+GAS: 16
+Using policy: PYLON
+
+MY_UNITS: {'Assimilator': 1, 'Nexus': 1, 'Probe': 12, 'Pylon': 3}
+MINERALS: 15
+GAS: 16
+Using policy: PYLON
+
+MY_UNITS: {'Assimilator': 1, 'Nexus': 1, 'Probe': 13, 'Pylon': 3}
+MINERALS: 20
+GAS: 16
+Using policy: PYLON
+
+MY_UNITS: {'Assimilator': 1, 'Nexus': 1, 'Probe': 12, 'Pylon': 3}
+MINERALS: 25
+GAS: 16
+Using policy: PYLON
+
+MY_UNITS: {'Assimilator': 1, 'Nexus': 1, 'Probe': 12, 'Pylon': 3}
+MINERALS: 25
+GAS: 16
+Using policy: PYLON
+
+MY_UNITS: {'Assimilator': 1, 'Nexus': 1, 'Probe': 12, 'Pylon': 3}
+MINERALS: 30
+GAS: 16
+Using policy: PYLON
+
+MY_UNITS: {'Assimilator': 1, 'Nexus': 1, 'Probe': 13, 'Pylon': 3}
+MINERALS: 40
+GAS: 20
+Using policy: PYLON
+
+MY_UNITS: {'Assimilator': 1, 'Nexus': 1, 'Probe': 13, 'Pylon': 4}
+MINERALS: 40
+GAS: 20
+ACTION_WANTED: PYLON
+Not using policy
+
+MY_UNITS: {'Assimilator': 1, 'Nexus': 1, 'Probe': 13, 'Pylon': 4}
+MINERALS: 45
+GAS: 20
+ACTION_WANTED: PROBE
+Not using policy
+
+MY_UNITS: {'Assimilator': 1, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 45
+GAS: 24
+ACTION_WANTED: PROBE
+Not using policy
+
+MY_UNITS: {'Assimilator': 1, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 45
+GAS: 24
+ACTION_WANTED: ASSIMILATOR
+Not using policy
+
+MY_UNITS: {'Assimilator': 1, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 55
+GAS: 24
+ACTION_WANTED: ASSIMILATOR
+Not using policy
+
+MY_UNITS: {'Assimilator': 1, 'Nexus': 1, 'Probe': 13, 'Pylon': 4}
+MINERALS: 65
+GAS: 24
+ACTION_WANTED: ASSIMILATOR
+Not using policy
+
+MY_UNITS: {'Assimilator': 1, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 70
+GAS: 24
+ACTION_WANTED: ASSIMILATOR
+Not using policy
+
+MY_UNITS: {'Assimilator': 1, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 75
+GAS: 24
+ACTION_WANTED: ASSIMILATOR
+ACTION_MADE: ASSIMILATOR
+Not using policy
+
+MY_UNITS: {'Assimilator': 1, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 5
+GAS: 24
+Not using policy
+
+MY_UNITS: {'Assimilator': 1, 'Nexus': 1, 'Probe': 13, 'Pylon': 4}
+MINERALS: 5
+GAS: 28
+Not using policy
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 13, 'Pylon': 4}
+MINERALS: 10
+GAS: 28
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 13, 'Pylon': 4}
+MINERALS: 15
+GAS: 28
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 15
+GAS: 32
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 15
+GAS: 32
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 15
+GAS: 32
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 13, 'Pylon': 4}
+MINERALS: 15
+GAS: 32
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 25
+GAS: 32
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 45
+GAS: 32
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 45
+GAS: 32
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 13, 'Pylon': 4}
+MINERALS: 50
+GAS: 36
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 13, 'Pylon': 4}
+MINERALS: 50
+GAS: 36
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 13, 'Pylon': 4}
+MINERALS: 60
+GAS: 36
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 65
+GAS: 40
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 65
+GAS: 40
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 70
+GAS: 40
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 13, 'Pylon': 4}
+MINERALS: 70
+GAS: 40
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 70
+GAS: 40
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 80
+GAS: 40
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 80
+GAS: 44
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 13, 'Pylon': 4}
+MINERALS: 100
+GAS: 44
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 13, 'Pylon': 4}
+MINERALS: 105
+GAS: 44
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 105
+GAS: 44
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 110
+GAS: 48
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 120
+GAS: 48
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 120
+GAS: 48
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 13, 'Pylon': 4}
+MINERALS: 120
+GAS: 48
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 125
+GAS: 48
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 125
+GAS: 48
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 135
+GAS: 52
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 13, 'Pylon': 4}
+MINERALS: 135
+GAS: 52
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 13, 'Pylon': 4}
+MINERALS: 145
+GAS: 52
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 150
+GAS: 52
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 160
+GAS: 56
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 170
+GAS: 56
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 13, 'Pylon': 4}
+MINERALS: 170
+GAS: 56
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 175
+GAS: 56
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 175
+GAS: 56
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 175
+GAS: 60
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 185
+GAS: 60
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 13, 'Pylon': 4}
+MINERALS: 190
+GAS: 60
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 195
+GAS: 60
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 195
+GAS: 60
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 200
+GAS: 64
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 13, 'Pylon': 4}
+MINERALS: 200
+GAS: 64
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 13, 'Pylon': 4}
+MINERALS: 220
+GAS: 64
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 225
+GAS: 64
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 225
+GAS: 68
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 230
+GAS: 68
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 230
+GAS: 68
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 13, 'Pylon': 4}
+MINERALS: 240
+GAS: 68
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 240
+GAS: 68
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 250
+GAS: 68
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 250
+GAS: 72
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 13, 'Pylon': 4}
+MINERALS: 250
+GAS: 72
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 13, 'Pylon': 4}
+MINERALS: 260
+GAS: 72
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 265
+GAS: 72
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 270
+GAS: 76
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 280
+GAS: 76
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 13, 'Pylon': 4}
+MINERALS: 280
+GAS: 76
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 290
+GAS: 76
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 295
+GAS: 76
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 300
+GAS: 80
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 13, 'Pylon': 4}
+MINERALS: 300
+GAS: 80
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 13, 'Pylon': 4}
+MINERALS: 300
+GAS: 80
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 13, 'Pylon': 4}
+MINERALS: 305
+GAS: 80
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 315
+GAS: 84
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 320
+GAS: 84
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 320
+GAS: 84
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 325
+GAS: 84
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 330
+GAS: 84
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 340
+GAS: 84
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 350
+GAS: 88
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 13, 'Pylon': 4}
+MINERALS: 355
+GAS: 88
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 13, 'Pylon': 4}
+MINERALS: 355
+GAS: 88
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 355
+GAS: 88
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 360
+GAS: 92
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 365
+GAS: 92
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 13, 'Pylon': 4}
+MINERALS: 370
+GAS: 92
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 375
+GAS: 92
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 375
+GAS: 92
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 380
+GAS: 96
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 13, 'Pylon': 4}
+MINERALS: 390
+GAS: 96
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 13, 'Pylon': 4}
+MINERALS: 405
+GAS: 96
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 410
+GAS: 96
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 410
+GAS: 100
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 410
+GAS: 100
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 415
+GAS: 100
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 420
+GAS: 100
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 420
+GAS: 100
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 425
+GAS: 100
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 13, 'Pylon': 4}
+MINERALS: 435
+GAS: 104
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 13, 'Pylon': 4}
+MINERALS: 435
+GAS: 104
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 13, 'Pylon': 4}
+MINERALS: 440
+GAS: 104
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 450
+GAS: 108
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 455
+GAS: 108
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 465
+GAS: 108
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 13, 'Pylon': 4}
+MINERALS: 470
+GAS: 108
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 470
+GAS: 108
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 475
+GAS: 108
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 475
+GAS: 112
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 13, 'Pylon': 4}
+MINERALS: 475
+GAS: 112
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 13, 'Pylon': 4}
+MINERALS: 480
+GAS: 112
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 490
+GAS: 112
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 500
+GAS: 116
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 500
+GAS: 116
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 13, 'Pylon': 4}
+MINERALS: 505
+GAS: 116
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 515
+GAS: 116
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 520
+GAS: 116
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 525
+GAS: 120
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 13, 'Pylon': 4}
+MINERALS: 530
+GAS: 120
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 13, 'Pylon': 4}
+MINERALS: 530
+GAS: 120
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 13, 'Pylon': 4}
+MINERALS: 535
+GAS: 120
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 535
+GAS: 124
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 540
+GAS: 124
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 555
+GAS: 124
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 555
+GAS: 124
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 555
+GAS: 124
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 560
+GAS: 124
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 570
+GAS: 128
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 13, 'Pylon': 4}
+MINERALS: 575
+GAS: 128
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 13, 'Pylon': 4}
+MINERALS: 585
+GAS: 128
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 590
+GAS: 128
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 590
+GAS: 132
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 590
+GAS: 132
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 13, 'Pylon': 4}
+MINERALS: 600
+GAS: 132
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 600
+GAS: 132
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 605
+GAS: 132
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 615
+GAS: 136
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 13, 'Pylon': 4}
+MINERALS: 615
+GAS: 136
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 13, 'Pylon': 4}
+MINERALS: 615
+GAS: 136
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 625
+GAS: 136
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 635
+GAS: 140
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 640
+GAS: 140
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 645
+GAS: 140
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 645
+GAS: 140
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 655
+GAS: 140
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 655
+GAS: 140
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 13, 'Pylon': 4}
+MINERALS: 660
+GAS: 144
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 13, 'Pylon': 4}
+MINERALS: 665
+GAS: 144
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 13, 'Pylon': 4}
+MINERALS: 670
+GAS: 144
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 670
+GAS: 148
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 670
+GAS: 148
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 690
+GAS: 148
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 13, 'Pylon': 4}
+MINERALS: 690
+GAS: 148
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 695
+GAS: 148
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 710
+GAS: 148
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 710
+GAS: 152
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 13, 'Pylon': 4}
+MINERALS: 715
+GAS: 152
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 13, 'Pylon': 4}
+MINERALS: 715
+GAS: 152
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 720
+GAS: 152
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 720
+GAS: 156
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 720
+GAS: 156
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 13, 'Pylon': 4}
+MINERALS: 730
+GAS: 156
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 735
+GAS: 156
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 740
+GAS: 156
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 745
+GAS: 160
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 13, 'Pylon': 4}
+MINERALS: 760
+GAS: 160
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 13, 'Pylon': 4}
+MINERALS: 760
+GAS: 160
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 13, 'Pylon': 4}
+MINERALS: 770
+GAS: 160
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 770
+GAS: 164
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 770
+GAS: 164
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 775
+GAS: 164
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 780
+GAS: 164
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 785
+GAS: 164
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 790
+GAS: 164
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 790
+GAS: 168
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 13, 'Pylon': 4}
+MINERALS: 800
+GAS: 168
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 13, 'Pylon': 4}
+MINERALS: 810
+GAS: 168
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 815
+GAS: 168
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 820
+GAS: 172
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 825
+GAS: 172
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 13, 'Pylon': 4}
+MINERALS: 825
+GAS: 172
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 825
+GAS: 172
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 835
+GAS: 172
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 840
+GAS: 176
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 13, 'Pylon': 4}
+MINERALS: 840
+GAS: 176
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 13, 'Pylon': 4}
+MINERALS: 840
+GAS: 176
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 850
+GAS: 176
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 865
+GAS: 180
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 870
+GAS: 180
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 870
+GAS: 180
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 875
+GAS: 180
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 875
+GAS: 180
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 885
+GAS: 180
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 13, 'Pylon': 4}
+MINERALS: 885
+GAS: 184
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 13, 'Pylon': 4}
+MINERALS: 890
+GAS: 184
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 13, 'Pylon': 4}
+MINERALS: 895
+GAS: 184
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 900
+GAS: 188
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 905
+GAS: 188
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 915
+GAS: 188
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 13, 'Pylon': 4}
+MINERALS: 920
+GAS: 188
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 920
+GAS: 188
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 925
+GAS: 188
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 930
+GAS: 192
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 13, 'Pylon': 4}
+MINERALS: 935
+GAS: 192
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 13, 'Pylon': 4}
+MINERALS: 940
+GAS: 192
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 945
+GAS: 192
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 945
+GAS: 196
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 955
+GAS: 196
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 13, 'Pylon': 4}
+MINERALS: 965
+GAS: 196
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 965
+GAS: 196
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 965
+GAS: 196
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 975
+GAS: 200
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 13, 'Pylon': 4}
+MINERALS: 975
+GAS: 200
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 13, 'Pylon': 4}
+MINERALS: 985
+GAS: 200
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 13, 'Pylon': 4}
+MINERALS: 985
+GAS: 200
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 990
+GAS: 204
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 995
+GAS: 204
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 1005
+GAS: 204
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 1010
+GAS: 204
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 1020
+GAS: 204
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 1020
+GAS: 204
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 1020
+GAS: 208
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 13, 'Pylon': 4}
+MINERALS: 1020
+GAS: 208
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 13, 'Pylon': 4}
+MINERALS: 1030
+GAS: 208
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 1035
+GAS: 208
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 1035
+GAS: 212
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 1040
+GAS: 212
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 13, 'Pylon': 4}
+MINERALS: 1045
+GAS: 212
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 1055
+GAS: 212
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 1070
+GAS: 212
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 1070
+GAS: 216
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 13, 'Pylon': 4}
+MINERALS: 1075
+GAS: 216
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 13, 'Pylon': 4}
+MINERALS: 1075
+GAS: 216
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 1080
+GAS: 216
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 1080
+GAS: 220
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 1085
+GAS: 220
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 1090
+GAS: 220
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 1090
+GAS: 220
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 1105
+GAS: 220
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 1110
+GAS: 220
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 13, 'Pylon': 4}
+MINERALS: 1120
+GAS: 224
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 13, 'Pylon': 4}
+MINERALS: 1120
+GAS: 224
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 13, 'Pylon': 4}
+MINERALS: 1125
+GAS: 224
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 1135
+GAS: 228
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 1135
+GAS: 228
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 1135
+GAS: 228
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 13, 'Pylon': 4}
+MINERALS: 1135
+GAS: 228
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 1140
+GAS: 228
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 1140
+GAS: 228
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 1160
+GAS: 232
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 13, 'Pylon': 4}
+MINERALS: 1160
+GAS: 232
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 13, 'Pylon': 4}
+MINERALS: 1170
+GAS: 232
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 1170
+GAS: 232
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 1175
+GAS: 236
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 1180
+GAS: 236
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 13, 'Pylon': 4}
+MINERALS: 1190
+GAS: 236
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 1190
+GAS: 236
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 1190
+GAS: 236
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 1190
+GAS: 240
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 13, 'Pylon': 4}
+MINERALS: 1200
+GAS: 240
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 13, 'Pylon': 4}
+MINERALS: 1210
+GAS: 240
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 13, 'Pylon': 4}
+MINERALS: 1220
+GAS: 240
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 1220
+GAS: 244
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 1225
+GAS: 244
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 1230
+GAS: 244
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 1235
+GAS: 244
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 1235
+GAS: 244
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 1245
+GAS: 244
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 1245
+GAS: 248
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 13, 'Pylon': 4}
+MINERALS: 1245
+GAS: 248
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 13, 'Pylon': 4}
+MINERALS: 1255
+GAS: 248
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 1265
+GAS: 248
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 1270
+GAS: 252
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 1270
+GAS: 252
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 13, 'Pylon': 4}
+MINERALS: 1280
+GAS: 252
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 1285
+GAS: 252
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 1285
+GAS: 252
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 1285
+GAS: 256
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 13, 'Pylon': 4}
+MINERALS: 1290
+GAS: 256
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 13, 'Pylon': 4}
+MINERALS: 1295
+GAS: 256
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 1310
+GAS: 256
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 1315
+GAS: 260
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 1315
+GAS: 260
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 1325
+GAS: 260
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 1325
+GAS: 260
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 1330
+GAS: 260
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 1335
+GAS: 260
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 13, 'Pylon': 4}
+MINERALS: 1340
+GAS: 264
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 13, 'Pylon': 4}
+MINERALS: 1340
+GAS: 264
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 13, 'Pylon': 4}
+MINERALS: 1340
+GAS: 264
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 1350
+GAS: 268
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 1360
+GAS: 268
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 1370
+GAS: 268
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 13, 'Pylon': 4}
+MINERALS: 1370
+GAS: 268
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 1375
+GAS: 268
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 1385
+GAS: 268
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 1385
+GAS: 272
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 13, 'Pylon': 4}
+MINERALS: 1385
+GAS: 272
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 13, 'Pylon': 4}
+MINERALS: 1385
+GAS: 272
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 1390
+GAS: 272
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 1395
+GAS: 276
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 1405
+GAS: 276
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 13, 'Pylon': 4}
+MINERALS: 1405
+GAS: 276
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 1420
+GAS: 276
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 1425
+GAS: 276
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 1435
+GAS: 280
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 13, 'Pylon': 4}
+MINERALS: 1435
+GAS: 280
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 13, 'Pylon': 4}
+MINERALS: 1440
+GAS: 280
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 13, 'Pylon': 4}
+MINERALS: 1440
+GAS: 280
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 1440
+GAS: 284
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 1440
+GAS: 284
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 1450
+GAS: 284
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 1460
+GAS: 284
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 1460
+GAS: 284
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 1470
+GAS: 284
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 1480
+GAS: 288
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 13, 'Pylon': 4}
+MINERALS: 1485
+GAS: 288
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 13, 'Pylon': 4}
+MINERALS: 1490
+GAS: 288
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 1490
+GAS: 288
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 1495
+GAS: 292
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 1495
+GAS: 292
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 13, 'Pylon': 4}
+MINERALS: 1500
+GAS: 292
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 1505
+GAS: 292
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 1505
+GAS: 292
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 1515
+GAS: 296
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 13, 'Pylon': 4}
+MINERALS: 1520
+GAS: 296
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 13, 'Pylon': 4}
+MINERALS: 1535
+GAS: 296
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 1540
+GAS: 296
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 1540
+GAS: 300
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 1540
+GAS: 300
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 1545
+GAS: 300
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 1550
+GAS: 300
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 1555
+GAS: 300
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 1560
+GAS: 300
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 13, 'Pylon': 4}
+MINERALS: 1560
+GAS: 304
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 13, 'Pylon': 4}
+MINERALS: 1560
+GAS: 304
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 13, 'Pylon': 4}
+MINERALS: 1580
+GAS: 304
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 1585
+GAS: 308
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 1590
+GAS: 308
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 1590
+GAS: 308
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 13, 'Pylon': 4}
+MINERALS: 1595
+GAS: 308
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 1595
+GAS: 308
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 1605
+GAS: 308
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 1615
+GAS: 312
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 13, 'Pylon': 4}
+MINERALS: 1615
+GAS: 312
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 13, 'Pylon': 4}
+MINERALS: 1615
+GAS: 312
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 1620
+GAS: 312
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 1630
+GAS: 316
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 1630
+GAS: 316
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 13, 'Pylon': 4}
+MINERALS: 1640
+GAS: 316
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 1645
+GAS: 316
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 1645
+GAS: 316
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 1655
+GAS: 320
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 13, 'Pylon': 4}
+MINERALS: 1655
+GAS: 320
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 13, 'Pylon': 4}
+MINERALS: 1660
+GAS: 320
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 13, 'Pylon': 4}
+MINERALS: 1665
+GAS: 320
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 1670
+GAS: 324
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 1675
+GAS: 324
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 1685
+GAS: 324
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 1685
+GAS: 324
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 1685
+GAS: 324
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 1690
+GAS: 324
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 1705
+GAS: 328
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 13, 'Pylon': 4}
+MINERALS: 1705
+GAS: 328
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 13, 'Pylon': 4}
+MINERALS: 1710
+GAS: 328
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 1715
+GAS: 328
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 1715
+GAS: 332
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 1725
+GAS: 332
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 13, 'Pylon': 4}
+MINERALS: 1735
+GAS: 332
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 1740
+GAS: 332
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 1740
+GAS: 332
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 1740
+GAS: 336
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 13, 'Pylon': 4}
+MINERALS: 1740
+GAS: 336
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 13, 'Pylon': 4}
+MINERALS: 1745
+GAS: 336
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 1760
+GAS: 336
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 1765
+GAS: 340
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 1765
+GAS: 340
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 1775
+GAS: 340
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 1775
+GAS: 340
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 1780
+GAS: 340
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 1795
+GAS: 340
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 13, 'Pylon': 4}
+MINERALS: 1795
+GAS: 344
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 13, 'Pylon': 4}
+MINERALS: 1795
+GAS: 344
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 13, 'Pylon': 4}
+MINERALS: 1800
+GAS: 344
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 1800
+GAS: 348
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 1805
+GAS: 348
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 1815
+GAS: 348
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 13, 'Pylon': 4}
+MINERALS: 1820
+GAS: 348
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 1825
+GAS: 348
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 1825
+GAS: 348
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 1840
+GAS: 352
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 13, 'Pylon': 4}
+MINERALS: 1840
+GAS: 352
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 13, 'Pylon': 4}
+MINERALS: 1850
+GAS: 352
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 1855
+GAS: 352
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 1855
+GAS: 356
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 1855
+GAS: 356
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 13, 'Pylon': 4}
+MINERALS: 1860
+GAS: 356
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 1860
+GAS: 356
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 1870
+GAS: 356
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 1880
+GAS: 360
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 13, 'Pylon': 4}
+MINERALS: 1880
+GAS: 360
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 13, 'Pylon': 4}
+MINERALS: 1890
+GAS: 360
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 13, 'Pylon': 4}
+MINERALS: 1895
+GAS: 360
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 1895
+GAS: 364
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 1905
+GAS: 364
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 1910
+GAS: 364
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 1915
+GAS: 364
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 1915
+GAS: 364
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 1920
+GAS: 364
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 1920
+GAS: 368
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 13, 'Pylon': 4}
+MINERALS: 1925
+GAS: 368
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 13, 'Pylon': 4}
+MINERALS: 1935
+GAS: 368
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 1945
+GAS: 368
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 1945
+GAS: 372
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 1950
+GAS: 372
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 13, 'Pylon': 4}
+MINERALS: 1955
+GAS: 372
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 1960
+GAS: 372
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 1965
+GAS: 372
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 1970
+GAS: 376
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 13, 'Pylon': 4}
+MINERALS: 1975
+GAS: 376
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 13, 'Pylon': 4}
+MINERALS: 1975
+GAS: 376
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 1975
+GAS: 376
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 1985
+GAS: 380
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 1995
+GAS: 380
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 2005
+GAS: 380
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 2005
+GAS: 380
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 2005
+GAS: 380
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 2020
+GAS: 380
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 13, 'Pylon': 4}
+MINERALS: 2020
+GAS: 384
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 13, 'Pylon': 4}
+MINERALS: 2025
+GAS: 384
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 13, 'Pylon': 4}
+MINERALS: 2030
+GAS: 384
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 2030
+GAS: 388
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 2030
+GAS: 388
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 2040
+GAS: 388
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 13, 'Pylon': 4}
+MINERALS: 2045
+GAS: 388
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 2050
+GAS: 388
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 2055
+GAS: 388
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 2060
+GAS: 392
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 13, 'Pylon': 4}
+MINERALS: 2065
+GAS: 392
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 13, 'Pylon': 4}
+MINERALS: 2075
+GAS: 392
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 2080
+GAS: 392
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 2080
+GAS: 396
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 2080
+GAS: 396
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 13, 'Pylon': 4}
+MINERALS: 2090
+GAS: 396
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 2090
+GAS: 396
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 2105
+GAS: 396
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 2105
+GAS: 400
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 13, 'Pylon': 4}
+MINERALS: 2105
+GAS: 400
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 13, 'Pylon': 4}
+MINERALS: 2115
+GAS: 400
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 13, 'Pylon': 4}
+MINERALS: 2125
+GAS: 400
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 2125
+GAS: 404
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 2130
+GAS: 404
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 2135
+GAS: 404
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 2135
+GAS: 404
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 2140
+GAS: 404
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 2150
+GAS: 404
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 2155
+GAS: 408
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 13, 'Pylon': 4}
+MINERALS: 2160
+GAS: 408
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 13, 'Pylon': 4}
+MINERALS: 2160
+GAS: 408
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 2165
+GAS: 408
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 2175
+GAS: 412
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 2175
+GAS: 412
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 13, 'Pylon': 4}
+MINERALS: 2180
+GAS: 412
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 2185
+GAS: 412
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 2185
+GAS: 412
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 2200
+GAS: 416
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 13, 'Pylon': 4}
+MINERALS: 2200
+GAS: 416
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 13, 'Pylon': 4}
+MINERALS: 2205
+GAS: 416
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 2210
+GAS: 416
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 2220
+GAS: 420
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 2225
+GAS: 420
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 2225
+GAS: 420
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 2225
+GAS: 420
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 2230
+GAS: 420
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 2235
+GAS: 420
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 13, 'Pylon': 4}
+MINERALS: 2245
+GAS: 424
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 13, 'Pylon': 4}
+MINERALS: 2250
+GAS: 424
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 13, 'Pylon': 4}
+MINERALS: 2255
+GAS: 424
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 2260
+GAS: 428
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 2260
+GAS: 428
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 2275
+GAS: 428
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 13, 'Pylon': 4}
+MINERALS: 2280
+GAS: 428
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 2280
+GAS: 428
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 2280
+GAS: 428
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 2280
+GAS: 432
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 13, 'Pylon': 4}
+MINERALS: 2285
+GAS: 432
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 13, 'Pylon': 4}
+MINERALS: 2295
+GAS: 432
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 2305
+GAS: 432
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 2305
+GAS: 436
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 2310
+GAS: 436
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 13, 'Pylon': 4}
+MINERALS: 2320
+GAS: 436
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 2325
+GAS: 436
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 2325
+GAS: 436
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 2335
+GAS: 440
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 13, 'Pylon': 4}
+MINERALS: 2335
+GAS: 440
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 13, 'Pylon': 4}
+MINERALS: 2335
+GAS: 440
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 13, 'Pylon': 4}
+MINERALS: 2340
+GAS: 440
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 2350
+GAS: 444
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 2350
+GAS: 444
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 2365
+GAS: 444
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 2365
+GAS: 444
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 2375
+GAS: 444
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 2380
+GAS: 444
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 2380
+GAS: 448
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 13, 'Pylon': 4}
+MINERALS: 2380
+GAS: 448
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 13, 'Pylon': 4}
+MINERALS: 2390
+GAS: 448
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 2390
+GAS: 448
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 2395
+GAS: 452
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 2400
+GAS: 452
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 13, 'Pylon': 4}
+MINERALS: 2400
+GAS: 452
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 2410
+GAS: 452
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 2425
+GAS: 452
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 2430
+GAS: 456
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 13, 'Pylon': 4}
+MINERALS: 2430
+GAS: 456
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 13, 'Pylon': 4}
+MINERALS: 2430
+GAS: 456
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 2435
+GAS: 456
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 2435
+GAS: 460
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 2445
+GAS: 460
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 2455
+GAS: 460
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 2455
+GAS: 460
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 2455
+GAS: 460
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 2460
+GAS: 460
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 13, 'Pylon': 4}
+MINERALS: 2475
+GAS: 464
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 13, 'Pylon': 4}
+MINERALS: 2480
+GAS: 464
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 13, 'Pylon': 4}
+MINERALS: 2480
+GAS: 464
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 2485
+GAS: 468
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 2485
+GAS: 468
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 2495
+GAS: 468
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 13, 'Pylon': 4}
+MINERALS: 2495
+GAS: 468
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 2505
+GAS: 468
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 2510
+GAS: 468
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 2510
+GAS: 472
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 13, 'Pylon': 4}
+MINERALS: 2525
+GAS: 472
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 13, 'Pylon': 4}
+MINERALS: 2525
+GAS: 472
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 2525
+GAS: 472
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 2535
+GAS: 476
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 2535
+GAS: 476
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 13, 'Pylon': 4}
+MINERALS: 2540
+GAS: 476
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 2545
+GAS: 476
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 2545
+GAS: 476
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 2555
+GAS: 480
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 13, 'Pylon': 4}
+MINERALS: 2560
+GAS: 480
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 13, 'Pylon': 4}
+MINERALS: 2565
+GAS: 480
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 13, 'Pylon': 4}
+MINERALS: 2580
+GAS: 480
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 2580
+GAS: 484
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 2580
+GAS: 484
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 2585
+GAS: 484
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 2590
+GAS: 484
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 2595
+GAS: 484
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 2600
+GAS: 484
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 2605
+GAS: 488
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 13, 'Pylon': 4}
+MINERALS: 2605
+GAS: 488
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 13, 'Pylon': 4}
+MINERALS: 2620
+GAS: 488
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 2625
+GAS: 488
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 2630
+GAS: 492
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 2630
+GAS: 492
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 13, 'Pylon': 4}
+MINERALS: 2635
+GAS: 492
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 2635
+GAS: 492
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 2645
+GAS: 492
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 2645
+GAS: 496
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 13, 'Pylon': 4}
+MINERALS: 2650
+GAS: 496
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 13, 'Pylon': 4}
+MINERALS: 2655
+GAS: 496
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 2660
+GAS: 496
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 2665
+GAS: 500
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 2675
+GAS: 500
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 2685
+GAS: 500
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 2685
+GAS: 500
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 2685
+GAS: 500
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 2695
+GAS: 500
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 13, 'Pylon': 4}
+MINERALS: 2695
+GAS: 504
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 13, 'Pylon': 4}
+MINERALS: 2700
+GAS: 504
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 13, 'Pylon': 4}
+MINERALS: 2700
+GAS: 504
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 2710
+GAS: 508
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 2715
+GAS: 508
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 2720
+GAS: 508
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 13, 'Pylon': 4}
+MINERALS: 2725
+GAS: 508
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 2735
+GAS: 508
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 2740
+GAS: 508
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 2740
+GAS: 512
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 13, 'Pylon': 4}
+MINERALS: 2745
+GAS: 512
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 13, 'Pylon': 4}
+MINERALS: 2750
+GAS: 512
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 2750
+GAS: 512
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 2760
+GAS: 516
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 2765
+GAS: 516
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 13, 'Pylon': 4}
+MINERALS: 2770
+GAS: 516
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 2775
+GAS: 516
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 2775
+GAS: 516
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 2785
+GAS: 520
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 13, 'Pylon': 4}
+MINERALS: 2790
+GAS: 520
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 13, 'Pylon': 4}
+MINERALS: 2795
+GAS: 520
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 13, 'Pylon': 4}
+MINERALS: 2800
+GAS: 520
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 2800
+GAS: 524
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 2800
+GAS: 524
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 2810
+GAS: 524
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 2820
+GAS: 524
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 2825
+GAS: 524
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 2830
+GAS: 524
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 2830
+GAS: 528
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 13, 'Pylon': 4}
+MINERALS: 2835
+GAS: 528
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 13, 'Pylon': 4}
+MINERALS: 2840
+GAS: 528
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 2850
+GAS: 528
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 2850
+GAS: 532
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 2855
+GAS: 532
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 13, 'Pylon': 4}
+MINERALS: 2855
+GAS: 532
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 2865
+GAS: 532
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 2865
+GAS: 532
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 2880
+GAS: 536
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 13, 'Pylon': 4}
+MINERALS: 2880
+GAS: 536
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 13, 'Pylon': 4}
+MINERALS: 2885
+GAS: 536
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 2890
+GAS: 536
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 2895
+GAS: 540
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 2895
+GAS: 540
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 2905
+GAS: 540
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 2905
+GAS: 540
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 2910
+GAS: 540
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 2920
+GAS: 540
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 13, 'Pylon': 4}
+MINERALS: 2925
+GAS: 544
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 13, 'Pylon': 4}
+MINERALS: 2925
+GAS: 544
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 13, 'Pylon': 4}
+MINERALS: 2935
+GAS: 544
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 2940
+GAS: 548
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 2945
+GAS: 548
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 2950
+GAS: 548
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 13, 'Pylon': 4}
+MINERALS: 2950
+GAS: 548
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 2950
+GAS: 548
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 2955
+GAS: 548
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 2970
+GAS: 552
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 13, 'Pylon': 4}
+MINERALS: 2970
+GAS: 552
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 13, 'Pylon': 4}
+MINERALS: 2980
+GAS: 552
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 2980
+GAS: 552
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 2980
+GAS: 556
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 2995
+GAS: 556
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 13, 'Pylon': 4}
+MINERALS: 3000
+GAS: 556
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 3000
+GAS: 556
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 3005
+GAS: 556
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 3005
+GAS: 560
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 13, 'Pylon': 4}
+MINERALS: 3010
+GAS: 560
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 13, 'Pylon': 4}
+MINERALS: 3020
+GAS: 560
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 13, 'Pylon': 4}
+MINERALS: 3030
+GAS: 560
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 3030
+GAS: 564
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 3030
+GAS: 564
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 3035
+GAS: 564
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 3045
+GAS: 564
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 3050
+GAS: 564
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 3055
+GAS: 564
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 3055
+GAS: 568
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 13, 'Pylon': 4}
+MINERALS: 3060
+GAS: 568
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 13, 'Pylon': 4}
+MINERALS: 3065
+GAS: 568
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 3070
+GAS: 568
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 3080
+GAS: 572
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 3080
+GAS: 572
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 13, 'Pylon': 4}
+MINERALS: 3080
+GAS: 572
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 13, 'Pylon': 4}
+MINERALS: 3080
+GAS: 572
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 12, 'Pylon': 4}
+MINERALS: 3080
+GAS: 572
+Using policy: VOIDRAY
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 11, 'Pylon': 4}
+MINERALS: 3080
+GAS: 572
+Not using policy
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 10, 'Pylon': 4}
+MINERALS: 3080
+GAS: 572
+ACTION_WANTED: PROBE
+ACTION_MADE: PROBE
+Not using policy
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 9, 'Pylon': 4}
+MINERALS: 3030
+GAS: 572
+ACTION_WANTED: PROBE
+Not using policy
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 9, 'Pylon': 4}
+MINERALS: 3030
+GAS: 572
+ACTION_WANTED: GATEWAY
+ACTION_MADE: GATEWAY
+Not using policy
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 8, 'Pylon': 4}
+MINERALS: 2880
+GAS: 572
+Not using policy
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 7, 'Pylon': 4}
+MINERALS: 2880
+GAS: 572
+ACTION_WANTED: PROBE
+Not using policy
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 6, 'Pylon': 4}
+MINERALS: 2880
+GAS: 572
+ACTION_WANTED: PROBE
+Not using policy
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 5, 'Pylon': 4}
+MINERALS: 2880
+GAS: 572
+ACTION_WANTED: PROBE
+Not using policy
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 5, 'Pylon': 4}
+MINERALS: 2880
+GAS: 572
+ACTION_WANTED: PROBE
+Not using policy
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 4, 'Pylon': 4}
+MINERALS: 2880
+GAS: 572
+ACTION_WANTED: PROBE
+Not using policy
+
+MY_UNITS: {'Assimilator': 2, 'Nexus': 1, 'Probe': 3, 'Pylon': 4}
+MINERALS: 2880
+GAS: 572
+ACTION_WANTED: PROBE
+Using policy: PROBE
+
+MY_UNITS: {'Assimilator': 2, 'Gateway': 1, 'Nexus': 1, 'Probe': 2, 'Pylon': 4}
+MINERALS: 2880
+GAS: 572
+ACTION_WANTED: PROBE
+Not using policy
+
+MY_UNITS: {'Assimilator': 2, 'Gateway': 1, 'Nexus': 1, 'Probe': 2, 'Pylon': 4}
+MINERALS: 2880
+GAS: 572
+ACTION_WANTED: PROBE
+Not using policy
+
+MY_UNITS: {'Assimilator': 2, 'Gateway': 1, 'Nexus': 1, 'Probe': 1, 'Pylon': 4}
+MINERALS: 2880
+GAS: 572
+Not using policy
+
+MY_UNITS: {'Assimilator': 2, 'Gateway': 1, 'Nexus': 1, 'Probe': 1, 'Pylon': 4}
+MINERALS: 2880
+GAS: 572
+ACTION_WANTED: PROBE
+Not using policy
+
+MY_UNITS: {'Assimilator': 2, 'Gateway': 1, 'Nexus': 1, 'Probe': 1, 'Pylon': 4}
+MINERALS: 2880
+GAS: 572
+ACTION_WANTED: PROBE
+Not using policy
+
+MY_UNITS: {'Assimilator': 2, 'Gateway': 1, 'Nexus': 1, 'Probe': 1, 'Pylon': 4}
+MINERALS: 2880
+GAS: 572
+ACTION_WANTED: PROBE
+Not using policy
+
+MY_UNITS: {'Assimilator': 2, 'Gateway': 1, 'Nexus': 1, 'Pylon': 4}
+MINERALS: 2880
+GAS: 572
+ACTION_WANTED: PROBE
+Not using policy
+
+MY_UNITS: {'Assimilator': 2, 'Gateway': 1, 'Nexus': 1, 'Pylon': 4}
+MINERALS: 2880
+GAS: 572
+ACTION_WANTED: PROBE
+Not using policy
+
+MY_UNITS: {'Assimilator': 2, 'Gateway': 1, 'Nexus': 1, 'Pylon': 4}
+MINERALS: 2880
+GAS: 572
+ACTION_WANTED: PROBE
+Not using policy
+
+MY_UNITS: {'Assimilator': 2, 'Gateway': 1, 'Nexus': 1, 'Probe': 1, 'Pylon': 4}
+MINERALS: 2880
+GAS: 572
+ACTION_WANTED: PROBE
+ACTION_MADE: PROBE
+Not using policy
+
+MY_UNITS: {'Assimilator': 2, 'Gateway': 1, 'Nexus': 1, 'Probe': 1, 'Pylon': 4}
+MINERALS: 2830
+GAS: 572
+ACTION_WANTED: PROBE
+Not using policy
+
+MY_UNITS: {'Assimilator': 2, 'Gateway': 1, 'Nexus': 1, 'Probe': 1, 'Pylon': 4}
+MINERALS: 2830
+GAS: 572
+ACTION_WANTED: PROBE
+Not using policy
+
+MY_UNITS: {'Assimilator': 2, 'Gateway': 1, 'Nexus': 1, 'Pylon': 4}
+MINERALS: 2830
+GAS: 572
+Not using policy
+
+MY_UNITS: {'Assimilator': 2, 'Gateway': 1, 'Nexus': 1, 'Pylon': 4}
+MINERALS: 2830
+GAS: 572
+ACTION_WANTED: PROBE
+Not using policy
+
+MY_UNITS: {'Assimilator': 2, 'Gateway': 1, 'Nexus': 1, 'Pylon': 4}
+MINERALS: 2830
+GAS: 572
+ACTION_WANTED: PROBE
+Not using policy
+
+MY_UNITS: {'Assimilator': 2, 'Gateway': 1, 'Nexus': 1, 'Pylon': 4}
+MINERALS: 2830
+GAS: 572
+ACTION_WANTED: PROBE
+Not using policy
+
+MY_UNITS: {'Assimilator': 2, 'Gateway': 1, 'Nexus': 1, 'Pylon': 4}
+MINERALS: 2830
+GAS: 572
+ACTION_WANTED: PROBE
+Not using policy
+
+MY_UNITS: {'Assimilator': 2, 'Gateway': 1, 'Nexus': 1, 'Pylon': 4}
+MINERALS: 2830
+GAS: 572
+ACTION_WANTED: PROBE
+Not using policy
+
+MY_UNITS: {'Assimilator': 2, 'Gateway': 1, 'Nexus': 1, 'Pylon': 4}
+MINERALS: 2830
+GAS: 572
+ACTION_WANTED: PROBE
+Not using policy
+
+MY_UNITS: {'Assimilator': 2, 'Gateway': 1, 'Nexus': 1, 'Pylon': 4}
+MINERALS: 2830
+GAS: 572
+ACTION_WANTED: PROBE
+Not using policy
+
+MY_UNITS: {'Assimilator': 2, 'Gateway': 1, 'Nexus': 1, 'Pylon': 4}
+MINERALS: 2830
+GAS: 572
+ACTION_WANTED: PROBE
+Not using policy
+
+MY_UNITS: {'Assimilator': 2, 'Gateway': 1, 'Nexus': 1, 'Pylon': 4}
+MINERALS: 2830
+GAS: 572
+ACTION_WANTED: PROBE
+Not using policy
+
+MY_UNITS: {'Assimilator': 2, 'Gateway': 1, 'Nexus': 1, 'Pylon': 4}
+MINERALS: 2830
+GAS: 572
+ACTION_WANTED: PROBE
+Not using policy
+
+MY_UNITS: {'Assimilator': 2, 'Gateway': 1, 'Nexus': 1, 'Pylon': 4}
+MINERALS: 2830
+GAS: 572
+ACTION_WANTED: PROBE
+Not using policy
+
+MY_UNITS: {'Assimilator': 2, 'Gateway': 1, 'Nexus': 1, 'Pylon': 4}
+MINERALS: 2830
+GAS: 572
+ACTION_WANTED: PROBE
+Not using policy
+
+MY_UNITS: {'Assimilator': 2, 'Gateway': 1, 'Nexus': 1, 'Pylon': 4}
+MINERALS: 2830
+GAS: 572
+ACTION_WANTED: PROBE
+Not using policy
+
+MY_UNITS: {'Assimilator': 2, 'Gateway': 1, 'Nexus': 1, 'Pylon': 4}
+MINERALS: 2830
+GAS: 572
+ACTION_WANTED: PROBE
+Not using policy
+
+MY_UNITS: {'Assimilator': 2, 'Gateway': 1, 'Nexus': 1, 'Pylon': 4}
+MINERALS: 2830
+GAS: 572
+ACTION_WANTED: PROBE
+Not using policy
+
+MY_UNITS: {'Assimilator': 2, 'Gateway': 1, 'Nexus': 1, 'Probe': 1, 'Pylon': 4}
+MINERALS: 2830
+GAS: 572
+ACTION_WANTED: PROBE
+ACTION_MADE: PROBE
+Not using policy
+
+MY_UNITS: {'Assimilator': 2, 'Gateway': 1, 'Nexus': 1, 'Probe': 1, 'Pylon': 4}
+MINERALS: 2780
+GAS: 572
+ACTION_WANTED: PROBE
+Not using policy
+
+MY_UNITS: {'Assimilator': 2, 'Gateway': 1, 'Nexus': 1, 'Probe': 1, 'Pylon': 4}
+MINERALS: 2780
+GAS: 572
+ACTION_WANTED: PROBE
+Not using policy
+
+MY_UNITS: {'Assimilator': 2, 'Gateway': 1, 'Nexus': 1, 'Pylon': 4}
+MINERALS: 2780
+GAS: 572
+ACTION_WANTED: PROBE
+Not using policy
+
+MY_UNITS: {'Assimilator': 2, 'Gateway': 1, 'Nexus': 1, 'Pylon': 4}
+MINERALS: 2780
+GAS: 572
+ACTION_WANTED: PROBE
+Not using policy
+
+MY_UNITS: {'Assimilator': 2, 'Gateway': 1, 'Nexus': 1, 'Pylon': 4}
+MINERALS: 2780
+GAS: 572
+ACTION_WANTED: PROBE
+Not using policy
+
+MY_UNITS: {'Assimilator': 2, 'Gateway': 1, 'Nexus': 1, 'Pylon': 4}
+MINERALS: 2780
+GAS: 572
+ACTION_WANTED: PROBE
+Not using policy
+
+MY_UNITS: {'Assimilator': 2, 'Gateway': 1, 'Nexus': 1, 'Pylon': 4}
+MINERALS: 2780
+GAS: 572
+ACTION_WANTED: PROBE
+Not using policy
+
+MY_UNITS: {'Assimilator': 2, 'Gateway': 1, 'Nexus': 1, 'Pylon': 4}
+MINERALS: 2780
+GAS: 572
+ACTION_WANTED: PROBE
+Not using policy
+
+MY_UNITS: {'Assimilator': 2, 'Gateway': 1, 'Nexus': 1, 'Pylon': 4}
+MINERALS: 2780
+GAS: 572
+Not using policy
+
+MY_UNITS: {'Assimilator': 2, 'Gateway': 1, 'Nexus': 1, 'Pylon': 4}
+MINERALS: 2780
+GAS: 572
+ACTION_WANTED: PROBE
+Not using policy
+
+MY_UNITS: {'Assimilator': 2, 'Gateway': 1, 'Nexus': 1, 'Pylon': 4}
+MINERALS: 2780
+GAS: 572
+Not using policy
+
+MY_UNITS: {'Assimilator': 2, 'Gateway': 1, 'Nexus': 1, 'Pylon': 4}
+MINERALS: 2780
+GAS: 572
+ACTION_WANTED: PROBE
+Not using policy
+
+MY_UNITS: {'Assimilator': 2, 'Gateway': 1, 'Nexus': 1, 'Pylon': 4}
+MINERALS: 2780
+GAS: 572
+Not using policy
+
+MY_UNITS: {'Assimilator': 2, 'Gateway': 1, 'Nexus': 1, 'Pylon': 4}
+MINERALS: 2780
+GAS: 572
+ACTION_WANTED: PROBE
+Not using policy
+
+MY_UNITS: {'Assimilator': 2, 'Gateway': 1, 'Nexus': 1, 'Pylon': 4}
+MINERALS: 2780
+GAS: 572
+Not using policy
+
+MY_UNITS: {'Assimilator': 2, 'Gateway': 1, 'Nexus': 1, 'Pylon': 4}
+MINERALS: 2780
+GAS: 572
+ACTION_WANTED: PROBE
+Not using policy
+
+MY_UNITS: {'Assimilator': 2, 'Gateway': 1, 'Nexus': 1, 'Pylon': 4}
+MINERALS: 2780
+GAS: 572
+Not using policy
+
+MY_UNITS: {'Assimilator': 2, 'Gateway': 1, 'Nexus': 1, 'Pylon': 4}
+MINERALS: 2780
+GAS: 572
+Not using policy
+
+MY_UNITS: {'Assimilator': 2, 'Gateway': 1, 'Probe': 1, 'Pylon': 4}
+MINERALS: 2780
+GAS: 572
+Not using policy
+
+MY_UNITS: {'Assimilator': 2, 'Gateway': 1, 'Probe': 1, 'Pylon': 4}
+MINERALS: 2780
+GAS: 572
+ACTION_WANTED: CYBERNETICSCORE
+Not using policy
+
+MY_UNITS: {'Assimilator': 2, 'Gateway': 1, 'Probe': 1, 'Pylon': 4}
+MINERALS: 2780
+GAS: 572
+Not using policy
+
+MY_UNITS: {'Assimilator': 2, 'Gateway': 1, 'Probe': 1, 'Pylon': 4}
+MINERALS: 2780
+GAS: 572
+Not using policy
+
+MY_UNITS: {'Assimilator': 2, 'Gateway': 1, 'Probe': 1, 'Pylon': 4}
+MINERALS: 2780
+GAS: 572
+ACTION_WANTED: FORGE
+ACTION_MADE: FORGE
+Not using policy
+
+MY_UNITS: {'Assimilator': 2, 'Gateway': 1, 'Probe': 1, 'Pylon': 4}
+MINERALS: 2780
+GAS: 572
+Not using policy
+
+MY_UNITS: {'Assimilator': 2, 'Gateway': 1, 'Probe': 1, 'Pylon': 4}
+MINERALS: 2780
+GAS: 572
+Not using policy
+
+MY_UNITS: {'Assimilator': 2, 'Gateway': 1, 'Probe': 1, 'Pylon': 4}
+MINERALS: 2780
+GAS: 572
+ACTION_WANTED: GATEWAY
+ACTION_MADE: GATEWAY
+Not using policy
+
+MY_UNITS: {'Assimilator': 2, 'Gateway': 1, 'Probe': 1, 'Pylon': 4}
+MINERALS: 2780
+GAS: 572
+Not using policy
+
+MY_UNITS: {'Assimilator': 2, 'Gateway': 1, 'Probe': 1, 'Pylon': 4}
+MINERALS: 2780
+GAS: 572
+Not using policy
+
+MY_UNITS: {'Assimilator': 2, 'Gateway': 1, 'Probe': 1, 'Pylon': 4}
+MINERALS: 2780
+GAS: 572
+ACTION_WANTED: GATEWAY
+ACTION_MADE: GATEWAY
+Not using policy
+
+MY_UNITS: {'Assimilator': 2, 'Gateway': 1, 'Probe': 1, 'Pylon': 4}
+MINERALS: 2780
+GAS: 572
+Not using policy
+
+MY_UNITS: {'Assimilator': 2, 'Gateway': 1, 'Probe': 1, 'Pylon': 4}
+MINERALS: 2780
+GAS: 572
+Not using policy
+
+MY_UNITS: {'Assimilator': 2, 'Gateway': 1, 'Probe': 1, 'Pylon': 4}
+MINERALS: 2780
+GAS: 572
+Not using policy
+
+MY_UNITS: {'Assimilator': 2, 'Gateway': 1, 'Probe': 1, 'Pylon': 4}
+MINERALS: 2780
+GAS: 572
+Not using policy
+
+MY_UNITS: {'Assimilator': 2, 'Gateway': 1, 'Probe': 1, 'Pylon': 4}
+MINERALS: 2780
+GAS: 572
+Not using policy
+
+MY_UNITS: {'Assimilator': 2, 'Gateway': 1, 'Probe': 1, 'Pylon': 4}
+MINERALS: 2780
+GAS: 572
+ACTION_WANTED: FORGE
+ACTION_MADE: FORGE
+Not using policy
+
+MY_UNITS: {'Assimilator': 2, 'Gateway': 1, 'Probe': 1, 'Pylon': 4}
+MINERALS: 2780
+GAS: 572
+ACTION_WANTED: PYLON
+ACTION_MADE: PYLON
+Not using policy
+
+MY_UNITS: {'Assimilator': 2, 'Gateway': 1, 'Probe': 1, 'Pylon': 4}
+MINERALS: 2680
+GAS: 572
+Not using policy
+
+MY_UNITS: {'Assimilator': 2, 'Gateway': 1, 'Probe': 1, 'Pylon': 4}
+MINERALS: 2680
+GAS: 572
+Not using policy
+
+MY_UNITS: {'Assimilator': 2, 'Gateway': 1, 'Probe': 1, 'Pylon': 4}
+MINERALS: 2680
+GAS: 572
+Not using policy
+
+MY_UNITS: {'Assimilator': 2, 'Gateway': 1, 'Probe': 1, 'Pylon': 4}
+MINERALS: 2680
+GAS: 572
+Not using policy
+
+MY_UNITS: {'Assimilator': 2, 'Probe': 1, 'Pylon': 4}
+MINERALS: 2680
+GAS: 572
+Using policy: DARKSHRINE
+
+MY_UNITS: {'Assimilator': 2, 'Probe': 1, 'Pylon': 4}
+MINERALS: 2680
+GAS: 572
+Using policy: DARKSHRINE
+
+MY_UNITS: {'Assimilator': 2, 'Probe': 1, 'Pylon': 4}
+MINERALS: 2680
+GAS: 572
+Using policy: DARKSHRINE
+
+MY_UNITS: {'Assimilator': 2, 'Probe': 1, 'Pylon': 4}
+MINERALS: 2680
+GAS: 572
+Using policy: DARKSHRINE
+
+MY_UNITS: {'Assimilator': 2, 'Probe': 1, 'Pylon': 4}
+MINERALS: 2680
+GAS: 572
+Using policy: DARKSHRINE
+
+MY_UNITS: {'Assimilator': 2, 'Probe': 1, 'Pylon': 5}
+MINERALS: 2680
+GAS: 572
+Not using policy
+
+MY_UNITS: {'Assimilator': 2, 'Probe': 1, 'Pylon': 5}
+MINERALS: 2680
+GAS: 572
+ACTION_WANTED: GATEWAY
+ACTION_MADE: GATEWAY
+Not using policy
+
+MY_UNITS: {'Assimilator': 2, 'Probe': 1, 'Pylon': 5}
+MINERALS: 2680
+GAS: 572
+ACTION_WANTED: GATEWAY
+ACTION_MADE: GATEWAY
+Not using policy
+
+MY_UNITS: {'Assimilator': 2, 'Probe': 1, 'Pylon': 5}
+MINERALS: 2680
+GAS: 572
+Not using policy
+
+MY_UNITS: {'Assimilator': 2, 'Probe': 1, 'Pylon': 5}
+MINERALS: 2680
+GAS: 572
+ACTION_WANTED: PYLON
+ACTION_MADE: PYLON
+Not using policy
+
+MY_UNITS: {'Assimilator': 2, 'Probe': 1, 'Pylon': 4}
+MINERALS: 2580
+GAS: 572
+Using policy: DARKSHRINE
+
+MY_UNITS: {'Assimilator': 2, 'Probe': 1, 'Pylon': 4}
+MINERALS: 2580
+GAS: 572
+Using policy: DARKSHRINE
+
+MY_UNITS: {'Assimilator': 2, 'Probe': 1, 'Pylon': 4}
+MINERALS: 2580
+GAS: 572
+Using policy: DARKSHRINE
+
+MY_UNITS: {'Assimilator': 2, 'Probe': 1, 'Pylon': 4}
+MINERALS: 2580
+GAS: 572
+Using policy: DARKSHRINE
+
+MY_UNITS: {'Assimilator': 2, 'Probe': 1, 'Pylon': 4}
+MINERALS: 2580
+GAS: 572
+Using policy: DARKSHRINE
+
+MY_UNITS: {'Assimilator': 2, 'Pylon': 4}
+MINERALS: 2680
+GAS: 572
+Using policy: CARRIER
+
+MY_UNITS: {'Assimilator': 2, 'Pylon': 4}
+MINERALS: 2680
+GAS: 572
+Using policy: CARRIER
+
+MY_UNITS: {'Assimilator': 2, 'Pylon': 4}
+MINERALS: 2680
+GAS: 572
+Using policy: CARRIER
+
+MY_UNITS: {'Assimilator': 2, 'Pylon': 3}
+MINERALS: 2680
+GAS: 572
+Using policy: COLOSSUS
+
+MY_UNITS: {'Assimilator': 2, 'Pylon': 3}
+MINERALS: 2680
+GAS: 572
+Using policy: COLOSSUS
+
+MY_UNITS: {'Assimilator': 2, 'Pylon': 3}
+MINERALS: 2680
+GAS: 572
+Using policy: COLOSSUS
+
+MY_UNITS: {'Assimilator': 2, 'Pylon': 3}
+MINERALS: 2680
+GAS: 572
+Using policy: COLOSSUS
+
+MY_UNITS: {'Assimilator': 2, 'Pylon': 3}
+MINERALS: 2680
+GAS: 572
+Using policy: COLOSSUS
+
+MY_UNITS: {'Assimilator': 2, 'Pylon': 3}
+MINERALS: 2680
+GAS: 572
+Using policy: COLOSSUS
+
+MY_UNITS: {'Assimilator': 2, 'Pylon': 3}
+MINERALS: 2680
+GAS: 572
+Using policy: COLOSSUS
+
+MY_UNITS: {'Assimilator': 2, 'Pylon': 3}
+MINERALS: 2680
+GAS: 572
+Using policy: COLOSSUS
+
+MY_UNITS: {'Assimilator': 2, 'Pylon': 3}
+MINERALS: 2680
+GAS: 572
+Using policy: COLOSSUS
+
+MY_UNITS: {'Assimilator': 2, 'Pylon': 3}
+MINERALS: 2680
+GAS: 572
+Using policy: COLOSSUS
+
+MY_UNITS: {'Assimilator': 2, 'Pylon': 3}
+MINERALS: 2680
+GAS: 572
+Using policy: COLOSSUS
+
+MY_UNITS: {'Assimilator': 2, 'Pylon': 2}
+MINERALS: 2680
+GAS: 572
+Using policy: ASSIMILATOR
+
+MY_UNITS: {'Assimilator': 2, 'Pylon': 2}
+MINERALS: 2680
+GAS: 572
+Using policy: ASSIMILATOR
+
+MY_UNITS: {'Assimilator': 2, 'Pylon': 2}
+MINERALS: 2680
+GAS: 572
+Using policy: ASSIMILATOR
+
+MY_UNITS: {'Assimilator': 2, 'Pylon': 2}
+MINERALS: 2680
+GAS: 572
+Using policy: ASSIMILATOR
+
+MY_UNITS: {'Assimilator': 2, 'Pylon': 2}
+MINERALS: 2680
+GAS: 572
+Using policy: ASSIMILATOR
+
+MY_UNITS: {'Assimilator': 2, 'Pylon': 2}
+MINERALS: 2680
+GAS: 572
+Using policy: ASSIMILATOR
+
+MY_UNITS: {'Assimilator': 2, 'Pylon': 2}
+MINERALS: 2680
+GAS: 572
+Using policy: ASSIMILATOR
+
+MY_UNITS: {'Assimilator': 2, 'Pylon': 2}
+MINERALS: 2680
+GAS: 572
+Using policy: ASSIMILATOR
+
+MY_UNITS: {'Assimilator': 2, 'Pylon': 1}
+MINERALS: 2680
+GAS: 572
+Using policy: ORACLE
+
+MY_UNITS: {'Assimilator': 2, 'Pylon': 1}
+MINERALS: 2680
+GAS: 572
+Using policy: ORACLE
+
+MY_UNITS: {'Assimilator': 2, 'Pylon': 1}
+MINERALS: 2680
+GAS: 572
+Using policy: ORACLE
+
+MY_UNITS: {'Assimilator': 2, 'Pylon': 1}
+MINERALS: 2680
+GAS: 572
+Using policy: ORACLE
+
+MY_UNITS: {'Assimilator': 2, 'Pylon': 1}
+MINERALS: 2680
+GAS: 572
+Using policy: ORACLE
+
+MY_UNITS: {'Assimilator': 2, 'Pylon': 1}
+MINERALS: 2680
+GAS: 572
+Using policy: ORACLE
+
+MY_UNITS: {'Assimilator': 2, 'Pylon': 1}
+MINERALS: 2680
+GAS: 572
+Using policy: ORACLE
+
+MY_UNITS: {'Assimilator': 2, 'Pylon': 1}
+MINERALS: 2680
+GAS: 572
+Using policy: ORACLE
+
+MY_UNITS: {'Assimilator': 2, 'Pylon': 1}
+MINERALS: 2680
+GAS: 572
+Using policy: ORACLE
+
+MY_UNITS: {'Assimilator': 2, 'Pylon': 1}
+MINERALS: 2680
+GAS: 572
+Using policy: ORACLE
+
+MY_UNITS: {'Assimilator': 2, 'Pylon': 1}
+MINERALS: 2680
+GAS: 572
+Using policy: ORACLE
+
+MY_UNITS: {'Assimilator': 2, 'Pylon': 1}
+MINERALS: 2680
+GAS: 572
+Using policy: ORACLE
+
+MY_UNITS: {'Assimilator': 2, 'Pylon': 1}
+MINERALS: 2680
+GAS: 572
+Using policy: ORACLE
+
+MY_UNITS: {'Assimilator': 2, 'Pylon': 1}
+MINERALS: 2680
+GAS: 572
+Using policy: ORACLE
+
+MY_UNITS: {'Assimilator': 2, 'Pylon': 1}
+MINERALS: 2680
+GAS: 572
+Using policy: ORACLE
+
+MY_UNITS: {'Assimilator': 2, 'Pylon': 1}
+MINERALS: 2680
+GAS: 572
+Using policy: ORACLE
+
+MY_UNITS: {'Assimilator': 2, 'Pylon': 1}
+MINERALS: 2680
+GAS: 572
+Using policy: ORACLE
+
+MY_UNITS: {'Assimilator': 2, 'Pylon': 1}
+MINERALS: 2680
+GAS: 572
+Using policy: ORACLE
+
+MY_UNITS: {'Assimilator': 2, 'Pylon': 1}
+MINERALS: 2680
+GAS: 572
+Using policy: ORACLE
+
+MY_UNITS: {'Assimilator': 2, 'Pylon': 1}
+MINERALS: 2680
+GAS: 572
+Using policy: ORACLE
+
+MY_UNITS: {'Assimilator': 2}
+MINERALS: 2680
+GAS: 572
+Using policy: create_plan
