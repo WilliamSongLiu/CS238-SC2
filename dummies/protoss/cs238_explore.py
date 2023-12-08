@@ -99,13 +99,8 @@ class CS238Explore(KnowledgeBot):
     
     def trained_policy(self):
         def load_policy(file_path):
-            pol = {}
             with open(file_path, 'r') as file:
-                for line in file:
-                    data = json.loads(line)
-                    state_tuple = tuple(data['s'])
-                    pol[state_tuple] = data['a']
-            return pol
+                return json.load(file)
         
         def get_state():
             protoss_units = ['COLOSSUS', 'MOTHERSHIP', 'NEXUS', 'PYLON', 'ASSIMILATOR', 'GATEWAY', 'FORGE', 'FLEETBEACON', 'TWILIGHTCOUNCIL', 'PHOTONCANNON', 'STARGATE', 'TEMPLARARCHIVE', 'DARKSHRINE', 'ROBOTICSBAY', 'ROBOTICSFACILITY', 'CYBERNETICSCORE', 'ZEALOT', 'STALKER', 'HIGHTEMPLAR', 'DARKTEMPLAR', 'SENTRY', 'PHOENIX', 'CARRIER', 'VOIDRAY', 'WARPPRISM', 'OBSERVER', 'IMMORTAL', 'PROBE', 'INTERCEPTOR', 'WARPGATE', 'WARPPRISMPHASING', 'ARCHON', 'ADEPT', 'MOTHERSHIPCORE', 'ORACLE', 'TEMPEST', 'RESOURCEBLOCKER', 'ICEPROTOSSCRATES', 'PROTOSSCRATES', 'DISRUPTOR', 'VOIDMPIMMORTALREVIVECORPSE', 'ORACLESTASISTRAP', 'DISRUPTORPHASED', 'RELEASEINTERCEPTORSBEACON', 'ADEPTPHASESHIFT', 'REPLICANT', 'CORSAIRMP', 'SCOUTMP', 'ARBITERMP', 'PYLONOVERCHARGED', 'SHIELDBATTERY', 'OBSERVERSIEGEMODE', 'ASSIMILATORRICH']
@@ -115,18 +110,28 @@ class CS238Explore(KnowledgeBot):
                 my_units_caps[key.upper()] = value
             return tuple([0 if unit not in my_units_caps else my_units_caps[unit] for unit in protoss_units])
 
-        policy = load_policy(r"SARSA\policy\policy_178joined.jsonl")
+        def get_action(policy, state):
+            current_level = policy
+            for key in state:
+                if key in current_level:
+                    current_level = current_level[key]
+                else:
+                    return None
+            return current_level
+
+        policy = load_policy(r"SARSA\policy\policy_2.jsonl")
         state = get_state()
-        if state in policy:
+        action = get_action(policy, state)
+        if action:
             print("Found state in policy")
-            self.action = policy[state]
+            self.action = action
         else:
             print("State not found, resorting to random")
             self.random_policy()
     
     async def execute(self):
         super().execute()
-        self.random_policy()
+        self.trained_policy()
 
     def train_actions(self):
         return (
