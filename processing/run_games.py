@@ -1,11 +1,11 @@
 import os
 
 NUM_GAMES = 200
-OFFSET = 178 # Change this to equal how many games are in the "finished" directory
+OFFSET = 0 # Change this to equal how many games are in the "finished" directory
 MAP = "AncientCisternAIE"
 P1 = "explore"
 P2 = "ai.protoss.hard.random"
-OUTSTEM = "processing/raw_data/game"
+OUTSTEM = "processing/trained/raw_data/game"
 
 def main():
     """ Main entry point of the app """

@@ -19,6 +19,9 @@ class CS238Explore(KnowledgeBot):
         self.action = None
         self.action_unit_count = 0
         self.action_wanted_turns = 0
+
+        with open(r"SARSA\policy\policy_all_300.jsonl", 'r') as file:
+            self.policy = json.load(file)
     
     # This breaks everything
     # async def on_start(self):
@@ -98,10 +101,6 @@ class CS238Explore(KnowledgeBot):
         #     print(f"old action {self.action}")
     
     def trained_policy(self):
-        def load_policy(file_path):
-            with open(file_path, 'r') as file:
-                return json.load(file)
-        
         def get_state():
             protoss_units = ['COLOSSUS', 'MOTHERSHIP', 'NEXUS', 'PYLON', 'ASSIMILATOR', 'GATEWAY', 'FORGE', 'FLEETBEACON', 'TWILIGHTCOUNCIL', 'PHOTONCANNON', 'STARGATE', 'TEMPLARARCHIVE', 'DARKSHRINE', 'ROBOTICSBAY', 'ROBOTICSFACILITY', 'CYBERNETICSCORE', 'ZEALOT', 'STALKER', 'HIGHTEMPLAR', 'DARKTEMPLAR', 'SENTRY', 'PHOENIX', 'CARRIER', 'VOIDRAY', 'WARPPRISM', 'OBSERVER', 'IMMORTAL', 'PROBE', 'INTERCEPTOR', 'WARPGATE', 'WARPPRISMPHASING', 'ARCHON', 'ADEPT', 'MOTHERSHIPCORE', 'ORACLE', 'TEMPEST', 'RESOURCEBLOCKER', 'ICEPROTOSSCRATES', 'PROTOSSCRATES', 'DISRUPTOR', 'VOIDMPIMMORTALREVIVECORPSE', 'ORACLESTASISTRAP', 'DISRUPTORPHASED', 'RELEASEINTERCEPTORSBEACON', 'ADEPTPHASESHIFT', 'REPLICANT', 'CORSAIRMP', 'SCOUTMP', 'ARBITERMP', 'PYLONOVERCHARGED', 'SHIELDBATTERY', 'OBSERVERSIEGEMODE', 'ASSIMILATORRICH']
             my_units = self.unit_cache.get_my_units()
@@ -110,23 +109,22 @@ class CS238Explore(KnowledgeBot):
                 my_units_caps[key.upper()] = value
             return tuple(["0" if unit not in my_units_caps else str(my_units_caps[unit]) for unit in protoss_units])
 
-        def get_action(policy, state):
-            current_level = policy
+        def get_action(state):
+            current_level = self.policy
             for key in state:
                 if key in current_level:
                     current_level = current_level[key]
                 else:
                     return None
             return current_level
-
-        policy = load_policy(r"SARSA\policy\policy_2.jsonl")
+        
         state = get_state()
-        action = get_action(policy, state)
+        action = get_action(state)
         if action:
-            print("Found state in policy")
-            self.action = action
+            print(f"Using policy: {action}")
+            self.action = UnitTypeId[action]
         else:
-            print("State not found, resorting to random")
+            print("Not using policy")
             self.random_policy()
     
     async def execute(self):
